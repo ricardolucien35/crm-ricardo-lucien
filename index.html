@@ -603,9 +603,23 @@
     let currentView = 'pipeline';
     let editingId = null;
     let GITHUB_TOKEN = localStorage.getItem('github_token') || '';
-    const REPO_OWNER = 'michael9549';
-    const REPO_NAME = 'crm-data';
     const LEADS_FILE = 'leads.json';
+    
+    // Detect repo from current URL (e.g., jeffcasmer.github.io/crm-jeff-casmer)
+    function getRepoConfig() {
+      const hostname = window.location.hostname; // jeffcasmer.github.io
+      const path = window.location.pathname.split('/')[1]; // crm-jeff-casmer
+      
+      // Extract username from hostname (remove .github.io)
+      const username = hostname.replace('.github.io', '');
+      
+      return {
+        owner: username,
+        repo: path || 'crm-leads-app' // fallback for local testing
+      };
+    }
+    
+    const { owner: REPO_OWNER, repo: REPO_NAME } = getRepoConfig();
 
     // Initialize
     document.addEventListener('DOMContentLoaded', () => {
