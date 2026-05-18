@@ -199,7 +199,7 @@
 <body>
   <div class="header">
     <div class="container">
-      <h1>Ricardo Lucien - CRM Lead Management</h1>
+      <h1>Michael Martin - CRM Lead Management</h1>
       <div class="nav">
         <button class="nav-button active" data-view="pipeline">Master Pipeline</button>
         <button class="nav-button" data-view="followups">Follow-ups Due</button>
@@ -533,9 +533,9 @@
           <div class="form-group">
             <label class="form-label">Temperature</label>
             <select id="lead-temp" class="form-select">
-              <option>Hot</option>
-              <option>Warm</option>
               <option>Cold</option>
+              <option>Warm</option>
+              <option>Hot</option>
             </select>
           </div>
           <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 16px;">
@@ -1006,10 +1006,10 @@
       }
     }
 
-    // Team Dashboard Sync Config - Hardcoded for Ricardo Lucien
+    // Team Dashboard Sync Config - Hardcoded for Michael Martin
     const TEAM_DASHBOARD_CONFIG = {
       enabled: true,
-      builderName: 'Ricardo Lucien',
+      builderName: 'Michael Martin',
       dashboardRepo: 'michael9549/team-dashboard-data',
       dashboardToken: localStorage.getItem('github_token') || ''
     };
