@@ -548,6 +548,12 @@
               <input type="date" id="lead-last-contact" class="form-input">
             </div>
           </div>
+          <div class="form-group" id="customer-since-group" style="display: none;">
+            <label class="form-label">Customer Since</label>
+            <input type="date" id="lead-customer-since" class="form-input" readonly style="background: var(--gray-100);">
+          </div>
+          <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 16px;">
+          </div>
           <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 16px;">
             <div class="form-group">
               <label class="form-label">Next Follow-Up</label>
@@ -809,14 +815,17 @@
     }
 
     function getFilteredLeads() {
+      // Customers and IBOs should only appear in their respective tabs
+      const isClosed = (l) => l.status === 'Customer' || l.status === 'IBO';
+      
       switch (currentView) {
-        case 'hot': return leads.filter(l => l.temperature === 'Hot');
-        case 'followups': return leads.filter(l => isFollowUpDue(l.nextFollowUp));
+        case 'hot': return leads.filter(l => l.temperature === 'Hot' && !isClosed(l));
+        case 'followups': return leads.filter(l => isFollowUpDue(l.nextFollowUp) && !isClosed(l));
         case 'watched': return leads.filter(l => l.status === 'Watched');
         case 'customers': return leads.filter(l => l.status === 'Customer');
         case 'ibos': return leads.filter(l => l.status === 'IBO');
         case 'nurture': return leads.filter(l => l.status === 'Nurture');
-        default: return leads;
+        default: return leads.filter(l => !isClosed(l)); // Master Pipeline excludes Customers/IBOs
       }
     }
 
@@ -977,6 +986,17 @@
       document.getElementById('lead-last-contact').value = formatDateForInput(lead.lastContact);
       document.getElementById('lead-next-followup').value = formatDateForInput(lead.nextFollowUp);
       document.getElementById('lead-notes').value = lead.notes || '';
+      
+      // Show Customer Since field if lead is Customer or IBO
+      const customerSinceGroup = document.getElementById('customer-since-group');
+      const customerSinceInput = document.getElementById('lead-customer-since');
+      if (lead.status === 'Customer' || lead.status === 'IBO') {
+        customerSinceGroup.style.display = 'block';
+        customerSinceInput.value = formatDateForInput(lead.customerSince);
+      } else {
+        customerSinceGroup.style.display = 'none';
+      }
+      
       document.getElementById('modal').classList.remove('hidden');
     }
     
@@ -1032,6 +1052,8 @@
       e.preventDefault();
       
       const now = getTodayPacific();
+      const newStatus = document.getElementById('lead-status').value;
+      
       const leadData = {
         id: editingId || Date.now().toString(36) + Math.random().toString(36).substr(2),
         name: document.getElementById('lead-name').value,
@@ -1039,7 +1061,7 @@
         phone: document.getElementById('lead-phone').value,
         social: document.getElementById('lead-social').value,
         source: document.getElementById('lead-source').value,
-        status: document.getElementById('lead-status').value,
+        status: newStatus,
         temperature: document.getElementById('lead-temp').value,
         lastAction: document.getElementById('lead-last-action').value,
         lastContact: document.getElementById('lead-last-contact').value || null,
@@ -1050,9 +1072,24 @@
 
       if (editingId) {
         const idx = leads.findIndex(l => l.id === editingId);
-        leads[idx] = { ...leads[idx], ...leadData };
+        const oldLead = leads[idx];
+        
+        // Check if status changed to Customer/IBO - set customerSince date
+        if ((newStatus === 'Customer' || newStatus === 'IBO') && 
+            oldLead.status !== 'Customer' && oldLead.status !== 'IBO') {
+          leadData.customerSince = now;
+        } else if (oldLead.customerSince) {
+          // Preserve existing customerSince date
+          leadData.customerSince = oldLead.customerSince;
+        }
+        
+        leads[idx] = { ...oldLead, ...leadData };
       } else {
-        // For new leads, use the dates from the form (user already set them)
+        // For new leads, check if initial status is Customer/IBO
+        if (newStatus === 'Customer' || newStatus === 'IBO') {
+          leadData.customerSince = now;
+        }
+        
         leads.push({
           ...leadData,
           dateAdded: now
