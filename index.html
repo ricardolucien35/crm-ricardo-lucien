@@ -211,7 +211,8 @@
         <button class="nav-button" data-view="hot">Hot Leads</button>
         <button class="nav-button" data-view="customers">Customers</button>
         <button class="nav-button" data-view="ibos">IBOs</button>
-        <button class="nav-button" data-view="scripts">Scripts</button>
+        <button class="nav-button" data-view="training">Training</button>
+        <button class="nav-button" data-view="message-scripts">Message Scripts</button>
         <button class="nav-button" data-view="metrics">Metrics</button>
         
       </div>
@@ -864,14 +865,21 @@
       // Hide all views first
       document.getElementById('metrics-view').classList.add('hidden');
       document.getElementById('leads-view').classList.add('hidden');
-      const scriptsView = document.getElementById('scripts-view');
-      if (scriptsView) scriptsView.classList.add('hidden');
+      const trainingView = document.getElementById('scripts-view');
+      if (trainingView) trainingView.classList.add('hidden');
+      const scriptsManagerView = document.getElementById('scripts-manager-view');
+      if (scriptsManagerView) scriptsManagerView.classList.add('hidden');
 
       if (currentView === 'metrics') {
         document.getElementById('metrics-view').classList.remove('hidden');
         renderMetrics();
-      } else if (currentView === 'scripts') {
-        if (scriptsView) scriptsView.classList.remove('hidden');
+      } else if (currentView === 'training') {
+        if (trainingView) trainingView.classList.remove('hidden');
+      } else if (currentView === 'message-scripts') {
+        if (scriptsManagerView) {
+          scriptsManagerView.classList.remove('hidden');
+          renderScriptsManager();
+        }
       } else {
         document.getElementById('leads-view').classList.remove('hidden');
         renderLeadsTable();
@@ -965,6 +973,7 @@
             }
           </td>
           <td>
+            <button class="action-button" onclick="openScriptsModal('${lead.id}')" style="margin-right: 8px; background: #8b5cf6;">Scripts</button>
             <button class="action-button" onclick="openEditModal('${lead.id}')" style="margin-right: 8px;">Edit</button>
             <button class="action-button" onclick="confirmDelete('${lead.id}')" style="background: var(--danger);">Delete</button>
           </td>
@@ -1149,6 +1158,302 @@
       }
     }
 
+    // Scripts functionality
+    let messageScripts = [];
+    let currentScriptLead = null;
+
+    // Default scripts
+    const defaultScripts = [
+      {
+        id: 'initial-1',
+        category: 'Initial Outreach',
+        name: 'Generic Cold DM',
+        content: "Hey {{firstName}}, I know we don't know each other, but I came across your profile and wanted to reach out. Not sure if you'd be open to it, but we're expanding and connecting with people interested in creating an additional income stream online."
+      },
+      {
+        id: 'initial-2',
+        category: 'Initial Outreach',
+        name: 'Location Based',
+        content: "Hey {{firstName}}, I know we don't know each other, but I saw you're in [City]. We're expanding there right now and helping people create an extra income stream from home. If you're open to taking a quick look, cool. If not, no worries."
+      },
+      {
+        id: 'followup-1',
+        category: 'Follow-Up',
+        name: 'Follow-Up #1',
+        content: "Hey {{firstName}}, just wanted to circle back and see if you were open to learning more."
+      },
+      {
+        id: 'followup-2',
+        category: 'Follow-Up',
+        name: 'Follow-Up #2',
+        content: "Hey {{firstName}}, haven't heard back from you yet. Totally okay either way — just wanted to follow up before I closed the loop on my end."
+      },
+      {
+        id: 'followup-3',
+        category: 'Follow-Up',
+        name: 'Follow-Up #3',
+        content: "No worries at all {{firstName}}. I've got some people moving forward so I need to prioritize my time, but if timing changes later feel free to reach back out."
+      },
+      {
+        id: 'presentation-1',
+        category: 'Presentation Follow-Up',
+        name: 'After They Watch',
+        content: "Hey {{firstName}}, awesome. What did you like best?"
+      },
+      {
+        id: 'presentation-2',
+        category: 'Presentation Follow-Up',
+        name: 'No Watch Follow-Up',
+        content: "Hey {{firstName}}, just checking in — did you get a chance to watch it yet?"
+      },
+      {
+        id: 'closing-1',
+        category: 'Closing',
+        name: 'Ready to Start',
+        content: "Sounds to me like you're ready to get started {{firstName}}."
+      }
+    ];
+
+    function getFirstName(fullName) {
+      if (!fullName) return '';
+      return fullName.split(' ')[0];
+    }
+
+    function loadScripts() {
+      // Load from localStorage or use defaults
+      const saved = localStorage.getItem('messageScripts');
+      if (saved) {
+        messageScripts = JSON.parse(saved);
+      } else {
+        messageScripts = [...defaultScripts];
+        saveScripts();
+      }
+    }
+
+    function saveScripts() {
+      localStorage.setItem('messageScripts', JSON.stringify(messageScripts));
+    }
+
+    function openScriptsModal(leadId) {
+      currentScriptLead = leads.find(l => l.id === leadId);
+      if (!currentScriptLead) return;
+      
+      loadScripts();
+      renderScriptsModal();
+      document.getElementById('scripts-modal').classList.remove('hidden');
+    }
+
+    function renderScriptsModal() {
+      const firstName = getFirstName(currentScriptLead.name);
+      const categories = [...new Set(messageScripts.map(s => s.category))];
+      
+      let html = `
+        <div style="margin-bottom: 20px; padding-bottom: 15px; border-bottom: 2px solid var(--gray-200);">
+          <h3 style="margin: 0;">Message Scripts for ${currentScriptLead.name}</h3>
+          <p style="color: var(--gray-500); margin: 8px 0 0 0; font-size: 14px;">First name will be inserted where you see {{firstName}}</p>
+        </div>
+      `;
+      
+      categories.forEach(category => {
+        const categoryScripts = messageScripts.filter(s => s.category === category);
+        html += `
+          <div style="margin-bottom: 24px;">
+            <h4 style="color: var(--primary); margin: 0 0 12px 0; font-size: 16px;">${category}</h4>
+            <div style="display: grid; gap: 12px;">
+        `;
+        
+        categoryScripts.forEach(script => {
+          const processedContent = script.content.replace(/\{\{firstName\}\}/g, firstName);
+          html += `
+            <div style="background: var(--gray-50); padding: 16px; border-radius: 8px; border: 1px solid var(--gray-200);">
+              <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+                <strong style="font-size: 14px;">${script.name}</strong>
+                <button onclick="copyScript('${script.id}')" class="button button-primary" style="padding: 6px 12px; font-size: 12px;">📋 Copy</button>
+              </div>
+              <div style="font-size: 13px; color: var(--gray-600); line-height: 1.5; white-space: pre-wrap;" id="script-${script.id}">${processedContent}</div>
+            </div>
+          `;
+        });
+        
+        html += `</div></div>`;
+      });
+      
+      document.getElementById('scripts-modal-body').innerHTML = html;
+    }
+
+    function copyScript(scriptId) {
+      const firstName = getFirstName(currentScriptLead.name);
+      const script = messageScripts.find(s => s.id === scriptId);
+      if (!script) return;
+      
+      const processedContent = script.content.replace(/\{\{firstName\}\}/g, firstName);
+      
+      navigator.clipboard.writeText(processedContent).then(() => {
+        showToast('Script copied to clipboard!');
+      }).catch(() => {
+        // Fallback for older browsers
+        const textarea = document.createElement('textarea');
+        textarea.value = processedContent;
+        document.body.appendChild(textarea);
+        textarea.select();
+        document.execCommand('copy');
+        document.body.removeChild(textarea);
+        showToast('Script copied to clipboard!');
+      });
+    }
+
+    function showToast(message) {
+      const toast = document.createElement('div');
+      toast.style.cssText = `
+        position: fixed;
+        bottom: 20px;
+        right: 20px;
+        background: var(--success);
+        color: white;
+        padding: 12px 20px;
+        border-radius: 6px;
+        box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        z-index: 10000;
+        font-size: 14px;
+      `;
+      toast.textContent = message;
+      document.body.appendChild(toast);
+      setTimeout(() => {
+        document.body.removeChild(toast);
+      }, 3000);
+    }
+
+    function closeScriptsModal() {
+      document.getElementById('scripts-modal').classList.add('hidden');
+      currentScriptLead = null;
+    }
+
+    // Scripts Management Tab
+    function renderScriptsManager() {
+      loadScripts();
+      const categories = [...new Set(messageScripts.map(s => s.category))];
+      
+      let html = `
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
+          <h2 style="margin: 0;">Message Scripts Manager</h2>
+          <button onclick="openAddScriptModal()" class="button button-primary">+ Add New Script</button>
+        </div>
+      `;
+      
+      if (messageScripts.length === 0) {
+        html += `<p style="color: var(--gray-500);">No scripts yet. Click "Add New Script" to create one.</p>`;
+      } else {
+        categories.forEach(category => {
+          const categoryScripts = messageScripts.filter(s => s.category === category);
+          html += `
+            <div class="card" style="margin-bottom: 16px;">
+              <h3 style="color: var(--primary); margin: 0 0 16px 0;">${category}</h3>
+              <div style="display: grid; gap: 12px;">
+          `;
+          
+          categoryScripts.forEach(script => {
+            html += `
+              <div style="background: var(--gray-50); padding: 16px; border-radius: 6px; border: 1px solid var(--gray-200);">
+                <div style="display: flex; justify-content: space-between; align-items: start; margin-bottom: 8px;">
+                  <strong>${script.name}</strong>
+                  <div>
+                    <button onclick="editScript('${script.id}')" class="button button-secondary" style="padding: 4px 8px; font-size: 12px; margin-right: 8px;">Edit</button>
+                    <button onclick="deleteScript('${script.id}')" class="button button-danger" style="padding: 4px 8px; font-size: 12px;">Delete</button>
+                  </div>
+                </div>
+                <div style="font-size: 13px; color: var(--gray-600); white-space: pre-wrap;">${script.content}</div>
+              </div>
+            `;
+          });
+          
+          html += `</div></div>`;
+        });
+      }
+      
+      document.getElementById('scripts-manager-view').innerHTML = html;
+    }
+
+    function openAddScriptModal() {
+      document.getElementById('script-form').reset();
+      document.getElementById('script-modal-title').textContent = 'Add New Script';
+      document.getElementById('script-id').value = '';
+      document.getElementById('script-modal').classList.remove('hidden');
+    }
+
+    function editScript(scriptId) {
+      const script = messageScripts.find(s => s.id === scriptId);
+      if (!script) return;
+      
+      document.getElementById('script-modal-title').textContent = 'Edit Script';
+      document.getElementById('script-id').value = script.id;
+      document.getElementById('script-category').value = script.category;
+      document.getElementById('script-name').value = script.name;
+      document.getElementById('script-content').value = script.content;
+      document.getElementById('script-modal').classList.remove('hidden');
+    }
+
+    function deleteScript(scriptId) {
+      if (!confirm('Are you sure you want to delete this script?')) return;
+      
+      messageScripts = messageScripts.filter(s => s.id !== scriptId);
+      saveScripts();
+      renderScriptsManager();
+    }
+
+    function saveScriptForm(e) {
+      e.preventDefault();
+      
+      const id = document.getElementById('script-id').value;
+      const category = document.getElementById('script-category').value;
+      const name = document.getElementById('script-name').value;
+      const content = document.getElementById('script-content').value;
+      
+      if (id) {
+        // Edit existing
+        const idx = messageScripts.findIndex(s => s.id === id);
+        if (idx !== -1) {
+          messageScripts[idx] = { ...messageScripts[idx], category, name, content };
+        }
+      } else {
+        // Add new
+        messageScripts.push({
+          id: Date.now().toString(),
+          category,
+          name,
+          content
+        });
+      }
+      
+      saveScripts();
+      closeScriptFormModal();
+      renderScriptsManager();
+    }
+
+    function closeScriptFormModal() {
+      document.getElementById('script-modal').classList.add('hidden');
+    }
+
+    function insertFirstNameToken() {
+      const textarea = document.getElementById('script-content');
+      const token = '{{firstName}}';
+      
+      // Get cursor position
+      const start = textarea.selectionStart;
+      const end = textarea.selectionEnd;
+      const text = textarea.value;
+      
+      // Insert token at cursor position
+      const before = text.substring(0, start);
+      const after = text.substring(end, text.length);
+      textarea.value = before + token + after;
+      
+      // Move cursor after the inserted token
+      textarea.selectionStart = textarea.selectionEnd = start + token.length;
+      
+      // Focus back on textarea
+      textarea.focus();
+    }
+
     // Search functionality
     function clearSearch() {
       const searchInput = document.getElementById('lead-search');
@@ -1173,5 +1478,66 @@
       }
     });
   </script>
+
+  <!-- Scripts Modal -->
+  <div id="scripts-modal" class="modal-overlay hidden" onclick="if(event.target.id === 'scripts-modal') closeScriptsModal()">
+    <div class="modal" style="max-width: 700px; max-height: 80vh;">
+      <div class="modal-header">
+        <h3 style="margin: 0;">Message Scripts</h3>
+        <button onclick="closeScriptsModal()" class="button button-secondary" style="padding: 6px 12px;">✕</button>
+      </div>
+      <div class="modal-body" id="scripts-modal-body" style="overflow-y: auto; max-height: 60vh;">
+        <!-- Scripts will be rendered here -->
+      </div>
+      <div class="modal-footer">
+        <button onclick="closeScriptsModal()" class="button button-secondary">Close</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Script Form Modal (for adding/editing scripts) -->
+  <div id="script-modal" class="modal-overlay hidden" onclick="if(event.target.id === 'script-modal') closeScriptFormModal()">
+    <div class="modal" style="max-width: 600px;">
+      <div class="modal-header">
+        <h3 id="script-modal-title" style="margin: 0;">Add New Script</h3>
+        <button onclick="closeScriptFormModal()" class="button button-secondary" style="padding: 6px 12px;">✕</button>
+      </div>
+      <div class="modal-body">
+        <form id="script-form" onsubmit="saveScriptForm(event)">
+          <input type="hidden" id="script-id">
+          <div class="form-group">
+            <label class="form-label">Category</label>
+            <select id="script-category" class="form-select" required>
+              <option value="Initial Outreach">Initial Outreach</option>
+              <option value="Follow-Up">Follow-Up</option>
+              <option value="Presentation Follow-Up">Presentation Follow-Up</option>
+              <option value="Closing">Closing</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label class="form-label">Script Name</label>
+            <input type="text" id="script-name" class="form-input" placeholder="e.g., Generic Cold DM" required>
+          </div>
+          <div class="form-group">
+            <label class="form-label">Script Content</label>
+            <textarea id="script-content" class="form-textarea" rows="6" placeholder="Use {{firstName}} where you want the person's first name to appear..." required></textarea>
+            <div style="margin-top: 8px;">
+              <button type="button" onclick="insertFirstNameToken()" class="button button-secondary" style="font-size: 12px; padding: 6px 12px;">➕ Insert {{firstName}}</button>
+              <small style="color: var(--gray-500); margin-left: 8px;">Click to insert first name token at cursor position</small>
+            </div>
+          </div>
+          <div class="modal-footer" style="padding: 16px 0 0 0; border-top: 1px solid var(--gray-200);">
+            <button type="button" onclick="closeScriptFormModal()" class="button button-secondary">Cancel</button>
+            <button type="submit" class="button button-primary">Save Script</button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+
+  <!-- Scripts Manager View -->
+  <div id="scripts-manager-view" class="hidden" style="padding: 20px;">
+    <!-- Scripts manager content will be rendered here -->
+  </div>
 </body>
 </html>
