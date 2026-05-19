@@ -335,7 +335,23 @@
       "notes": "",
       "lastModified": "2026-05-18",
       "dateAdded": "2026-05-18"
+    },
+    {
+      "id": "mpbw7phx1p32ov4o9ka",
+      "name": "Justin Highfill",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1RQieojpk8/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-18",
+      "nextFollowUp": "2026-05-23",
+      "notes": "",
+      "lastModified": "2026-05-18",
+      "dateAdded": "2026-05-18"
     }
   ],
-  "lastUpdated": "2026-05-19T00:25:50.766Z"
+  "lastUpdated": "2026-05-19T00:26:43.797Z"
 }
