@@ -431,7 +431,23 @@
       "notes": "",
       "lastModified": "2026-05-18",
       "dateAdded": "2026-05-18"
+    },
+    {
+      "id": "mpbwhxhwir2yaurbm9",
+      "name": "Taylor Hood",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1DzrL2AusB/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-18",
+      "nextFollowUp": "2026-05-23",
+      "notes": "",
+      "lastModified": "2026-05-18",
+      "dateAdded": "2026-05-18"
     }
   ],
-  "lastUpdated": "2026-05-19T00:33:45.502Z"
+  "lastUpdated": "2026-05-19T00:34:40.724Z"
 }
