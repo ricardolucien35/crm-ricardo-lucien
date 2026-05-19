@@ -489,7 +489,7 @@
       "source": "Other",
       "status": "Watched",
       "temperature": "Hot",
-      "lastAction": "Initial Contact",
+      "lastAction": "Scheduled Call",
       "lastContact": "2026-05-19",
       "nextFollowUp": "2026-05-21",
       "notes": "",
@@ -513,5 +513,5 @@
       "dateAdded": "2026-05-19"
     }
   ],
-  "lastUpdated": "2026-05-19T22:56:58.378Z"
+  "lastUpdated": "2026-05-19T22:57:53.387Z"
 }
