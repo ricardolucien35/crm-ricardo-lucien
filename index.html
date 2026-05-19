@@ -272,6 +272,14 @@
           <button id="add-lead-btn" class="button button-primary" onclick="openAddModal()">+ Add Lead</button>
         </div>
 
+        <div id="search-container" class="card" style="padding: 12px 20px; margin-bottom: 16px;">
+          <div style="display: flex; gap: 12px; align-items: center;">
+            <span style="color: var(--gray-500); font-size: 14px;">🔍</span>
+            <input type="text" id="lead-search" class="form-input" placeholder="Search leads by name..." style="flex: 1; border: none; background: transparent; padding: 0;">
+            <button id="clear-search" class="button button-secondary" onclick="clearSearch()" style="padding: 6px 12px; font-size: 12px; display: none;">Clear</button>
+          </div>
+        </div>
+
         <div id="empty-state" class="card empty-state hidden">
           <p>No leads found in this view.</p>
           <button id="empty-add-btn" class="button button-primary" onclick="openAddModal()" style="margin-top: 16px;">Add Your First Lead</button>
@@ -888,7 +896,14 @@
     }
 
     function renderLeadsTable() {
-      const filtered = getFilteredLeads();
+      let filtered = getFilteredLeads();
+      
+      // Apply search filter if search term exists
+      const searchTerm = document.getElementById('lead-search')?.value?.toLowerCase().trim();
+      if (searchTerm) {
+        filtered = filtered.filter(l => l.name.toLowerCase().includes(searchTerm));
+      }
+      
       const titles = {
         pipeline: 'Master Pipeline',
         hot: 'Hot Leads',
@@ -1127,6 +1142,30 @@
         }
       }
     }
+
+    // Search functionality
+    function clearSearch() {
+      const searchInput = document.getElementById('lead-search');
+      if (searchInput) {
+        searchInput.value = '';
+        document.getElementById('clear-search').style.display = 'none';
+        renderLeadsTable();
+      }
+    }
+
+    // Initialize search listener after DOM loads
+    document.addEventListener('DOMContentLoaded', function() {
+      const searchInput = document.getElementById('lead-search');
+      const clearBtn = document.getElementById('clear-search');
+      
+      if (searchInput) {
+        searchInput.addEventListener('input', function(e) {
+          const hasValue = e.target.value.trim().length > 0;
+          if (clearBtn) clearBtn.style.display = hasValue ? 'inline-block' : 'none';
+          renderLeadsTable();
+        });
+      }
+    });
   </script>
 </body>
 </html>
