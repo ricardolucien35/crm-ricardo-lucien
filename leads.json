@@ -2,7 +2,7 @@
   "leads": [
     {
       "id": "mpbv8v57ep3kxr2ihe",
-      "name": "Big Deuce",
+      "name": "Deuce johnson",
       "email": "",
       "phone": "",
       "social": "https://www.instagram.com/deuce.lcp?igsh=b3ByZWZ1cTBqeDNl",
@@ -13,7 +13,7 @@
       "lastContact": "2026-05-18",
       "nextFollowUp": "2026-05-19",
       "notes": "1-1 already scheduled for May 19th",
-      "lastModified": "2026-05-18",
+      "lastModified": "2026-05-19",
       "dateAdded": "2026-05-18"
     },
     {
@@ -513,5 +513,5 @@
       "dateAdded": "2026-05-19"
     }
   ],
-  "lastUpdated": "2026-05-19T22:51:54.526Z"
+  "lastUpdated": "2026-05-19T22:52:58.890Z"
 }
