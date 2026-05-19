@@ -199,7 +199,7 @@
 <body>
   <div class="header">
     <div class="container">
-      <h1>Ricardo Lucien - CRM Lead Management</h1>
+      <h1>Michael Martin - CRM Lead Management</h1>
       <div class="nav">
         <button class="nav-button active" data-view="pipeline">Master Pipeline</button>
         <button class="nav-button" data-view="followups">Follow-ups Due</button>
@@ -250,6 +250,10 @@
           <div class="stat-card">
             <div class="stat-value" id="stat-new">0</div>
             <div class="stat-label">New This Week</div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-value" id="stat-new-today" style="color: #10b981;">0</div>
+            <div class="stat-label">New Today</div>
           </div>
         </div>
         <div class="card">
@@ -837,7 +841,9 @@
       const weekAgo = new Date();
       weekAgo.setDate(weekAgo.getDate() - 7);
       const newThisWeek = leads.filter(l => new Date(l.dateAdded) >= weekAgo).length;
-      return { total, hot, due, overdue, newThisWeek };
+      const today = getTodayPacific();
+      const newToday = leads.filter(l => l.dateAdded === today).length;
+      return { total, hot, due, overdue, newThisWeek, newToday };
     }
 
     function renderView() {
@@ -866,6 +872,7 @@
       document.getElementById('stat-due').textContent = stats.due;
       document.getElementById('stat-overdue').textContent = stats.overdue;
       document.getElementById('stat-new').textContent = stats.newThisWeek;
+      document.getElementById('stat-new-today').textContent = stats.newToday;
 
       const statuses = ['New Lead', 'Prospect', 'Watched', 'Sent Video', 'Customer', 'IBO', 'Nurture'];
       document.getElementById('status-breakdown').innerHTML = statuses.map(s => {
