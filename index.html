@@ -539,6 +539,7 @@
                 <option>Customer</option>
                 <option>IBO</option>
                 <option>Nurture</option>
+                <option>Not Interested</option>
               </select>
             </div>
           </div>
@@ -827,17 +828,18 @@
     }
 
     function getFilteredLeads() {
-      // Customers and IBOs should only appear in their respective tabs
+      // Customers, IBOs, and Not Interested should only appear in their respective tabs
       const isClosed = (l) => l.status === 'Customer' || l.status === 'IBO';
+      const isNotInterested = (l) => l.status === 'Not Interested';
       
       switch (currentView) {
-        case 'hot': return leads.filter(l => l.temperature === 'Hot' && !isClosed(l));
-        case 'followups': return leads.filter(l => isFollowUpDue(l.nextFollowUp) && !isClosed(l));
+        case 'hot': return leads.filter(l => l.temperature === 'Hot' && !isClosed(l) && !isNotInterested(l));
+        case 'followups': return leads.filter(l => isFollowUpDue(l.nextFollowUp) && !isClosed(l) && !isNotInterested(l));
         case 'watched': return leads.filter(l => l.status === 'Watched');
         case 'customers': return leads.filter(l => l.status === 'Customer');
         case 'ibos': return leads.filter(l => l.status === 'IBO');
         case 'nurture': return leads.filter(l => l.status === 'Nurture');
-        default: return leads.filter(l => !isClosed(l)); // Master Pipeline excludes Customers/IBOs
+        default: return leads.filter(l => !isClosed(l)); // Master Pipeline excludes Customers/IBOs but shows Not Interested
       }
     }
 
@@ -882,7 +884,7 @@
       document.getElementById('stat-new').textContent = stats.newThisWeek;
       document.getElementById('stat-new-today').textContent = stats.newToday;
 
-      const statuses = ['New Lead', 'Prospect', 'Watched', 'Sent Video', 'Customer', 'IBO', 'Nurture'];
+      const statuses = ['New Lead', 'Prospect', 'Watched', 'Sent Video', 'Customer', 'IBO', 'Nurture', 'Not Interested'];
       document.getElementById('status-breakdown').innerHTML = statuses.map(s => {
         const count = leads.filter(l => l.status === s).length;
         return `<div style="display: flex; justify-content: space-between; padding: 8px 0; border-bottom: 1px solid var(--gray-200);"><span>${s}</span><span style="font-weight: 600;">${count}</span></div>`;
@@ -975,7 +977,8 @@
         'Prospect': '#f59e0b',
         'Customer': '#10b981',
         'IBO': '#8b5cf6',
-        'Nurture': '#06b6d4'
+        'Nurture': '#06b6d4',
+        'Not Interested': '#9ca3af'
       };
       return colors[status] || '#6b7280';
     }
