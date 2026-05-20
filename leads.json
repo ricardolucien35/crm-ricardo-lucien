@@ -655,7 +655,23 @@
       "notes": "",
       "lastModified": "2026-05-19",
       "dateAdded": "2026-05-19"
+    },
+    {
+      "id": "mpdjh0f3ellfh4serch",
+      "name": "Olivia Hayes",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/18WswRy4qx/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-19",
+      "nextFollowUp": "2026-05-24",
+      "notes": "",
+      "lastModified": "2026-05-19",
+      "dateAdded": "2026-05-19"
     }
   ],
-  "lastUpdated": "2026-05-20T04:04:30.831Z"
+  "lastUpdated": "2026-05-20T04:05:35.200Z"
 }
