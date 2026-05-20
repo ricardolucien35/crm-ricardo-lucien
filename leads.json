@@ -818,7 +818,7 @@
     },
     {
       "id": "mpecdeifp8erhcy8hk",
-      "name": "Bléu",
+      "name": "BlÃ©u",
       "email": "",
       "phone": "",
       "social": "https://www.instagram.com/sonovableu?igsh=djRiOGg1NWQwejlv",
@@ -866,7 +866,7 @@
     },
     {
       "id": "mpeex69n4lv7mtmcags",
-      "name": "Jose Pe�a",
+      "name": "Jose Peña",
       "email": "",
       "phone": "(786) 597-3570",
       "social": "",
@@ -879,7 +879,23 @@
       "notes": "",
       "lastModified": "2026-05-20",
       "dateAdded": "2026-05-20"
+    },
+    {
+      "id": "mpeoxmrktukakebtrz",
+      "name": "Natalia Plata",
+      "email": "",
+      "phone": "",
+      "social": "https://www.instagram.com/iamnatemx?igsh=MnE1aTY5NmtpYmsz",
+      "source": "Instagram",
+      "status": "Watched",
+      "temperature": "Warm",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-20",
+      "nextFollowUp": "2026-05-25",
+      "notes": "",
+      "lastModified": "2026-05-20",
+      "dateAdded": "2026-05-20"
     }
   ],
-  "lastUpdated": "2026-05-20T18:45:57.371Z"
+  "lastUpdated": "2026-05-20T23:26:14.912Z"
 }
