@@ -1003,6 +1003,8 @@
       // Auto-set Last Contact to today (assumption: you're adding them because you just contacted them)
       document.getElementById('lead-last-contact').value = getTodayPacific();
       document.getElementById('modal').classList.remove('hidden');
+      // Scroll modal body to top
+      document.querySelector('.modal-body').scrollTop = 0;
     }
 
     function openEditModal(id) {
@@ -1035,6 +1037,8 @@
       }
       
       document.getElementById('modal').classList.remove('hidden');
+      // Scroll modal body to top
+      document.querySelector('.modal-body').scrollTop = 0;
     }
     
     function getTodayPacific() {
