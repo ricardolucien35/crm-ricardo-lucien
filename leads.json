@@ -735,7 +735,23 @@
       "notes": "",
       "lastModified": "2026-05-19",
       "dateAdded": "2026-05-19"
+    },
+    {
+      "id": "mpec51d55274oa6rvrx",
+      "name": "Marie",
+      "email": "",
+      "phone": "",
+      "social": "https://www.instagram.com/lifewithissmarie?igsh=eW9nOTl4Y3h1bGRk",
+      "source": "Instagram",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-20",
+      "nextFollowUp": "2026-05-25",
+      "notes": "",
+      "lastModified": "2026-05-20",
+      "dateAdded": "2026-05-20"
     }
   ],
-  "lastUpdated": "2026-05-20T04:09:22.150Z"
+  "lastUpdated": "2026-05-20T17:28:05.418Z"
 }
