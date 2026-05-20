@@ -1126,6 +1126,11 @@
           leadData.customerSince = oldLead.customerSince;
         }
         
+        // If status changed to Not Interested, clear the follow-up date
+        if (newStatus === 'Not Interested' && oldLead.status !== 'Not Interested') {
+          leadData.nextFollowUp = null;
+        }
+        
         leads[idx] = { ...oldLead, ...leadData };
       } else {
         // For new leads, check if initial status is Customer/IBO
