@@ -912,8 +912,15 @@
     function renderLeadsTable() {
       let filtered = getFilteredLeads();
       
-      // Sort by dateAdded descending (newest first)
-      filtered.sort((a, b) => new Date(b.dateAdded || b.created) - new Date(a.dateAdded || a.created));
+      // Sort by dateAdded descending, then by addedAt timestamp for same-day leads
+      filtered.sort((a, b) => {
+        const dateCompare = new Date(b.dateAdded || b.created) - new Date(a.dateAdded || a.created);
+        if (dateCompare !== 0) return dateCompare;
+        // If same date, sort by addedAt timestamp (newest first)
+        const aTime = a.addedAt ? new Date(a.addedAt).getTime() : 0;
+        const bTime = b.addedAt ? new Date(b.addedAt).getTime() : 0;
+        return bTime - aTime;
+      });
       
       // Apply search filter if search term exists
       const searchTerm = document.getElementById('lead-search')?.value?.toLowerCase().trim();
@@ -1143,7 +1150,8 @@
         
         leads.push({
           ...leadData,
-          dateAdded: now
+          dateAdded: now,
+          addedAt: new Date().toISOString()
         });
       }
 
