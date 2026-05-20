@@ -1141,6 +1141,10 @@
           leadData.nextFollowUp = null;
         }
         
+        // Preserve original dateAdded and addedAt on edit
+        leadData.dateAdded = oldLead.dateAdded;
+        leadData.addedAt = oldLead.addedAt;
+        
         leads[idx] = { ...oldLead, ...leadData };
       } else {
         // For new leads, check if initial status is Customer/IBO
