@@ -703,7 +703,23 @@
       "notes": "",
       "lastModified": "2026-05-19",
       "dateAdded": "2026-05-19"
+    },
+    {
+      "id": "mpdjkjh1xbng53b28kc",
+      "name": "Bryant Madden",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/14f9iUekPHa/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-19",
+      "nextFollowUp": "2026-05-24",
+      "notes": "",
+      "lastModified": "2026-05-19",
+      "dateAdded": "2026-05-19"
     }
   ],
-  "lastUpdated": "2026-05-20T04:07:20.190Z"
+  "lastUpdated": "2026-05-20T04:08:19.861Z"
 }
