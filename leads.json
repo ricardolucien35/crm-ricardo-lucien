@@ -639,7 +639,23 @@
       "notes": "",
       "lastModified": "2026-05-19",
       "dateAdded": "2026-05-19"
+    },
+    {
+      "id": "mpdjfmr34nwaqye3cxi",
+      "name": "Sam Belcher",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1BCTr9Hqi9/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-19",
+      "nextFollowUp": "2026-05-24",
+      "notes": "",
+      "lastModified": "2026-05-19",
+      "dateAdded": "2026-05-19"
     }
   ],
-  "lastUpdated": "2026-05-20T04:03:26.707Z"
+  "lastUpdated": "2026-05-20T04:04:30.831Z"
 }
