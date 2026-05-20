@@ -591,7 +591,23 @@
       "notes": "",
       "lastModified": "2026-05-19",
       "dateAdded": "2026-05-19"
+    },
+    {
+      "id": "mpdjc17lo7wt7ur8tim",
+      "name": "Sam Manwarren",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1AugenFAYx/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-19",
+      "nextFollowUp": "2026-05-24",
+      "notes": "",
+      "lastModified": "2026-05-19",
+      "dateAdded": "2026-05-19"
     }
   ],
-  "lastUpdated": "2026-05-20T04:00:16.576Z"
+  "lastUpdated": "2026-05-20T04:01:42.946Z"
 }
