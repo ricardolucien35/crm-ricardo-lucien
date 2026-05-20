@@ -818,7 +818,7 @@
     },
     {
       "id": "mpecdeifp8erhcy8hk",
-      "name": "Bléu",
+      "name": "BlÃ©u",
       "email": "",
       "phone": "",
       "social": "https://www.instagram.com/sonovableu?igsh=djRiOGg1NWQwejlv",
@@ -847,7 +847,23 @@
       "notes": "",
       "lastModified": "2026-05-20",
       "dateAdded": "2026-05-20"
+    },
+    {
+      "id": "mpeeu3abaj9oy4y46co",
+      "name": "Roman Katz",
+      "email": "",
+      "phone": "",
+      "social": "https://www.instagram.com/romankatzre?igsh=NHh4a3RoNTNwZGFn",
+      "source": "Instagram",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Not Interested",
+      "lastContact": "2026-05-20",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-05-20",
+      "dateAdded": "2026-05-20"
     }
   ],
-  "lastUpdated": "2026-05-20T17:36:19.123Z"
+  "lastUpdated": "2026-05-20T18:43:33.540Z"
 }
