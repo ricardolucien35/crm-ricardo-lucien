@@ -206,7 +206,7 @@
       <div class="nav" style="margin-top: 16px;">
         <button class="nav-button active" data-view="pipeline">Master Pipeline</button>
         <button class="nav-button" data-view="followups">Follow-ups Due</button>
-        <button class="nav-button" data-view="watched">Watched Not Closed</button>
+        <button class="nav-button" data-view="actions">Actions</button>
         <button class="nav-button" data-view="nurture">Nurture</button>
         <button class="nav-button" data-view="hot">Hot Leads</button>
         <button class="nav-button" data-view="customers">Customers</button>
@@ -840,7 +840,7 @@
       switch (currentView) {
         case 'hot': return leads.filter(l => l.temperature === 'Hot' && !isClosed(l) && !isNotInterested(l));
         case 'followups': return leads.filter(l => isFollowUpDue(l.nextFollowUp) && !isClosed(l) && !isNotInterested(l));
-        case 'watched': return leads.filter(l => l.status === 'Watched');
+        case 'actions': return leads.filter(l => l.status === 'Watched' || l.status === 'Sent Video' || l.status === '2WT');
         case 'customers': return leads.filter(l => l.status === 'Customer');
         case 'ibos': return leads.filter(l => l.status === 'IBO');
         case 'nurture': return leads.filter(l => l.status === 'Nurture');
@@ -922,7 +922,7 @@
         pipeline: 'Master Pipeline',
         hot: 'Hot Leads',
         followups: 'Follow-ups Due',
-        watched: 'Watched Not Closed',
+        actions: 'Actions Needed',
         customers: 'Customers',
         ibos: 'IBOs',
         nurture: 'Nurture'
