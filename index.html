@@ -912,6 +912,9 @@
     function renderLeadsTable() {
       let filtered = getFilteredLeads();
       
+      // Sort by dateAdded descending (newest first)
+      filtered.sort((a, b) => new Date(b.dateAdded || b.created) - new Date(a.dateAdded || a.created));
+      
       // Apply search filter if search term exists
       const searchTerm = document.getElementById('lead-search')?.value?.toLowerCase().trim();
       if (searchTerm) {
