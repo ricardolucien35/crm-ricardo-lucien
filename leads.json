@@ -1231,7 +1231,23 @@
       "notes": "",
       "lastModified": "2026-05-20",
       "dateAdded": "2026-05-20"
+    },
+    {
+      "id": "mpeuqcmvkthbia2n2lc",
+      "name": "Amanda Diaz",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1B73PJz3dx/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-20",
+      "nextFollowUp": "2026-05-25",
+      "notes": "",
+      "lastModified": "2026-05-20",
+      "dateAdded": "2026-05-20"
     }
   ],
-  "lastUpdated": "2026-05-21T02:07:36.499Z"
+  "lastUpdated": "2026-05-21T02:08:32.887Z"
 }
