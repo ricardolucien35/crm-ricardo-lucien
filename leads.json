@@ -1087,7 +1087,23 @@
       "notes": "",
       "lastModified": "2026-05-20",
       "dateAdded": "2026-05-20"
+    },
+    {
+      "id": "mpeuf6hcqzusup1bo6s",
+      "name": "Aaron Jones",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1DYYahBU9o/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-20",
+      "nextFollowUp": "2026-05-25",
+      "notes": "",
+      "lastModified": "2026-05-20",
+      "dateAdded": "2026-05-20"
     }
   ],
-  "lastUpdated": "2026-05-21T01:59:10.673Z"
+  "lastUpdated": "2026-05-21T01:59:51.697Z"
 }
