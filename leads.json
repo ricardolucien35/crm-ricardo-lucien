@@ -1311,7 +1311,23 @@
       "notes": "",
       "lastModified": "2026-05-20",
       "dateAdded": "2026-05-20"
+    },
+    {
+      "id": "mpeuw6kmonp9h9l46d",
+      "name": "Tyler Titus",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1NTgUWnvSL/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-20",
+      "nextFollowUp": "2026-05-25",
+      "notes": "",
+      "lastModified": "2026-05-20",
+      "dateAdded": "2026-05-20"
     }
   ],
-  "lastUpdated": "2026-05-21T02:12:17.477Z"
+  "lastUpdated": "2026-05-21T02:13:04.966Z"
 }
