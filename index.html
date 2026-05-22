@@ -1015,8 +1015,8 @@
       // Auto-set Last Contact to today (assumption: you're adding them because you just contacted them)
       document.getElementById('lead-last-contact').value = getTodayPacific();
       document.getElementById('modal').classList.remove('hidden');
-      // Scroll modal body to top
-      document.querySelector('.modal-body').scrollTop = 0;
+      // Scroll modal to top
+      document.querySelector('.modal').scrollTop = 0;
     }
 
     function openEditModal(id) {
@@ -1049,8 +1049,8 @@
       }
       
       document.getElementById('modal').classList.remove('hidden');
-      // Scroll modal body to top
-      document.querySelector('.modal-body').scrollTop = 0;
+      // Scroll modal to top
+      document.querySelector('.modal').scrollTop = 0;
     }
     
     function getTodayPacific() {
@@ -1269,9 +1269,25 @@
       document.getElementById('scripts-modal').classList.remove('hidden');
     }
 
+    // Fixed category order for consistent display
+    const CATEGORY_ORDER = ['Initial Outreach', 'Follow-Up', 'Presentation Follow-Up', 'Closing'];
+
+    function getOrderedCategories() {
+      const uniqueCategories = [...new Set(messageScripts.map(s => s.category))];
+      // Sort by fixed order, with any unknown categories at the end
+      return uniqueCategories.sort((a, b) => {
+        const indexA = CATEGORY_ORDER.indexOf(a);
+        const indexB = CATEGORY_ORDER.indexOf(b);
+        if (indexA === -1 && indexB === -1) return a.localeCompare(b);
+        if (indexA === -1) return 1;
+        if (indexB === -1) return -1;
+        return indexA - indexB;
+      });
+    }
+
     function renderScriptsModal() {
       const firstName = getFirstName(currentScriptLead.name);
-      const categories = [...new Set(messageScripts.map(s => s.category))];
+      const categories = getOrderedCategories();
       
       let html = `
         <div style="margin-bottom: 20px; padding-bottom: 15px; border-bottom: 2px solid var(--gray-200);">
@@ -1420,7 +1436,7 @@
     // Scripts Management Tab
     function renderScriptsManager() {
       loadScripts();
-      const categories = [...new Set(messageScripts.map(s => s.category))];
+      const categories = getOrderedCategories();
       
       let html = `
         <style>
@@ -1437,14 +1453,19 @@
           }
           .drag-handle {
             cursor: grab;
-            color: var(--gray-400);
+            color: var(--gray-700);
+            font-weight: bold;
+            font-size: 16px;
             padding: 4px 8px;
             margin-right: 8px;
             border-radius: 4px;
+            background: var(--gray-200);
+            border: 1px solid var(--gray-300);
           }
           .drag-handle:hover {
-            color: var(--gray-600);
-            background: var(--gray-200);
+            color: var(--gray-900);
+            background: var(--gray-300);
+            border-color: var(--gray-400);
           }
           .drag-handle:active {
             cursor: grabbing;
