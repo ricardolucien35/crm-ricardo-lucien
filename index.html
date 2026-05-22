@@ -200,7 +200,7 @@
   <div class="header">
     <div class="container">
       <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 16px;">
-        <h1 style="margin: 0;">Michael Martin - CRM Lead Management</h1>
+        <h1 style="margin: 0;">Ricardo Lucien - CRM Lead Management</h1>
         <a href="https://michael9549.github.io/team-dashboard/" target="_blank" class="button button-secondary" style="text-decoration: none; font-size: 14px;">📊 Team Dashboard</a>
       </div>
       <div class="nav" style="margin-top: 16px;">
@@ -1015,8 +1015,8 @@
       // Auto-set Last Contact to today (assumption: you're adding them because you just contacted them)
       document.getElementById('lead-last-contact').value = getTodayPacific();
       document.getElementById('modal').classList.remove('hidden');
-      // Scroll modal to top
-      document.querySelector('.modal').scrollTop = 0;
+      // Scroll modal body to top
+      document.querySelector('.modal-body').scrollTop = 0;
     }
 
     function openEditModal(id) {
@@ -1049,8 +1049,8 @@
       }
       
       document.getElementById('modal').classList.remove('hidden');
-      // Scroll modal to top
-      document.querySelector('.modal').scrollTop = 0;
+      // Scroll modal body to top
+      document.querySelector('.modal-body').scrollTop = 0;
     }
     
     function getTodayPacific() {
@@ -1354,14 +1354,107 @@
       currentScriptLead = null;
     }
 
+    // Drag and Drop for Scripts Reordering
+    let draggedScript = null;
+    let draggedCategory = null;
+
+    function handleScriptDragStart(e, scriptId, category) {
+      draggedScript = scriptId;
+      draggedCategory = category;
+      e.target.style.opacity = '0.5';
+      e.dataTransfer.effectAllowed = 'move';
+    }
+
+    function handleScriptDragEnd(e) {
+      e.target.style.opacity = '1';
+      draggedScript = null;
+      draggedCategory = null;
+      // Remove all drag-over styling
+      document.querySelectorAll('.script-item-drag-over').forEach(el => {
+        el.classList.remove('script-item-drag-over');
+      });
+    }
+
+    function handleScriptDragOver(e, category) {
+      e.preventDefault();
+      e.dataTransfer.dropEffect = 'move';
+      // Only allow dropping in same category
+      if (draggedCategory === category) {
+        const target = e.currentTarget;
+        target.classList.add('script-item-drag-over');
+      }
+    }
+
+    function handleScriptDragLeave(e) {
+      e.currentTarget.classList.remove('script-item-drag-over');
+    }
+
+    function handleScriptDrop(e, targetScriptId, category) {
+      e.preventDefault();
+      e.currentTarget.classList.remove('script-item-drag-over');
+      
+      // Only allow reordering within same category
+      if (!draggedScript || draggedCategory !== category) return;
+      if (draggedScript === targetScriptId) return;
+      
+      // Get scripts in this category
+      const categoryScripts = messageScripts.filter(s => s.category === category);
+      const draggedIndex = categoryScripts.findIndex(s => s.id === draggedScript);
+      const targetIndex = categoryScripts.findIndex(s => s.id === targetScriptId);
+      
+      if (draggedIndex === -1 || targetIndex === -1) return;
+      
+      // Reorder: move dragged script to target position
+      const [movedScript] = categoryScripts.splice(draggedIndex, 1);
+      categoryScripts.splice(targetIndex, 0, movedScript);
+      
+      // Update messageScripts with new order for this category
+      const otherScripts = messageScripts.filter(s => s.category !== category);
+      messageScripts = [...otherScripts, ...categoryScripts];
+      
+      saveScripts();
+      renderScriptsManager();
+      showToast('Script reordered!');
+    }
+
     // Scripts Management Tab
     function renderScriptsManager() {
       loadScripts();
       const categories = [...new Set(messageScripts.map(s => s.category))];
       
       let html = `
+        <style>
+          .script-item {
+            cursor: grab;
+            transition: all 0.2s;
+          }
+          .script-item:active {
+            cursor: grabbing;
+          }
+          .script-item-drag-over {
+            border: 2px dashed var(--primary) !important;
+            background: rgba(59, 130, 246, 0.1) !important;
+          }
+          .drag-handle {
+            cursor: grab;
+            color: var(--gray-400);
+            padding: 4px 8px;
+            margin-right: 8px;
+            border-radius: 4px;
+          }
+          .drag-handle:hover {
+            color: var(--gray-600);
+            background: var(--gray-200);
+          }
+          .drag-handle:active {
+            cursor: grabbing;
+          }
+        </style>
         <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
-          <h2 style="margin: 0;">Message Scripts Manager</h2>
+          <div>
+            <h2 style="margin: 0;">Message Scripts Manager</h2>
+            <p style="color: var(--gray-500); margin: 4px 0 0 0; font-size: 13px;">Drag the handle (⋮⋮) to reorder scripts within each category</p>
+          </div>
           <button onclick="openAddScriptModal()" class="button button-primary">+ Add New Script</button>
         </div>
       `;
@@ -1379,15 +1472,25 @@
           
           categoryScripts.forEach(script => {
             html += `
-              <div style="background: var(--gray-50); padding: 16px; border-radius: 6px; border: 1px solid var(--gray-200);">
+              <div class="script-item" 
+                   draggable="true"
+                   ondragstart="handleScriptDragStart(event, '${script.id}', '${category}')"
+                   ondragend="handleScriptDragEnd(event)"
+                   ondragover="handleScriptDragOver(event, '${category}')"
+                   ondragleave="handleScriptDragLeave(event)"
+                   ondrop="handleScriptDrop(event, '${script.id}', '${category}')"
+                   style="background: var(--gray-50); padding: 16px; border-radius: 6px; border: 1px solid var(--gray-200);">
                 <div style="display: flex; justify-content: space-between; align-items: start; margin-bottom: 8px;">
-                  <strong>${script.name}</strong>
+                  <div style="display: flex; align-items: center; flex: 1;">
+                    <span class="drag-handle" title="Drag to reorder">⋮⋮</span>
+                    <strong>${script.name}</strong>
+                  </div>
                   <div>
                     <button onclick="editScript('${script.id}')" class="button button-secondary" style="padding: 4px 8px; font-size: 12px; margin-right: 8px;">Edit</button>
                     <button onclick="deleteScript('${script.id}')" class="button button-danger" style="padding: 4px 8px; font-size: 12px;">Delete</button>
                   </div>
                 </div>
-                <div style="font-size: 13px; color: var(--gray-600); white-space: pre-wrap;">${script.content}</div>
+                <div style="font-size: 13px; color: var(--gray-600); white-space: pre-wrap; padding-left: 32px;">${script.content}</div>
               </div>
             `;
           });
