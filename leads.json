@@ -7,13 +7,13 @@
       "phone": "",
       "social": "https://www.instagram.com/deuce.lcp?igsh=b3ByZWZ1cTBqeDNl",
       "source": "Instagram",
-      "status": "New Lead",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-05-20",
-      "nextFollowUp": "2026-05-21",
+      "nextFollowUp": null,
       "notes": "1-1 already scheduled for May 19th",
-      "lastModified": "2026-05-20",
+      "lastModified": "2026-05-22",
       "dateAdded": "2026-05-18"
     },
     {
@@ -1569,5 +1569,5 @@
       "dateAdded": "2026-05-22"
     }
   ],
-  "lastUpdated": "2026-05-23T00:14:04.226Z"
+  "lastUpdated": "2026-05-23T00:14:51.902Z"
 }
