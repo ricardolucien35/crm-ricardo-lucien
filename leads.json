@@ -23,13 +23,13 @@
       "phone": "",
       "social": "https://www.instagram.com/onehalfofenj?igsh=MW01bTd0amppOHU0eA==",
       "source": "Instagram",
-      "status": "New Lead",
+      "status": "Watched",
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-05-20",
-      "nextFollowUp": "2026-05-21",
+      "lastContact": "2026-05-22",
+      "nextFollowUp": "2026-05-25",
       "notes": "",
-      "lastModified": "2026-05-20",
+      "lastModified": "2026-05-22",
       "dateAdded": "2026-05-18"
     },
     {
@@ -1569,5 +1569,5 @@
       "dateAdded": "2026-05-22"
     }
   ],
-  "lastUpdated": "2026-05-23T00:14:51.902Z"
+  "lastUpdated": "2026-05-23T00:15:55.150Z"
 }
