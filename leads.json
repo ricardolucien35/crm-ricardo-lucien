@@ -1495,13 +1495,13 @@
       "phone": "",
       "social": "https://www.instagram.com/kaileysdailydeals?igsh=MTdoeTh3amVlYm9ncA==",
       "source": "Instagram",
-      "status": "New Lead",
+      "status": "Sent Video",
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-05-22",
-      "nextFollowUp": "2026-05-27",
+      "lastContact": "2026-05-23",
+      "nextFollowUp": "2026-05-25",
       "notes": "",
-      "lastModified": "2026-05-22",
+      "lastModified": "2026-05-23",
       "dateAdded": "2026-05-22"
     },
     {
@@ -1713,5 +1713,5 @@
       "dateAdded": "2026-05-22"
     }
   ],
-  "lastUpdated": "2026-05-23T01:00:27.379Z"
+  "lastUpdated": "2026-05-23T20:22:32.740Z"
 }
