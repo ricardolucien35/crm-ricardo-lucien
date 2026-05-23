@@ -1599,7 +1599,23 @@
       "notes": "",
       "lastModified": "2026-05-22",
       "dateAdded": "2026-05-22"
+    },
+    {
+      "id": "mphlrcahty2v0roazv8",
+      "name": "Joey Swingle",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1E2awLEm97/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-22",
+      "nextFollowUp": "2026-05-27",
+      "notes": "",
+      "lastModified": "2026-05-22",
+      "dateAdded": "2026-05-22"
     }
   ],
-  "lastUpdated": "2026-05-23T00:19:34.538Z"
+  "lastUpdated": "2026-05-23T00:20:41.081Z"
 }
