@@ -1631,7 +1631,23 @@
       "notes": "",
       "lastModified": "2026-05-22",
       "dateAdded": "2026-05-22"
+    },
+    {
+      "id": "mphlur414m6cj20kjba",
+      "name": "Emily Van Dyke",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1E33nkKN7w/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-22",
+      "nextFollowUp": "2026-05-27",
+      "notes": "",
+      "lastModified": "2026-05-22",
+      "dateAdded": "2026-05-22"
     }
   ],
-  "lastUpdated": "2026-05-23T00:21:28.064Z"
+  "lastUpdated": "2026-05-23T00:23:20.257Z"
 }
