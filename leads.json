@@ -118,14 +118,14 @@
       "email": "",
       "phone": "",
       "social": "https://www.instagram.com/cosmopolitips?igsh=NXhvc3lhbDRiZmVq",
-      "source": "Facebook",
+      "source": "Instagram",
       "status": "New Lead",
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-05-18",
-      "nextFollowUp": "2026-05-23",
+      "lastContact": "2026-05-25",
+      "nextFollowUp": "2026-05-30",
       "notes": "",
-      "lastModified": "2026-05-18",
+      "lastModified": "2026-05-25",
       "dateAdded": "2026-05-18"
     },
     {
@@ -1889,5 +1889,5 @@
       "dateAdded": "2026-05-25"
     }
   ],
-  "lastUpdated": "2026-05-25T19:01:01.358Z"
+  "lastUpdated": "2026-05-25T19:02:21.655Z"
 }
