@@ -1791,7 +1791,23 @@
       "notes": "",
       "lastModified": "2026-05-25",
       "dateAdded": "2026-05-25"
+    },
+    {
+      "id": "mplkaq7ld8z7fseg7et",
+      "name": "Guy Montag",
+      "email": "",
+      "phone": "",
+      "social": "https://www.instagram.com/jadefalconkc?igsh=MTdneDY1d2l2MGxyOQ==",
+      "source": "Instagram",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-25",
+      "nextFollowUp": "2026-05-30",
+      "notes": "",
+      "lastModified": "2026-05-25",
+      "dateAdded": "2026-05-25"
     }
   ],
-  "lastUpdated": "2026-05-25T18:49:31.198Z"
+  "lastUpdated": "2026-05-25T18:50:51.057Z"
 }
