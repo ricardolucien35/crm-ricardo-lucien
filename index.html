@@ -631,15 +631,23 @@
     
     // Detect repo from current URL (e.g., jeffcasmer.github.io/crm-jeff-casmer)
     function getRepoConfig() {
-      const hostname = window.location.hostname; // jeffcasmer.github.io
-      const path = window.location.pathname.split('/')[1]; // crm-jeff-casmer
+      const hostname = window.location.hostname;
+      const path = window.location.pathname.split('/')[1];
       
-      // Extract username from hostname (remove .github.io)
+      // Custom domain support
+      if (hostname === 'imabundance.com') {
+        return {
+          owner: 'michael9549',
+          repo: 'crm-leads-app'
+        };
+      }
+      
+      // GitHub Pages domain
       const username = hostname.replace('.github.io', '');
       
       return {
         owner: username,
-        repo: path || 'crm-leads-app' // fallback for local testing
+        repo: path || 'crm-leads-app'
       };
     }
     
@@ -1106,13 +1114,29 @@
       
       const now = getTodayPacific();
       const newStatus = document.getElementById('lead-status').value;
+      const socialLink = document.getElementById('lead-social').value.trim();
+      
+      // Check for duplicate social media link (only for new leads)
+      if (!editingId && socialLink) {
+        const normalizedSocial = socialLink.toLowerCase().replace(/\/$/, '');
+        const duplicate = leads.find(lead => {
+          if (!lead.social) return false;
+          const existingSocial = lead.social.toLowerCase().replace(/\/$/, '');
+          return existingSocial === normalizedSocial;
+        });
+        
+        if (duplicate) {
+          alert('⚠️ Duplicate Lead Alert\n\nThis social media link already exists for: ' + duplicate.name + '\n\nPlease check your existing leads before adding a duplicate.');
+          return;
+        }
+      }
       
       const leadData = {
         id: editingId || Date.now().toString(36) + Math.random().toString(36).substr(2),
         name: document.getElementById('lead-name').value,
         email: document.getElementById('lead-email').value,
         phone: document.getElementById('lead-phone').value,
-        social: document.getElementById('lead-social').value,
+        social: socialLink,
         source: document.getElementById('lead-source').value,
         status: newStatus,
         temperature: document.getElementById('lead-temp').value,
