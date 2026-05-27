@@ -194,21 +194,7 @@
       .nav { gap: 4px; }
       .nav-button { padding: 6px 12px; font-size: 12px; }
     }
-      .form-checkbox {
-      width: 20px;
-      height: 20px;
-      cursor: pointer;
-      accent-color: var(--primary);
-    }
-    .checkbox-label {
-      display: flex;
-      align-items: center;
-      gap: 8px;
-      cursor: pointer;
-      font-size: 14px;
-      color: var(--gray-700);
-    }
-</style>
+  </style>
 </head>
 <body>
   <div class="header">
@@ -287,7 +273,10 @@
       <div id="leads-view">
         <div class="card-header">
           <h2 class="card-title" id="view-title">Master Pipeline</h2>
-          <button id="add-lead-btn" class="button button-primary" onclick="openAddModal()">+ Add Lead</button>
+          <div style="display: flex; gap: 8px;">
+            <button id="export-csv-btn" class="button button-secondary" onclick="exportToCSV()">📥 Export CSV</button>
+            <button id="add-lead-btn" class="button button-primary" onclick="openAddModal()">+ Add Lead</button>
+          </div>
         </div>
 
         <div id="search-container" class="card" style="padding: 12px 20px; margin-bottom: 16px;">
@@ -560,12 +549,6 @@
                 <option>Nurture</option>
                 <option>Not Interested</option>
               </select>
-            </div>
-            <div class="form-group">
-              <label class="checkbox-label">
-                <input type="checkbox" id="lead-video-sent" class="form-checkbox">
-                <span>Video Sent</span>
-              </label>
             </div>
           </div>
           <div class="form-group">
@@ -879,9 +862,8 @@
     function getStats() {
       const total = leads.length;
       const hot = leads.filter(l => l.temperature === 'Hot').length;
-      const isClosed = (l) => l.status === 'Customer' || l.status === 'IBO';
-      const due = leads.filter(l => isFollowUpDue(l.nextFollowUp) && !isClosed(l)).length;
-      const overdue = leads.filter(l => isOverdue(l.nextFollowUp) && !isClosed(l)).length;
+      const due = leads.filter(l => isFollowUpDue(l.nextFollowUp)).length;
+      const overdue = leads.filter(l => isOverdue(l.nextFollowUp)).length;
       const weekAgo = new Date();
       weekAgo.setDate(weekAgo.getDate() - 7);
       const newThisWeek = leads.filter(l => new Date(l.dateAdded) >= weekAgo).length;
@@ -1515,21 +1497,7 @@
           .drag-handle:active {
             cursor: grabbing;
           }
-            .form-checkbox {
-      width: 20px;
-      height: 20px;
-      cursor: pointer;
-      accent-color: var(--primary);
-    }
-    .checkbox-label {
-      display: flex;
-      align-items: center;
-      gap: 8px;
-      cursor: pointer;
-      font-size: 14px;
-      color: var(--gray-700);
-    }
-</style>
+        </style>
         <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
           <div>
             <h2 style="margin: 0;">Message Scripts Manager</h2>
@@ -1686,7 +1654,7 @@
         });
       }
     });
-  
+
     // CSV Export Function
     function exportToCSV() {
       if (leads.length === 0) {
@@ -1721,15 +1689,14 @@
       const blob = new Blob([csv], { type: 'text/csv' });
       const url = window.URL.createObjectURL(blob);
       const a = document.createElement('a');
-      a.href = url;
+      a.setAttribute('hidden', '');
+      a.setAttribute('href', url);
       a.download = 'leads_' + getTodayPacific() + '.csv';
       document.body.appendChild(a);
       a.click();
       document.body.removeChild(a);
-      window.URL.revokeObjectURL(url);
     }
-
-</script>
+  </script>
 
   <!-- Scripts Modal -->
   <div id="scripts-modal" class="modal-overlay hidden" onclick="if(event.target.id === 'scripts-modal') closeScriptsModal()">
