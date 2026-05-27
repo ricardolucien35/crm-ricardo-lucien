@@ -522,6 +522,10 @@
             <label class="form-label">Social Media Link</label>
             <input type="url" id="lead-social" class="form-input" placeholder="https://facebook.com/...">
           </div>
+          <div class="form-group" style="display: flex; align-items: center; gap: 8px; margin-bottom: 16px;">
+            <input type="checkbox" id="lead-video-sent" style="width: 18px; height: 18px; cursor: pointer;">
+            <label for="lead-video-sent" class="form-label" style="margin: 0; cursor: pointer; font-weight: 600;">📹 Video Sent</label>
+          </div>
           <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 16px;">
             <div class="form-group">
               <label class="form-label">Source</label>
@@ -1025,6 +1029,7 @@
       document.getElementById('lead-created').value = getTodayPacific();
       // Auto-set Last Contact to today (assumption: you're adding them because you just contacted them)
       document.getElementById('lead-last-contact').value = getTodayPacific();
+      setupVideoSentCheckbox();
       document.getElementById('modal').classList.remove('hidden');
       // Scroll modal to top
       document.querySelector('.modal').scrollTop = 0;
@@ -1042,6 +1047,7 @@
       document.getElementById('lead-social').value = lead.social || '';
       document.getElementById('lead-source').value = lead.source;
       document.getElementById('lead-status').value = lead.status;
+      document.getElementById('lead-video-sent').checked = lead.videoSent || false;
       document.getElementById('lead-temp').value = lead.temperature;
       document.getElementById('lead-last-action').value = lead.lastAction || 'Initial Contact';
       document.getElementById('lead-created').value = formatDateForInput(lead.dateAdded || lead.created);
@@ -1059,9 +1065,32 @@
         customerSinceGroup.style.display = 'none';
       }
       
+      setupVideoSentCheckbox();
       document.getElementById('modal').classList.remove('hidden');
       // Scroll modal to top
       document.querySelector('.modal').scrollTop = 0;
+    }
+    
+    // Video Sent checkbox handler
+    function setupVideoSentCheckbox() {
+      const videoSentCheckbox = document.getElementById('lead-video-sent');
+      const statusSelect = document.getElementById('lead-status');
+      
+      if (!videoSentCheckbox || !statusSelect) return;
+      
+      // When checkbox is checked, auto-set status to "Sent Video" if it's "New Lead"
+      videoSentCheckbox.addEventListener('change', function() {
+        if (this.checked && statusSelect.value === 'New Lead') {
+          statusSelect.value = 'Sent Video';
+        }
+      });
+      
+      // When status changes to "Sent Video", check the box
+      statusSelect.addEventListener('change', function() {
+        if (this.value === 'Sent Video') {
+          videoSentCheckbox.checked = true;
+        }
+      });
     }
     
     function getTodayPacific() {
@@ -1134,6 +1163,14 @@
         }
       }
       
+      const videoSent = document.getElementById('lead-video-sent').checked;
+      
+      // If video sent checkbox is checked and status isn't already something else, set to Sent Video
+      let finalStatus = newStatus;
+      if (videoSent && newStatus === 'New Lead') {
+        finalStatus = 'Sent Video';
+      }
+      
       const leadData = {
         id: editingId || Date.now().toString(36) + Math.random().toString(36).substr(2),
         name: document.getElementById('lead-name').value,
@@ -1141,7 +1178,8 @@
         phone: document.getElementById('lead-phone').value,
         social: socialLink,
         source: document.getElementById('lead-source').value,
-        status: newStatus,
+        status: finalStatus,
+        videoSent: videoSent,
         temperature: document.getElementById('lead-temp').value,
         lastAction: document.getElementById('lead-last-action').value,
         lastContact: document.getElementById('lead-last-contact').value || null,
