@@ -859,8 +859,9 @@
     function getStats() {
       const total = leads.length;
       const hot = leads.filter(l => l.temperature === 'Hot').length;
-      const due = leads.filter(l => isFollowUpDue(l.nextFollowUp)).length;
-      const overdue = leads.filter(l => isOverdue(l.nextFollowUp)).length;
+      const isClosed = (l) => l.status === 'Customer' || l.status === 'IBO';
+      const due = leads.filter(l => isFollowUpDue(l.nextFollowUp) && !isClosed(l)).length;
+      const overdue = leads.filter(l => isOverdue(l.nextFollowUp) && !isClosed(l)).length;
       const weekAgo = new Date();
       weekAgo.setDate(weekAgo.getDate() - 7);
       const newThisWeek = leads.filter(l => new Date(l.dateAdded) >= weekAgo).length;
