@@ -1686,7 +1686,50 @@
         });
       }
     });
-  </script>
+  
+    // CSV Export Function
+    function exportToCSV() {
+      if (leads.length === 0) {
+        alert('No leads to export');
+        return;
+      }
+      
+      const headers = ['Name', 'Email', 'Phone', 'Social', 'Source', 'Status', 'Video Sent', 'Temperature', 'Last Contact', 'Next Follow-Up', 'Date Added', 'Customer Since', 'Notes'];
+      
+      const rows = leads.map(function(lead) {
+        return [
+          lead.name || '',
+          lead.email || '',
+          lead.phone || '',
+          lead.social || '',
+          lead.source || '',
+          lead.status || '',
+          lead.videoSent ? 'Yes' : 'No',
+          lead.temperature || '',
+          lead.lastContact || '',
+          lead.nextFollowUp || '',
+          lead.dateAdded || '',
+          lead.customerSince || '',
+          (lead.notes || '').replace(/"/g, '""')
+        ].map(function(field) {
+          return '"' + field + '"';
+        }).join(',');
+      });
+      
+      const csv = [headers.join(','), ...rows].join('\n');
+      
+      const blob = new Blob([csv], { type: 'text/csv' });
+      const url = window.URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = 'leads_' + getTodayPacific() + '.csv';
+      document.body.appendChild(a);
+      a.click();
+      document.body.removeChild(a);
+      window.URL.revokeObjectURL(url);
+    }
+
+</script>
 
   <!-- Scripts Modal -->
   <div id="scripts-modal" class="modal-overlay hidden" onclick="if(event.target.id === 'scripts-modal') closeScriptsModal()">
