@@ -869,7 +869,7 @@
     },
     {
       "id": "mpeex69n4lv7mtmcags",
-      "name": "Jose Peña",
+      "name": "Jose Pena",
       "email": "",
       "phone": "(786) 597-3570",
       "social": "",
@@ -877,11 +877,12 @@
       "status": "New Lead",
       "temperature": "Warm",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-05-25",
-      "nextFollowUp": "2026-05-26",
+      "lastContact": "2026-05-29",
+      "nextFollowUp": "2026-06-01",
       "notes": "",
-      "lastModified": "2026-05-25",
-      "dateAdded": "2026-05-20"
+      "lastModified": "2026-05-29",
+      "dateAdded": "2026-05-20",
+      "videoSent": false
     },
     {
       "id": "mpeoxmrktukakebtrz",
@@ -2003,5 +2004,5 @@
       "addedAt": "2026-05-29T17:22:42.345Z"
     }
   ],
-  "lastUpdated": "2026-05-29T17:42:57.388Z"
+  "lastUpdated": "2026-05-29T17:43:38.030Z"
 }
