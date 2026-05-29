@@ -279,14 +279,15 @@
       "phone": "",
       "social": "https://www.instagram.com/tyree_the_first_king?igsh=Ym42aXIxb2luMzJx",
       "source": "Instagram",
-      "status": "New Lead",
-      "temperature": "Cold",
+      "status": "Watched",
+      "temperature": "Warm",
       "lastAction": "Initial Contact",
       "lastContact": "2026-05-19",
-      "nextFollowUp": "2026-05-26",
+      "nextFollowUp": "2026-05-31",
       "notes": "",
-      "lastModified": "2026-05-19",
-      "dateAdded": "2026-05-18"
+      "lastModified": "2026-05-29",
+      "dateAdded": "2026-05-18",
+      "videoSent": true
     },
     {
       "id": "mpbw2k8yp49ady11ky",
@@ -1894,5 +1895,5 @@
       "dateAdded": "2026-05-25"
     }
   ],
-  "lastUpdated": "2026-05-29T09:27:31.770Z"
+  "lastUpdated": "2026-05-29T09:28:43.513Z"
 }
