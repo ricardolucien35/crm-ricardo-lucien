@@ -2084,7 +2084,25 @@
       "lastModified": "2026-05-29",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-29T19:00:30.801Z"
+    },
+    {
+      "id": "mprafp9y9l4bhs10wr",
+      "name": "Lily Rose",
+      "email": "",
+      "phone": "",
+      "social": "https://www.instagram.com/lilykozlowski?igsh=aWRkN2Uwd3o5MjBh",
+      "source": "Instagram",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-29",
+      "nextFollowUp": "2026-06-03",
+      "notes": "",
+      "lastModified": "2026-05-29",
+      "dateAdded": "2026-05-29",
+      "addedAt": "2026-05-29T19:01:24.022Z"
     }
   ],
-  "lastUpdated": "2026-05-29T19:00:30.801Z"
+  "lastUpdated": "2026-05-29T19:01:24.023Z"
 }
