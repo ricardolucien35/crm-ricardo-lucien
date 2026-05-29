@@ -1894,7 +1894,25 @@
       "notes": "",
       "lastModified": "2026-05-25",
       "dateAdded": "2026-05-25"
+    },
+    {
+      "id": "mpr6p5nv8cyvz5hipxv",
+      "name": "Amanda Fonda",
+      "email": "",
+      "phone": "",
+      "social": "https://www.instagram.com/sheismandii?igsh=MW1pY3Y0dzZmbGI0Zw==",
+      "source": "Instagram",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-29",
+      "nextFollowUp": "2026-06-03",
+      "notes": "",
+      "lastModified": "2026-05-29",
+      "dateAdded": "2026-05-29",
+      "addedAt": "2026-05-29T17:16:46.699Z"
     }
   ],
-  "lastUpdated": "2026-05-29T09:29:45.910Z"
+  "lastUpdated": "2026-05-29T17:16:46.699Z"
 }
