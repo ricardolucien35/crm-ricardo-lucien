@@ -214,7 +214,7 @@
         <button class="nav-button" data-view="training">Training</button>
         <button class="nav-button" data-view="message-scripts">Message Scripts</button>
         <button class="nav-button" data-view="metrics">Metrics</button>
-        
+        <button class="nav-button" onclick="logout()" style="margin-left: auto; background: var(--gray-100); color: var(--gray-600);">🚪 Logout</button>
       </div>
     </div>
   </div>
@@ -707,6 +707,12 @@
         alert('Error saving token: ' + error.message);
         console.error(error);
       }
+    }
+
+    function logout() {
+      localStorage.removeItem('github_token');
+      GITHUB_TOKEN = '';
+      location.reload();
     }
 
     function showMainApp() {
