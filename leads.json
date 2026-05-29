@@ -1114,11 +1114,12 @@
       "status": "Watched",
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
-      "lastContact": "2026-05-25",
-      "nextFollowUp": "2026-05-26",
+      "lastContact": "2026-05-29",
+      "nextFollowUp": "2026-06-28",
       "notes": "",
-      "lastModified": "2026-05-25",
-      "dateAdded": "2026-05-20"
+      "lastModified": "2026-05-29",
+      "dateAdded": "2026-05-20",
+      "videoSent": false
     },
     {
       "id": "mpeuhnlv8qhgeq5huq3",
@@ -1890,5 +1891,5 @@
       "dateAdded": "2026-05-25"
     }
   ],
-  "lastUpdated": "2026-05-29T09:23:09.192Z"
+  "lastUpdated": "2026-05-29T09:24:30.015Z"
 }
