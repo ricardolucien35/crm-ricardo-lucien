@@ -2030,7 +2030,25 @@
       "lastModified": "2026-05-29",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-29T18:55:27.668Z"
+    },
+    {
+      "id": "mprab8h2nsrs8k05yki",
+      "name": "Jessica Jimenez",
+      "email": "",
+      "phone": "",
+      "social": "https://www.instagram.com/jessicajrealestate?igsh=MTBkYjFhMHQ3Z2Rkag==",
+      "source": "Instagram",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-29",
+      "nextFollowUp": "2026-06-03",
+      "notes": "",
+      "lastModified": "2026-05-29",
+      "dateAdded": "2026-05-29",
+      "addedAt": "2026-05-29T18:57:55.622Z"
     }
   ],
-  "lastUpdated": "2026-05-29T18:55:27.668Z"
+  "lastUpdated": "2026-05-29T18:57:55.623Z"
 }
