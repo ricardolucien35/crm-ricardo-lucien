@@ -59,6 +59,18 @@
     }
     .nav-button:hover { background: var(--gray-50); }
     .nav-button.active { background: var(--primary); color: white; border-color: var(--primary); }
+    .subtab-button {
+      padding: 6px 14px;
+      border: 1px solid var(--gray-300);
+      background: white;
+      border-radius: 6px;
+      cursor: pointer;
+      font-size: 13px;
+      color: var(--gray-600);
+      transition: all 0.2s;
+    }
+    .subtab-button:hover { background: var(--gray-50); }
+    .subtab-button.active { background: var(--success); color: white; border-color: var(--success); }
     .card {
       background: white;
       border-radius: 8px;
@@ -212,8 +224,7 @@
         <button class="nav-button" data-view="actions">Actions</button>
         <button class="nav-button" data-view="nurture">Nurture</button>
         <button class="nav-button" data-view="hot">Hot Leads</button>
-        <button class="nav-button" data-view="customers">Customers</button>
-        <button class="nav-button" data-view="ibos">IBOs</button>
+        <button class="nav-button" data-view="customers-ibos">Customers / IBOs</button>
         <button class="nav-button" data-view="training">Training</button>
         <button class="nav-button" data-view="message-scripts">Message Scripts</button>
         <button class="nav-button" data-view="metrics">Metrics</button>
@@ -283,7 +294,13 @@
           </div>
         </div>
 
-        <div id="search-container" class="card" style="padding: 12px 20px; margin-bottom: 16px;">
+        <!-- Follow-up Sub-tabs -->
+      <div id="followup-subtabs" style="display: none; gap: 8px; margin-bottom: 16px; flex-wrap: wrap;">
+        <button class="subtab-button active" data-subtab="prospects" onclick="setFollowUpSubTab('prospects')">Prospects</button>
+        <button class="subtab-button" data-subtab="customers-ibos" onclick="setFollowUpSubTab('customers-ibos')">Customers / IBOs</button>
+      </div>
+
+      <div id="search-container" class="card" style="padding: 12px 20px; margin-bottom: 16px;">
           <div style="display: flex; gap: 12px; align-items: center;">
             <span style="color: var(--gray-500); font-size: 14px;">🔍</span>
             <input type="text" id="lead-search" class="form-input" placeholder="Search leads by name..." style="flex: 1; border: none; background: transparent; padding: 0;">
@@ -636,6 +653,7 @@
     let leads = [];
     let sha = '';
     let currentView = 'pipeline';
+    let followUpSubTab = 'prospects'; // 'prospects' or 'customers-ibos'
     let sortMode = 'newest'; // 'newest' or 'followup'
     let editingId = null;
     let GITHUB_TOKEN = localStorage.getItem('github_token') || '';
@@ -690,6 +708,11 @@
           });
         }
       });
+    }
+
+    function setFollowUpSubTab(subtab) {
+      followUpSubTab = subtab;
+      renderView();
     }
 
     function saveToken() {
@@ -865,10 +888,13 @@
       
       switch (currentView) {
         case 'hot': return leads.filter(l => l.temperature === 'Hot' && !isClosed(l) && !isNotInterested(l));
-        case 'followups': return leads.filter(l => isFollowUpDue(l.nextFollowUp) && !isNotInterested(l));
+        case 'followups': 
+          if (followUpSubTab === 'customers-ibos') {
+            return leads.filter(l => isFollowUpDue(l.nextFollowUp) && isClosed(l));
+          }
+          return leads.filter(l => isFollowUpDue(l.nextFollowUp) && !isClosed(l) && !isNotInterested(l));
         case 'actions': return leads.filter(l => l.status === 'Watched' || l.status === 'Sent Video' || l.status === '2WT');
-        case 'customers': return leads.filter(l => l.status === 'Customer');
-        case 'ibos': return leads.filter(l => l.status === 'IBO');
+        case 'customers-ibos': return leads.filter(l => l.status === 'Customer' || l.status === 'IBO');
         case 'nurture': return leads.filter(l => l.status === 'Nurture');
         default: return leads.filter(l => !isClosed(l)); // Master Pipeline excludes Customers/IBOs but shows Not Interested
       }
@@ -977,24 +1003,43 @@
         hot: 'Hot Leads',
         followups: 'Follow-ups Due',
         actions: 'Actions Needed',
-        customers: 'Customers',
-        ibos: 'IBOs',
+        'customers-ibos': 'Customers / IBOs',
         nurture: 'Nurture'
       };
-      document.getElementById('view-title').textContent = titles[currentView];
+      
+      let titleText = titles[currentView] || currentView;
+      if (currentView === 'followups') {
+        titleText = followUpSubTab === 'customers-ibos' ? 'Follow-ups Due — Customers / IBOs' : 'Follow-ups Due — Prospects';
+      }
+      document.getElementById('view-title').textContent = titleText;
 
-      // Show/hide Add Lead button and Sort Toggle based on view
+      // Show/hide Add Lead button, Sort Toggle, and Follow-up Sub-tabs based on view
       const addBtn = document.getElementById('add-lead-btn');
       const emptyAddBtn = document.getElementById('empty-add-btn');
       const sortToggleBtn = document.getElementById('sort-toggle-btn');
+      const followUpSubTabs = document.getElementById('followup-subtabs');
+      
       if (currentView === 'pipeline') {
         if (addBtn) addBtn.classList.remove('hidden');
         if (emptyAddBtn) emptyAddBtn.classList.remove('hidden');
         if (sortToggleBtn) sortToggleBtn.style.display = 'inline-block';
+        if (followUpSubTabs) followUpSubTabs.style.display = 'none';
+      } else if (currentView === 'followups') {
+        if (addBtn) addBtn.classList.add('hidden');
+        if (emptyAddBtn) emptyAddBtn.classList.add('hidden');
+        if (sortToggleBtn) sortToggleBtn.style.display = 'none';
+        if (followUpSubTabs) {
+          followUpSubTabs.style.display = 'flex';
+          // Update active state
+          followUpSubTabs.querySelectorAll('.subtab-button').forEach(btn => {
+            btn.classList.toggle('active', btn.dataset.subtab === followUpSubTab);
+          });
+        }
       } else {
         if (addBtn) addBtn.classList.add('hidden');
         if (emptyAddBtn) emptyAddBtn.classList.add('hidden');
         if (sortToggleBtn) sortToggleBtn.style.display = 'none';
+        if (followUpSubTabs) followUpSubTabs.style.display = 'none';
       }
 
       if (filtered.length === 0) {
