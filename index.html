@@ -200,7 +200,7 @@
   <div class="header">
     <div class="container">
       <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 16px;">
-        <h1 style="margin: 0;">Ricardo Lucien - CRM Lead Management</h1>
+        <h1 style="margin: 0;">Michael Martin - CRM Lead Management</h1>
         <a href="https://imabundance.com/" target="_blank" class="button button-secondary" style="text-decoration: none; font-size: 14px;">📊 Team Dashboard</a>
       </div>
       <div class="nav" style="margin-top: 16px;">
@@ -274,6 +274,7 @@
         <div class="card-header">
           <h2 class="card-title" id="view-title">Master Pipeline</h2>
           <div style="display: flex; gap: 8px;">
+            <button id="sort-toggle-btn" class="button button-secondary" onclick="toggleSortMode()" style="display: none;">📅 Sort: Newest</button>
             <button id="export-csv-btn" class="button button-secondary" onclick="exportToCSV()">📥 Export CSV</button>
             <button id="add-lead-btn" class="button button-primary" onclick="openAddModal()">+ Add Lead</button>
           </div>
@@ -632,6 +633,7 @@
     let leads = [];
     let sha = '';
     let currentView = 'pipeline';
+    let sortMode = 'newest'; // 'newest' or 'followup'
     let editingId = null;
     let GITHUB_TOKEN = localStorage.getItem('github_token') || '';
     const LEADS_FILE = 'leads.json';
@@ -860,7 +862,7 @@
       
       switch (currentView) {
         case 'hot': return leads.filter(l => l.temperature === 'Hot' && !isClosed(l) && !isNotInterested(l));
-        case 'followups': return leads.filter(l => isFollowUpDue(l.nextFollowUp) && !isClosed(l) && !isNotInterested(l));
+        case 'followups': return leads.filter(l => isFollowUpDue(l.nextFollowUp) && !isNotInterested(l));
         case 'actions': return leads.filter(l => l.status === 'Watched' || l.status === 'Sent Video' || l.status === '2WT');
         case 'customers': return leads.filter(l => l.status === 'Customer');
         case 'ibos': return leads.filter(l => l.status === 'IBO');
@@ -930,18 +932,36 @@
       }).join('');
     }
 
+    function toggleSortMode() {
+      sortMode = sortMode === 'newest' ? 'followup' : 'newest';
+      const btn = document.getElementById('sort-toggle-btn');
+      if (btn) {
+        btn.textContent = sortMode === 'newest' ? '📅 Sort: Newest' : '📅 Sort: Follow-Up';
+      }
+      renderLeadsTable();
+    }
+
     function renderLeadsTable() {
       let filtered = getFilteredLeads();
       
-      // Sort by dateAdded descending, then by addedAt timestamp for same-day leads
-      filtered.sort((a, b) => {
-        const dateCompare = new Date(b.dateAdded || b.created) - new Date(a.dateAdded || a.created);
-        if (dateCompare !== 0) return dateCompare;
-        // If same date, sort by addedAt timestamp (newest first)
-        const aTime = a.addedAt ? new Date(a.addedAt).getTime() : 0;
-        const bTime = b.addedAt ? new Date(b.addedAt).getTime() : 0;
-        return bTime - aTime;
-      });
+      if (sortMode === 'followup') {
+        // Sort by nextFollowUp ascending (soonest first), nulls last
+        filtered.sort((a, b) => {
+          const aDate = a.nextFollowUp ? new Date(a.nextFollowUp).getTime() : Infinity;
+          const bDate = b.nextFollowUp ? new Date(b.nextFollowUp).getTime() : Infinity;
+          return aDate - bDate;
+        });
+      } else {
+        // Sort by dateAdded descending, then by addedAt timestamp for same-day leads
+        filtered.sort((a, b) => {
+          const dateCompare = new Date(b.dateAdded || b.created) - new Date(a.dateAdded || a.created);
+          if (dateCompare !== 0) return dateCompare;
+          // If same date, sort by addedAt timestamp (newest first)
+          const aTime = a.addedAt ? new Date(a.addedAt).getTime() : 0;
+          const bTime = b.addedAt ? new Date(b.addedAt).getTime() : 0;
+          return bTime - aTime;
+        });
+      }
       
       // Apply search filter if search term exists
       const searchTerm = document.getElementById('lead-search')?.value?.toLowerCase().trim();
@@ -960,15 +980,18 @@
       };
       document.getElementById('view-title').textContent = titles[currentView];
 
-      // Show/hide Add Lead button based on view
+      // Show/hide Add Lead button and Sort Toggle based on view
       const addBtn = document.getElementById('add-lead-btn');
       const emptyAddBtn = document.getElementById('empty-add-btn');
+      const sortToggleBtn = document.getElementById('sort-toggle-btn');
       if (currentView === 'pipeline') {
         if (addBtn) addBtn.classList.remove('hidden');
         if (emptyAddBtn) emptyAddBtn.classList.remove('hidden');
+        if (sortToggleBtn) sortToggleBtn.style.display = 'inline-block';
       } else {
         if (addBtn) addBtn.classList.add('hidden');
         if (emptyAddBtn) emptyAddBtn.classList.add('hidden');
+        if (sortToggleBtn) sortToggleBtn.style.display = 'none';
       }
 
       if (filtered.length === 0) {
@@ -1804,3 +1827,4 @@
   </div>
 </body>
 </html>
+
