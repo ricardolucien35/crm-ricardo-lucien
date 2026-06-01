@@ -1719,15 +1719,16 @@
       "phone": "+1 (773) 724-7536",
       "social": "",
       "source": "Other",
-      "status": "Watched",
+      "status": "Customer",
       "temperature": "Hot",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-05-29",
-      "nextFollowUp": "2026-05-30",
+      "lastAction": "Closed",
+      "lastContact": "2026-05-31",
+      "nextFollowUp": "2026-06-03",
       "notes": "",
-      "lastModified": "2026-05-29",
+      "lastModified": "2026-05-31",
       "dateAdded": "2026-05-22",
-      "videoSent": true
+      "videoSent": true,
+      "customerSince": "2026-05-31"
     },
     {
       "id": "mphn6hkjxoabkmg9knr",
@@ -2104,5 +2105,5 @@
       "addedAt": "2026-05-29T19:01:24.022Z"
     }
   ],
-  "lastUpdated": "2026-05-29T19:01:24.023Z"
+  "lastUpdated": "2026-06-01T04:38:52.615Z"
 }
