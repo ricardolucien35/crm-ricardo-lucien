@@ -789,14 +789,15 @@
       "phone": "",
       "social": "https://www.instagram.com/chalkd.kc?igsh=MThibmozaHR1cTRtYg==",
       "source": "Instagram",
-      "status": "New Lead",
+      "status": "Sent Video",
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-05-25",
-      "nextFollowUp": "2026-06-01",
+      "lastContact": "2026-06-01",
+      "nextFollowUp": "2026-07-02",
       "notes": "",
-      "lastModified": "2026-05-25",
-      "dateAdded": "2026-05-20"
+      "lastModified": "2026-06-01",
+      "dateAdded": "2026-05-20",
+      "videoSent": true
     },
     {
       "id": "mpeca2xoyuz5bv8xf18",
@@ -2117,5 +2118,5 @@
       "addedAt": "2026-05-29T19:01:24.022Z"
     }
   ],
-  "lastUpdated": "2026-06-02T04:32:59.322Z"
+  "lastUpdated": "2026-06-02T04:34:09.723Z"
 }
