@@ -2127,7 +2127,25 @@
       "lastModified": "2026-05-29",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-29T19:01:24.022Z"
+    },
+    {
+      "id": "mpw6g67ep56w5sx0y4s",
+      "name": "Nikki",
+      "email": "",
+      "phone": "",
+      "social": "https://www.instagram.com/nikkipurrsfit?igsh=cXFmYzd0bGhweWNv",
+      "source": "Instagram",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-01",
+      "nextFollowUp": "2026-06-04",
+      "notes": "",
+      "lastModified": "2026-06-01",
+      "dateAdded": "2026-06-01",
+      "addedAt": "2026-06-02T05:08:38.378Z"
     }
   ],
-  "lastUpdated": "2026-06-02T04:51:22.238Z"
+  "lastUpdated": "2026-06-02T05:08:38.378Z"
 }
