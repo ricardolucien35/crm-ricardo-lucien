@@ -1816,14 +1816,15 @@
       "phone": "",
       "social": "https://www.instagram.com/crystal_wambles_?igsh=dTF3b3Y2YzNtNW5i",
       "source": "Instagram",
-      "status": "New Lead",
+      "status": "Sent Video",
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-05-25",
-      "nextFollowUp": "2026-05-30",
+      "lastContact": "2026-06-01",
+      "nextFollowUp": "2026-07-02",
       "notes": "",
-      "lastModified": "2026-05-25",
-      "dateAdded": "2026-05-25"
+      "lastModified": "2026-06-01",
+      "dateAdded": "2026-05-25",
+      "videoSent": true
     },
     {
       "id": "mplkaq7ld8z7fseg7et",
@@ -2125,5 +2126,5 @@
       "addedAt": "2026-05-29T19:01:24.022Z"
     }
   ],
-  "lastUpdated": "2026-06-02T04:42:32.719Z"
+  "lastUpdated": "2026-06-02T04:44:09.039Z"
 }
