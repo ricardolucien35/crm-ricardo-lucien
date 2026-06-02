@@ -497,12 +497,13 @@
       "source": "Other",
       "status": "Watched",
       "temperature": "Hot",
-      "lastAction": "Scheduled Call",
+      "lastAction": "Follow-up 3",
       "lastContact": "2026-05-25",
-      "nextFollowUp": "2026-06-01",
+      "nextFollowUp": "2026-06-05",
       "notes": "",
-      "lastModified": "2026-05-25",
-      "dateAdded": "2026-05-18"
+      "lastModified": "2026-06-01",
+      "dateAdded": "2026-05-18",
+      "videoSent": true
     },
     {
       "id": "mpcyciv2to43c3cuucn",
@@ -2105,5 +2106,5 @@
       "addedAt": "2026-05-29T19:01:24.022Z"
     }
   ],
-  "lastUpdated": "2026-06-01T04:38:52.615Z"
+  "lastUpdated": "2026-06-02T04:15:02.844Z"
 }
