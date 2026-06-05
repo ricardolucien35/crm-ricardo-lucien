@@ -2217,7 +2217,25 @@
       "lastModified": "2026-06-05",
       "dateAdded": "2026-06-05",
       "addedAt": "2026-06-05T21:16:51.541Z"
+    },
+    {
+      "id": "mq1fjo3iejkc09vy16t",
+      "name": "Emily Simental",
+      "email": "",
+      "phone": "",
+      "social": "https://www.instagram.com/85_roses?igsh=MWdxZnRpdTFxbzl3OQ==",
+      "source": "Instagram",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-05",
+      "nextFollowUp": "2026-06-12",
+      "notes": "",
+      "lastModified": "2026-06-05",
+      "dateAdded": "2026-06-05",
+      "addedAt": "2026-06-05T21:22:08.958Z"
     }
   ],
-  "lastUpdated": "2026-06-05T21:16:51.541Z"
+  "lastUpdated": "2026-06-05T21:22:08.958Z"
 }
