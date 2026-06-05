@@ -2199,7 +2199,25 @@
       "lastModified": "2026-06-05",
       "dateAdded": "2026-06-05",
       "addedAt": "2026-06-05T21:15:33.202Z"
+    },
+    {
+      "id": "mq1fcv6dr3x588qtnua",
+      "name": "Karla Villeda",
+      "email": "",
+      "phone": "",
+      "social": "https://www.instagram.com/karlav_villeda?igsh=dTlvNnczMjFyN3Vn",
+      "source": "Instagram",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-05",
+      "nextFollowUp": "2026-06-12",
+      "notes": "",
+      "lastModified": "2026-06-05",
+      "dateAdded": "2026-06-05",
+      "addedAt": "2026-06-05T21:16:51.541Z"
     }
   ],
-  "lastUpdated": "2026-06-05T21:15:33.202Z"
+  "lastUpdated": "2026-06-05T21:16:51.541Z"
 }
