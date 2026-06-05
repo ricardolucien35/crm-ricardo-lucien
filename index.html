@@ -275,6 +275,14 @@
             <div class="stat-value" id="stat-new-today" style="color: #10b981;">0</div>
             <div class="stat-label">New Today</div>
           </div>
+          <div class="stat-card">
+            <div class="stat-value" id="stat-customers" style="color: var(--primary);">0</div>
+            <div class="stat-label">Customers</div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-value" id="stat-ibos" style="color: var(--success);">0</div>
+            <div class="stat-label">IBOs</div>
+          </div>
         </div>
         <div class="card">
           <h3>Status Breakdown</h3>
@@ -924,7 +932,9 @@
       const newThisWeek = leads.filter(l => new Date(l.dateAdded) >= weekAgo).length;
       const today = getTodayPacific();
       const newToday = leads.filter(l => l.dateAdded === today).length;
-      return { total, hot, due, overdue, newThisWeek, newToday };
+      const customers = leads.filter(l => l.status === 'Customer').length;
+      const ibos = leads.filter(l => l.status === 'IBO').length;
+      return { total, hot, due, overdue, newThisWeek, newToday, customers, ibos };
     }
 
     function renderView() {
@@ -961,6 +971,8 @@
       document.getElementById('stat-overdue').textContent = stats.overdue;
       document.getElementById('stat-new').textContent = stats.newThisWeek;
       document.getElementById('stat-new-today').textContent = stats.newToday;
+      document.getElementById('stat-customers').textContent = stats.customers;
+      document.getElementById('stat-ibos').textContent = stats.ibos;
 
       const statuses = ['New Lead', 'Prospect', 'Watched', 'Sent Video', 'Customer', 'IBO', 'Nurture', 'Not Interested'];
       document.getElementById('status-breakdown').innerHTML = statuses.map(s => {
