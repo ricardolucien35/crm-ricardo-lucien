@@ -2181,7 +2181,25 @@
       "lastModified": "2026-06-05",
       "dateAdded": "2026-06-05",
       "addedAt": "2026-06-05T21:14:21.171Z"
+    },
+    {
+      "id": "mq1fb6qar8udujn9vq",
+      "name": "Bizzy Streamer",
+      "email": "",
+      "phone": "",
+      "social": "https://www.instagram.com/bizzy_streamer?igsh=MTNjeTlleGg0bWZibg==",
+      "source": "Instagram",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-05",
+      "nextFollowUp": "2026-06-12",
+      "notes": "",
+      "lastModified": "2026-06-05",
+      "dateAdded": "2026-06-05",
+      "addedAt": "2026-06-05T21:15:33.202Z"
     }
   ],
-  "lastUpdated": "2026-06-05T21:14:21.172Z"
+  "lastUpdated": "2026-06-05T21:15:33.202Z"
 }
