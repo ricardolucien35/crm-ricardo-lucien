@@ -59,18 +59,6 @@
     }
     .nav-button:hover { background: var(--gray-50); }
     .nav-button.active { background: var(--primary); color: white; border-color: var(--primary); }
-    .subtab-button {
-      padding: 6px 14px;
-      border: 1px solid var(--gray-300);
-      background: white;
-      border-radius: 6px;
-      cursor: pointer;
-      font-size: 13px;
-      color: var(--gray-600);
-      transition: all 0.2s;
-    }
-    .subtab-button:hover { background: var(--gray-50); }
-    .subtab-button.active { background: var(--success); color: white; border-color: var(--success); }
     .card {
       background: white;
       border-radius: 8px;
@@ -197,8 +185,6 @@
       font-weight: 500;
       background: var(--success);
       color: white;
-      display: inline-block;
-      white-space: nowrap;
     }
     .hidden { display: none !important; }
     @media (max-width: 768px) {
@@ -214,10 +200,7 @@
   <div class="header">
     <div class="container">
       <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 16px;">
-        <div style="display: flex; align-items: center; gap: 16px; flex-wrap: wrap;">
-          <h1 style="margin: 0;">Michael Martin - CRM Lead Management</h1>
-          <img src="assets/teamabundacebanner.png" alt="Team Abundance" style="height: 70px; width: auto; max-width: 300px; object-fit: contain;">
-        </div>
+        <h1 style="margin: 0;">Michael Martin - CRM Lead Management</h1>
         <a href="https://imabundance.com/" target="_blank" class="button button-secondary" style="text-decoration: none; font-size: 14px;">📊 Team Dashboard</a>
       </div>
       <div class="nav" style="margin-top: 16px;">
@@ -226,11 +209,12 @@
         <button class="nav-button" data-view="actions">Actions</button>
         <button class="nav-button" data-view="nurture">Nurture</button>
         <button class="nav-button" data-view="hot">Hot Leads</button>
-        <button class="nav-button" data-view="customers-ibos">Customers / IBOs</button>
+        <button class="nav-button" data-view="customers">Customers</button>
+        <button class="nav-button" data-view="ibos">IBOs</button>
         <button class="nav-button" data-view="training">Training</button>
         <button class="nav-button" data-view="message-scripts">Message Scripts</button>
         <button class="nav-button" data-view="metrics">Metrics</button>
-        <button class="nav-button" onclick="logout()" style="margin-left: auto; background: var(--gray-100); color: var(--gray-600);">🚪 Logout</button>
+        
       </div>
     </div>
   </div>
@@ -290,22 +274,15 @@
         <div class="card-header">
           <h2 class="card-title" id="view-title">Master Pipeline</h2>
           <div style="display: flex; gap: 8px;">
-            <button id="sort-toggle-btn" class="button button-secondary" onclick="toggleSortMode()" style="display: none;">📅 Sort: Newest</button>
             <button id="export-csv-btn" class="button button-secondary" onclick="exportToCSV()">📥 Export CSV</button>
             <button id="add-lead-btn" class="button button-primary" onclick="openAddModal()">+ Add Lead</button>
           </div>
         </div>
 
-        <!-- Follow-up Sub-tabs -->
-      <div id="followup-subtabs" style="display: none; gap: 8px; margin-bottom: 16px; flex-wrap: wrap;">
-        <button class="subtab-button active" data-subtab="prospects" onclick="setFollowUpSubTab('prospects')">Prospects</button>
-        <button class="subtab-button" data-subtab="customers-ibos" onclick="setFollowUpSubTab('customers-ibos')">Customers / IBOs</button>
-      </div>
-
-      <div id="search-container" class="card" style="padding: 12px 20px; margin-bottom: 16px;">
+        <div id="search-container" class="card" style="padding: 12px 20px; margin-bottom: 16px;">
           <div style="display: flex; gap: 12px; align-items: center;">
             <span style="color: var(--gray-500); font-size: 14px;">🔍</span>
-            <input type="text" id="lead-search" class="form-input" placeholder="Search leads by name..." style="flex: 1; border: none; background: transparent; padding: 0;">
+            <input type="text" id="lead-search" class="form-input" placeholder="Search leads by name or notes..." style="flex: 1; border: none; background: transparent; padding: 0;">
             <button id="clear-search" class="button button-secondary" onclick="clearSearch()" style="padding: 6px 12px; font-size: 12px; display: none;">Clear</button>
           </div>
         </div>
@@ -655,8 +632,6 @@
     let leads = [];
     let sha = '';
     let currentView = 'pipeline';
-    let followUpSubTab = 'prospects'; // 'prospects' or 'customers-ibos'
-    let sortMode = 'newest'; // 'newest' or 'followup'
     let editingId = null;
     let GITHUB_TOKEN = localStorage.getItem('github_token') || '';
     const LEADS_FILE = 'leads.json';
@@ -712,11 +687,6 @@
       });
     }
 
-    function setFollowUpSubTab(subtab) {
-      followUpSubTab = subtab;
-      renderView();
-    }
-
     function saveToken() {
       try {
         const tokenInput = document.getElementById('github-token');
@@ -737,12 +707,6 @@
         alert('Error saving token: ' + error.message);
         console.error(error);
       }
-    }
-
-    function logout() {
-      localStorage.removeItem('github_token');
-      GITHUB_TOKEN = '';
-      location.reload();
     }
 
     function showMainApp() {
@@ -890,13 +854,10 @@
       
       switch (currentView) {
         case 'hot': return leads.filter(l => l.temperature === 'Hot' && !isClosed(l) && !isNotInterested(l));
-        case 'followups': 
-          if (followUpSubTab === 'customers-ibos') {
-            return leads.filter(l => isFollowUpDue(l.nextFollowUp) && isClosed(l));
-          }
-          return leads.filter(l => isFollowUpDue(l.nextFollowUp) && !isClosed(l) && !isNotInterested(l));
+        case 'followups': return leads.filter(l => isFollowUpDue(l.nextFollowUp) && !isClosed(l) && !isNotInterested(l));
         case 'actions': return leads.filter(l => l.status === 'Watched' || l.status === 'Sent Video' || l.status === '2WT');
-        case 'customers-ibos': return leads.filter(l => l.status === 'Customer' || l.status === 'IBO');
+        case 'customers': return leads.filter(l => l.status === 'Customer');
+        case 'ibos': return leads.filter(l => l.status === 'IBO');
         case 'nurture': return leads.filter(l => l.status === 'Nurture');
         default: return leads.filter(l => !isClosed(l)); // Master Pipeline excludes Customers/IBOs but shows Not Interested
       }
@@ -963,41 +924,27 @@
       }).join('');
     }
 
-    function toggleSortMode() {
-      sortMode = sortMode === 'newest' ? 'followup' : 'newest';
-      const btn = document.getElementById('sort-toggle-btn');
-      if (btn) {
-        btn.textContent = sortMode === 'newest' ? '📅 Sort: Newest' : '📅 Sort: Follow-Up';
-      }
-      renderLeadsTable();
-    }
-
     function renderLeadsTable() {
       let filtered = getFilteredLeads();
       
-      if (sortMode === 'followup') {
-        // Sort by nextFollowUp ascending (soonest first), nulls last
-        filtered.sort((a, b) => {
-          const aDate = a.nextFollowUp ? new Date(a.nextFollowUp).getTime() : Infinity;
-          const bDate = b.nextFollowUp ? new Date(b.nextFollowUp).getTime() : Infinity;
-          return aDate - bDate;
-        });
-      } else {
-        // Sort by dateAdded descending, then by addedAt timestamp for same-day leads
-        filtered.sort((a, b) => {
-          const dateCompare = new Date(b.dateAdded || b.created) - new Date(a.dateAdded || a.created);
-          if (dateCompare !== 0) return dateCompare;
-          // If same date, sort by addedAt timestamp (newest first)
-          const aTime = a.addedAt ? new Date(a.addedAt).getTime() : 0;
-          const bTime = b.addedAt ? new Date(b.addedAt).getTime() : 0;
-          return bTime - aTime;
-        });
-      }
+      // Sort by dateAdded descending, then by addedAt timestamp for same-day leads
+      filtered.sort((a, b) => {
+        const dateCompare = new Date(b.dateAdded || b.created) - new Date(a.dateAdded || a.created);
+        if (dateCompare !== 0) return dateCompare;
+        // If same date, sort by addedAt timestamp (newest first)
+        const aTime = a.addedAt ? new Date(a.addedAt).getTime() : 0;
+        const bTime = b.addedAt ? new Date(b.addedAt).getTime() : 0;
+        return bTime - aTime;
+      });
       
       // Apply search filter if search term exists
       const searchTerm = document.getElementById('lead-search')?.value?.toLowerCase().trim();
       if (searchTerm) {
-        filtered = filtered.filter(l => l.name.toLowerCase().includes(searchTerm));
+        filtered = filtered.filter(l => {
+          const nameMatch = l.name.toLowerCase().includes(searchTerm);
+          const notesMatch = l.notes && l.notes.toLowerCase().includes(searchTerm);
+          return nameMatch || notesMatch;
+        });
       }
       
       const titles = {
@@ -1005,43 +952,21 @@
         hot: 'Hot Leads',
         followups: 'Follow-ups Due',
         actions: 'Actions Needed',
-        'customers-ibos': 'Customers / IBOs',
+        customers: 'Customers',
+        ibos: 'IBOs',
         nurture: 'Nurture'
       };
-      
-      let titleText = titles[currentView] || currentView;
-      if (currentView === 'followups') {
-        titleText = followUpSubTab === 'customers-ibos' ? 'Follow-ups Due — Customers / IBOs' : 'Follow-ups Due — Prospects';
-      }
-      document.getElementById('view-title').textContent = titleText;
+      document.getElementById('view-title').textContent = titles[currentView];
 
-      // Show/hide Add Lead button, Sort Toggle, and Follow-up Sub-tabs based on view
+      // Show/hide Add Lead button based on view
       const addBtn = document.getElementById('add-lead-btn');
       const emptyAddBtn = document.getElementById('empty-add-btn');
-      const sortToggleBtn = document.getElementById('sort-toggle-btn');
-      const followUpSubTabs = document.getElementById('followup-subtabs');
-      
       if (currentView === 'pipeline') {
         if (addBtn) addBtn.classList.remove('hidden');
         if (emptyAddBtn) emptyAddBtn.classList.remove('hidden');
-        if (sortToggleBtn) sortToggleBtn.style.display = 'inline-block';
-        if (followUpSubTabs) followUpSubTabs.style.display = 'none';
-      } else if (currentView === 'followups') {
-        if (addBtn) addBtn.classList.add('hidden');
-        if (emptyAddBtn) emptyAddBtn.classList.add('hidden');
-        if (sortToggleBtn) sortToggleBtn.style.display = 'none';
-        if (followUpSubTabs) {
-          followUpSubTabs.style.display = 'flex';
-          // Update active state
-          followUpSubTabs.querySelectorAll('.subtab-button').forEach(btn => {
-            btn.classList.toggle('active', btn.dataset.subtab === followUpSubTab);
-          });
-        }
       } else {
         if (addBtn) addBtn.classList.add('hidden');
         if (emptyAddBtn) emptyAddBtn.classList.add('hidden');
-        if (sortToggleBtn) sortToggleBtn.style.display = 'none';
-        if (followUpSubTabs) followUpSubTabs.style.display = 'none';
       }
 
       if (filtered.length === 0) {
@@ -1077,7 +1002,7 @@
                 : formatDate(lead.nextFollowUp)
             }
           </td>
-          <td style="white-space: nowrap;">
+          <td>
             <button class="action-button" onclick="openScriptsModal('${lead.id}')" style="margin-right: 8px; background: #8b5cf6;">Scripts</button>
             <button class="action-button" onclick="openEditModal('${lead.id}')" style="margin-right: 8px;">Edit</button>
             <button class="action-button" onclick="confirmDelete('${lead.id}')" style="background: var(--danger);">Delete</button>
@@ -1877,5 +1802,3 @@
   </div>
 </body>
 </html>
-
-
