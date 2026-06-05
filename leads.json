@@ -2325,7 +2325,25 @@
       "lastModified": "2026-06-05",
       "dateAdded": "2026-06-05",
       "addedAt": "2026-06-05T21:45:57.474Z"
+    },
+    {
+      "id": "mq1gfo1xpcf8kjvc10r",
+      "name": "Darius Myles",
+      "email": "",
+      "phone": "",
+      "social": "https://www.instagram.com/dariusonthedaily?igsh=dXI3MGtmbWlwam5y",
+      "source": "Instagram",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-05",
+      "nextFollowUp": "2026-06-12",
+      "notes": "",
+      "lastModified": "2026-06-05",
+      "dateAdded": "2026-06-05",
+      "addedAt": "2026-06-05T21:47:01.893Z"
     }
   ],
-  "lastUpdated": "2026-06-05T21:45:57.474Z"
+  "lastUpdated": "2026-06-05T21:47:01.893Z"
 }
