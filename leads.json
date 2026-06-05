@@ -2145,7 +2145,25 @@
       "lastModified": "2026-06-01",
       "dateAdded": "2026-06-01",
       "addedAt": "2026-06-02T05:08:38.378Z"
+    },
+    {
+      "id": "mq1f8fetrnm4milpk1l",
+      "name": "David Eats",
+      "email": "",
+      "phone": "",
+      "social": "https://www.instagram.com/daveeatskc?igsh=NmVydzllYnd1OGhw",
+      "source": "Instagram",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-05",
+      "nextFollowUp": "2026-06-12",
+      "notes": "",
+      "lastModified": "2026-06-05",
+      "dateAdded": "2026-06-05",
+      "addedAt": "2026-06-05T21:13:24.485Z"
     }
   ],
-  "lastUpdated": "2026-06-02T05:08:38.378Z"
+  "lastUpdated": "2026-06-05T21:13:24.485Z"
 }
