@@ -549,7 +549,7 @@
         <div class="modal-body">
           <div class="form-group">
             <label class="form-label">Name *</label>
-            <input type="text" id="lead-name" class="form-input" required>
+            <input type="text" id="lead-name" class="form-input" required oninput="this.value = this.value.replace(/\b\w/g, c => c.toUpperCase())">
           </div>
           <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 16px;">
             <div class="form-group">
