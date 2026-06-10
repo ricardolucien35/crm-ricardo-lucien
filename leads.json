@@ -2523,7 +2523,25 @@
       "lastModified": "2026-06-10",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-10T23:37:52.385Z"
+    },
+    {
+      "id": "mq8pmgyvhnuw18ae2dl",
+      "name": "Bryce Mohl",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1Bbxhi6BRZ/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": "2026-06-15",
+      "notes": "",
+      "lastModified": "2026-06-10",
+      "dateAdded": "2026-06-10",
+      "addedAt": "2026-06-10T23:38:39.079Z"
     }
   ],
-  "lastUpdated": "2026-06-10T23:37:52.385Z"
+  "lastUpdated": "2026-06-10T23:38:39.079Z"
 }
