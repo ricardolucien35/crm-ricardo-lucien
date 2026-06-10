@@ -2577,7 +2577,25 @@
       "lastModified": "2026-06-10",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-10T23:45:21.148Z"
+    },
+    {
+      "id": "mq8pxyb2u5geaxjn2j",
+      "name": "Suzanne Wanja",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1SgSugazZT/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": "2026-06-17",
+      "notes": "",
+      "lastModified": "2026-06-10",
+      "dateAdded": "2026-06-10",
+      "addedAt": "2026-06-10T23:47:34.767Z"
     }
   ],
-  "lastUpdated": "2026-06-10T23:45:21.148Z"
+  "lastUpdated": "2026-06-10T23:47:34.768Z"
 }
