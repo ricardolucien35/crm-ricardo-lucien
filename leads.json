@@ -2379,7 +2379,25 @@
       "lastModified": "2026-06-10",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-10T23:30:32.981Z"
+    },
+    {
+      "id": "mq8pe66fqtzppfjbwv",
+      "name": "Francisco Fuentes ",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1XV878bu1M/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": "2026-06-15",
+      "notes": "",
+      "lastModified": "2026-06-10",
+      "dateAdded": "2026-06-10",
+      "addedAt": "2026-06-10T23:32:11.848Z"
     }
   ],
-  "lastUpdated": "2026-06-10T23:30:32.981Z"
+  "lastUpdated": "2026-06-10T23:32:11.848Z"
 }
