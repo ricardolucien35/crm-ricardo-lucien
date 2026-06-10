@@ -2559,7 +2559,25 @@
       "lastModified": "2026-06-10",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-10T23:39:24.068Z"
+    },
+    {
+      "id": "mq8pv37f6qhbqmv8ybo",
+      "name": "Juanky Barrios ",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/18p1i7EPAA/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": "2026-06-15",
+      "notes": "",
+      "lastModified": "2026-06-10",
+      "dateAdded": "2026-06-10",
+      "addedAt": "2026-06-10T23:45:21.148Z"
     }
   ],
-  "lastUpdated": "2026-06-10T23:39:24.068Z"
+  "lastUpdated": "2026-06-10T23:45:21.148Z"
 }
