@@ -2469,7 +2469,25 @@
       "lastModified": "2026-06-10",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-10T23:35:24.211Z"
+    },
+    {
+      "id": "mq8pj8qucwrv5vpy7q",
+      "name": "Grant Collins ",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1DGnwdrF87/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": "2026-06-15",
+      "notes": "",
+      "lastModified": "2026-06-10",
+      "dateAdded": "2026-06-10",
+      "addedAt": "2026-06-10T23:36:08.454Z"
     }
   ],
-  "lastUpdated": "2026-06-10T23:35:24.211Z"
+  "lastUpdated": "2026-06-10T23:36:08.454Z"
 }
