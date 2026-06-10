@@ -2397,7 +2397,25 @@
       "lastModified": "2026-06-10",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-10T23:32:11.848Z"
+    },
+    {
+      "id": "mq8pf91en7yfelgtm5o",
+      "name": "Mikah Labayen",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1D4R2riHBh/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": "2026-06-15",
+      "notes": "",
+      "lastModified": "2026-06-10",
+      "dateAdded": "2026-06-10",
+      "addedAt": "2026-06-10T23:33:02.210Z"
     }
   ],
-  "lastUpdated": "2026-06-10T23:32:11.848Z"
+  "lastUpdated": "2026-06-10T23:33:02.211Z"
 }
