@@ -2433,7 +2433,25 @@
       "lastModified": "2026-06-10",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-10T23:33:48.166Z"
+    },
+    {
+      "id": "mq8phfeevuyy9ica7eq",
+      "name": "Brenden Horned",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/14eV5n9etxm/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": "2026-06-15",
+      "notes": "",
+      "lastModified": "2026-06-10",
+      "dateAdded": "2026-06-10",
+      "addedAt": "2026-06-10T23:34:43.766Z"
     }
   ],
-  "lastUpdated": "2026-06-10T23:33:48.166Z"
+  "lastUpdated": "2026-06-10T23:34:43.766Z"
 }
