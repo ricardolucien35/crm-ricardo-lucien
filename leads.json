@@ -2703,7 +2703,25 @@
       "lastModified": "2026-06-10",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-10T23:52:40.459Z"
+    },
+    {
+      "id": "mq8q5uaemaklmocw5qs",
+      "name": "Cici Dabarber",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/14jCtJgz5Zu/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": "2026-06-15",
+      "notes": "",
+      "lastModified": "2026-06-10",
+      "dateAdded": "2026-06-10",
+      "addedAt": "2026-06-10T23:53:42.806Z"
     }
   ],
-  "lastUpdated": "2026-06-10T23:52:40.459Z"
+  "lastUpdated": "2026-06-10T23:53:42.806Z"
 }
