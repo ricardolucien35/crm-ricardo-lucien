@@ -2595,7 +2595,25 @@
       "lastModified": "2026-06-10",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-10T23:47:34.767Z"
+    },
+    {
+      "id": "mq8pyw4v56y9qf4n36k",
+      "name": "Andy Martinez",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1Cc9q59HLE/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": "2026-06-15",
+      "notes": "",
+      "lastModified": "2026-06-10",
+      "dateAdded": "2026-06-10",
+      "addedAt": "2026-06-10T23:48:18.607Z"
     }
   ],
-  "lastUpdated": "2026-06-10T23:47:34.768Z"
+  "lastUpdated": "2026-06-10T23:48:18.607Z"
 }
