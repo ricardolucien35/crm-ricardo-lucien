@@ -992,7 +992,27 @@
       }
     }
 
+    // Rate limiting protection
+    let lastSaveTime = 0;
+    let saveInProgress = false;
+    
     async function saveLeadsToGitHub() {
+      // Prevent concurrent saves
+      if (saveInProgress) {
+        console.log('Save already in progress, skipping...');
+        return false;
+      }
+      
+      // Rate limit: minimum 2 seconds between saves
+      const now = Date.now();
+      if (now - lastSaveTime < 2000) {
+        console.log('Rate limited: too soon since last save');
+        return false;
+      }
+      
+      saveInProgress = true;
+      lastSaveTime = now;
+      
       try {
         const content = btoa(JSON.stringify({ leads, lastUpdated: new Date().toISOString() }, null, 2));
         const response = await fetch(
@@ -1015,12 +1035,28 @@
         if (response.ok) {
           const data = await response.json();
           sha = data.content.sha;
+          saveInProgress = false;
           return true;
         }
-        console.error('Save failed:', await response.text());
+        
+        // Handle specific error cases
+        const errorText = await response.text();
+        console.error('Save failed:', errorText);
+        
+        if (response.status === 401) {
+          alert('Your GitHub token has expired or been revoked. Please log out and re-enter your token.');
+          logout();
+        } else if (response.status === 403) {
+          alert('GitHub API rate limit reached. Please wait a few minutes and try again.');
+        } else if (response.status === 409) {
+          alert('Conflict detected. The file was modified elsewhere. Please refresh the page.');
+        }
+        
+        saveInProgress = false;
         return false;
       } catch (error) {
         console.error('Error saving leads:', error);
+        saveInProgress = false;
         return false;
       }
     }
