@@ -924,11 +924,12 @@
       "status": "Watched",
       "temperature": "Hot",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-05-20",
-      "nextFollowUp": "2026-06-11",
+      "lastContact": "2026-06-12",
+      "nextFollowUp": "2026-06-13",
       "notes": "",
-      "lastModified": "2026-05-22",
-      "dateAdded": "2026-05-20"
+      "lastModified": "2026-06-12",
+      "dateAdded": "2026-05-20",
+      "videoSent": false
     },
     {
       "id": "mpeu1jbdna5eszi55or",
@@ -2741,5 +2742,5 @@
       "addedAt": "2026-06-10T23:54:25.618Z"
     }
   ],
-  "lastUpdated": "2026-06-13T01:45:44.089Z"
+  "lastUpdated": "2026-06-13T01:46:01.210Z"
 }
