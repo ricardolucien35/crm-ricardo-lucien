@@ -3280,7 +3280,25 @@
       "lastModified": "2026-06-14",
       "dateAdded": "2026-06-14",
       "addedAt": "2026-06-14T22:43:53.543Z"
+    },
+    {
+      "id": "mqedgfp72rrtvyvlmo",
+      "name": "Jay",
+      "email": "",
+      "phone": "",
+      "social": "https://www.instagram.com/jaden3530?igsh=dDl2c2k5NTR3N2Nq",
+      "source": "Instagram",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-14",
+      "nextFollowUp": "2026-06-19",
+      "notes": "",
+      "lastModified": "2026-06-14",
+      "dateAdded": "2026-06-14",
+      "addedAt": "2026-06-14T22:44:39.164Z"
     }
   ],
-  "lastUpdated": "2026-06-14T22:43:53.543Z"
+  "lastUpdated": "2026-06-14T22:44:39.164Z"
 }
