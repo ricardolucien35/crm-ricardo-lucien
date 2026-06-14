@@ -2830,7 +2830,25 @@
       "lastModified": "2026-06-14",
       "dateAdded": "2026-06-14",
       "addedAt": "2026-06-14T15:30:57.874Z"
+    },
+    {
+      "id": "mqdxzp588l86fkrh3c5",
+      "name": "Ceyvion Williams",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1CqjVBijfn/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-14",
+      "nextFollowUp": "2026-06-19",
+      "notes": "",
+      "lastModified": "2026-06-14",
+      "dateAdded": "2026-06-14",
+      "addedAt": "2026-06-14T15:31:44.012Z"
     }
   ],
-  "lastUpdated": "2026-06-14T15:30:57.874Z"
+  "lastUpdated": "2026-06-14T15:31:44.013Z"
 }
