@@ -2992,7 +2992,25 @@
       "lastModified": "2026-06-14",
       "dateAdded": "2026-06-14",
       "addedAt": "2026-06-14T15:47:33.170Z"
+    },
+    {
+      "id": "mqdyl4l61spq9oj89jr",
+      "name": "Jessica McReynolds",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1A1uNDtp4W/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-14",
+      "nextFollowUp": "2026-06-19",
+      "notes": "",
+      "lastModified": "2026-06-14",
+      "dateAdded": "2026-06-14",
+      "addedAt": "2026-06-14T15:48:23.802Z"
     }
   ],
-  "lastUpdated": "2026-06-14T15:47:33.170Z"
+  "lastUpdated": "2026-06-14T15:48:23.803Z"
 }
