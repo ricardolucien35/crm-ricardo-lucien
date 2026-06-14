@@ -2938,7 +2938,25 @@
       "lastModified": "2026-06-14",
       "dateAdded": "2026-06-14",
       "addedAt": "2026-06-14T15:45:26.408Z"
+    },
+    {
+      "id": "mqdyiakp866o5rct3i",
+      "name": "Aerianna",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1Dip38YkgH/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-14",
+      "nextFollowUp": "2026-06-19",
+      "notes": "",
+      "lastModified": "2026-06-14",
+      "dateAdded": "2026-06-14",
+      "addedAt": "2026-06-14T15:46:11.593Z"
     }
   ],
-  "lastUpdated": "2026-06-14T15:45:26.408Z"
+  "lastUpdated": "2026-06-14T15:46:11.594Z"
 }
