@@ -2974,7 +2974,25 @@
       "lastModified": "2026-06-14",
       "dateAdded": "2026-06-14",
       "addedAt": "2026-06-14T15:46:50.487Z"
+    },
+    {
+      "id": "mqdyk1iqvz26jtzw5c",
+      "name": "Madeline Moore",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1HEZsXVKgR/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-14",
+      "nextFollowUp": "2026-06-19",
+      "notes": "",
+      "lastModified": "2026-06-14",
+      "dateAdded": "2026-06-14",
+      "addedAt": "2026-06-14T15:47:33.170Z"
     }
   ],
-  "lastUpdated": "2026-06-14T15:46:50.487Z"
+  "lastUpdated": "2026-06-14T15:47:33.170Z"
 }
