@@ -2794,7 +2794,25 @@
       "lastModified": "2026-06-14",
       "dateAdded": "2026-06-14",
       "addedAt": "2026-06-14T15:29:38.503Z"
+    },
+    {
+      "id": "mqdxxxcu1ng9clhv5vq",
+      "name": "Gisselle Cano",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/17wmRz7uqg/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-14",
+      "nextFollowUp": "2026-06-19",
+      "notes": "",
+      "lastModified": "2026-06-14",
+      "dateAdded": "2026-06-14",
+      "addedAt": "2026-06-14T15:30:21.342Z"
     }
   ],
-  "lastUpdated": "2026-06-14T15:29:38.503Z"
+  "lastUpdated": "2026-06-14T15:30:21.342Z"
 }
