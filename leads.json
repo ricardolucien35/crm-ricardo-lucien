@@ -2758,7 +2758,25 @@
       "lastModified": "2026-06-14",
       "dateAdded": "2026-06-14",
       "addedAt": "2026-06-14T15:28:12.258Z"
+    },
+    {
+      "id": "mqdxw0ht50y2nfzv41q",
+      "name": "Rafa Rios",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1BthJ4ZebJ/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-14",
+      "nextFollowUp": "2026-06-19",
+      "notes": "",
+      "lastModified": "2026-06-14",
+      "dateAdded": "2026-06-14",
+      "addedAt": "2026-06-14T15:28:52.097Z"
     }
   ],
-  "lastUpdated": "2026-06-14T15:28:12.258Z"
+  "lastUpdated": "2026-06-14T15:28:52.098Z"
 }
