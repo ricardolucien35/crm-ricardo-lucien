@@ -2884,7 +2884,25 @@
       "lastModified": "2026-06-14",
       "dateAdded": "2026-06-14",
       "addedAt": "2026-06-14T15:35:57.342Z"
+    },
+    {
+      "id": "mqdyflemfog96fbsmlk",
+      "name": "Lena Nguyen",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/18YKF6rfYc/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-14",
+      "nextFollowUp": "2026-06-19",
+      "notes": "",
+      "lastModified": "2026-06-14",
+      "dateAdded": "2026-06-14",
+      "addedAt": "2026-06-14T15:44:05.662Z"
     }
   ],
-  "lastUpdated": "2026-06-14T15:35:57.343Z"
+  "lastUpdated": "2026-06-14T15:44:05.663Z"
 }
