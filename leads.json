@@ -2902,7 +2902,25 @@
       "lastModified": "2026-06-14",
       "dateAdded": "2026-06-14",
       "addedAt": "2026-06-14T15:44:05.662Z"
+    },
+    {
+      "id": "mqdygbzuwjha5wj4uiq",
+      "name": "Austin Holt",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1AkUbqkbvt/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-14",
+      "nextFollowUp": "2026-06-19",
+      "notes": "",
+      "lastModified": "2026-06-14",
+      "dateAdded": "2026-06-14",
+      "addedAt": "2026-06-14T15:44:40.122Z"
     }
   ],
-  "lastUpdated": "2026-06-14T15:44:05.663Z"
+  "lastUpdated": "2026-06-14T15:44:40.123Z"
 }
