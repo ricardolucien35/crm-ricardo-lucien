@@ -3010,7 +3010,25 @@
       "lastModified": "2026-06-14",
       "dateAdded": "2026-06-14",
       "addedAt": "2026-06-14T15:48:23.802Z"
+    },
+    {
+      "id": "mqdym04w38k8ujn481i",
+      "name": "Hunter Grimm",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1E7HEn9nsT/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-14",
+      "nextFollowUp": "2026-06-19",
+      "notes": "",
+      "lastModified": "2026-06-14",
+      "dateAdded": "2026-06-14",
+      "addedAt": "2026-06-14T15:49:04.688Z"
     }
   ],
-  "lastUpdated": "2026-06-14T15:48:23.803Z"
+  "lastUpdated": "2026-06-14T15:49:04.689Z"
 }
