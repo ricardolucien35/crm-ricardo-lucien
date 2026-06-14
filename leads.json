@@ -3154,7 +3154,25 @@
       "lastModified": "2026-06-14",
       "dateAdded": "2026-06-14",
       "addedAt": "2026-06-14T22:34:08.251Z"
+    },
+    {
+      "id": "mqed48idzopy8o54m0s",
+      "name": "Sam Kulikov",
+      "email": "",
+      "phone": "",
+      "social": "https://www.instagram.com/samvkulikov?igsh=endwb21lbXBscGZ5",
+      "source": "Instagram",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-14",
+      "nextFollowUp": "2026-06-19",
+      "notes": "",
+      "lastModified": "2026-06-14",
+      "dateAdded": "2026-06-14",
+      "addedAt": "2026-06-14T22:35:09.973Z"
     }
   ],
-  "lastUpdated": "2026-06-14T22:34:08.252Z"
+  "lastUpdated": "2026-06-14T22:35:09.973Z"
 }
