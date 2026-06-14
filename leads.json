@@ -3046,7 +3046,25 @@
       "lastModified": "2026-06-14",
       "dateAdded": "2026-06-14",
       "addedAt": "2026-06-14T15:49:47.839Z"
+    },
+    {
+      "id": "mqdyqqvy0v0piwmsh7bj",
+      "name": "Cayden Hoth",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1Eb3k7Q6kq/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-14",
+      "nextFollowUp": "2026-06-19",
+      "notes": "",
+      "lastModified": "2026-06-14",
+      "dateAdded": "2026-06-14",
+      "addedAt": "2026-06-14T15:52:45.983Z"
     }
   ],
-  "lastUpdated": "2026-06-14T15:49:47.840Z"
+  "lastUpdated": "2026-06-14T15:52:45.983Z"
 }
