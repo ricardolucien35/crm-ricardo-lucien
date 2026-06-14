@@ -3262,7 +3262,25 @@
       "lastModified": "2026-06-14",
       "dateAdded": "2026-06-14",
       "addedAt": "2026-06-14T22:43:02.047Z"
+    },
+    {
+      "id": "mqedfghzf0kaoz1cf3p",
+      "name": "Jarrett McCourt",
+      "email": "",
+      "phone": "",
+      "social": "https://www.instagram.com/jarrett.mccourt?igsh=MXJqOWRzNXRvYmh5cA==",
+      "source": "Instagram",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-14",
+      "nextFollowUp": "2026-06-19",
+      "notes": "",
+      "lastModified": "2026-06-14",
+      "dateAdded": "2026-06-14",
+      "addedAt": "2026-06-14T22:43:53.543Z"
     }
   ],
-  "lastUpdated": "2026-06-14T22:43:02.047Z"
+  "lastUpdated": "2026-06-14T22:43:53.543Z"
 }
