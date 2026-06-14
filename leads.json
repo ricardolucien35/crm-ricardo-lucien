@@ -3118,7 +3118,25 @@
       "lastModified": "2026-06-14",
       "dateAdded": "2026-06-14",
       "addedAt": "2026-06-14T16:03:07.521Z"
+    },
+    {
+      "id": "mqed1tvprpo9mt1n8b",
+      "name": "Kristin Peach",
+      "email": "",
+      "phone": "",
+      "social": "https://www.instagram.com/kristinmpeach?igsh=MW0ya29sNHQ1em9sOQ==",
+      "source": "Instagram",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-14",
+      "nextFollowUp": "2026-06-19",
+      "notes": "",
+      "lastModified": "2026-06-14",
+      "dateAdded": "2026-06-14",
+      "addedAt": "2026-06-14T22:33:17.702Z"
     }
   ],
-  "lastUpdated": "2026-06-14T17:09:20.367Z"
+  "lastUpdated": "2026-06-14T22:33:17.703Z"
 }
