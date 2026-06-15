@@ -3316,7 +3316,25 @@
       "lastModified": "2026-06-15",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-15T23:10:40.210Z"
+    },
+    {
+      "id": "mqftuwp17ybf6spxbal",
+      "name": "Brittney Weatherman",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1cHYB97z6d/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-15",
+      "nextFollowUp": "2026-06-22",
+      "notes": "",
+      "lastModified": "2026-06-15",
+      "dateAdded": "2026-06-15",
+      "addedAt": "2026-06-15T23:11:34.405Z"
     }
   ],
-  "lastUpdated": "2026-06-15T23:10:40.210Z"
+  "lastUpdated": "2026-06-15T23:11:34.405Z"
 }
