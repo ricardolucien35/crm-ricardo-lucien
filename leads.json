@@ -3604,7 +3604,25 @@
       "lastModified": "2026-06-15",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-15T23:30:22.679Z"
+    },
+    {
+      "id": "mqfuk8vc8hj8ir80x7p",
+      "name": "Camryn Galvin",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/18rC6eHWTU/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-15",
+      "nextFollowUp": "2026-06-22",
+      "notes": "",
+      "lastModified": "2026-06-15",
+      "dateAdded": "2026-06-15",
+      "addedAt": "2026-06-15T23:31:16.585Z"
     }
   ],
-  "lastUpdated": "2026-06-15T23:30:22.680Z"
+  "lastUpdated": "2026-06-15T23:31:16.585Z"
 }
