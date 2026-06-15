@@ -3550,7 +3550,25 @@
       "lastModified": "2026-06-15",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-15T23:27:19.738Z"
+    },
+    {
+      "id": "mqfufx0iukhmq7i5sgh",
+      "name": "Amy Mai",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/18qNmhBsVX/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-15",
+      "nextFollowUp": "2026-06-22",
+      "notes": "",
+      "lastModified": "2026-06-15",
+      "dateAdded": "2026-06-15",
+      "addedAt": "2026-06-15T23:27:54.594Z"
     }
   ],
-  "lastUpdated": "2026-06-15T23:27:19.739Z"
+  "lastUpdated": "2026-06-15T23:27:54.594Z"
 }
