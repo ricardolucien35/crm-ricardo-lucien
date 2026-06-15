@@ -3478,7 +3478,25 @@
       "lastModified": "2026-06-15",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-15T23:23:28.302Z"
+    },
+    {
+      "id": "mqfubmddlzhw0pgu5ue",
+      "name": "Jenny Lewis",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1Dbme3hHkn/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-15",
+      "nextFollowUp": "2026-06-22",
+      "notes": "",
+      "lastModified": "2026-06-15",
+      "dateAdded": "2026-06-15",
+      "addedAt": "2026-06-15T23:24:34.177Z"
     }
   ],
-  "lastUpdated": "2026-06-15T23:23:28.303Z"
+  "lastUpdated": "2026-06-15T23:24:34.178Z"
 }
