@@ -3460,7 +3460,25 @@
       "lastModified": "2026-06-15",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-15T23:22:43.633Z"
+    },
+    {
+      "id": "mqfua7jix5m5cv1ns7",
+      "name": "Davie Holt",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1DAp8nm1KL/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-15",
+      "nextFollowUp": "2026-06-22",
+      "notes": "",
+      "lastModified": "2026-06-15",
+      "dateAdded": "2026-06-15",
+      "addedAt": "2026-06-15T23:23:28.302Z"
     }
   ],
-  "lastUpdated": "2026-06-15T23:22:43.633Z"
+  "lastUpdated": "2026-06-15T23:23:28.303Z"
 }
