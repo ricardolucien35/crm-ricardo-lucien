@@ -3694,7 +3694,25 @@
       "lastModified": "2026-06-15",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-15T23:40:23.690Z"
+    },
+    {
+      "id": "mqfuxkyz55j6vr16yhk",
+      "name": "Sydney Petree",
+      "email": "",
+      "phone": "",
+      "social": "https://www.instagram.com/sydney.petree?igsh=MWxsYWJ4dXh5aG83bg==",
+      "source": "Instagram",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-15",
+      "nextFollowUp": "2026-06-22",
+      "notes": "",
+      "lastModified": "2026-06-15",
+      "dateAdded": "2026-06-15",
+      "addedAt": "2026-06-15T23:41:38.795Z"
     }
   ],
-  "lastUpdated": "2026-06-15T23:40:23.691Z"
+  "lastUpdated": "2026-06-15T23:41:38.796Z"
 }
