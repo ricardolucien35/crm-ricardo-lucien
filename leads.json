@@ -3766,7 +3766,25 @@
       "lastModified": "2026-06-15",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-15T23:51:22.172Z"
+    },
+    {
+      "id": "mqfvc5lmud706cik1l",
+      "name": "Sara Marquardt",
+      "email": "",
+      "phone": "",
+      "social": "https://www.instagram.com/sara.marquardt?igsh=MW9kbjM2eW14ajJldA==",
+      "source": "Instagram",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-15",
+      "nextFollowUp": "2026-06-22",
+      "notes": "",
+      "lastModified": "2026-06-15",
+      "dateAdded": "2026-06-15",
+      "addedAt": "2026-06-15T23:52:58.714Z"
     }
   ],
-  "lastUpdated": "2026-06-15T23:51:22.173Z"
+  "lastUpdated": "2026-06-15T23:52:58.714Z"
 }
