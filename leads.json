@@ -3640,7 +3640,25 @@
       "lastModified": "2026-06-15",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-15T23:34:12.533Z"
+    },
+    {
+      "id": "mqfuro1liw37q3abj6",
+      "name": "Kayla Royster",
+      "email": "",
+      "phone": "",
+      "social": "https://www.instagram.com/kayladr_fitnessacct?igsh=MW9iZjE5Y3BsZDE2eA==",
+      "source": "Instagram",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-15",
+      "nextFollowUp": "2026-06-22",
+      "notes": "",
+      "lastModified": "2026-06-15",
+      "dateAdded": "2026-06-15",
+      "addedAt": "2026-06-15T23:37:02.841Z"
     }
   ],
-  "lastUpdated": "2026-06-15T23:34:12.533Z"
+  "lastUpdated": "2026-06-15T23:37:02.842Z"
 }
