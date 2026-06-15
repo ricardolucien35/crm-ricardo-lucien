@@ -3568,7 +3568,25 @@
       "lastModified": "2026-06-15",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-15T23:27:54.594Z"
+    },
+    {
+      "id": "mqfugtofi9slwbhq01l",
+      "name": "Jackie Evans",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1b2NiLvt8k/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-15",
+      "nextFollowUp": "2026-06-22",
+      "notes": "",
+      "lastModified": "2026-06-15",
+      "dateAdded": "2026-06-15",
+      "addedAt": "2026-06-15T23:28:36.927Z"
     }
   ],
-  "lastUpdated": "2026-06-15T23:27:54.594Z"
+  "lastUpdated": "2026-06-15T23:28:36.927Z"
 }
