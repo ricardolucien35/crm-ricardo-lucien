@@ -3496,7 +3496,25 @@
       "lastModified": "2026-06-15",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-15T23:24:34.177Z"
+    },
+    {
+      "id": "mqfucl7pid1s56r7e",
+      "name": "Zavien Speakman",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/18dziQGjPk/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-15",
+      "nextFollowUp": "2026-06-22",
+      "notes": "",
+      "lastModified": "2026-06-15",
+      "dateAdded": "2026-06-15",
+      "addedAt": "2026-06-15T23:25:19.333Z"
     }
   ],
-  "lastUpdated": "2026-06-15T23:24:34.178Z"
+  "lastUpdated": "2026-06-15T23:25:19.333Z"
 }
