@@ -3586,7 +3586,25 @@
       "lastModified": "2026-06-15",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-15T23:28:36.927Z"
+    },
+    {
+      "id": "mqfuj39z7z465bymmar",
+      "name": "Katherine Elizabeth",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1GaaaPVz2Y/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-15",
+      "nextFollowUp": "2026-06-22",
+      "notes": "",
+      "lastModified": "2026-06-15",
+      "dateAdded": "2026-06-15",
+      "addedAt": "2026-06-15T23:30:22.679Z"
     }
   ],
-  "lastUpdated": "2026-06-15T23:28:36.927Z"
+  "lastUpdated": "2026-06-15T23:30:22.680Z"
 }
