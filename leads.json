@@ -3712,7 +3712,25 @@
       "lastModified": "2026-06-15",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-15T23:41:38.795Z"
+    },
+    {
+      "id": "mqfuz9ato04n6v90cl8",
+      "name": "Monica Cher",
+      "email": "",
+      "phone": "",
+      "social": "https://www.instagram.com/itsmonicacher?igsh=MXY4bWlwMWhqNHZ0eA==",
+      "source": "Instagram",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-15",
+      "nextFollowUp": "2026-06-22",
+      "notes": "",
+      "lastModified": "2026-06-15",
+      "dateAdded": "2026-06-15",
+      "addedAt": "2026-06-15T23:42:56.981Z"
     }
   ],
-  "lastUpdated": "2026-06-15T23:41:38.796Z"
+  "lastUpdated": "2026-06-15T23:42:56.982Z"
 }
