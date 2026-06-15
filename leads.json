@@ -3532,7 +3532,25 @@
       "lastModified": "2026-06-15",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-15T23:26:09.381Z"
+    },
+    {
+      "id": "mqfuf64akagohttkj5",
+      "name": "Kashira Pettiford",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1FAZAUdLRC/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-15",
+      "nextFollowUp": "2026-06-22",
+      "notes": "",
+      "lastModified": "2026-06-15",
+      "dateAdded": "2026-06-15",
+      "addedAt": "2026-06-15T23:27:19.738Z"
     }
   ],
-  "lastUpdated": "2026-06-15T23:26:09.381Z"
+  "lastUpdated": "2026-06-15T23:27:19.739Z"
 }
