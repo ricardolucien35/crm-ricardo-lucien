@@ -3658,7 +3658,25 @@
       "lastModified": "2026-06-15",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-15T23:37:02.841Z"
+    },
+    {
+      "id": "mqfusxffmqsd6ozd8o",
+      "name": "Sadie",
+      "email": "",
+      "phone": "",
+      "social": "https://www.instagram.com/sadieunlucky?igsh=MTJ6azR6dmEyNTcwcA==",
+      "source": "Instagram",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-15",
+      "nextFollowUp": "2026-06-22",
+      "notes": "",
+      "lastModified": "2026-06-15",
+      "dateAdded": "2026-06-15",
+      "addedAt": "2026-06-15T23:38:01.659Z"
     }
   ],
-  "lastUpdated": "2026-06-15T23:37:02.842Z"
+  "lastUpdated": "2026-06-15T23:38:01.659Z"
 }
