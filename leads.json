@@ -3442,7 +3442,25 @@
       "lastModified": "2026-06-15",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-15T23:21:47.949Z"
+    },
+    {
+      "id": "mqfu992pywvhjfpbj7",
+      "name": "McCartney Quinn",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1DJeQo5tXj/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-15",
+      "nextFollowUp": "2026-06-22",
+      "notes": "",
+      "lastModified": "2026-06-15",
+      "dateAdded": "2026-06-15",
+      "addedAt": "2026-06-15T23:22:43.633Z"
     }
   ],
-  "lastUpdated": "2026-06-15T23:21:47.950Z"
+  "lastUpdated": "2026-06-15T23:22:43.633Z"
 }
