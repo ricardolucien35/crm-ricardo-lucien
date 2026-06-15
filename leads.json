@@ -3424,7 +3424,25 @@
       "lastModified": "2026-06-15",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-15T23:21:02.987Z"
+    },
+    {
+      "id": "mqfu823xka4xcx4u7j",
+      "name": "Kolby Sowell",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-15",
+      "nextFollowUp": "2026-06-22",
+      "notes": "",
+      "lastModified": "2026-06-15",
+      "dateAdded": "2026-06-15",
+      "addedAt": "2026-06-15T23:21:47.949Z"
     }
   ],
-  "lastUpdated": "2026-06-15T23:21:02.988Z"
+  "lastUpdated": "2026-06-15T23:21:47.950Z"
 }
