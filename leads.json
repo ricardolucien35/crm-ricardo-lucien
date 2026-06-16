@@ -2418,24 +2418,6 @@
       "addedAt": "2026-06-10T23:33:02.210Z"
     },
     {
-      "id": "mq8pg8hy5rucus07axb",
-      "name": "Maryi Arita",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/share/1H6QiDtm9j/?mibextid=wwXIfr",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-06-15",
-      "nextFollowUp": "2026-06-18",
-      "notes": "",
-      "lastModified": "2026-06-15",
-      "dateAdded": "2026-06-10",
-      "addedAt": "2026-06-10T23:33:48.166Z"
-    },
-    {
       "id": "mq8phfeevuyy9ica7eq",
       "name": "Brenden Horned",
       "email": "",
@@ -4146,5 +4128,5 @@
       "addedAt": "2026-06-16T18:04:00.418Z"
     }
   ],
-  "lastUpdated": "2026-06-16T18:04:00.418Z"
+  "lastUpdated": "2026-06-16T18:34:14.631Z"
 }
