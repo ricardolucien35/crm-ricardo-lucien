@@ -3820,7 +3820,25 @@
       "lastModified": "2026-06-15",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-16T00:01:06.558Z"
+    },
+    {
+      "id": "mqfvnrg4l3dz9ydmu8",
+      "name": "Jasmine Rose",
+      "email": "",
+      "phone": "",
+      "social": "https://www.instagram.com/jaasmine.rose?igsh=MXA3b2I0dGw4Z3R5bg==",
+      "source": "Instagram",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-15",
+      "nextFollowUp": "2026-06-22",
+      "notes": "",
+      "lastModified": "2026-06-15",
+      "dateAdded": "2026-06-15",
+      "addedAt": "2026-06-16T00:02:00.244Z"
     }
   ],
-  "lastUpdated": "2026-06-16T00:01:06.558Z"
+  "lastUpdated": "2026-06-16T00:02:00.245Z"
 }
