@@ -4036,7 +4036,25 @@
       "lastModified": "2026-06-16",
       "dateAdded": "2026-06-16",
       "addedAt": "2026-06-16T17:54:16.663Z"
+    },
+    {
+      "id": "mqgy0bna0nzeobwgitw",
+      "name": "Emmanuel Ugwuegbu",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1EJ9DcDuVB/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-16",
+      "nextFollowUp": "2026-06-23",
+      "notes": "",
+      "lastModified": "2026-06-16",
+      "dateAdded": "2026-06-16",
+      "addedAt": "2026-06-16T17:55:31.702Z"
     }
   ],
-  "lastUpdated": "2026-06-16T17:54:16.663Z"
+  "lastUpdated": "2026-06-16T17:55:31.702Z"
 }
