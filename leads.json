@@ -3982,7 +3982,25 @@
       "lastModified": "2026-06-16",
       "dateAdded": "2026-06-16",
       "addedAt": "2026-06-16T17:50:10.832Z"
+    },
+    {
+      "id": "mqgxucbfrkpc0h1s8iq",
+      "name": "Chloe Marshall",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1CsN7ohqNT/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-16",
+      "nextFollowUp": "2026-06-23",
+      "notes": "",
+      "lastModified": "2026-06-16",
+      "dateAdded": "2026-06-16",
+      "addedAt": "2026-06-16T17:50:52.635Z"
     }
   ],
-  "lastUpdated": "2026-06-16T17:50:10.832Z"
+  "lastUpdated": "2026-06-16T17:50:52.635Z"
 }
