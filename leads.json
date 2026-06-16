@@ -4054,7 +4054,25 @@
       "lastModified": "2026-06-16",
       "dateAdded": "2026-06-16",
       "addedAt": "2026-06-16T17:55:31.702Z"
+    },
+    {
+      "id": "mqgy1wnrxbyc632lr5",
+      "name": "Taylor Lavallee",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1BxTtCM4K1/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-16",
+      "nextFollowUp": "2026-06-23",
+      "notes": "",
+      "lastModified": "2026-06-16",
+      "dateAdded": "2026-06-16",
+      "addedAt": "2026-06-16T17:56:45.591Z"
     }
   ],
-  "lastUpdated": "2026-06-16T17:55:31.702Z"
+  "lastUpdated": "2026-06-16T17:56:45.591Z"
 }
