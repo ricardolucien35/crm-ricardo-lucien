@@ -4126,7 +4126,25 @@
       "lastModified": "2026-06-16",
       "dateAdded": "2026-06-16",
       "addedAt": "2026-06-16T18:01:00.939Z"
+    },
+    {
+      "id": "mqgyb869n2rz09i6j0h",
+      "name": "Jkc Jordan",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1DqGK9TJnD/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-16",
+      "nextFollowUp": "2026-06-23",
+      "notes": "",
+      "lastModified": "2026-06-16",
+      "dateAdded": "2026-06-16",
+      "addedAt": "2026-06-16T18:04:00.418Z"
     }
   ],
-  "lastUpdated": "2026-06-16T18:01:00.940Z"
+  "lastUpdated": "2026-06-16T18:04:00.418Z"
 }
