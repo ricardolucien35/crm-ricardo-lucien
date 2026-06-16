@@ -3874,7 +3874,25 @@
       "lastModified": "2026-06-15",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-16T00:29:59.155Z"
+    },
+    {
+      "id": "mqgxntsvvknab2teg1",
+      "name": "Melissa Hope",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1BNzZohTPK/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-16",
+      "nextFollowUp": "2026-06-23",
+      "notes": "",
+      "lastModified": "2026-06-16",
+      "dateAdded": "2026-06-16",
+      "addedAt": "2026-06-16T17:45:48.704Z"
     }
   ],
-  "lastUpdated": "2026-06-16T17:20:43.137Z"
+  "lastUpdated": "2026-06-16T17:45:48.704Z"
 }
