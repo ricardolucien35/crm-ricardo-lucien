@@ -3910,7 +3910,25 @@
       "lastModified": "2026-06-16",
       "dateAdded": "2026-06-16",
       "addedAt": "2026-06-16T17:46:51.554Z"
+    },
+    {
+      "id": "mqgxqbzvd4tu1b6d8bo",
+      "name": "Ashley Foster",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1HiPC5mFFx/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-16",
+      "nextFollowUp": "2026-06-23",
+      "notes": "",
+      "lastModified": "2026-06-16",
+      "dateAdded": "2026-06-16",
+      "addedAt": "2026-06-16T17:47:45.596Z"
     }
   ],
-  "lastUpdated": "2026-06-16T17:46:51.554Z"
+  "lastUpdated": "2026-06-16T17:47:45.596Z"
 }
