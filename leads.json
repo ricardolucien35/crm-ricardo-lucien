@@ -4126,7 +4126,25 @@
       "lastModified": "2026-06-16",
       "dateAdded": "2026-06-16",
       "addedAt": "2026-06-16T18:04:00.418Z"
+    },
+    {
+      "id": "mqgzer6s73wk214uoye",
+      "name": "Margie Moreira",
+      "email": "",
+      "phone": "",
+      "social": "https://www.instagram.com/margiemoreir?igsh=MWo3dGcxdjJ2azdsYQ==",
+      "source": "Instagram",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-16",
+      "nextFollowUp": "2026-06-18",
+      "notes": "",
+      "lastModified": "2026-06-16",
+      "dateAdded": "2026-06-16",
+      "addedAt": "2026-06-16T18:34:44.645Z"
     }
   ],
-  "lastUpdated": "2026-06-16T18:34:14.631Z"
+  "lastUpdated": "2026-06-16T18:34:44.645Z"
 }
