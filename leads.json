@@ -3838,7 +3838,25 @@
       "lastModified": "2026-06-15",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-16T00:02:00.244Z"
+    },
+    {
+      "id": "mqfw3sevym350f5g21c",
+      "name": "Pierce Mckie",
+      "email": "",
+      "phone": "",
+      "social": "https://www.instagram.com/pierce.mckie?igsh=MTFkOXludjllbHN6ag==",
+      "source": "Instagram",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-15",
+      "nextFollowUp": "2026-06-16",
+      "notes": "",
+      "lastModified": "2026-06-15",
+      "dateAdded": "2026-06-15",
+      "addedAt": "2026-06-16T00:14:27.991Z"
     }
   ],
-  "lastUpdated": "2026-06-16T00:02:00.245Z"
+  "lastUpdated": "2026-06-16T00:14:27.992Z"
 }
