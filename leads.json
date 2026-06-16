@@ -4090,7 +4090,25 @@
       "lastModified": "2026-06-16",
       "dateAdded": "2026-06-16",
       "addedAt": "2026-06-16T17:57:30.256Z"
+    },
+    {
+      "id": "mqgy5jzvbd6ydvyyijs",
+      "name": "Jayswell Manswell",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/18jynkLhZf/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-16",
+      "nextFollowUp": "2026-06-23",
+      "notes": "",
+      "lastModified": "2026-06-16",
+      "dateAdded": "2026-06-16",
+      "addedAt": "2026-06-16T17:59:35.803Z"
     }
   ],
-  "lastUpdated": "2026-06-16T17:57:30.256Z"
+  "lastUpdated": "2026-06-16T17:59:35.804Z"
 }
