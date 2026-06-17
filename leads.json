@@ -25,11 +25,11 @@
       "source": "Instagram",
       "status": "Watched",
       "temperature": "Cold",
-      "lastAction": "Follow-up 1",
-      "lastContact": "2026-06-10",
-      "nextFollowUp": "2026-06-17",
+      "lastAction": "Follow-up 2",
+      "lastContact": "2026-06-17",
+      "nextFollowUp": "2026-06-24",
       "notes": "",
-      "lastModified": "2026-06-10",
+      "lastModified": "2026-06-17",
       "dateAdded": "2026-05-18",
       "videoSent": true
     },
@@ -4272,5 +4272,5 @@
       "addedAt": "2026-06-17T02:54:37.868Z"
     }
   ],
-  "lastUpdated": "2026-06-17T21:01:32.919Z"
+  "lastUpdated": "2026-06-17T21:03:00.600Z"
 }
