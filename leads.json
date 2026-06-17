@@ -4252,7 +4252,25 @@
       "lastModified": "2026-06-16",
       "dateAdded": "2026-06-16",
       "addedAt": "2026-06-17T02:52:56.381Z"
+    },
+    {
+      "id": "mqhh9m3wjksvlfzzpas",
+      "name": "Hannah",
+      "email": "",
+      "phone": "",
+      "social": "https://www.instagram.com/yo.han.nahh?igsh=MTQyb2ZkcW9udHZnYg==",
+      "source": "Instagram",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-16",
+      "nextFollowUp": "2026-06-23",
+      "notes": "",
+      "lastModified": "2026-06-16",
+      "dateAdded": "2026-06-16",
+      "addedAt": "2026-06-17T02:54:37.868Z"
     }
   ],
-  "lastUpdated": "2026-06-17T02:52:56.381Z"
+  "lastUpdated": "2026-06-17T02:54:37.868Z"
 }
