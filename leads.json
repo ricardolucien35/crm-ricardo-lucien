@@ -4378,7 +4378,25 @@
       "lastModified": "2026-06-18",
       "dateAdded": "2026-06-18",
       "addedAt": "2026-06-19T00:59:47.330Z"
+    },
+    {
+      "id": "mqk82xw4l08c1z4lsa",
+      "name": "Annabelle G",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/17YjFqVt6F/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-18",
+      "nextFollowUp": "2026-06-25",
+      "notes": "",
+      "lastModified": "2026-06-18",
+      "dateAdded": "2026-06-18",
+      "addedAt": "2026-06-19T01:00:48.533Z"
     }
   ],
-  "lastUpdated": "2026-06-19T00:59:47.330Z"
+  "lastUpdated": "2026-06-19T01:00:48.534Z"
 }
