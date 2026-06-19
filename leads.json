@@ -4450,7 +4450,25 @@
       "lastModified": "2026-06-18",
       "dateAdded": "2026-06-18",
       "addedAt": "2026-06-19T01:04:52.142Z"
+    },
+    {
+      "id": "mqk8aql2uepgidv7st",
+      "name": "Sarah Slices",
+      "email": "",
+      "phone": "",
+      "social": "https://www.instagram.com/sarahhslices?igsh=NTZvMWwwaWwxNjdu",
+      "source": "Instagram",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-18",
+      "nextFollowUp": "2026-06-25",
+      "notes": "",
+      "lastModified": "2026-06-18",
+      "dateAdded": "2026-06-18",
+      "addedAt": "2026-06-19T01:06:52.310Z"
     }
   ],
-  "lastUpdated": "2026-06-19T01:04:52.142Z"
+  "lastUpdated": "2026-06-19T01:06:52.311Z"
 }
