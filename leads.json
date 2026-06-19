@@ -4468,7 +4468,25 @@
       "lastModified": "2026-06-18",
       "dateAdded": "2026-06-18",
       "addedAt": "2026-06-19T01:06:52.310Z"
+    },
+    {
+      "id": "mqk8bwxhzog7gfszln",
+      "name": "Nicholas Montoya",
+      "email": "",
+      "phone": "",
+      "social": "https://www.instagram.com/namonto?igsh=NDhvaHg4czJ6aWRh",
+      "source": "Instagram",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-18",
+      "nextFollowUp": "2026-06-25",
+      "notes": "",
+      "lastModified": "2026-06-18",
+      "dateAdded": "2026-06-18",
+      "addedAt": "2026-06-19T01:07:47.190Z"
     }
   ],
-  "lastUpdated": "2026-06-19T01:06:52.311Z"
+  "lastUpdated": "2026-06-19T01:07:47.190Z"
 }
