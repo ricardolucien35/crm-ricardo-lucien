@@ -4828,7 +4828,25 @@
       "lastModified": "2026-06-20",
       "dateAdded": "2026-06-20",
       "addedAt": "2026-06-20T17:14:36.561Z"
+    },
+    {
+      "id": "mqmmcz8wb7e9ex2n0yw",
+      "name": "Vianey Gamboa",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/18iE6F7Z1r/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-20",
+      "nextFollowUp": "2026-06-22",
+      "notes": "",
+      "lastModified": "2026-06-20",
+      "dateAdded": "2026-06-20",
+      "addedAt": "2026-06-20T17:16:03.825Z"
     }
   ],
-  "lastUpdated": "2026-06-20T17:14:36.562Z"
+  "lastUpdated": "2026-06-20T17:16:03.825Z"
 }
