@@ -4792,7 +4792,25 @@
       "lastModified": "2026-06-19",
       "dateAdded": "2026-06-19",
       "addedAt": "2026-06-20T00:29:14.485Z"
+    },
+    {
+      "id": "mqlmfawm5o4jjix1ww7",
+      "name": "Morgan Driskell",
+      "email": "",
+      "phone": "",
+      "social": "https://www.instagram.com/morgandriskell?igsh=MTRzMWJjd3MwZ25rYQ==",
+      "source": "Instagram",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-19",
+      "nextFollowUp": "2026-06-26",
+      "notes": "",
+      "lastModified": "2026-06-19",
+      "dateAdded": "2026-06-19",
+      "addedAt": "2026-06-20T00:30:06.070Z"
     }
   ],
-  "lastUpdated": "2026-06-20T00:29:14.485Z"
+  "lastUpdated": "2026-06-20T00:30:06.070Z"
 }
