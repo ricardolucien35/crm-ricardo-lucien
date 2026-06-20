@@ -5062,7 +5062,25 @@
       "lastModified": "2026-06-20",
       "dateAdded": "2026-06-20",
       "addedAt": "2026-06-20T17:29:43.696Z"
+    },
+    {
+      "id": "mqmmvm7srjnoizfxdmk",
+      "name": "Meital Levy",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1BYhJ2cSy6/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-20",
+      "nextFollowUp": "2026-06-27",
+      "notes": "",
+      "lastModified": "2026-06-20",
+      "dateAdded": "2026-06-20",
+      "addedAt": "2026-06-20T17:30:33.400Z"
     }
   ],
-  "lastUpdated": "2026-06-20T17:29:43.696Z"
+  "lastUpdated": "2026-06-20T17:30:33.400Z"
 }
