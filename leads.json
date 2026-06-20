@@ -4936,7 +4936,25 @@
       "lastModified": "2026-06-20",
       "dateAdded": "2026-06-20",
       "addedAt": "2026-06-20T17:23:46.475Z"
+    },
+    {
+      "id": "mqmmo5mc41nlimcfw17",
+      "name": "Keegan Fulk",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/18pUKmhPyQ/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-20",
+      "nextFollowUp": "2026-06-27",
+      "notes": "",
+      "lastModified": "2026-06-20",
+      "dateAdded": "2026-06-20",
+      "addedAt": "2026-06-20T17:24:45.300Z"
     }
   ],
-  "lastUpdated": "2026-06-20T17:23:46.476Z"
+  "lastUpdated": "2026-06-20T17:24:45.301Z"
 }
