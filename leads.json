@@ -5080,7 +5080,25 @@
       "lastModified": "2026-06-20",
       "dateAdded": "2026-06-20",
       "addedAt": "2026-06-20T17:30:33.400Z"
+    },
+    {
+      "id": "mqmmwsz8tiar5yc5rtk",
+      "name": "Blair Hofstetter",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1RvfDg5rte/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-20",
+      "nextFollowUp": "2026-06-27",
+      "notes": "",
+      "lastModified": "2026-06-20",
+      "dateAdded": "2026-06-20",
+      "addedAt": "2026-06-20T17:31:28.821Z"
     }
   ],
-  "lastUpdated": "2026-06-20T17:30:33.400Z"
+  "lastUpdated": "2026-06-20T17:31:28.821Z"
 }
