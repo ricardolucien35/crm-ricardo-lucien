@@ -4810,7 +4810,25 @@
       "lastModified": "2026-06-19",
       "dateAdded": "2026-06-19",
       "addedAt": "2026-06-20T00:30:06.070Z"
+    },
+    {
+      "id": "mqmmb3wxti9tta47qem",
+      "name": "Laura Ramirez",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1H4yfiFFNx/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-20",
+      "nextFollowUp": "2026-06-27",
+      "notes": "",
+      "lastModified": "2026-06-20",
+      "dateAdded": "2026-06-20",
+      "addedAt": "2026-06-20T17:14:36.561Z"
     }
   ],
-  "lastUpdated": "2026-06-20T00:30:06.070Z"
+  "lastUpdated": "2026-06-20T17:14:36.562Z"
 }
