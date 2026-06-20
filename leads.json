@@ -4630,7 +4630,25 @@
       "lastModified": "2026-06-19",
       "dateAdded": "2026-06-19",
       "addedAt": "2026-06-20T00:19:48.059Z"
+    },
+    {
+      "id": "mqlm3yeakdr0n3o0sge",
+      "name": "Emma Nelson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.instagram.com/nutrition.by.emma?igsh=a2Npdjc4OTlidHdp",
+      "source": "Instagram",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-19",
+      "nextFollowUp": "2026-06-26",
+      "notes": "",
+      "lastModified": "2026-06-19",
+      "dateAdded": "2026-06-19",
+      "addedAt": "2026-06-20T00:21:16.642Z"
     }
   ],
-  "lastUpdated": "2026-06-20T00:19:48.060Z"
+  "lastUpdated": "2026-06-20T00:21:16.642Z"
 }
