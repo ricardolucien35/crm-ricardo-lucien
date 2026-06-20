@@ -4882,7 +4882,25 @@
       "lastModified": "2026-06-20",
       "dateAdded": "2026-06-20",
       "addedAt": "2026-06-20T17:19:11.034Z"
+    },
+    {
+      "id": "mqmmj4cgohe7ltebrbm",
+      "name": "Laura Blakey",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/18rXvDWGuf/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-20",
+      "nextFollowUp": "2026-06-27",
+      "notes": "",
+      "lastModified": "2026-06-20",
+      "dateAdded": "2026-06-20",
+      "addedAt": "2026-06-20T17:20:50.368Z"
     }
   ],
-  "lastUpdated": "2026-06-20T17:19:11.035Z"
+  "lastUpdated": "2026-06-20T17:20:50.368Z"
 }
