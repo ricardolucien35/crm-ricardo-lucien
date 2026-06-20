@@ -4954,7 +4954,25 @@
       "lastModified": "2026-06-20",
       "dateAdded": "2026-06-20",
       "addedAt": "2026-06-20T17:24:45.300Z"
+    },
+    {
+      "id": "mqmmozzgl3gdjxqzwek",
+      "name": "Mary Janesko",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1etmpjCt7a/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-20",
+      "nextFollowUp": "2026-06-27",
+      "notes": "",
+      "lastModified": "2026-06-20",
+      "dateAdded": "2026-06-20",
+      "addedAt": "2026-06-20T17:25:24.652Z"
     }
   ],
-  "lastUpdated": "2026-06-20T17:24:45.301Z"
+  "lastUpdated": "2026-06-20T17:25:24.652Z"
 }
