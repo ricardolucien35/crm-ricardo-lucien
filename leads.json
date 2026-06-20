@@ -5008,7 +5008,25 @@
       "lastModified": "2026-06-20",
       "dateAdded": "2026-06-20",
       "addedAt": "2026-06-20T17:27:17.554Z"
+    },
+    {
+      "id": "mqmmsft0v0zk3bfnpz",
+      "name": "Chelsea Butler",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/18qXV7uHZX/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-20",
+      "nextFollowUp": "2026-06-27",
+      "notes": "",
+      "lastModified": "2026-06-20",
+      "dateAdded": "2026-06-20",
+      "addedAt": "2026-06-20T17:28:05.124Z"
     }
   ],
-  "lastUpdated": "2026-06-20T17:27:17.554Z"
+  "lastUpdated": "2026-06-20T17:28:05.125Z"
 }
