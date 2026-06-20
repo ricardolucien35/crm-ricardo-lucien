@@ -5044,7 +5044,25 @@
       "lastModified": "2026-06-20",
       "dateAdded": "2026-06-20",
       "addedAt": "2026-06-20T17:28:49.126Z"
+    },
+    {
+      "id": "mqmmujv4vr6yy7gngrk",
+      "name": "Ashton Ross",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1EsbH5viQZ/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-20",
+      "nextFollowUp": "2026-06-27",
+      "notes": "",
+      "lastModified": "2026-06-20",
+      "dateAdded": "2026-06-20",
+      "addedAt": "2026-06-20T17:29:43.696Z"
     }
   ],
-  "lastUpdated": "2026-06-20T17:28:49.127Z"
+  "lastUpdated": "2026-06-20T17:29:43.696Z"
 }
