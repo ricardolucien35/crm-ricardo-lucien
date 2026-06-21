@@ -5189,7 +5189,25 @@
       "lastModified": "2026-06-20",
       "dateAdded": "2026-06-20",
       "addedAt": "2026-06-21T02:05:34.672Z"
+    },
+    {
+      "id": "mqn5ba5dat1xn6dctys",
+      "name": "Megan Meriwether",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1D5UnL3TWv/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-20",
+      "nextFollowUp": "2026-06-25",
+      "notes": "",
+      "lastModified": "2026-06-20",
+      "dateAdded": "2026-06-20",
+      "addedAt": "2026-06-21T02:06:37.345Z"
     }
   ],
-  "lastUpdated": "2026-06-21T02:05:34.672Z"
+  "lastUpdated": "2026-06-21T02:06:37.345Z"
 }
