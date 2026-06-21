@@ -5171,7 +5171,25 @@
       "lastModified": "2026-06-20",
       "dateAdded": "2026-06-20",
       "addedAt": "2026-06-20T22:03:41.838Z"
+    },
+    {
+      "id": "mqn59xsfw4vq4eajfn",
+      "name": "Jodi Schieszer",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1DPmjJVVPQ/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-20",
+      "nextFollowUp": "2026-06-25",
+      "notes": "",
+      "lastModified": "2026-06-20",
+      "dateAdded": "2026-06-20",
+      "addedAt": "2026-06-21T02:05:34.672Z"
     }
   ],
-  "lastUpdated": "2026-06-21T01:59:24.703Z"
+  "lastUpdated": "2026-06-21T02:05:34.672Z"
 }
