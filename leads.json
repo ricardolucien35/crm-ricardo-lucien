@@ -502,11 +502,11 @@
       "source": "Other",
       "status": "Watched",
       "temperature": "Hot",
-      "lastAction": "Follow-up 3",
-      "lastContact": "2026-06-20",
-      "nextFollowUp": "2026-06-21",
+      "lastAction": "Follow-up 4",
+      "lastContact": "2026-06-21",
+      "nextFollowUp": "2026-06-22",
       "notes": "",
-      "lastModified": "2026-06-20",
+      "lastModified": "2026-06-21",
       "dateAdded": "2026-05-18",
       "videoSent": true
     },
@@ -5245,5 +5245,5 @@
       "addedAt": "2026-06-22T00:17:23.679Z"
     }
   ],
-  "lastUpdated": "2026-06-22T00:22:27.703Z"
+  "lastUpdated": "2026-06-22T00:25:34.744Z"
 }
