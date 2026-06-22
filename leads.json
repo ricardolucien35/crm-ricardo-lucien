@@ -5225,7 +5225,25 @@
       "lastModified": "2026-06-20",
       "dateAdded": "2026-06-20",
       "addedAt": "2026-06-21T02:07:18.660Z"
+    },
+    {
+      "id": "mqogunz2y4f4ds4khm",
+      "name": "Ashley Nesbit",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1G5HgDWJt7/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-21",
+      "nextFollowUp": "2026-06-22",
+      "notes": "",
+      "lastModified": "2026-06-21",
+      "dateAdded": "2026-06-21",
+      "addedAt": "2026-06-22T00:17:23.679Z"
     }
   ],
-  "lastUpdated": "2026-06-21T02:07:18.660Z"
+  "lastUpdated": "2026-06-22T00:17:23.679Z"
 }
