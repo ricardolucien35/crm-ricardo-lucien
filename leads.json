@@ -5279,7 +5279,25 @@
       "lastModified": "2026-06-22",
       "dateAdded": "2026-06-22",
       "addedAt": "2026-06-23T02:49:41.116Z"
+    },
+    {
+      "id": "mqq1s20y48t0sl4efq",
+      "name": "Ella Connolly",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/14iKPeJWNvi/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-22",
+      "nextFollowUp": "2026-06-29",
+      "notes": "",
+      "lastModified": "2026-06-22",
+      "dateAdded": "2026-06-22",
+      "addedAt": "2026-06-23T02:51:00.034Z"
     }
   ],
-  "lastUpdated": "2026-06-23T02:49:41.116Z"
+  "lastUpdated": "2026-06-23T02:51:00.034Z"
 }
