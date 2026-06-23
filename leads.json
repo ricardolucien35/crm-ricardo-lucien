@@ -5297,7 +5297,25 @@
       "lastModified": "2026-06-22",
       "dateAdded": "2026-06-22",
       "addedAt": "2026-06-23T02:51:00.034Z"
+    },
+    {
+      "id": "mqq1tzxss84d9qu5r3h",
+      "name": "Chelsea Alicia",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1BVDDiC8Kx/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-22",
+      "nextFollowUp": "2026-06-29",
+      "notes": "",
+      "lastModified": "2026-06-22",
+      "dateAdded": "2026-06-22",
+      "addedAt": "2026-06-23T02:52:30.640Z"
     }
   ],
-  "lastUpdated": "2026-06-23T02:51:00.034Z"
+  "lastUpdated": "2026-06-23T02:52:30.640Z"
 }
