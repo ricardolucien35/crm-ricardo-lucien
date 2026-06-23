@@ -5261,7 +5261,25 @@
       "lastModified": "2026-06-22",
       "dateAdded": "2026-06-22",
       "addedAt": "2026-06-23T02:47:18.171Z"
+    },
+    {
+      "id": "mqq1qd4stf7yzuar8gi",
+      "name": "Ryan McNeel",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1GRAE342sk/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-22",
+      "nextFollowUp": "2026-06-29",
+      "notes": "",
+      "lastModified": "2026-06-22",
+      "dateAdded": "2026-06-22",
+      "addedAt": "2026-06-23T02:49:41.116Z"
     }
   ],
-  "lastUpdated": "2026-06-23T02:47:18.172Z"
+  "lastUpdated": "2026-06-23T02:49:41.116Z"
 }
