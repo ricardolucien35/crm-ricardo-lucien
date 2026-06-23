@@ -5333,7 +5333,25 @@
       "lastModified": "2026-06-22",
       "dateAdded": "2026-06-22",
       "addedAt": "2026-06-23T02:57:10.280Z"
+    },
+    {
+      "id": "mqq2dq6rqq3vk8qyjq",
+      "name": "Hank Natali",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1ZQur5n8wW/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-22",
+      "nextFollowUp": "2026-06-29",
+      "notes": "",
+      "lastModified": "2026-06-22",
+      "dateAdded": "2026-06-22",
+      "addedAt": "2026-06-23T03:07:51.124Z"
     }
   ],
-  "lastUpdated": "2026-06-23T02:57:10.280Z"
+  "lastUpdated": "2026-06-23T03:07:51.124Z"
 }
