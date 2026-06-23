@@ -5315,7 +5315,25 @@
       "lastModified": "2026-06-22",
       "dateAdded": "2026-06-22",
       "addedAt": "2026-06-23T02:52:30.640Z"
+    },
+    {
+      "id": "mqq1zzpkx8ehny151w",
+      "name": "Nik Nakarado",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1FpVZQe49T/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-22",
+      "nextFollowUp": "2026-06-29",
+      "notes": "",
+      "lastModified": "2026-06-22",
+      "dateAdded": "2026-06-22",
+      "addedAt": "2026-06-23T02:57:10.280Z"
     }
   ],
-  "lastUpdated": "2026-06-23T02:52:30.640Z"
+  "lastUpdated": "2026-06-23T02:57:10.280Z"
 }
