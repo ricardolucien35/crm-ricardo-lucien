@@ -5243,7 +5243,25 @@
       "lastModified": "2026-06-21",
       "dateAdded": "2026-06-21",
       "addedAt": "2026-06-22T00:17:23.679Z"
+    },
+    {
+      "id": "mqq1nau3rr976gz4qms",
+      "name": "Noah Cull",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1DtQHsVrxv/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-22",
+      "nextFollowUp": "2026-06-29",
+      "notes": "",
+      "lastModified": "2026-06-22",
+      "dateAdded": "2026-06-22",
+      "addedAt": "2026-06-23T02:47:18.171Z"
     }
   ],
-  "lastUpdated": "2026-06-22T00:25:34.744Z"
+  "lastUpdated": "2026-06-23T02:47:18.172Z"
 }
