@@ -5369,7 +5369,25 @@
       "lastModified": "2026-06-22",
       "dateAdded": "2026-06-22",
       "addedAt": "2026-06-23T03:09:34.912Z"
+    },
+    {
+      "id": "mqq2htsn34euegg1ih4",
+      "name": "Belle Aiono",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1J2juNqtSy/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-22",
+      "nextFollowUp": "2026-06-29",
+      "notes": "",
+      "lastModified": "2026-06-22",
+      "dateAdded": "2026-06-22",
+      "addedAt": "2026-06-23T03:11:02.423Z"
     }
   ],
-  "lastUpdated": "2026-06-23T03:09:34.912Z"
+  "lastUpdated": "2026-06-23T03:11:02.423Z"
 }
