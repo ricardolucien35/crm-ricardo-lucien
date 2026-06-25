@@ -1756,10 +1756,10 @@
       "status": "Watched",
       "temperature": "Hot",
       "lastAction": "Follow-up 4",
-      "lastContact": "2026-06-20",
-      "nextFollowUp": "2026-06-21",
+      "lastContact": "2026-06-25",
+      "nextFollowUp": "2026-06-28",
       "notes": "",
-      "lastModified": "2026-06-20",
+      "lastModified": "2026-06-25",
       "dateAdded": "2026-05-22",
       "videoSent": true
     },
@@ -5389,5 +5389,5 @@
       "addedAt": "2026-06-23T03:11:02.423Z"
     }
   ],
-  "lastUpdated": "2026-06-25T15:53:43.924Z"
+  "lastUpdated": "2026-06-25T15:57:03.054Z"
 }
