@@ -3397,14 +3397,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1NvnzWy1vS/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-15",
-      "nextFollowUp": "2026-06-22",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-15",
+      "lastModified": "2026-06-25",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-15T23:21:02.987Z"
     },
@@ -5389,5 +5389,5 @@
       "addedAt": "2026-06-23T03:11:02.423Z"
     }
   ],
-  "lastUpdated": "2026-06-25T15:35:26.043Z"
+  "lastUpdated": "2026-06-25T15:35:59.422Z"
 }
