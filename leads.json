@@ -5550,7 +5550,25 @@
       "lastModified": "2026-06-25",
       "dateAdded": "2026-06-25",
       "addedAt": "2026-06-26T00:23:10.477Z"
+    },
+    {
+      "id": "mqu6uwmty87fq41mu3",
+      "name": "Alexis Gordon",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1BHPv5sMEn/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-25",
+      "nextFollowUp": "2026-07-25",
+      "notes": "",
+      "lastModified": "2026-06-25",
+      "dateAdded": "2026-06-25",
+      "addedAt": "2026-06-26T00:24:15.797Z"
     }
   ],
-  "lastUpdated": "2026-06-26T00:23:10.477Z"
+  "lastUpdated": "2026-06-26T00:24:15.797Z"
 }
