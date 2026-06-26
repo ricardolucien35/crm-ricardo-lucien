@@ -5442,7 +5442,25 @@
       "lastModified": "2026-06-22",
       "dateAdded": "2026-06-22",
       "addedAt": "2026-06-23T03:11:02.423Z"
+    },
+    {
+      "id": "mqu6cjt010ee7dzajrvh",
+      "name": "Laurnea",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1BbDmErnNj/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-25",
+      "nextFollowUp": "2026-06-26",
+      "notes": "",
+      "lastModified": "2026-06-25",
+      "dateAdded": "2026-06-25",
+      "addedAt": "2026-06-26T00:09:59.364Z"
     }
   ],
-  "lastUpdated": "2026-06-25T17:54:05.927Z"
+  "lastUpdated": "2026-06-26T00:09:59.365Z"
 }
