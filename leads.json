@@ -5586,7 +5586,25 @@
       "lastModified": "2026-06-25",
       "dateAdded": "2026-06-25",
       "addedAt": "2026-06-26T00:25:07.671Z"
+    },
+    {
+      "id": "mqu6xgt2220r56r16l9",
+      "name": "Summer Auer",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/18vWm83TDC/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-25",
+      "nextFollowUp": "2026-07-09",
+      "notes": "",
+      "lastModified": "2026-06-25",
+      "dateAdded": "2026-06-25",
+      "addedAt": "2026-06-26T00:26:15.255Z"
     }
   ],
-  "lastUpdated": "2026-06-26T00:25:07.671Z"
+  "lastUpdated": "2026-06-26T00:26:15.255Z"
 }
