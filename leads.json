@@ -5622,7 +5622,25 @@
       "lastModified": "2026-06-25",
       "dateAdded": "2026-06-25",
       "addedAt": "2026-06-26T00:27:12.024Z"
+    },
+    {
+      "id": "mqu715av8gbn0vpok8h",
+      "name": "Vianey Livelife",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1b1cE7RwfJ/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-25",
+      "nextFollowUp": "2026-07-25",
+      "notes": "",
+      "lastModified": "2026-06-25",
+      "dateAdded": "2026-06-25",
+      "addedAt": "2026-06-26T00:29:06.967Z"
     }
   ],
-  "lastUpdated": "2026-06-26T00:27:12.025Z"
+  "lastUpdated": "2026-06-26T00:29:06.967Z"
 }
