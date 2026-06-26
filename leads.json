@@ -5496,7 +5496,25 @@
       "lastModified": "2026-06-25",
       "dateAdded": "2026-06-25",
       "addedAt": "2026-06-26T00:15:49.369Z"
+    },
+    {
+      "id": "mqu6md40uranxrdp6j",
+      "name": "Jerica Williams",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1Ct9hzF4eN/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-25",
+      "nextFollowUp": "2026-07-25",
+      "notes": "",
+      "lastModified": "2026-06-25",
+      "dateAdded": "2026-06-25",
+      "addedAt": "2026-06-26T00:17:37.249Z"
     }
   ],
-  "lastUpdated": "2026-06-26T00:15:49.369Z"
+  "lastUpdated": "2026-06-26T00:17:37.249Z"
 }
