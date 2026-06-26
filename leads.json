@@ -5568,7 +5568,25 @@
       "lastModified": "2026-06-25",
       "dateAdded": "2026-06-25",
       "addedAt": "2026-06-26T00:24:15.797Z"
+    },
+    {
+      "id": "mqu6w0nrmrw6z94vh1p",
+      "name": "Cassidy Rein",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/18gATD4aSx/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-25",
+      "nextFollowUp": "2026-06-30",
+      "notes": "",
+      "lastModified": "2026-06-25",
+      "dateAdded": "2026-06-25",
+      "addedAt": "2026-06-26T00:25:07.671Z"
     }
   ],
-  "lastUpdated": "2026-06-26T00:24:15.797Z"
+  "lastUpdated": "2026-06-26T00:25:07.671Z"
 }
