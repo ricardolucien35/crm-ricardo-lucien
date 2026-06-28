@@ -57,15 +57,15 @@
       "phone": "",
       "social": "https://www.instagram.com/lizsteps?igsh=ODEwYzZhMHp6NnFw",
       "source": "Instagram",
-      "status": "New Lead",
+      "status": "Watched",
       "temperature": "Warm",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-06-25",
-      "nextFollowUp": "2026-06-26",
+      "lastContact": "2026-06-28",
+      "nextFollowUp": "2026-07-01",
       "notes": "",
-      "lastModified": "2026-06-25",
+      "lastModified": "2026-06-28",
       "dateAdded": "2026-05-18",
-      "videoSent": false
+      "videoSent": true
     },
     {
       "id": "mpbvixf4q885wo8bu1",
@@ -5642,5 +5642,5 @@
       "addedAt": "2026-06-26T00:29:06.967Z"
     }
   ],
-  "lastUpdated": "2026-06-28T23:29:13.688Z"
+  "lastUpdated": "2026-06-28T23:30:11.120Z"
 }
