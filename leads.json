@@ -5039,11 +5039,11 @@
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
+      "lastAction": "Scheduled Call",
       "lastContact": "2026-06-20",
-      "nextFollowUp": "2026-06-27",
+      "nextFollowUp": "2026-07-04",
       "notes": "",
-      "lastModified": "2026-06-20",
+      "lastModified": "2026-06-28",
       "dateAdded": "2026-06-20",
       "addedAt": "2026-06-20T17:26:11.248Z"
     },
@@ -5642,5 +5642,5 @@
       "addedAt": "2026-06-26T00:29:06.967Z"
     }
   ],
-  "lastUpdated": "2026-06-28T23:23:21.062Z"
+  "lastUpdated": "2026-06-28T23:26:41.870Z"
 }
