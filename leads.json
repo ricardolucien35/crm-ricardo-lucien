@@ -5640,7 +5640,25 @@
       "lastModified": "2026-06-25",
       "dateAdded": "2026-06-25",
       "addedAt": "2026-06-26T00:29:06.967Z"
+    },
+    {
+      "id": "mqym4kt31h8zbwvcjxo",
+      "name": "Zarek Devine",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1GzXYS9ev2/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-28",
+      "nextFollowUp": "2026-07-01",
+      "notes": "",
+      "lastModified": "2026-06-28",
+      "dateAdded": "2026-06-28",
+      "addedAt": "2026-06-29T02:42:45.975Z"
     }
   ],
-  "lastUpdated": "2026-06-29T00:26:04.927Z"
+  "lastUpdated": "2026-06-29T02:42:45.975Z"
 }
