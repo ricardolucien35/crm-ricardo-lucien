@@ -5694,7 +5694,25 @@
       "lastModified": "2026-06-30",
       "dateAdded": "2026-06-30",
       "addedAt": "2026-06-30T23:45:02.816Z"
+    },
+    {
+      "id": "mr1aut0sijn2zgvev8",
+      "name": "Alexandria Velvet",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/18iD8okRrT/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-30",
+      "nextFollowUp": "2026-07-07",
+      "notes": "",
+      "lastModified": "2026-06-30",
+      "dateAdded": "2026-06-30",
+      "addedAt": "2026-06-30T23:50:32.813Z"
     }
   ],
-  "lastUpdated": "2026-06-30T23:45:02.816Z"
+  "lastUpdated": "2026-06-30T23:50:32.813Z"
 }
