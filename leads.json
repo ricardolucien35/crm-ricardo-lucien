@@ -5748,7 +5748,25 @@
       "lastModified": "2026-06-30",
       "dateAdded": "2026-06-30",
       "addedAt": "2026-06-30T23:54:45.075Z"
+    },
+    {
+      "id": "mr1b1yzk4drpa7h2ubc",
+      "name": "Hannah Spacek",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/17oaXCRsx8/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-30",
+      "nextFollowUp": "2026-07-14",
+      "notes": "",
+      "lastModified": "2026-06-30",
+      "dateAdded": "2026-06-30",
+      "addedAt": "2026-06-30T23:56:07.136Z"
     }
   ],
-  "lastUpdated": "2026-06-30T23:54:45.075Z"
+  "lastUpdated": "2026-06-30T23:56:07.137Z"
 }
