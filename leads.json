@@ -1178,15 +1178,15 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1Ccna1LYpw/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Watched",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-05-29",
-      "nextFollowUp": "2026-06-28",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-05-29",
+      "lastModified": "2026-06-29",
       "dateAdded": "2026-05-20",
-      "videoSent": false
+      "videoSent": true
     },
     {
       "id": "mpeuhnlv8qhgeq5huq3",
@@ -5678,5 +5678,5 @@
       "addedAt": "2026-06-29T02:46:06.782Z"
     }
   ],
-  "lastUpdated": "2026-06-30T05:41:52.447Z"
+  "lastUpdated": "2026-06-30T05:43:05.765Z"
 }
