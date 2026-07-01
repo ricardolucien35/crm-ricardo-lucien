@@ -5892,7 +5892,25 @@
       "lastModified": "2026-06-30",
       "dateAdded": "2026-06-30",
       "addedAt": "2026-07-01T00:13:56.856Z"
+    },
+    {
+      "id": "mr1bqf8c5eemk7930s6",
+      "name": "Alondra Duarte",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1B2YuaBfq7/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-30",
+      "nextFollowUp": "2026-07-14",
+      "notes": "",
+      "lastModified": "2026-06-30",
+      "dateAdded": "2026-06-30",
+      "addedAt": "2026-07-01T00:15:07.933Z"
     }
   ],
-  "lastUpdated": "2026-07-01T00:13:56.856Z"
+  "lastUpdated": "2026-07-01T00:15:07.933Z"
 }
