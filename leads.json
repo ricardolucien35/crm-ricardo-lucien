@@ -5946,7 +5946,25 @@
       "lastModified": "2026-06-30",
       "dateAdded": "2026-06-30",
       "addedAt": "2026-07-01T00:18:15.293Z"
+    },
+    {
+      "id": "mr1bwbktr6pjfvinjq",
+      "name": "McKenzie Oliver",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1DRjjNUchV/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-30",
+      "nextFollowUp": "2026-07-14",
+      "notes": "",
+      "lastModified": "2026-06-30",
+      "dateAdded": "2026-06-30",
+      "addedAt": "2026-07-01T00:19:43.133Z"
     }
   ],
-  "lastUpdated": "2026-07-01T00:18:15.293Z"
+  "lastUpdated": "2026-07-01T00:19:43.134Z"
 }
