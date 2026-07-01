@@ -5874,7 +5874,25 @@
       "lastModified": "2026-06-30",
       "dateAdded": "2026-06-30",
       "addedAt": "2026-07-01T00:12:50.942Z"
+    },
+    {
+      "id": "mr1bowe0nni47kbspj",
+      "name": "Sari Martinez",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1CgNe54p5h/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-30",
+      "nextFollowUp": "2026-07-14",
+      "notes": "",
+      "lastModified": "2026-06-30",
+      "dateAdded": "2026-06-30",
+      "addedAt": "2026-07-01T00:13:56.856Z"
     }
   ],
-  "lastUpdated": "2026-07-01T00:12:50.942Z"
+  "lastUpdated": "2026-07-01T00:13:56.856Z"
 }
