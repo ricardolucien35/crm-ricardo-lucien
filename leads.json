@@ -5820,7 +5820,25 @@
       "lastModified": "2026-06-30",
       "dateAdded": "2026-06-30",
       "addedAt": "2026-07-01T00:08:32.568Z"
+    },
+    {
+      "id": "mr1bjhpw0s5vlf10z2n",
+      "name": "Ruthie Ryan",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/18yvJDuzTZ/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-30",
+      "nextFollowUp": "2026-07-07",
+      "notes": "",
+      "lastModified": "2026-06-30",
+      "dateAdded": "2026-06-30",
+      "addedAt": "2026-07-01T00:09:44.564Z"
     }
   ],
-  "lastUpdated": "2026-07-01T00:08:32.568Z"
+  "lastUpdated": "2026-07-01T00:09:44.564Z"
 }
