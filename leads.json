@@ -6018,7 +6018,25 @@
       "lastModified": "2026-06-30",
       "dateAdded": "2026-06-30",
       "addedAt": "2026-07-01T00:23:06.969Z"
+    },
+    {
+      "id": "mr1c1xay6e83fjpd9ua",
+      "name": "Chase Fitch",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/18qJmfqyyw/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-30",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-06-30",
+      "dateAdded": "2026-06-30",
+      "addedAt": "2026-07-01T00:24:04.570Z"
     }
   ],
-  "lastUpdated": "2026-07-01T00:23:06.969Z"
+  "lastUpdated": "2026-07-01T00:24:04.571Z"
 }
