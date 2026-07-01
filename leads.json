@@ -6000,7 +6000,25 @@
       "lastModified": "2026-06-30",
       "dateAdded": "2026-06-30",
       "addedAt": "2026-07-01T00:22:06.006Z"
+    },
+    {
+      "id": "mr1c0oux8lae6xqbgfw",
+      "name": "Lourdes Ovalle",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/14fsPd6PCny/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-30",
+      "nextFollowUp": "2026-07-07",
+      "notes": "",
+      "lastModified": "2026-06-30",
+      "dateAdded": "2026-06-30",
+      "addedAt": "2026-07-01T00:23:06.969Z"
     }
   ],
-  "lastUpdated": "2026-07-01T00:22:06.007Z"
+  "lastUpdated": "2026-07-01T00:23:06.969Z"
 }
