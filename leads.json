@@ -5838,7 +5838,25 @@
       "lastModified": "2026-06-30",
       "dateAdded": "2026-06-30",
       "addedAt": "2026-07-01T00:09:44.564Z"
+    },
+    {
+      "id": "mr1bl8j09qihhweg1je",
+      "name": "Aydee Mirella",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1BbrNVhrm3/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-30",
+      "nextFollowUp": "2026-07-14",
+      "notes": "",
+      "lastModified": "2026-06-30",
+      "dateAdded": "2026-06-30",
+      "addedAt": "2026-07-01T00:11:05.965Z"
     }
   ],
-  "lastUpdated": "2026-07-01T00:09:44.564Z"
+  "lastUpdated": "2026-07-01T00:11:05.965Z"
 }
