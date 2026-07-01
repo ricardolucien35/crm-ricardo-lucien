@@ -5856,7 +5856,25 @@
       "lastModified": "2026-06-30",
       "dateAdded": "2026-06-30",
       "addedAt": "2026-07-01T00:11:05.965Z"
+    },
+    {
+      "id": "mr1bnhj24jnf51so4d7",
+      "name": "Kaywam Missions",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1EF4TR8Kzq/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-30",
+      "nextFollowUp": "2026-07-07",
+      "notes": "",
+      "lastModified": "2026-06-30",
+      "dateAdded": "2026-06-30",
+      "addedAt": "2026-07-01T00:12:50.942Z"
     }
   ],
-  "lastUpdated": "2026-07-01T00:11:05.965Z"
+  "lastUpdated": "2026-07-01T00:12:50.942Z"
 }
