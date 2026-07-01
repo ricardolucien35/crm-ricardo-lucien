@@ -5964,7 +5964,25 @@
       "lastModified": "2026-06-30",
       "dateAdded": "2026-06-30",
       "addedAt": "2026-07-01T00:19:43.133Z"
+    },
+    {
+      "id": "mr1bxvnhia04cq17df8",
+      "name": "Veronica Areli",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1BZZGz7HHc/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-30",
+      "nextFollowUp": "2026-07-07",
+      "notes": "",
+      "lastModified": "2026-06-30",
+      "dateAdded": "2026-06-30",
+      "addedAt": "2026-07-01T00:20:55.806Z"
     }
   ],
-  "lastUpdated": "2026-07-01T00:19:43.134Z"
+  "lastUpdated": "2026-07-01T00:20:55.806Z"
 }
