@@ -5910,7 +5910,25 @@
       "lastModified": "2026-06-30",
       "dateAdded": "2026-06-30",
       "addedAt": "2026-07-01T00:15:07.933Z"
+    },
+    {
+      "id": "mr1bsve02xut58pk07j",
+      "name": "Courtney Thorpe",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1D756LYv4p/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-30",
+      "nextFollowUp": "2026-07-07",
+      "notes": "",
+      "lastModified": "2026-06-30",
+      "dateAdded": "2026-06-30",
+      "addedAt": "2026-07-01T00:17:02.185Z"
     }
   ],
-  "lastUpdated": "2026-07-01T00:15:07.933Z"
+  "lastUpdated": "2026-07-01T00:17:02.185Z"
 }
