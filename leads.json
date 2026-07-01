@@ -5784,7 +5784,25 @@
       "lastModified": "2026-06-30",
       "dateAdded": "2026-06-30",
       "addedAt": "2026-07-01T00:06:31.132Z"
+    },
+    {
+      "id": "mr1bgomaqirk9mqewlr",
+      "name": "McKenzie Roth",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1BoWVQ6X22/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-30",
+      "nextFollowUp": "2026-07-14",
+      "notes": "",
+      "lastModified": "2026-06-30",
+      "dateAdded": "2026-06-30",
+      "addedAt": "2026-07-01T00:07:33.538Z"
     }
   ],
-  "lastUpdated": "2026-07-01T00:06:31.132Z"
+  "lastUpdated": "2026-07-01T00:07:33.538Z"
 }
