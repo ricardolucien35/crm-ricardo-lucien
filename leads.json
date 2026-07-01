@@ -5766,7 +5766,25 @@
       "lastModified": "2026-06-30",
       "dateAdded": "2026-06-30",
       "addedAt": "2026-06-30T23:56:07.136Z"
+    },
+    {
+      "id": "mr1bfcgspzlnsec1vf",
+      "name": "Jennifer VanWinkle",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/18o1Ru9AXF/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-30",
+      "nextFollowUp": "2026-07-07",
+      "notes": "",
+      "lastModified": "2026-06-30",
+      "dateAdded": "2026-06-30",
+      "addedAt": "2026-07-01T00:06:31.132Z"
     }
   ],
-  "lastUpdated": "2026-06-30T23:56:07.137Z"
+  "lastUpdated": "2026-07-01T00:06:31.132Z"
 }
