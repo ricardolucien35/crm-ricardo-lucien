@@ -179,10 +179,10 @@
       "status": "New Lead",
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-06-25",
-      "nextFollowUp": "2026-06-28",
+      "lastContact": "2026-07-01",
+      "nextFollowUp": "2026-07-15",
       "notes": "",
-      "lastModified": "2026-06-25",
+      "lastModified": "2026-07-01",
       "dateAdded": "2026-05-18",
       "videoSent": false
     },
@@ -6038,5 +6038,5 @@
       "addedAt": "2026-07-01T00:24:04.570Z"
     }
   ],
-  "lastUpdated": "2026-07-02T01:50:35.030Z"
+  "lastUpdated": "2026-07-02T01:52:42.867Z"
 }
