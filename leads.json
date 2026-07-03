@@ -4028,14 +4028,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1CsN7ohqNT/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-25",
-      "nextFollowUp": "2026-07-02",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-25",
+      "lastModified": "2026-07-03",
       "dateAdded": "2026-06-16",
       "addedAt": "2026-06-16T17:50:52.635Z"
     },
@@ -6074,5 +6074,5 @@
       "addedAt": "2026-07-03T15:52:44.081Z"
     }
   ],
-  "lastUpdated": "2026-07-03T18:40:02.106Z"
+  "lastUpdated": "2026-07-03T19:02:16.170Z"
 }
