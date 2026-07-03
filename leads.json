@@ -1793,10 +1793,10 @@
       "status": "Customer",
       "temperature": "Hot",
       "lastAction": "Closed",
-      "lastContact": "2026-07-01",
-      "nextFollowUp": "2026-07-02",
+      "lastContact": "2026-07-03",
+      "nextFollowUp": "2026-07-05",
       "notes": "",
-      "lastModified": "2026-07-01",
+      "lastModified": "2026-07-03",
       "dateAdded": "2026-05-22",
       "videoSent": true,
       "customerSince": "2026-05-31"
@@ -6074,5 +6074,5 @@
       "addedAt": "2026-07-03T15:52:44.081Z"
     }
   ],
-  "lastUpdated": "2026-07-03T19:50:22.341Z"
+  "lastUpdated": "2026-07-03T19:51:25.329Z"
 }
