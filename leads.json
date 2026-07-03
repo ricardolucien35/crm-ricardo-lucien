@@ -805,13 +805,13 @@
       "phone": "",
       "social": "https://www.instagram.com/chalkd.kc?igsh=MThibmozaHR1cTRtYg==",
       "source": "Instagram",
-      "status": "New Lead",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-01",
-      "nextFollowUp": "2026-07-02",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-01",
+      "lastModified": "2026-07-03",
       "dateAdded": "2026-05-20",
       "videoSent": false
     },
@@ -6074,5 +6074,5 @@
       "addedAt": "2026-07-03T15:52:44.081Z"
     }
   ],
-  "lastUpdated": "2026-07-03T19:31:37.145Z"
+  "lastUpdated": "2026-07-03T19:32:16.048Z"
 }
