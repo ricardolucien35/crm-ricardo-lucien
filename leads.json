@@ -3096,10 +3096,10 @@
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-06-20",
-      "nextFollowUp": "2026-07-04",
+      "lastContact": "2026-07-04",
+      "nextFollowUp": "2026-07-09",
       "notes": "",
-      "lastModified": "2026-06-29",
+      "lastModified": "2026-07-04",
       "dateAdded": "2026-06-14",
       "addedAt": "2026-06-14T15:52:45.983Z"
     },
@@ -6074,5 +6074,5 @@
       "addedAt": "2026-07-03T15:52:44.081Z"
     }
   ],
-  "lastUpdated": "2026-07-04T16:34:13.019Z"
+  "lastUpdated": "2026-07-04T16:34:45.847Z"
 }
