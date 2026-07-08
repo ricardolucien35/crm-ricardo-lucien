@@ -5972,16 +5972,17 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1BZZGz7HHc/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
+      "status": "Customer",
+      "videoSent": true,
+      "temperature": "Hot",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-06-30",
-      "nextFollowUp": "2026-07-07",
+      "lastContact": "2026-07-07",
+      "nextFollowUp": "2026-07-08",
       "notes": "",
-      "lastModified": "2026-06-30",
+      "lastModified": "2026-07-07",
       "dateAdded": "2026-06-30",
-      "addedAt": "2026-07-01T00:20:55.806Z"
+      "addedAt": "2026-07-01T00:20:55.806Z",
+      "customerSince": "2026-07-07"
     },
     {
       "id": "mr1bzdtil3m88qyft6c",
@@ -6074,5 +6075,5 @@
       "addedAt": "2026-07-03T15:52:44.081Z"
     }
   ],
-  "lastUpdated": "2026-07-04T16:59:36.199Z"
+  "lastUpdated": "2026-07-08T01:25:18.325Z"
 }
