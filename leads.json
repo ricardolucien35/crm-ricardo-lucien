@@ -6253,7 +6253,25 @@
       "lastModified": "2026-07-12",
       "dateAdded": "2026-07-12",
       "addedAt": "2026-07-13T02:40:57.540Z"
+    },
+    {
+      "id": "mrim9bjbbpkojzo8wyp",
+      "name": "Grant Strauser",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1GTS5s4vEK/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-12",
+      "nextFollowUp": "2026-07-19",
+      "notes": "",
+      "lastModified": "2026-07-12",
+      "dateAdded": "2026-07-12",
+      "addedAt": "2026-07-13T02:41:50.760Z"
     }
   ],
-  "lastUpdated": "2026-07-13T02:40:57.540Z"
+  "lastUpdated": "2026-07-13T02:41:50.760Z"
 }
