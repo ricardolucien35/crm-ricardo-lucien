@@ -6091,7 +6091,25 @@
       "lastModified": "2026-07-12",
       "dateAdded": "2026-07-12",
       "addedAt": "2026-07-13T02:28:30.603Z"
+    },
+    {
+      "id": "mrilu59qub2px09yv2j",
+      "name": "Maddie Person",
+      "email": "",
+      "phone": "",
+      "social": "https://www.instagram.com/madelineppersonn?igsh=bzV2emp1Zmw5MTBt",
+      "source": "Instagram",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-12",
+      "nextFollowUp": "2026-07-19",
+      "notes": "",
+      "lastModified": "2026-07-12",
+      "dateAdded": "2026-07-12",
+      "addedAt": "2026-07-13T02:30:02.798Z"
     }
   ],
-  "lastUpdated": "2026-07-13T02:28:30.603Z"
+  "lastUpdated": "2026-07-13T02:30:02.798Z"
 }
