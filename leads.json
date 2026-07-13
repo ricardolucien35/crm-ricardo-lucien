@@ -6307,7 +6307,25 @@
       "lastModified": "2026-07-12",
       "dateAdded": "2026-07-12",
       "addedAt": "2026-07-13T02:43:50.441Z"
+    },
+    {
+      "id": "mrimcupru91t20eaweh",
+      "name": "Karen Delgado",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1FuuRNtZwG/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-12",
+      "nextFollowUp": "2026-07-19",
+      "notes": "",
+      "lastModified": "2026-07-12",
+      "dateAdded": "2026-07-12",
+      "addedAt": "2026-07-13T02:44:35.584Z"
     }
   ],
-  "lastUpdated": "2026-07-13T02:43:50.441Z"
+  "lastUpdated": "2026-07-13T02:44:35.584Z"
 }
