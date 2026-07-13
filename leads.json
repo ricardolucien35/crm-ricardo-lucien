@@ -6073,7 +6073,25 @@
       "lastModified": "2026-07-09",
       "dateAdded": "2026-07-03",
       "addedAt": "2026-07-03T15:52:44.081Z"
+    },
+    {
+      "id": "mrils64ql1y4wbmyqph",
+      "name": "Jazzie",
+      "email": "",
+      "phone": "",
+      "social": "https://www.instagram.com/jazziecise?igsh=MXViMmFvcGl1ZWluNw==",
+      "source": "Instagram",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-12",
+      "nextFollowUp": "2026-07-19",
+      "notes": "",
+      "lastModified": "2026-07-12",
+      "dateAdded": "2026-07-12",
+      "addedAt": "2026-07-13T02:28:30.603Z"
     }
   ],
-  "lastUpdated": "2026-07-10T21:07:19.170Z"
+  "lastUpdated": "2026-07-13T02:28:30.603Z"
 }
