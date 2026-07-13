@@ -6235,7 +6235,25 @@
       "lastModified": "2026-07-12",
       "dateAdded": "2026-07-12",
       "addedAt": "2026-07-13T02:39:35.723Z"
+    },
+    {
+      "id": "mrim86gzukzp9p5qoad",
+      "name": "Dawud Radwan",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/181hnMeqwX/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-12",
+      "nextFollowUp": "2026-07-19",
+      "notes": "",
+      "lastModified": "2026-07-12",
+      "dateAdded": "2026-07-12",
+      "addedAt": "2026-07-13T02:40:57.540Z"
     }
   ],
-  "lastUpdated": "2026-07-13T02:39:35.723Z"
+  "lastUpdated": "2026-07-13T02:40:57.540Z"
 }
