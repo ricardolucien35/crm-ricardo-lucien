@@ -6127,7 +6127,25 @@
       "lastModified": "2026-07-12",
       "dateAdded": "2026-07-12",
       "addedAt": "2026-07-13T02:32:36.798Z"
+    },
+    {
+      "id": "mrilz6cjg0r3d2bjc5",
+      "name": "Karely Gutierrez",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/196NXyfNAg/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-12",
+      "nextFollowUp": "2026-07-19",
+      "notes": "",
+      "lastModified": "2026-07-12",
+      "dateAdded": "2026-07-12",
+      "addedAt": "2026-07-13T02:33:57.475Z"
     }
   ],
-  "lastUpdated": "2026-07-13T02:32:36.798Z"
+  "lastUpdated": "2026-07-13T02:33:57.475Z"
 }
