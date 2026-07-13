@@ -6361,7 +6361,25 @@
       "lastModified": "2026-07-12",
       "dateAdded": "2026-07-12",
       "addedAt": "2026-07-13T02:46:51.125Z"
+    },
+    {
+      "id": "mrimh1baw5wji91822",
+      "name": "Samantha Ellifrits",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1DEqYsJonu/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-12",
+      "nextFollowUp": "2026-07-19",
+      "notes": "",
+      "lastModified": "2026-07-12",
+      "dateAdded": "2026-07-12",
+      "addedAt": "2026-07-13T02:47:50.759Z"
     }
   ],
-  "lastUpdated": "2026-07-13T02:46:51.126Z"
+  "lastUpdated": "2026-07-13T02:47:50.759Z"
 }
