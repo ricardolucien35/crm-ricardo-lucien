@@ -6271,7 +6271,25 @@
       "lastModified": "2026-07-12",
       "dateAdded": "2026-07-12",
       "addedAt": "2026-07-13T02:41:50.760Z"
+    },
+    {
+      "id": "mrimamms2bvdc0o2w1t",
+      "name": "Gabriela Martinez",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1ESiSaL11k/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-12",
+      "nextFollowUp": "2026-07-19",
+      "notes": "",
+      "lastModified": "2026-07-12",
+      "dateAdded": "2026-07-12",
+      "addedAt": "2026-07-13T02:42:51.796Z"
     }
   ],
-  "lastUpdated": "2026-07-13T02:41:50.760Z"
+  "lastUpdated": "2026-07-13T02:42:51.796Z"
 }
