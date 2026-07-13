@@ -6289,7 +6289,25 @@
       "lastModified": "2026-07-12",
       "dateAdded": "2026-07-12",
       "addedAt": "2026-07-13T02:42:51.796Z"
+    },
+    {
+      "id": "mrimbvvtcenr5eons0e",
+      "name": "Rose Cordero",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1CvpiYTSrb/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-12",
+      "nextFollowUp": "2026-07-19",
+      "notes": "",
+      "lastModified": "2026-07-12",
+      "dateAdded": "2026-07-12",
+      "addedAt": "2026-07-13T02:43:50.441Z"
     }
   ],
-  "lastUpdated": "2026-07-13T02:42:51.796Z"
+  "lastUpdated": "2026-07-13T02:43:50.441Z"
 }
