@@ -6145,7 +6145,25 @@
       "lastModified": "2026-07-12",
       "dateAdded": "2026-07-12",
       "addedAt": "2026-07-13T02:33:57.475Z"
+    },
+    {
+      "id": "mrim0k2wmhiglaen7v9",
+      "name": "Carly Estes",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1Dcoi4WKe8/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-12",
+      "nextFollowUp": "2026-07-19",
+      "notes": "",
+      "lastModified": "2026-07-12",
+      "dateAdded": "2026-07-12",
+      "addedAt": "2026-07-13T02:35:01.929Z"
     }
   ],
-  "lastUpdated": "2026-07-13T02:33:57.475Z"
+  "lastUpdated": "2026-07-13T02:35:01.929Z"
 }
