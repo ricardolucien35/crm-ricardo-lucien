@@ -6559,7 +6559,25 @@
       "lastModified": "2026-07-15",
       "dateAdded": "2026-07-15",
       "addedAt": "2026-07-15T20:00:25.590Z"
+    },
+    {
+      "id": "mrmia4xxb8rz39zzm9u",
+      "name": "Cade Brundage",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/197Xp8PBpF/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-15",
+      "nextFollowUp": "2026-07-22",
+      "notes": "",
+      "lastModified": "2026-07-15",
+      "dateAdded": "2026-07-15",
+      "addedAt": "2026-07-15T20:01:35.110Z"
     }
   ],
-  "lastUpdated": "2026-07-15T20:00:25.590Z"
+  "lastUpdated": "2026-07-15T20:01:35.110Z"
 }
