@@ -6631,7 +6631,25 @@
       "lastModified": "2026-07-15",
       "dateAdded": "2026-07-15",
       "addedAt": "2026-07-15T20:11:20.940Z"
+    },
+    {
+      "id": "mrmiob8ofeip6rvfvi9",
+      "name": "Victoria Kenworthy",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1EFQ7X14R2/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-15",
+      "nextFollowUp": "2026-07-22",
+      "notes": "",
+      "lastModified": "2026-07-15",
+      "dateAdded": "2026-07-15",
+      "addedAt": "2026-07-15T20:12:36.456Z"
     }
   ],
-  "lastUpdated": "2026-07-15T20:11:20.941Z"
+  "lastUpdated": "2026-07-15T20:12:36.457Z"
 }
