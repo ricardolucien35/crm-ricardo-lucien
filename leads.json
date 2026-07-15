@@ -6469,7 +6469,25 @@
       "lastModified": "2026-07-14",
       "dateAdded": "2026-07-14",
       "addedAt": "2026-07-14T21:04:31.438Z"
+    },
+    {
+      "id": "mrmi2bp9xpkfm62k14",
+      "name": "Chloe Philhour",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1BPgCPnsQT/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-15",
+      "nextFollowUp": "2026-07-22",
+      "notes": "",
+      "lastModified": "2026-07-15",
+      "dateAdded": "2026-07-15",
+      "addedAt": "2026-07-15T19:55:30.622Z"
     }
   ],
-  "lastUpdated": "2026-07-14T21:04:31.439Z"
+  "lastUpdated": "2026-07-15T19:55:30.622Z"
 }
