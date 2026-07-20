@@ -1,0 +1,53 @@
+{
+  "scripts": [
+    {
+      "id": "initial-1",
+      "category": "Initial Outreach",
+      "name": "Generic Cold DM",
+      "content": "Hey {{firstName}}, I know we don't know each other, but I came across your profile and wanted to reach out. Not sure if you'd be open to it, but we're expanding and connecting with people interested in creating an additional income stream online."
+    },
+    {
+      "id": "initial-2",
+      "category": "Initial Outreach",
+      "name": "Location Based",
+      "content": "Hey {{firstName}}, I know we don't know each other, but I saw you're in [City]. We're expanding there right now and helping people create an extra income stream from home. If you're open to taking a quick look, cool. If not, no worries."
+    },
+    {
+      "id": "followup-1",
+      "category": "Follow-Up",
+      "name": "Follow-Up #1",
+      "content": "Hey {{firstName}}, just wanted to circle back and see if you were open to learning more."
+    },
+    {
+      "id": "followup-2",
+      "category": "Follow-Up",
+      "name": "Follow-Up #2",
+      "content": "Hey {{firstName}}, haven't heard back from you yet. Totally okay either way — just wanted to follow up before I closed the loop on my end."
+    },
+    {
+      "id": "followup-3",
+      "category": "Follow-Up",
+      "name": "Follow-Up #3",
+      "content": "No worries at all {{firstName}}. I've got some people moving forward so I need to prioritize my time, but if timing changes later feel free to reach back out."
+    },
+    {
+      "id": "presentation-1",
+      "category": "Presentation Follow-Up",
+      "name": "After They Watch",
+      "content": "Hey {{firstName}}, awesome. What did you like best?"
+    },
+    {
+      "id": "presentation-2",
+      "category": "Presentation Follow-Up",
+      "name": "No Watch Follow-Up",
+      "content": "Hey {{firstName}}, just checking in — did you get a chance to watch it yet?"
+    },
+    {
+      "id": "closing-1",
+      "category": "Closing",
+      "name": "Ready to Start",
+      "content": "Sounds to me like you're ready to get started {{firstName}}."
+    }
+  ],
+  "lastUpdated": "2026-07-20T00:00:00.000Z"
+}

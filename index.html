@@ -226,7 +226,7 @@
     <div class="container">
       <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 16px;">
         <div style="display: flex; align-items: center; gap: 16px; flex-wrap: wrap;">
-          <h1 style="margin: 0;">Michael Martin - CRM Lead Management</h1>
+          <h1 style="margin: 0;">Ricardo Lucien - CRM Lead Management</h1>
           <img src="assets/teamabundacebanner.png" alt="Team Abundance" style="height: 70px; width: auto; max-width: 300px; object-fit: contain;">
         </div>
         <a href="https://imabundance.com/" target="_blank" class="button button-secondary" style="text-decoration: none; font-size: 14px;">📊 Team Dashboard</a>
@@ -703,6 +703,9 @@
     let GITHUB_TOKEN = localStorage.getItem('github_token') || '';
     const LEADS_FILE = 'leads.json';
     const SNIPPETS_FILE = 'note-snippets.json';
+    const SCRIPTS_FILE = 'scripts.json';
+    let scriptsSha = '';
+    let scriptStorageReady = false;
     
     // Detect repo from current URL (e.g., jeffcasmer.github.io/crm-jeff-casmer)
     function getRepoConfig() {
@@ -727,6 +730,9 @@
     }
     
     const { owner: REPO_OWNER, repo: REPO_NAME } = getRepoConfig();
+    const SCRIPTS_MIGRATION_FLAG = `messageScriptsMigratedToGitHub:${REPO_NAME}`;
+    const SCRIPTS_MIGRATION_TIME = `messageScriptsMigratedToGitHubAt:${REPO_NAME}`;
+    const SCRIPTS_LOCAL_BACKUP = `messageScriptsBackupBeforeGitHubMigration:${REPO_NAME}`;
 
     // Initialize
     document.addEventListener('DOMContentLoaded', () => {
@@ -736,6 +742,7 @@
         showMainApp();
         loadLeads();
         loadNoteSnippets();
+        initializeScriptStorage();
       } else {
         // Show token entry form
         document.getElementById('token-setup').classList.remove('hidden');
@@ -775,6 +782,7 @@
           showMainApp();
           loadLeads();
           loadNoteSnippets();
+          initializeScriptStorage();
         } else {
           alert('Please enter a token');
         }
@@ -1623,18 +1631,189 @@
       return fullName.split(' ')[0];
     }
 
-    function loadScripts() {
-      // Load from localStorage or use defaults
+    function encodeBase64(text) {
+      return btoa(unescape(encodeURIComponent(text)));
+    }
+
+    function decodeBase64(base64) {
+      return decodeURIComponent(escape(atob(base64.replace(/\s/g, ''))));
+    }
+
+    function getLocalMessageScripts() {
       const saved = localStorage.getItem('messageScripts');
-      if (saved) {
-        messageScripts = JSON.parse(saved);
+      if (!saved) return null;
+
+      try {
+        const parsed = JSON.parse(saved);
+        return Array.isArray(parsed) ? parsed : null;
+      } catch (error) {
+        console.error('Error parsing local scripts:', error);
+        return null;
+      }
+    }
+
+    function setMessageScripts(nextScripts) {
+      messageScripts = Array.isArray(nextScripts) ? nextScripts : [...defaultScripts];
+    }
+
+    function isGitHubScriptMode() {
+      return localStorage.getItem(SCRIPTS_MIGRATION_FLAG) === 'true';
+    }
+
+    async function loadScriptsFromGitHub() {
+      if (!GITHUB_TOKEN) return null;
+
+      try {
+        const response = await fetch(
+          `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${SCRIPTS_FILE}`,
+          {
+            headers: {
+              'Authorization': `token ${GITHUB_TOKEN}`,
+              'Accept': 'application/vnd.github.v3+json'
+            }
+          }
+        );
+
+        if (response.status === 404) {
+          scriptsSha = '';
+          return null;
+        }
+
+        if (!response.ok) {
+          console.error('GitHub scripts load failed:', response.status, await response.text());
+          return null;
+        }
+
+        const data = await response.json();
+        const content = JSON.parse(decodeBase64(data.content));
+        scriptsSha = data.sha;
+        return Array.isArray(content.scripts) ? content.scripts : null;
+      } catch (error) {
+        console.error('Error loading scripts from GitHub:', error);
+        return null;
+      }
+    }
+
+    async function saveScriptsToGitHub(options = {}) {
+      if (!GITHUB_TOKEN) return false;
+
+      try {
+        const payload = {
+          scripts: messageScripts,
+          lastUpdated: new Date().toISOString()
+        };
+
+        if (options.migratedFromLocalStorage) {
+          payload.migratedFromLocalStorage = true;
+          payload.migrationCompletedAt = payload.lastUpdated;
+          payload.migrationSource = 'browser localStorage';
+        }
+
+        const response = await fetch(
+          `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${SCRIPTS_FILE}`,
+          {
+            method: 'PUT',
+            headers: {
+              'Authorization': `token ${GITHUB_TOKEN}`,
+              'Accept': 'application/vnd.github.v3+json',
+              'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({
+              message: options.migratedFromLocalStorage ? 'Migrate message scripts to GitHub' : 'Update message scripts',
+              content: encodeBase64(JSON.stringify(payload, null, 2)),
+              sha: scriptsSha || undefined
+            })
+          }
+        );
+
+        if (response.ok) {
+          const data = await response.json();
+          scriptsSha = data.content.sha;
+          return true;
+        }
+
+        console.error('Save scripts failed:', await response.text());
+        return false;
+      } catch (error) {
+        console.error('Error saving scripts to GitHub:', error);
+        return false;
+      }
+    }
+
+    async function initializeScriptStorage() {
+      const localScripts = getLocalMessageScripts();
+      const githubScripts = await loadScriptsFromGitHub();
+
+      if (localScripts && localScripts.length > 0 && !isGitHubScriptMode()) {
+        setMessageScripts(localScripts);
+
+        if (!localStorage.getItem(SCRIPTS_LOCAL_BACKUP)) {
+          localStorage.setItem(SCRIPTS_LOCAL_BACKUP, JSON.stringify({
+            backedUpAt: new Date().toISOString(),
+            scripts: localScripts
+          }));
+        }
+
+        const migrated = await saveScriptsToGitHub({ migratedFromLocalStorage: true });
+        if (migrated) {
+          localStorage.setItem(SCRIPTS_MIGRATION_FLAG, 'true');
+          localStorage.setItem(SCRIPTS_MIGRATION_TIME, new Date().toISOString());
+          showToast('Scripts migrated to GitHub');
+        } else {
+          showToast('Script migration failed. Local scripts are still safe.');
+        }
+      } else if (githubScripts) {
+        setMessageScripts(githubScripts);
+        localStorage.setItem(SCRIPTS_MIGRATION_FLAG, 'true');
+      } else if (localScripts && localScripts.length > 0) {
+        setMessageScripts(localScripts);
+        const restored = await saveScriptsToGitHub({ migratedFromLocalStorage: true });
+        if (restored) {
+          localStorage.setItem(SCRIPTS_MIGRATION_FLAG, 'true');
+          localStorage.setItem(SCRIPTS_MIGRATION_TIME, new Date().toISOString());
+          showToast('Scripts saved to GitHub');
+        }
       } else {
-        messageScripts = [...defaultScripts];
-        saveScripts();
+        setMessageScripts(defaultScripts);
+        const initialized = await saveScriptsToGitHub();
+        if (initialized) {
+          localStorage.setItem(SCRIPTS_MIGRATION_FLAG, 'true');
+        }
+      }
+
+      scriptStorageReady = true;
+
+      if (currentView === 'message-scripts') {
+        renderScriptsManager();
+      }
+    }
+
+    function loadScripts() {
+      if (messageScripts.length > 0) return;
+
+      const localScripts = getLocalMessageScripts();
+      if (isGitHubScriptMode() && scriptStorageReady) {
+        setMessageScripts(messageScripts.length ? messageScripts : defaultScripts);
+      } else if (localScripts && localScripts.length > 0) {
+        setMessageScripts(localScripts);
+      } else {
+        setMessageScripts(defaultScripts);
       }
     }
 
     function saveScripts() {
+      if (GITHUB_TOKEN && (isGitHubScriptMode() || scriptStorageReady)) {
+        saveScriptsToGitHub().then(saved => {
+          if (saved) {
+            localStorage.setItem(SCRIPTS_MIGRATION_FLAG, 'true');
+            showToast('Scripts saved to GitHub');
+          } else {
+            showToast('Could not save scripts to GitHub');
+          }
+        });
+        return;
+      }
+
       localStorage.setItem('messageScripts', JSON.stringify(messageScripts));
     }
 
@@ -2390,4 +2569,3 @@
   </div>
 </body>
 </html>
-
