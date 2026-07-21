@@ -101,6 +101,11 @@
     .button-success { background: var(--success); color: white; }
     .button-danger { background: var(--danger); color: white; }
     .table { width: 100%; border-collapse: collapse; table-layout: fixed; }
+    #leads-table {
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+    }
+    #leads-table .table { min-width: 900px; }
     .table th, .table td {
       text-align: left;
       padding: 12px;
@@ -211,6 +216,15 @@
       display: inline-block;
       white-space: nowrap;
     }
+    .actions-cell { overflow: visible !important; text-overflow: clip !important; }
+    .actions-wrap { display: flex; gap: 8px; flex-wrap: nowrap; align-items: center; }
+    .script-item-header { display: flex; justify-content: space-between; align-items: flex-start; gap: 12px; margin-bottom: 8px; }
+    .script-title { display: flex; align-items: center; flex: 1; min-width: 0; }
+    .script-actions { display: flex; gap: 8px; flex-wrap: nowrap; align-items: center; }
+    .form-input, .form-textarea, textarea, input {
+      -webkit-user-select: text;
+      user-select: text;
+    }
     .hidden { display: none !important; }
     @media (max-width: 768px) {
       .container { padding: 12px; }
@@ -218,6 +232,12 @@
       .table th, .table td { padding: 8px; }
       .nav { gap: 4px; }
       .nav-button { padding: 6px 12px; font-size: 12px; }
+      .modal-overlay { align-items: flex-start; padding: 12px; overflow-y: auto; }
+      .modal { width: 100%; max-height: calc(100vh - 24px); }
+      .modal-footer { flex-wrap: wrap; }
+      .script-item-header { flex-direction: column; align-items: stretch; }
+      .script-title { width: 100%; }
+      .script-actions { justify-content: flex-start; }
     }
   </style>
 </head>
@@ -551,7 +571,7 @@
   </div>
 
   <!-- Lead Modal -->
-  <div id="modal" class="modal-overlay hidden" onclick="closeModal(event)">
+  <div id="modal" class="modal-overlay hidden" onpointerdown="trackOverlayPointerDown(event)" onclick="closeModal(event)">
     <div class="modal" onclick="event.stopPropagation()">
       <div class="modal-header">
         <h3 id="modal-title" style="margin: 0;">Add New Lead</h3>
@@ -698,6 +718,39 @@
     let followUpSubTab = 'prospects'; // 'prospects' or 'customers-ibos'
     let sortMode = 'newest'; // 'newest' or 'followup'
     let editingId = null;
+    let overlayPointerStart = null;
+    let lastTextFieldInteractionAt = 0;
+
+    function trackOverlayPointerDown(e) {
+      overlayPointerStart = {
+        target: e.target,
+        x: typeof e.clientX === 'number' ? e.clientX : 0,
+        y: typeof e.clientY === 'number' ? e.clientY : 0
+      };
+    }
+
+    function isTextEditingElement(el) {
+      return !!(el && el.closest && el.closest('input, textarea, select, [contenteditable="true"]'));
+    }
+
+    function rememberTextFieldInteraction(e) {
+      if (isTextEditingElement(e.target)) lastTextFieldInteractionAt = Date.now();
+    }
+
+    document.addEventListener('focusin', rememberTextFieldInteraction, true);
+    document.addEventListener('pointerdown', rememberTextFieldInteraction, true);
+
+    function shouldCloseOverlay(e, overlayId) {
+      if (!e || e.target.id !== overlayId) return false;
+      if (isTextEditingElement(document.activeElement)) return false;
+      if (Date.now() - lastTextFieldInteractionAt < 1200) return false;
+      if (overlayPointerStart && overlayPointerStart.target.id !== overlayId) return false;
+      if (overlayPointerStart && typeof e.clientX === 'number') {
+        const moved = Math.hypot(e.clientX - overlayPointerStart.x, e.clientY - overlayPointerStart.y);
+        if (moved > 8) return false;
+      }
+      return true;
+    }
     let noteSnippets = [];
     let snippetsSha = '';
     let GITHUB_TOKEN = localStorage.getItem('github_token') || '';
@@ -1317,10 +1370,12 @@
                 : formatDate(lead.nextFollowUp)
             }
           </td>
-          <td style="white-space: nowrap;">
-            <button class="action-button" onclick="openScriptsModal('${lead.id}')" style="margin-right: 8px; background: #8b5cf6;">Scripts</button>
-            <button class="action-button" onclick="openEditModal('${lead.id}')" style="margin-right: 8px;">Edit</button>
-            <button class="action-button" onclick="confirmDelete('${lead.id}')" style="background: var(--danger);">Delete</button>
+          <td class="actions-cell">
+            <div class="actions-wrap">
+              <button class="action-button" onclick="openScriptsModal('${lead.id}')" style="background: #8b5cf6;">Scripts</button>
+              <button class="action-button" onclick="openEditModal('${lead.id}')">Edit</button>
+              <button class="action-button" onclick="confirmDelete('${lead.id}')" style="background: var(--danger);">Delete</button>
+            </div>
           </td>
         </tr>
       `).join('');
@@ -1449,9 +1504,8 @@
     }
 
     function closeModal(e) {
-      if (!e || e.target.id === 'modal') {
-        document.getElementById('modal').classList.add('hidden');
-      }
+      if (e && !shouldCloseOverlay(e, 'modal')) return;
+      document.getElementById('modal').classList.add('hidden');
     }
 
     // Team Dashboard Sync - Save to builder's own repo (secure, no collaborator access needed)
@@ -2058,13 +2112,13 @@
                    ondragleave="handleScriptDragLeave(event)"
                    ondrop="handleScriptDrop(event, '${script.id}', '${category}')"
                    style="background: var(--gray-50); padding: 16px; border-radius: 6px; border: 1px solid var(--gray-200);">
-                <div style="display: flex; justify-content: space-between; align-items: start; margin-bottom: 8px;">
-                  <div style="display: flex; align-items: center; flex: 1;">
+                <div class="script-item-header">
+                  <div class="script-title">
                     <span class="drag-handle" title="Drag to reorder">⋮⋮</span>
                     <strong>${script.name}</strong>
                   </div>
-                  <div>
-                    <button onclick="editScript('${script.id}')" class="button button-secondary" style="padding: 4px 8px; font-size: 12px; margin-right: 8px;">Edit</button>
+                  <div class="script-actions">
+                    <button onclick="editScript('${script.id}')" class="button button-secondary" style="padding: 4px 8px; font-size: 12px;">Edit</button>
                     <button onclick="deleteScript('${script.id}')" class="button button-danger" style="padding: 4px 8px; font-size: 12px;">Delete</button>
                   </div>
                 </div>
@@ -2485,7 +2539,7 @@
   </script>
 
   <!-- Scripts Modal -->
-  <div id="scripts-modal" class="modal-overlay hidden" onclick="if(event.target.id === 'scripts-modal') closeScriptsModal()">
+  <div id="scripts-modal" class="modal-overlay hidden" onpointerdown="trackOverlayPointerDown(event)" onclick="if(shouldCloseOverlay(event, 'scripts-modal')) closeScriptsModal()">
     <div class="modal" style="max-width: 700px; max-height: 80vh;">
       <div class="modal-header">
         <h3 style="margin: 0;">Message Scripts</h3>
@@ -2501,7 +2555,7 @@
   </div>
 
   <!-- CSV Import Modal -->
-  <div id="import-modal" class="modal-overlay hidden" onclick="if(event.target.id === 'import-modal') closeImportModal()">
+  <div id="import-modal" class="modal-overlay hidden" onpointerdown="trackOverlayPointerDown(event)" onclick="if(shouldCloseOverlay(event, 'import-modal')) closeImportModal()">
     <div class="modal" style="max-width: 800px; max-height: 90vh;">
       <div class="modal-header">
         <h3 style="margin: 0;">Import Leads from CSV</h3>
@@ -2524,7 +2578,7 @@
   </div>
 
   <!-- Script Form Modal (for adding/editing scripts) -->
-  <div id="script-modal" class="modal-overlay hidden" onclick="if(event.target.id === 'script-modal') closeScriptFormModal()">
+  <div id="script-modal" class="modal-overlay hidden" onpointerdown="trackOverlayPointerDown(event)" onclick="if(shouldCloseOverlay(event, 'script-modal')) closeScriptFormModal()">
     <div class="modal" style="max-width: 600px;">
       <div class="modal-header">
         <h3 id="script-modal-title" style="margin: 0;">Add New Script</h3>
