@@ -49,5 +49,8 @@
       "content": "Sounds to me like you're ready to get started {{firstName}}."
     }
   ],
-  "lastUpdated": "2026-07-20T00:00:00.000Z"
+  "lastUpdated": "2026-07-24T23:35:24.285Z",
+  "migratedFromLocalStorage": true,
+  "migrationCompletedAt": "2026-07-24T23:35:24.285Z",
+  "migrationSource": "browser localStorage"
 }
