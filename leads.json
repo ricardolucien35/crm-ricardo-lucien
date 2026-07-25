@@ -6649,7 +6649,25 @@
       "lastModified": "2026-07-24",
       "dateAdded": "2026-07-15",
       "addedAt": "2026-07-15T20:12:36.456Z"
+    },
+    {
+      "id": "ms0tspglrqgs23utl3",
+      "name": "Cindy Guerrero",
+      "email": "",
+      "phone": "",
+      "social": "https://www.instagram.com/cindy_oficial23?igsh=d3V1dXR3ZHVidmQ4",
+      "source": "Instagram",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-25",
+      "nextFollowUp": "2026-07-26",
+      "notes": "",
+      "lastModified": "2026-07-25",
+      "dateAdded": "2026-07-25",
+      "addedAt": "2026-07-25T20:32:43.750Z"
     }
   ],
-  "lastUpdated": "2026-07-25T01:59:06.385Z"
+  "lastUpdated": "2026-07-25T20:32:43.750Z"
 }
