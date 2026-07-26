@@ -6685,7 +6685,25 @@
       "lastModified": "2026-07-25",
       "dateAdded": "2026-07-25",
       "addedAt": "2026-07-26T00:44:53.119Z"
+    },
+    {
+      "id": "ms136wwsc635khnxpq8",
+      "name": "Christian Escobar",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1ECnZbQyVx/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-25",
+      "nextFollowUp": "2026-08-01",
+      "notes": "",
+      "lastModified": "2026-07-25",
+      "dateAdded": "2026-07-25",
+      "addedAt": "2026-07-26T00:55:43.132Z"
     }
   ],
-  "lastUpdated": "2026-07-26T00:49:05.165Z"
+  "lastUpdated": "2026-07-26T00:55:43.133Z"
 }
