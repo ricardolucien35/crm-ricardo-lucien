@@ -3058,12 +3058,12 @@
       "source": "Facebook",
       "status": "Watched",
       "videoSent": true,
-      "temperature": "Cold",
+      "temperature": "Hot",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-07-24",
-      "nextFollowUp": "2026-07-25",
+      "lastContact": "2026-07-25",
+      "nextFollowUp": "2026-08-01",
       "notes": "",
-      "lastModified": "2026-07-24",
+      "lastModified": "2026-07-25",
       "dateAdded": "2026-06-14",
       "addedAt": "2026-06-14T15:49:04.688Z"
     },
@@ -6705,5 +6705,5 @@
       "addedAt": "2026-07-26T00:55:43.132Z"
     }
   ],
-  "lastUpdated": "2026-07-26T01:58:52.599Z"
+  "lastUpdated": "2026-07-26T01:59:39.240Z"
 }
