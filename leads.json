@@ -6667,7 +6667,25 @@
       "lastModified": "2026-07-25",
       "dateAdded": "2026-07-25",
       "addedAt": "2026-07-25T20:32:43.750Z"
+    },
+    {
+      "id": "ms12szcv2w0h3upyic2",
+      "name": "Kourtney Reese",
+      "email": "",
+      "phone": "",
+      "social": "https://www.instagram.com/kourtneyreese?igsh=MXBraG5vb3I4YzJvdQ==",
+      "source": "Instagram",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-25",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-07-25",
+      "dateAdded": "2026-07-25",
+      "addedAt": "2026-07-26T00:44:53.119Z"
     }
   ],
-  "lastUpdated": "2026-07-26T00:42:43.644Z"
+  "lastUpdated": "2026-07-26T00:44:53.119Z"
 }
