@@ -6135,14 +6135,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/196NXyfNAg/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
+      "status": "Watched",
+      "videoSent": true,
+      "temperature": "Warm",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-25",
-      "nextFollowUp": "2026-07-26",
+      "nextFollowUp": "2026-08-06",
       "notes": "",
-      "lastModified": "2026-07-25",
+      "lastModified": "2026-07-29",
       "dateAdded": "2026-07-12",
       "addedAt": "2026-07-13T02:33:57.475Z"
     },
@@ -6723,5 +6723,5 @@
       "addedAt": "2026-07-27T00:05:23.459Z"
     }
   ],
-  "lastUpdated": "2026-07-27T04:58:20.601Z"
+  "lastUpdated": "2026-07-29T21:42:44.900Z"
 }
