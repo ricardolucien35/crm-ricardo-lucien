@@ -6721,7 +6721,25 @@
       "lastModified": "2026-07-26",
       "dateAdded": "2026-07-26",
       "addedAt": "2026-07-27T00:05:23.459Z"
+    },
+    {
+      "id": "msaqvkziwhhahihehl8",
+      "name": "Jenny Delich",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1AzsV8uq9D/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-01",
+      "nextFollowUp": "2026-08-08",
+      "notes": "",
+      "lastModified": "2026-08-01",
+      "dateAdded": "2026-08-01",
+      "addedAt": "2026-08-01T19:08:40.830Z"
     }
   ],
-  "lastUpdated": "2026-08-01T18:23:35.943Z"
+  "lastUpdated": "2026-08-01T19:08:40.831Z"
 }
