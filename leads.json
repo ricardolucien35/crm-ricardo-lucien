@@ -6757,7 +6757,25 @@
       "lastModified": "2026-08-17",
       "dateAdded": "2026-08-05",
       "addedAt": "2026-08-06T01:18:11.195Z"
+    },
+    {
+      "id": "mt4chtzflgmblu7jgtp",
+      "name": "Jessica Warnstaff",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/19UKb1AGFf/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-22",
+      "nextFollowUp": "2026-08-29",
+      "notes": "",
+      "lastModified": "2026-08-22",
+      "dateAdded": "2026-08-22",
+      "addedAt": "2026-08-22T12:19:09.964Z"
     }
   ],
-  "lastUpdated": "2026-08-18T13:50:35.752Z"
+  "lastUpdated": "2026-08-22T12:19:09.965Z"
 }
