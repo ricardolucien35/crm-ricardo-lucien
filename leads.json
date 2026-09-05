@@ -7315,7 +7315,25 @@
       "lastModified": "2026-09-05",
       "dateAdded": "2026-09-05",
       "addedAt": "2026-09-05T16:39:24.390Z"
+    },
+    {
+      "id": "mtolze6491yl7g3hjaw",
+      "name": "Monel Madrigal",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=61582050640502",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-05",
+      "nextFollowUp": "2026-09-10",
+      "notes": "",
+      "lastModified": "2026-09-05",
+      "dateAdded": "2026-09-05",
+      "addedAt": "2026-09-05T16:40:09.340Z"
     }
   ],
-  "lastUpdated": "2026-09-05T16:39:24.390Z"
+  "lastUpdated": "2026-09-05T16:40:09.340Z"
 }
