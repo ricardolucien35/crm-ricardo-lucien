@@ -7063,7 +7063,25 @@
       "lastModified": "2026-09-04",
       "dateAdded": "2026-09-04",
       "addedAt": "2026-09-05T02:27:11.978Z"
+    },
+    {
+      "id": "mtnrjfi7zqusb6ri2ws",
+      "name": "Gretchen Anne",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/gretchen.cooper.127",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-04",
+      "nextFollowUp": "2026-09-09",
+      "notes": "",
+      "lastModified": "2026-09-04",
+      "dateAdded": "2026-09-04",
+      "addedAt": "2026-09-05T02:27:56.095Z"
     }
   ],
-  "lastUpdated": "2026-09-05T02:27:11.978Z"
+  "lastUpdated": "2026-09-05T02:27:56.095Z"
 }
