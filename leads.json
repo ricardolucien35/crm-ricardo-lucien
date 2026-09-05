@@ -6847,7 +6847,25 @@
       "lastModified": "2026-09-04",
       "dateAdded": "2026-09-04",
       "addedAt": "2026-09-05T02:12:29.493Z"
+    },
+    {
+      "id": "mtnr0nn40h71xs327gl",
+      "name": "Jennifer Ling",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/lzhang0817",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-04",
+      "nextFollowUp": "2026-09-09",
+      "notes": "",
+      "lastModified": "2026-09-04",
+      "dateAdded": "2026-09-04",
+      "addedAt": "2026-09-05T02:13:20.176Z"
     }
   ],
-  "lastUpdated": "2026-09-05T02:12:29.493Z"
+  "lastUpdated": "2026-09-05T02:13:20.177Z"
 }
