@@ -6973,7 +6973,25 @@
       "lastModified": "2026-09-04",
       "dateAdded": "2026-09-04",
       "addedAt": "2026-09-05T02:23:04.661Z"
+    },
+    {
+      "id": "mtnrem34g5p0vawvxu8",
+      "name": "Mia Estivo",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100081175125525",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-04",
+      "nextFollowUp": "2026-09-09",
+      "notes": "",
+      "lastModified": "2026-09-04",
+      "dateAdded": "2026-09-04",
+      "addedAt": "2026-09-05T02:24:11.344Z"
     }
   ],
-  "lastUpdated": "2026-09-05T02:23:04.661Z"
+  "lastUpdated": "2026-09-05T02:24:11.344Z"
 }
