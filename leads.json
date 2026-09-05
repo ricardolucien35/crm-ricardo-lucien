@@ -7027,7 +7027,25 @@
       "lastModified": "2026-09-04",
       "dateAdded": "2026-09-04",
       "addedAt": "2026-09-05T02:25:43.078Z"
+    },
+    {
+      "id": "mtnrhh83kc3nddyufh",
+      "name": "Emily Conaty",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=61590211293668",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-04",
+      "nextFollowUp": "2026-09-09",
+      "notes": "",
+      "lastModified": "2026-09-04",
+      "dateAdded": "2026-09-04",
+      "addedAt": "2026-09-05T02:26:25.011Z"
     }
   ],
-  "lastUpdated": "2026-09-05T02:25:43.078Z"
+  "lastUpdated": "2026-09-05T02:26:25.011Z"
 }
