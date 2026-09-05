@@ -4190,14 +4190,14 @@
       "phone": "",
       "social": "https://www.instagram.com/margiemoreir?igsh=MWo3dGcxdjJ2azdsYQ==",
       "source": "Instagram",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
+      "status": "Watched",
+      "videoSent": true,
+      "temperature": "Hot",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-26",
-      "nextFollowUp": "2026-08-27",
+      "nextFollowUp": "2026-09-09",
       "notes": "",
-      "lastModified": "2026-08-26",
+      "lastModified": "2026-09-05",
       "dateAdded": "2026-06-16",
       "addedAt": "2026-06-16T18:34:44.645Z"
     },
@@ -7443,5 +7443,5 @@
       "addedAt": "2026-09-05T16:48:02.818Z"
     }
   ],
-  "lastUpdated": "2026-09-05T16:52:34.313Z"
+  "lastUpdated": "2026-09-05T17:21:51.580Z"
 }
