@@ -7279,7 +7279,25 @@
       "lastModified": "2026-09-05",
       "dateAdded": "2026-09-05",
       "addedAt": "2026-09-05T16:37:49.808Z"
+    },
+    {
+      "id": "mtolxhghn9vw7ns1thp",
+      "name": "Jaci Desordi",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jaci.desordi",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-05",
+      "nextFollowUp": "2026-09-10",
+      "notes": "",
+      "lastModified": "2026-09-05",
+      "dateAdded": "2026-09-05",
+      "addedAt": "2026-09-05T16:38:40.289Z"
     }
   ],
-  "lastUpdated": "2026-09-05T16:37:49.808Z"
+  "lastUpdated": "2026-09-05T16:38:40.289Z"
 }
