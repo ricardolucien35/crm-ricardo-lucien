@@ -7225,7 +7225,25 @@
       "lastModified": "2026-09-05",
       "dateAdded": "2026-09-05",
       "addedAt": "2026-09-05T16:35:29.408Z"
+    },
+    {
+      "id": "mtolue020qfnu4thhh3n",
+      "name": "Summer Brooke",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/summer.brooke.77",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-05",
+      "nextFollowUp": "2026-09-10",
+      "notes": "",
+      "lastModified": "2026-09-05",
+      "dateAdded": "2026-09-05",
+      "addedAt": "2026-09-05T16:36:15.842Z"
     }
   ],
-  "lastUpdated": "2026-09-05T16:35:29.408Z"
+  "lastUpdated": "2026-09-05T16:36:15.842Z"
 }
