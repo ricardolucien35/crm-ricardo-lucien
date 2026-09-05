@@ -6991,7 +6991,25 @@
       "lastModified": "2026-09-04",
       "dateAdded": "2026-09-04",
       "addedAt": "2026-09-05T02:24:11.344Z"
+    },
+    {
+      "id": "mtnrfos7kbse9t1lq3r",
+      "name": "Frankie Marconi",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/frankie.marconi.9",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-04",
+      "nextFollowUp": "2026-09-09",
+      "notes": "",
+      "lastModified": "2026-09-04",
+      "dateAdded": "2026-09-04",
+      "addedAt": "2026-09-05T02:25:01.495Z"
     }
   ],
-  "lastUpdated": "2026-09-05T02:24:11.344Z"
+  "lastUpdated": "2026-09-05T02:25:01.496Z"
 }
