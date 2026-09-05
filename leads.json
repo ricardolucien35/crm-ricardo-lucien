@@ -7189,7 +7189,25 @@
       "lastModified": "2026-09-05",
       "dateAdded": "2026-09-05",
       "addedAt": "2026-09-05T16:32:35.377Z"
+    },
+    {
+      "id": "mtolrxy53e4y83s1cv5",
+      "name": "Laney Miller",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=61572253413143",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-05",
+      "nextFollowUp": "2026-09-10",
+      "notes": "",
+      "lastModified": "2026-09-05",
+      "dateAdded": "2026-09-05",
+      "addedAt": "2026-09-05T16:34:21.726Z"
     }
   ],
-  "lastUpdated": "2026-09-05T16:32:35.377Z"
+  "lastUpdated": "2026-09-05T16:34:21.726Z"
 }
