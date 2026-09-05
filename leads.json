@@ -6775,7 +6775,25 @@
       "lastModified": "2026-08-22",
       "dateAdded": "2026-08-22",
       "addedAt": "2026-08-22T12:19:09.964Z"
+    },
+    {
+      "id": "mtnqv6al6u1ssbgfw92",
+      "name": "Alex Bearden",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/alex.bearden.33",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-04",
+      "nextFollowUp": "2026-09-09",
+      "notes": "",
+      "lastModified": "2026-09-04",
+      "dateAdded": "2026-09-04",
+      "addedAt": "2026-09-05T02:09:04.414Z"
     }
   ],
-  "lastUpdated": "2026-08-26T23:59:03.678Z"
+  "lastUpdated": "2026-09-05T02:09:04.414Z"
 }
