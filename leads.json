@@ -6901,7 +6901,25 @@
       "lastModified": "2026-09-04",
       "dateAdded": "2026-09-04",
       "addedAt": "2026-09-05T02:19:19.178Z"
+    },
+    {
+      "id": "mtnr9wa6cjgtra0fllf",
+      "name": "Jack Obringer",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jack.obringer.2025",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-04",
+      "nextFollowUp": "2026-09-09",
+      "notes": "",
+      "lastModified": "2026-09-04",
+      "dateAdded": "2026-09-04",
+      "addedAt": "2026-09-05T02:20:31.278Z"
     }
   ],
-  "lastUpdated": "2026-09-05T02:19:19.178Z"
+  "lastUpdated": "2026-09-05T02:20:31.278Z"
 }
