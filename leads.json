@@ -44,9 +44,9 @@
       "temperature": "Warm",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-26",
-      "nextFollowUp": "2026-08-31",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-08-26",
+      "lastModified": "2026-09-05",
       "dateAdded": "2026-05-18",
       "videoSent": false
     },
@@ -7443,5 +7443,5 @@
       "addedAt": "2026-09-05T16:48:02.818Z"
     }
   ],
-  "lastUpdated": "2026-09-05T17:53:00.938Z"
+  "lastUpdated": "2026-09-05T17:53:38.363Z"
 }
