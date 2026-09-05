@@ -6919,7 +6919,25 @@
       "lastModified": "2026-09-04",
       "dateAdded": "2026-09-04",
       "addedAt": "2026-09-05T02:20:31.278Z"
+    },
+    {
+      "id": "mtnrasmydbyy56zjt15",
+      "name": "Cole Moberly",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/cole.moberly.9",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-04",
+      "nextFollowUp": "2026-09-09",
+      "notes": "",
+      "lastModified": "2026-09-04",
+      "dateAdded": "2026-09-04",
+      "addedAt": "2026-09-05T02:21:13.211Z"
     }
   ],
-  "lastUpdated": "2026-09-05T02:20:31.278Z"
+  "lastUpdated": "2026-09-05T02:21:13.211Z"
 }
