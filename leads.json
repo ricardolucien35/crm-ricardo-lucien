@@ -7045,7 +7045,25 @@
       "lastModified": "2026-09-04",
       "dateAdded": "2026-09-04",
       "addedAt": "2026-09-05T02:26:25.011Z"
+    },
+    {
+      "id": "mtnrihgq0v55n4u5ed9",
+      "name": "Jentzen Taylor",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jentzen.taylor",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-04",
+      "nextFollowUp": "2026-09-09",
+      "notes": "",
+      "lastModified": "2026-09-04",
+      "dateAdded": "2026-09-04",
+      "addedAt": "2026-09-05T02:27:11.978Z"
     }
   ],
-  "lastUpdated": "2026-09-05T02:26:25.011Z"
+  "lastUpdated": "2026-09-05T02:27:11.978Z"
 }
