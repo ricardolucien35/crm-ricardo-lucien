@@ -7099,7 +7099,25 @@
       "lastModified": "2026-09-04",
       "dateAdded": "2026-09-04",
       "addedAt": "2026-09-05T02:28:45.645Z"
+    },
+    {
+      "id": "mtnrlvmmbocrigq9xkw",
+      "name": "Graeson Shafer",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=61559999296406",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-04",
+      "nextFollowUp": "2026-09-09",
+      "notes": "",
+      "lastModified": "2026-09-04",
+      "dateAdded": "2026-09-04",
+      "addedAt": "2026-09-05T02:29:50.302Z"
     }
   ],
-  "lastUpdated": "2026-09-05T02:28:45.645Z"
+  "lastUpdated": "2026-09-05T02:29:50.302Z"
 }
