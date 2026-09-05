@@ -7135,7 +7135,25 @@
       "lastModified": "2026-09-04",
       "dateAdded": "2026-09-04",
       "addedAt": "2026-09-05T02:30:52.221Z"
+    },
+    {
+      "id": "mtolne5iorbenz3v4r",
+      "name": "Weston Fries",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/weston.fries.5",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-05",
+      "nextFollowUp": "2026-09-10",
+      "notes": "",
+      "lastModified": "2026-09-05",
+      "dateAdded": "2026-09-05",
+      "addedAt": "2026-09-05T16:30:49.446Z"
     }
   ],
-  "lastUpdated": "2026-09-05T02:30:52.221Z"
+  "lastUpdated": "2026-09-05T16:30:49.446Z"
 }
