@@ -6955,7 +6955,25 @@
       "lastModified": "2026-09-04",
       "dateAdded": "2026-09-04",
       "addedAt": "2026-09-05T02:22:10.044Z"
+    },
+    {
+      "id": "mtnrd6mtzluqqcnop88",
+      "name": "Ellie Savage",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/ellie.savage.214175",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-04",
+      "nextFollowUp": "2026-09-09",
+      "notes": "",
+      "lastModified": "2026-09-04",
+      "dateAdded": "2026-09-04",
+      "addedAt": "2026-09-05T02:23:04.661Z"
     }
   ],
-  "lastUpdated": "2026-09-05T02:22:10.044Z"
+  "lastUpdated": "2026-09-05T02:23:04.661Z"
 }
