@@ -7423,7 +7423,25 @@
       "lastModified": "2026-09-05",
       "dateAdded": "2026-09-05",
       "addedAt": "2026-09-05T16:47:21.802Z"
+    },
+    {
+      "id": "mtom9jia2cgawe5iusf",
+      "name": "Destiny Valentine",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=61574280273745",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-05",
+      "nextFollowUp": "2026-09-10",
+      "notes": "",
+      "lastModified": "2026-09-05",
+      "dateAdded": "2026-09-05",
+      "addedAt": "2026-09-05T16:48:02.818Z"
     }
   ],
-  "lastUpdated": "2026-09-05T16:47:21.802Z"
+  "lastUpdated": "2026-09-05T16:48:02.818Z"
 }
