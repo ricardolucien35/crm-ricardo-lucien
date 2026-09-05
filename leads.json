@@ -6865,7 +6865,25 @@
       "lastModified": "2026-09-04",
       "dateAdded": "2026-09-04",
       "addedAt": "2026-09-05T02:13:20.176Z"
+    },
+    {
+      "id": "mtnr719trf5ccrswcw",
+      "name": "Evan Gastineau",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/evan.gastineau",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-04",
+      "nextFollowUp": "2026-09-09",
+      "notes": "",
+      "lastModified": "2026-09-04",
+      "dateAdded": "2026-09-04",
+      "addedAt": "2026-09-05T02:18:17.777Z"
     }
   ],
-  "lastUpdated": "2026-09-05T02:13:20.177Z"
+  "lastUpdated": "2026-09-05T02:18:17.777Z"
 }
