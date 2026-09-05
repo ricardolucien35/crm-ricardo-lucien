@@ -7009,7 +7009,25 @@
       "lastModified": "2026-09-04",
       "dateAdded": "2026-09-04",
       "addedAt": "2026-09-05T02:25:01.495Z"
+    },
+    {
+      "id": "mtnrgkvay8n4tjz7fk",
+      "name": "Reis Wallace",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/reis.wallace.1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-04",
+      "nextFollowUp": "2026-09-09",
+      "notes": "",
+      "lastModified": "2026-09-04",
+      "dateAdded": "2026-09-04",
+      "addedAt": "2026-09-05T02:25:43.078Z"
     }
   ],
-  "lastUpdated": "2026-09-05T02:25:01.496Z"
+  "lastUpdated": "2026-09-05T02:25:43.078Z"
 }
