@@ -7297,7 +7297,25 @@
       "lastModified": "2026-09-05",
       "dateAdded": "2026-09-05",
       "addedAt": "2026-09-05T16:38:40.289Z"
+    },
+    {
+      "id": "mtolyfhi5k4l4eqiiiu",
+      "name": "Sammy Maxey",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/sammy.maxey",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-05",
+      "nextFollowUp": "2026-09-10",
+      "notes": "",
+      "lastModified": "2026-09-05",
+      "dateAdded": "2026-09-05",
+      "addedAt": "2026-09-05T16:39:24.390Z"
     }
   ],
-  "lastUpdated": "2026-09-05T16:38:40.289Z"
+  "lastUpdated": "2026-09-05T16:39:24.390Z"
 }
