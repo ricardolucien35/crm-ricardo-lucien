@@ -7081,7 +7081,25 @@
       "lastModified": "2026-09-04",
       "dateAdded": "2026-09-04",
       "addedAt": "2026-09-05T02:27:56.095Z"
+    },
+    {
+      "id": "mtnrkhql3kaaafdilds",
+      "name": "Madisyn Wion",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/madisyn.wion",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-04",
+      "nextFollowUp": "2026-09-09",
+      "notes": "",
+      "lastModified": "2026-09-04",
+      "dateAdded": "2026-09-04",
+      "addedAt": "2026-09-05T02:28:45.645Z"
     }
   ],
-  "lastUpdated": "2026-09-05T02:27:56.095Z"
+  "lastUpdated": "2026-09-05T02:28:45.645Z"
 }
