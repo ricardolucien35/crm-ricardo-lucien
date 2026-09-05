@@ -6829,7 +6829,25 @@
       "lastModified": "2026-09-04",
       "dateAdded": "2026-09-04",
       "addedAt": "2026-09-05T02:11:29.744Z"
+    },
+    {
+      "id": "mtnqzkj96kgwp1sjdcg",
+      "name": "Megan Allen",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=61557475166585",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-04",
+      "nextFollowUp": "2026-09-09",
+      "notes": "",
+      "lastModified": "2026-09-04",
+      "dateAdded": "2026-09-04",
+      "addedAt": "2026-09-05T02:12:29.493Z"
     }
   ],
-  "lastUpdated": "2026-09-05T02:11:29.744Z"
+  "lastUpdated": "2026-09-05T02:12:29.493Z"
 }
