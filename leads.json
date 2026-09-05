@@ -7333,7 +7333,25 @@
       "lastModified": "2026-09-05",
       "dateAdded": "2026-09-05",
       "addedAt": "2026-09-05T16:40:09.340Z"
+    },
+    {
+      "id": "mtom0igl55l7fo2fs2a",
+      "name": "Nicole Sims",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/nicoler06",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-05",
+      "nextFollowUp": "2026-09-10",
+      "notes": "",
+      "lastModified": "2026-09-05",
+      "dateAdded": "2026-09-05",
+      "addedAt": "2026-09-05T16:41:01.557Z"
     }
   ],
-  "lastUpdated": "2026-09-05T16:40:09.340Z"
+  "lastUpdated": "2026-09-05T16:41:01.557Z"
 }
