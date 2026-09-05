@@ -6883,7 +6883,25 @@
       "lastModified": "2026-09-04",
       "dateAdded": "2026-09-04",
       "addedAt": "2026-09-05T02:18:17.777Z"
+    },
+    {
+      "id": "mtnr8cnex0whtng4la",
+      "name": "Michael Heislen",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/michael.heislen",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-04",
+      "nextFollowUp": "2026-09-09",
+      "notes": "",
+      "lastModified": "2026-09-04",
+      "dateAdded": "2026-09-04",
+      "addedAt": "2026-09-05T02:19:19.178Z"
     }
   ],
-  "lastUpdated": "2026-09-05T02:18:17.777Z"
+  "lastUpdated": "2026-09-05T02:19:19.178Z"
 }
