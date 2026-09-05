@@ -6937,7 +6937,25 @@
       "lastModified": "2026-09-04",
       "dateAdded": "2026-09-04",
       "addedAt": "2026-09-05T02:21:13.211Z"
+    },
+    {
+      "id": "mtnrc0hole4tm2ge8gc",
+      "name": "Brisa Ruiz",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/isa.ruiz.71216141",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-04",
+      "nextFollowUp": "2026-09-09",
+      "notes": "",
+      "lastModified": "2026-09-04",
+      "dateAdded": "2026-09-04",
+      "addedAt": "2026-09-05T02:22:10.044Z"
     }
   ],
-  "lastUpdated": "2026-09-05T02:21:13.211Z"
+  "lastUpdated": "2026-09-05T02:22:10.044Z"
 }
