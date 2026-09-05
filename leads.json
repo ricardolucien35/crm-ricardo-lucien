@@ -6793,7 +6793,25 @@
       "lastModified": "2026-09-04",
       "dateAdded": "2026-09-04",
       "addedAt": "2026-09-05T02:09:04.414Z"
+    },
+    {
+      "id": "mtnqx0ovtfydj224v1i",
+      "name": "Brooke Williams",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100010343958664",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-04",
+      "nextFollowUp": "2026-09-09",
+      "notes": "",
+      "lastModified": "2026-09-04",
+      "dateAdded": "2026-09-04",
+      "addedAt": "2026-09-05T02:10:30.463Z"
     }
   ],
-  "lastUpdated": "2026-09-05T02:09:04.414Z"
+  "lastUpdated": "2026-09-05T02:10:30.463Z"
 }
