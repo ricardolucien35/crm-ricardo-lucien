@@ -7441,7 +7441,25 @@
       "lastModified": "2026-09-05",
       "dateAdded": "2026-09-05",
       "addedAt": "2026-09-05T16:48:02.818Z"
+    },
+    {
+      "id": "mtopvzl81nxdkezchtd",
+      "name": "Foster Pest",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/foster.pest",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-05",
+      "nextFollowUp": "2026-09-10",
+      "notes": "",
+      "lastModified": "2026-09-05",
+      "dateAdded": "2026-09-05",
+      "addedAt": "2026-09-05T18:29:28.940Z"
     }
   ],
-  "lastUpdated": "2026-09-05T17:58:59.289Z"
+  "lastUpdated": "2026-09-05T18:29:28.940Z"
 }
