@@ -7495,7 +7495,25 @@
       "lastModified": "2026-09-05",
       "dateAdded": "2026-09-05",
       "addedAt": "2026-09-05T18:30:51.290Z"
+    },
+    {
+      "id": "mtp1z3vk01ugba861qkl",
+      "name": "Madi Moore",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/madi.moore.12382",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-05",
+      "nextFollowUp": "2026-09-10",
+      "notes": "",
+      "lastModified": "2026-09-05",
+      "dateAdded": "2026-09-05",
+      "addedAt": "2026-09-06T00:07:49.856Z"
     }
   ],
-  "lastUpdated": "2026-09-05T18:32:22.806Z"
+  "lastUpdated": "2026-09-06T00:07:49.856Z"
 }
