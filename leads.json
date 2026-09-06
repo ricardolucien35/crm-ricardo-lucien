@@ -7683,8 +7683,8 @@
       "phone": "8166514830",
       "social": "",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Watched",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-05",
@@ -7695,5 +7695,5 @@
       "addedAt": "2026-09-06T00:15:51.698Z"
     }
   ],
-  "lastUpdated": "2026-09-06T00:15:51.698Z"
+  "lastUpdated": "2026-09-06T00:16:09.203Z"
 }
