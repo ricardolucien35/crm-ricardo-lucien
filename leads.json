@@ -7549,7 +7549,25 @@
       "lastModified": "2026-09-05",
       "dateAdded": "2026-09-05",
       "addedAt": "2026-09-06T00:09:13.606Z"
+    },
+    {
+      "id": "mtp21rwxr1ia128vv3q",
+      "name": "Taylor Atwood",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=61567380310972",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-05",
+      "nextFollowUp": "2026-09-10",
+      "notes": "",
+      "lastModified": "2026-09-05",
+      "dateAdded": "2026-09-05",
+      "addedAt": "2026-09-06T00:09:54.322Z"
     }
   ],
-  "lastUpdated": "2026-09-06T00:09:13.606Z"
+  "lastUpdated": "2026-09-06T00:09:54.322Z"
 }
