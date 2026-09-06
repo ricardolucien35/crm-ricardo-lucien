@@ -7639,7 +7639,25 @@
       "lastModified": "2026-09-05",
       "dateAdded": "2026-09-05",
       "addedAt": "2026-09-06T00:12:34.521Z"
+    },
+    {
+      "id": "mtp262dl8l42n1mdzhj",
+      "name": "Cole Robertson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/EliteGlassCare",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-05",
+      "nextFollowUp": "2026-09-10",
+      "notes": "",
+      "lastModified": "2026-09-05",
+      "dateAdded": "2026-09-05",
+      "addedAt": "2026-09-06T00:13:14.505Z"
     }
   ],
-  "lastUpdated": "2026-09-06T00:12:34.521Z"
+  "lastUpdated": "2026-09-06T00:13:14.505Z"
 }
