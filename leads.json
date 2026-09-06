@@ -7675,7 +7675,25 @@
       "lastModified": "2026-09-05",
       "dateAdded": "2026-09-05",
       "addedAt": "2026-09-06T00:13:53.305Z"
+    },
+    {
+      "id": "mtp29fo2lt55bx6us9",
+      "name": "Kenny Benjamin",
+      "email": "",
+      "phone": "8166514830",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-05",
+      "nextFollowUp": "2026-11-01",
+      "notes": "",
+      "lastModified": "2026-09-05",
+      "dateAdded": "2026-09-05",
+      "addedAt": "2026-09-06T00:15:51.698Z"
     }
   ],
-  "lastUpdated": "2026-09-06T00:13:53.305Z"
+  "lastUpdated": "2026-09-06T00:15:51.698Z"
 }
