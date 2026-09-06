@@ -7567,7 +7567,25 @@
       "lastModified": "2026-09-05",
       "dateAdded": "2026-09-05",
       "addedAt": "2026-09-06T00:09:54.322Z"
+    },
+    {
+      "id": "mtp22phsumoha860yur",
+      "name": "Mitchell Chansley",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/mitchell.chansley.1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-05",
+      "nextFollowUp": "2026-09-10",
+      "notes": "",
+      "lastModified": "2026-09-05",
+      "dateAdded": "2026-09-05",
+      "addedAt": "2026-09-06T00:10:37.840Z"
     }
   ],
-  "lastUpdated": "2026-09-06T00:09:54.322Z"
+  "lastUpdated": "2026-09-06T00:10:37.840Z"
 }
