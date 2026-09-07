@@ -7801,7 +7801,25 @@
       "lastModified": "2026-09-07",
       "dateAdded": "2026-09-07",
       "addedAt": "2026-09-07T19:40:37.220Z"
+    },
+    {
+      "id": "mtrncbjw843pnf7lr27",
+      "name": "Jacky Molina",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jacky.molina.39",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-07",
+      "nextFollowUp": "2026-09-12",
+      "notes": "",
+      "lastModified": "2026-09-07",
+      "dateAdded": "2026-09-07",
+      "addedAt": "2026-09-07T19:41:30.621Z"
     }
   ],
-  "lastUpdated": "2026-09-07T19:40:37.220Z"
+  "lastUpdated": "2026-09-07T19:41:30.621Z"
 }
