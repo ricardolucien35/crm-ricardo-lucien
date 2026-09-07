@@ -8197,7 +8197,25 @@
       "lastModified": "2026-09-07",
       "dateAdded": "2026-09-07",
       "addedAt": "2026-09-07T20:00:30.919Z"
+    },
+    {
+      "id": "mtro1yygsvfn1qoa53a",
+      "name": "Cornell Brown",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/cornell2brown",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-07",
+      "nextFollowUp": "2026-09-12",
+      "notes": "",
+      "lastModified": "2026-09-07",
+      "dateAdded": "2026-09-07",
+      "addedAt": "2026-09-07T20:01:27.352Z"
     }
   ],
-  "lastUpdated": "2026-09-07T20:00:30.919Z"
+  "lastUpdated": "2026-09-07T20:01:27.352Z"
 }
