@@ -7909,7 +7909,25 @@
       "lastModified": "2026-09-07",
       "dateAdded": "2026-09-07",
       "addedAt": "2026-09-07T19:45:55.452Z"
+    },
+    {
+      "id": "mtrniwpb9eclqj96c4u",
+      "name": "Olivia Oddo",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/olivia.oddo.359",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-07",
+      "nextFollowUp": "2026-09-12",
+      "notes": "",
+      "lastModified": "2026-09-07",
+      "dateAdded": "2026-09-07",
+      "addedAt": "2026-09-07T19:46:37.967Z"
     }
   ],
-  "lastUpdated": "2026-09-07T19:45:55.452Z"
+  "lastUpdated": "2026-09-07T19:46:37.967Z"
 }
