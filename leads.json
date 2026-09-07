@@ -7729,7 +7729,25 @@
       "lastModified": "2026-09-07",
       "dateAdded": "2026-09-07",
       "addedAt": "2026-09-07T19:35:41.140Z"
+    },
+    {
+      "id": "mtrn6ko9sjxpjvdkf1",
+      "name": "Erin Prather",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/erinprather11",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-07",
+      "nextFollowUp": "2026-09-12",
+      "notes": "",
+      "lastModified": "2026-09-07",
+      "dateAdded": "2026-09-07",
+      "addedAt": "2026-09-07T19:37:02.505Z"
     }
   ],
-  "lastUpdated": "2026-09-07T19:35:41.140Z"
+  "lastUpdated": "2026-09-07T19:37:02.505Z"
 }
