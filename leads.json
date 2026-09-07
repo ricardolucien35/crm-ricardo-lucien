@@ -7963,7 +7963,25 @@
       "lastModified": "2026-09-07",
       "dateAdded": "2026-09-07",
       "addedAt": "2026-09-07T19:48:39.221Z"
+    },
+    {
+      "id": "mtrnmioleugq9f596n",
+      "name": "Connor Still",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/ConnorStill",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-07",
+      "nextFollowUp": "2026-09-12",
+      "notes": "",
+      "lastModified": "2026-09-07",
+      "dateAdded": "2026-09-07",
+      "addedAt": "2026-09-07T19:49:26.421Z"
     }
   ],
-  "lastUpdated": "2026-09-07T19:48:39.221Z"
+  "lastUpdated": "2026-09-07T19:49:26.421Z"
 }
