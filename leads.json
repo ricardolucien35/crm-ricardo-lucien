@@ -7837,7 +7837,25 @@
       "lastModified": "2026-09-07",
       "dateAdded": "2026-09-07",
       "addedAt": "2026-09-07T19:42:21.970Z"
+    },
+    {
+      "id": "mtrnejfbk4blsz2y9i",
+      "name": "Kolby Franklin",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/kolby.franklin.92",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-07",
+      "nextFollowUp": "2026-09-12",
+      "notes": "",
+      "lastModified": "2026-09-07",
+      "dateAdded": "2026-09-07",
+      "addedAt": "2026-09-07T19:43:14.136Z"
     }
   ],
-  "lastUpdated": "2026-09-07T19:42:21.970Z"
+  "lastUpdated": "2026-09-07T19:43:14.136Z"
 }
