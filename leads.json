@@ -7711,7 +7711,25 @@
       "lastModified": "2026-09-05",
       "dateAdded": "2026-09-05",
       "addedAt": "2026-09-06T00:30:05.884Z"
+    },
+    {
+      "id": "mtrn4tw43j9sgjkvji3",
+      "name": "Makayla Hughes",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/makayla.hughes.925",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-07",
+      "nextFollowUp": "2026-09-12",
+      "notes": "",
+      "lastModified": "2026-09-07",
+      "dateAdded": "2026-09-07",
+      "addedAt": "2026-09-07T19:35:41.140Z"
     }
   ],
-  "lastUpdated": "2026-09-06T18:58:02.088Z"
+  "lastUpdated": "2026-09-07T19:35:41.140Z"
 }
