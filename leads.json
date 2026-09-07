@@ -7819,7 +7819,25 @@
       "lastModified": "2026-09-07",
       "dateAdded": "2026-09-07",
       "addedAt": "2026-09-07T19:41:30.621Z"
+    },
+    {
+      "id": "mtrndf6anrprfkl6rje",
+      "name": "Kyle Wesley",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/kyle.wesley.118525",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-07",
+      "nextFollowUp": "2026-09-12",
+      "notes": "",
+      "lastModified": "2026-09-07",
+      "dateAdded": "2026-09-07",
+      "addedAt": "2026-09-07T19:42:21.970Z"
     }
   ],
-  "lastUpdated": "2026-09-07T19:41:30.621Z"
+  "lastUpdated": "2026-09-07T19:42:21.970Z"
 }
