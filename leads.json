@@ -7783,7 +7783,25 @@
       "lastModified": "2026-09-07",
       "dateAdded": "2026-09-07",
       "addedAt": "2026-09-07T19:39:09.004Z"
+    },
+    {
+      "id": "mtrnb6cky2k8mhmq1ra",
+      "name": "Josephine Tuimaseve",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/joseytuimaseve",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-07",
+      "nextFollowUp": "2026-09-12",
+      "notes": "",
+      "lastModified": "2026-09-07",
+      "dateAdded": "2026-09-07",
+      "addedAt": "2026-09-07T19:40:37.220Z"
     }
   ],
-  "lastUpdated": "2026-09-07T19:39:09.005Z"
+  "lastUpdated": "2026-09-07T19:40:37.220Z"
 }
