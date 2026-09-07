@@ -8071,7 +8071,25 @@
       "lastModified": "2026-09-07",
       "dateAdded": "2026-09-07",
       "addedAt": "2026-09-07T19:53:49.104Z"
+    },
+    {
+      "id": "mtrnt68o66m9qg1ooja",
+      "name": "Chase Uhlig",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/chase.uhlig.5",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-07",
+      "nextFollowUp": "2026-09-12",
+      "notes": "",
+      "lastModified": "2026-09-07",
+      "dateAdded": "2026-09-07",
+      "addedAt": "2026-09-07T19:54:36.888Z"
     }
   ],
-  "lastUpdated": "2026-09-07T19:53:49.104Z"
+  "lastUpdated": "2026-09-07T19:54:36.888Z"
 }
