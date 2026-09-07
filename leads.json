@@ -7873,7 +7873,25 @@
       "lastModified": "2026-09-07",
       "dateAdded": "2026-09-07",
       "addedAt": "2026-09-07T19:44:05.585Z"
+    },
+    {
+      "id": "mtrngkzxuvs7vww3o1l",
+      "name": "Ellie Leaver",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/ellie.leaver.1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-07",
+      "nextFollowUp": "2026-09-12",
+      "notes": "",
+      "lastModified": "2026-09-07",
+      "dateAdded": "2026-09-07",
+      "addedAt": "2026-09-07T19:44:49.485Z"
     }
   ],
-  "lastUpdated": "2026-09-07T19:44:05.585Z"
+  "lastUpdated": "2026-09-07T19:44:49.485Z"
 }
