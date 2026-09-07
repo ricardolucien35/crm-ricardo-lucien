@@ -8143,7 +8143,25 @@
       "lastModified": "2026-09-07",
       "dateAdded": "2026-09-07",
       "addedAt": "2026-09-07T19:57:18.703Z"
+    },
+    {
+      "id": "mtrnxovpu1mgqqwf109",
+      "name": "Joey Schultz",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/joey.schultz",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-07",
+      "nextFollowUp": "2026-09-12",
+      "notes": "",
+      "lastModified": "2026-09-07",
+      "dateAdded": "2026-09-07",
+      "addedAt": "2026-09-07T19:58:07.669Z"
     }
   ],
-  "lastUpdated": "2026-09-07T19:57:18.703Z"
+  "lastUpdated": "2026-09-07T19:58:07.669Z"
 }
