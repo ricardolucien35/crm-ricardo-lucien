@@ -8161,7 +8161,25 @@
       "lastModified": "2026-09-07",
       "dateAdded": "2026-09-07",
       "addedAt": "2026-09-07T19:58:07.669Z"
+    },
+    {
+      "id": "mtrnyywn9ovd6b9qozs",
+      "name": "Kiana Dyer",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/kiana.dyer.2025",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-07",
+      "nextFollowUp": "2026-09-12",
+      "notes": "",
+      "lastModified": "2026-09-07",
+      "dateAdded": "2026-09-07",
+      "addedAt": "2026-09-07T19:59:07.319Z"
     }
   ],
-  "lastUpdated": "2026-09-07T19:58:07.669Z"
+  "lastUpdated": "2026-09-07T19:59:07.320Z"
 }
