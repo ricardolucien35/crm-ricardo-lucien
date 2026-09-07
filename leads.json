@@ -7999,7 +7999,25 @@
       "lastModified": "2026-09-07",
       "dateAdded": "2026-09-07",
       "addedAt": "2026-09-07T19:50:16.505Z"
+    },
+    {
+      "id": "mtrnove43io1uvdkcns",
+      "name": "Olivia Goldbeck",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100072555723625",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-07",
+      "nextFollowUp": "2026-09-12",
+      "notes": "",
+      "lastModified": "2026-09-07",
+      "dateAdded": "2026-09-07",
+      "addedAt": "2026-09-07T19:51:16.204Z"
     }
   ],
-  "lastUpdated": "2026-09-07T19:50:16.505Z"
+  "lastUpdated": "2026-09-07T19:51:16.204Z"
 }
