@@ -7765,7 +7765,25 @@
       "lastModified": "2026-09-07",
       "dateAdded": "2026-09-07",
       "addedAt": "2026-09-07T19:38:05.822Z"
+    },
+    {
+      "id": "mtrn9aa4yfaj9ecd1l",
+      "name": "Julia Budetti",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/julia.budetti.7",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-07",
+      "nextFollowUp": "2026-09-12",
+      "notes": "",
+      "lastModified": "2026-09-07",
+      "dateAdded": "2026-09-07",
+      "addedAt": "2026-09-07T19:39:09.004Z"
     }
   ],
-  "lastUpdated": "2026-09-07T19:38:05.822Z"
+  "lastUpdated": "2026-09-07T19:39:09.005Z"
 }
