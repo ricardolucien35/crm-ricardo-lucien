@@ -7927,7 +7927,25 @@
       "lastModified": "2026-09-07",
       "dateAdded": "2026-09-07",
       "addedAt": "2026-09-07T19:46:37.967Z"
+    },
+    {
+      "id": "mtrnjv9979owgqzov7c",
+      "name": "Jace Johns",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jace.johns.962353",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-07",
+      "nextFollowUp": "2026-09-12",
+      "notes": "",
+      "lastModified": "2026-09-07",
+      "dateAdded": "2026-09-07",
+      "addedAt": "2026-09-07T19:47:22.749Z"
     }
   ],
-  "lastUpdated": "2026-09-07T19:46:37.967Z"
+  "lastUpdated": "2026-09-07T19:47:22.749Z"
 }
