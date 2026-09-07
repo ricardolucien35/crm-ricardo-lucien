@@ -8053,7 +8053,25 @@
       "lastModified": "2026-09-07",
       "dateAdded": "2026-09-07",
       "addedAt": "2026-09-07T19:52:51.304Z"
+    },
+    {
+      "id": "mtrns5dc5b48pdfqp8u",
+      "name": "Kaela Cannon",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/kaela.cannon",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-07",
+      "nextFollowUp": "2026-09-12",
+      "notes": "",
+      "lastModified": "2026-09-07",
+      "dateAdded": "2026-09-07",
+      "addedAt": "2026-09-07T19:53:49.104Z"
     }
   ],
-  "lastUpdated": "2026-09-07T19:52:51.304Z"
+  "lastUpdated": "2026-09-07T19:53:49.104Z"
 }
