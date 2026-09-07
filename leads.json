@@ -7981,7 +7981,25 @@
       "lastModified": "2026-09-07",
       "dateAdded": "2026-09-07",
       "addedAt": "2026-09-07T19:49:26.421Z"
+    },
+    {
+      "id": "mtrnnlbsjr1kyz92kx",
+      "name": "Nicholas Senter",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/nick.senter1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-07",
+      "nextFollowUp": "2026-09-12",
+      "notes": "",
+      "lastModified": "2026-09-07",
+      "dateAdded": "2026-09-07",
+      "addedAt": "2026-09-07T19:50:16.505Z"
     }
   ],
-  "lastUpdated": "2026-09-07T19:49:26.421Z"
+  "lastUpdated": "2026-09-07T19:50:16.505Z"
 }
