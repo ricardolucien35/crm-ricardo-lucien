@@ -8485,7 +8485,25 @@
       "lastModified": "2026-09-08",
       "dateAdded": "2026-09-08",
       "addedAt": "2026-09-08T17:26:48.595Z"
+    },
+    {
+      "id": "mtsy0e14jphs32kjcs",
+      "name": "Lillie Burns",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/lillie.burns.589100",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-08",
+      "nextFollowUp": "2026-09-13",
+      "notes": "",
+      "lastModified": "2026-09-08",
+      "dateAdded": "2026-09-08",
+      "addedAt": "2026-09-08T17:27:55.913Z"
     }
   ],
-  "lastUpdated": "2026-09-08T17:26:48.595Z"
+  "lastUpdated": "2026-09-08T17:27:55.913Z"
 }
