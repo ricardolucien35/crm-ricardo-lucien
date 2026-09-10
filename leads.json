@@ -8612,7 +8612,25 @@
       "lastModified": "2026-09-10",
       "dateAdded": "2026-09-10",
       "addedAt": "2026-09-10T18:30:57.327Z"
+    },
+    {
+      "id": "mtvv6l3974fdpfdacb7",
+      "name": "McKenzie Clark",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/mckenzie.clark.thomas.2025",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-10",
+      "nextFollowUp": "2026-09-17",
+      "notes": "",
+      "lastModified": "2026-09-10",
+      "dateAdded": "2026-09-10",
+      "addedAt": "2026-09-10T18:32:04.677Z"
     }
   ],
-  "lastUpdated": "2026-09-10T18:30:57.327Z"
+  "lastUpdated": "2026-09-10T18:32:04.677Z"
 }
