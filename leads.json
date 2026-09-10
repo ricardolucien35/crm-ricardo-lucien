@@ -8774,7 +8774,25 @@
       "lastModified": "2026-09-10",
       "dateAdded": "2026-09-10",
       "addedAt": "2026-09-10T21:06:14.988Z"
+    },
+    {
+      "id": "mtw0pwve2omflblacgp",
+      "name": "Katie Campbell",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/katie.campbell062492",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-10",
+      "nextFollowUp": "2026-09-17",
+      "notes": "",
+      "lastModified": "2026-09-10",
+      "dateAdded": "2026-09-10",
+      "addedAt": "2026-09-10T21:07:04.490Z"
     }
   ],
-  "lastUpdated": "2026-09-10T21:06:14.988Z"
+  "lastUpdated": "2026-09-10T21:07:04.490Z"
 }
