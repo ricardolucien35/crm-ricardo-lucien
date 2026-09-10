@@ -8738,7 +8738,25 @@
       "lastModified": "2026-09-10",
       "dateAdded": "2026-09-10",
       "addedAt": "2026-09-10T18:39:04.926Z"
+    },
+    {
+      "id": "mtw0njlhbgb6aezuvo8",
+      "name": "Alex Brown",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/alex.brown.962885",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-10",
+      "nextFollowUp": "2026-09-17",
+      "notes": "",
+      "lastModified": "2026-09-10",
+      "dateAdded": "2026-09-10",
+      "addedAt": "2026-09-10T21:05:13.973Z"
     }
   ],
-  "lastUpdated": "2026-09-10T18:39:04.926Z"
+  "lastUpdated": "2026-09-10T21:05:13.973Z"
 }
