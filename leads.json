@@ -8792,7 +8792,25 @@
       "lastModified": "2026-09-10",
       "dateAdded": "2026-09-10",
       "addedAt": "2026-09-10T21:07:04.490Z"
+    },
+    {
+      "id": "mtw0qsw567ikzwesrhp",
+      "name": "Peggy Arianna",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/peggyariana.cook",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-10",
+      "nextFollowUp": "2026-09-17",
+      "notes": "",
+      "lastModified": "2026-09-10",
+      "dateAdded": "2026-09-10",
+      "addedAt": "2026-09-10T21:07:45.989Z"
     }
   ],
-  "lastUpdated": "2026-09-10T21:07:04.490Z"
+  "lastUpdated": "2026-09-10T21:07:45.989Z"
 }
