@@ -8648,7 +8648,25 @@
       "lastModified": "2026-09-10",
       "dateAdded": "2026-09-10",
       "addedAt": "2026-09-10T18:32:59.126Z"
+    },
+    {
+      "id": "mtvv96zsvkt07vqf1yd",
+      "name": "Sydni Miller",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/sydni.miller.77",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-10",
+      "nextFollowUp": "2026-09-24",
+      "notes": "",
+      "lastModified": "2026-09-10",
+      "dateAdded": "2026-09-10",
+      "addedAt": "2026-09-10T18:34:06.376Z"
     }
   ],
-  "lastUpdated": "2026-09-10T18:32:59.126Z"
+  "lastUpdated": "2026-09-10T18:34:06.376Z"
 }
