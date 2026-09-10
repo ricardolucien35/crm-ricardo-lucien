@@ -8594,7 +8594,25 @@
       "lastModified": "2026-09-10",
       "dateAdded": "2026-09-10",
       "addedAt": "2026-09-10T18:30:10.626Z"
+    },
+    {
+      "id": "mtvv554f5n5jnix8lf",
+      "name": "Tanner Mountain",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/tanner.mountain",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-10",
+      "nextFollowUp": "2026-09-17",
+      "notes": "",
+      "lastModified": "2026-09-10",
+      "dateAdded": "2026-09-10",
+      "addedAt": "2026-09-10T18:30:57.327Z"
     }
   ],
-  "lastUpdated": "2026-09-10T18:30:10.626Z"
+  "lastUpdated": "2026-09-10T18:30:57.327Z"
 }
