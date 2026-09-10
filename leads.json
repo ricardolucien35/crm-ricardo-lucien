@@ -8558,7 +8558,25 @@
       "lastModified": "2026-09-10",
       "dateAdded": "2026-09-10",
       "addedAt": "2026-09-10T18:27:59.010Z"
+    },
+    {
+      "id": "mtvv2ycsr6wgulv8w5",
+      "name": "Brenn Bartz",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/brenn.bartz.9",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-10",
+      "nextFollowUp": "2026-09-17",
+      "notes": "",
+      "lastModified": "2026-09-10",
+      "dateAdded": "2026-09-10",
+      "addedAt": "2026-09-10T18:29:15.244Z"
     }
   ],
-  "lastUpdated": "2026-09-10T18:27:59.010Z"
+  "lastUpdated": "2026-09-10T18:29:15.244Z"
 }
