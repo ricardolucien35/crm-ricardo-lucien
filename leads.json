@@ -8702,7 +8702,25 @@
       "lastModified": "2026-09-10",
       "dateAdded": "2026-09-10",
       "addedAt": "2026-09-10T18:36:28.576Z"
+    },
+    {
+      "id": "mtvvdwi4k60pwbscn8",
+      "name": "Michaela Trobough",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/michaela.trobough",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-10",
+      "nextFollowUp": "2026-09-17",
+      "notes": "",
+      "lastModified": "2026-09-10",
+      "dateAdded": "2026-09-10",
+      "addedAt": "2026-09-10T18:37:46.060Z"
     }
   ],
-  "lastUpdated": "2026-09-10T18:36:28.576Z"
+  "lastUpdated": "2026-09-10T18:37:46.060Z"
 }
