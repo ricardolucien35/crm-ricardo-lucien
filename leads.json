@@ -8828,7 +8828,25 @@
       "lastModified": "2026-09-10",
       "dateAdded": "2026-09-10",
       "addedAt": "2026-09-10T21:08:29.888Z"
+    },
+    {
+      "id": "mtw0umneg542hwqd5y",
+      "name": "Seth Robinson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/Seth.Robinson.Heartland.Partners",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-10",
+      "nextFollowUp": "2026-09-17",
+      "notes": "",
+      "lastModified": "2026-09-10",
+      "dateAdded": "2026-09-10",
+      "addedAt": "2026-09-10T21:10:44.522Z"
     }
   ],
-  "lastUpdated": "2026-09-10T21:08:29.888Z"
+  "lastUpdated": "2026-09-10T21:10:44.522Z"
 }
