@@ -8540,7 +8540,25 @@
       "lastModified": "2026-09-10",
       "dateAdded": "2026-09-10",
       "addedAt": "2026-09-10T18:26:32.360Z"
+    },
+    {
+      "id": "mtvv1bj51u2v34o4xd8",
+      "name": "Aubri Blaize",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/aubri.witherby",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-10",
+      "nextFollowUp": "2026-09-17",
+      "notes": "",
+      "lastModified": "2026-09-10",
+      "dateAdded": "2026-09-10",
+      "addedAt": "2026-09-10T18:27:59.010Z"
     }
   ],
-  "lastUpdated": "2026-09-10T18:27:01.058Z"
+  "lastUpdated": "2026-09-10T18:27:59.010Z"
 }
