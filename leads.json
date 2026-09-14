@@ -9116,7 +9116,25 @@
       "lastModified": "2026-09-14",
       "dateAdded": "2026-09-14",
       "addedAt": "2026-09-14T12:56:58.379Z"
+    },
+    {
+      "id": "mu1904px2atavfrcjld",
+      "name": "Ainsley Burns",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/ainsley.burns.950293",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-14",
+      "nextFollowUp": "2026-09-19",
+      "notes": "",
+      "lastModified": "2026-09-14",
+      "dateAdded": "2026-09-14",
+      "addedAt": "2026-09-14T12:57:49.029Z"
     }
   ],
-  "lastUpdated": "2026-09-14T12:56:58.379Z"
+  "lastUpdated": "2026-09-14T12:57:49.029Z"
 }
