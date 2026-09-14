@@ -9188,7 +9188,25 @@
       "lastModified": "2026-09-14",
       "dateAdded": "2026-09-14",
       "addedAt": "2026-09-14T13:00:15.662Z"
+    },
+    {
+      "id": "mu194dr74cc4kw9fjol",
+      "name": "Richard Ruiz",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/richard.ruiz.334",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-14",
+      "nextFollowUp": "2026-09-19",
+      "notes": "",
+      "lastModified": "2026-09-14",
+      "dateAdded": "2026-09-14",
+      "addedAt": "2026-09-14T13:01:07.363Z"
     }
   ],
-  "lastUpdated": "2026-09-14T13:00:15.662Z"
+  "lastUpdated": "2026-09-14T13:01:07.363Z"
 }
