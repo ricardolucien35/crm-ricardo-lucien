@@ -9386,7 +9386,25 @@
       "lastModified": "2026-09-14",
       "dateAdded": "2026-09-14",
       "addedAt": "2026-09-14T13:14:47.402Z"
+    },
+    {
+      "id": "mu19mwlehpxl522qzfc",
+      "name": "Dante Giuliano",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/dante.giuliano.7",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-14",
+      "nextFollowUp": "2026-09-19",
+      "notes": "",
+      "lastModified": "2026-09-14",
+      "dateAdded": "2026-09-14",
+      "addedAt": "2026-09-14T13:15:31.586Z"
     }
   ],
-  "lastUpdated": "2026-09-14T13:14:47.402Z"
+  "lastUpdated": "2026-09-14T13:15:31.586Z"
 }
