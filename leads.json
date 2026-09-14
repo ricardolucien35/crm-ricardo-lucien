@@ -9098,7 +9098,25 @@
       "lastModified": "2026-09-14",
       "dateAdded": "2026-09-14",
       "addedAt": "2026-09-14T12:55:32.063Z"
+    },
+    {
+      "id": "mu18z1mzztxy5y6o3nq",
+      "name": "Jessi Lynn",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jessipilgrm",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-14",
+      "nextFollowUp": "2026-09-19",
+      "notes": "",
+      "lastModified": "2026-09-14",
+      "dateAdded": "2026-09-14",
+      "addedAt": "2026-09-14T12:56:58.379Z"
     }
   ],
-  "lastUpdated": "2026-09-14T12:55:32.063Z"
+  "lastUpdated": "2026-09-14T12:56:58.379Z"
 }
