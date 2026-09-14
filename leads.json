@@ -9008,7 +9008,25 @@
       "lastModified": "2026-09-14",
       "dateAdded": "2026-09-14",
       "addedAt": "2026-09-14T12:49:37.245Z"
+    },
+    {
+      "id": "mu18qqy7ifgncb18yua",
+      "name": "Isabella Hinken",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=61560975086136",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-14",
+      "nextFollowUp": "2026-09-19",
+      "notes": "",
+      "lastModified": "2026-09-14",
+      "dateAdded": "2026-09-14",
+      "addedAt": "2026-09-14T12:50:31.279Z"
     }
   ],
-  "lastUpdated": "2026-09-14T12:49:37.245Z"
+  "lastUpdated": "2026-09-14T12:50:31.279Z"
 }
