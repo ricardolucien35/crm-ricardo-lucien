@@ -9044,7 +9044,25 @@
       "lastModified": "2026-09-14",
       "dateAdded": "2026-09-14",
       "addedAt": "2026-09-14T12:51:14.679Z"
+    },
+    {
+      "id": "mu18sycikkgvpfmjzyc",
+      "name": "Layne Nudson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/layne.nudson",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-14",
+      "nextFollowUp": "2026-09-19",
+      "notes": "",
+      "lastModified": "2026-09-14",
+      "dateAdded": "2026-09-14",
+      "addedAt": "2026-09-14T12:52:14.178Z"
     }
   ],
-  "lastUpdated": "2026-09-14T12:51:14.679Z"
+  "lastUpdated": "2026-09-14T12:52:14.178Z"
 }
