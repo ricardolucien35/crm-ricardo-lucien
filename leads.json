@@ -9404,7 +9404,25 @@
       "lastModified": "2026-09-14",
       "dateAdded": "2026-09-14",
       "addedAt": "2026-09-14T13:15:31.586Z"
+    },
+    {
+      "id": "mu19o5iz3biy0416l23",
+      "name": "Emily Moore",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100004979433953",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-14",
+      "nextFollowUp": "2026-09-19",
+      "notes": "",
+      "lastModified": "2026-09-14",
+      "dateAdded": "2026-09-14",
+      "addedAt": "2026-09-14T13:16:29.819Z"
     }
   ],
-  "lastUpdated": "2026-09-14T13:15:31.586Z"
+  "lastUpdated": "2026-09-14T13:16:29.819Z"
 }
