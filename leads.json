@@ -9224,7 +9224,25 @@
       "lastModified": "2026-09-14",
       "dateAdded": "2026-09-14",
       "addedAt": "2026-09-14T13:02:01.003Z"
+    },
+    {
+      "id": "mu196rdd1ywkt50bxwah",
+      "name": "Sarena Hope",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/sarena.hirsch",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-14",
+      "nextFollowUp": "2026-09-19",
+      "notes": "",
+      "lastModified": "2026-09-14",
+      "dateAdded": "2026-09-14",
+      "addedAt": "2026-09-14T13:02:58.321Z"
     }
   ],
-  "lastUpdated": "2026-09-14T13:02:01.003Z"
+  "lastUpdated": "2026-09-14T13:02:58.321Z"
 }
