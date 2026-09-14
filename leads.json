@@ -9206,7 +9206,25 @@
       "lastModified": "2026-09-14",
       "dateAdded": "2026-09-14",
       "addedAt": "2026-09-14T13:01:07.363Z"
+    },
+    {
+      "id": "mu195j57toykdwc4igi",
+      "name": "Ace Mccord",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/ace.mccord",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-14",
+      "nextFollowUp": "2026-09-19",
+      "notes": "",
+      "lastModified": "2026-09-14",
+      "dateAdded": "2026-09-14",
+      "addedAt": "2026-09-14T13:02:01.003Z"
     }
   ],
-  "lastUpdated": "2026-09-14T13:01:07.363Z"
+  "lastUpdated": "2026-09-14T13:02:01.003Z"
 }
