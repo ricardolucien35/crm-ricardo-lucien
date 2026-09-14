@@ -9080,7 +9080,25 @@
       "lastModified": "2026-09-14",
       "dateAdded": "2026-09-14",
       "addedAt": "2026-09-14T12:53:56.163Z"
+    },
+    {
+      "id": "mu18x71bpcv2st4nms",
+      "name": "Carson Cox",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/carson.cox.1610",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-14",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-14",
+      "dateAdded": "2026-09-14",
+      "addedAt": "2026-09-14T12:55:32.063Z"
     }
   ],
-  "lastUpdated": "2026-09-14T12:53:56.163Z"
+  "lastUpdated": "2026-09-14T12:55:32.063Z"
 }
