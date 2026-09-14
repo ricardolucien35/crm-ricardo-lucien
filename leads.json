@@ -8900,7 +8900,25 @@
       "lastModified": "2026-09-14",
       "dateAdded": "2026-09-14",
       "addedAt": "2026-09-14T12:36:05.835Z"
+    },
+    {
+      "id": "mu18i44dikplj21loqi",
+      "name": "John Alderman",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/john.alderman",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-14",
+      "nextFollowUp": "2026-09-19",
+      "notes": "",
+      "lastModified": "2026-09-14",
+      "dateAdded": "2026-09-14",
+      "addedAt": "2026-09-14T12:43:48.445Z"
     }
   ],
-  "lastUpdated": "2026-09-14T12:36:05.835Z"
+  "lastUpdated": "2026-09-14T12:43:48.445Z"
 }
