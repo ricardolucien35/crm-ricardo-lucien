@@ -8990,7 +8990,25 @@
       "lastModified": "2026-09-14",
       "dateAdded": "2026-09-14",
       "addedAt": "2026-09-14T12:48:58.512Z"
+    },
+    {
+      "id": "mu18pl99brzfw75l0p4",
+      "name": "Austin Brown",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/bro1098",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-14",
+      "nextFollowUp": "2026-09-19",
+      "notes": "",
+      "lastModified": "2026-09-14",
+      "dateAdded": "2026-09-14",
+      "addedAt": "2026-09-14T12:49:37.245Z"
     }
   ],
-  "lastUpdated": "2026-09-14T12:48:58.512Z"
+  "lastUpdated": "2026-09-14T12:49:37.245Z"
 }
