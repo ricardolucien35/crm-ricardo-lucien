@@ -9368,7 +9368,25 @@
       "lastModified": "2026-09-14",
       "dateAdded": "2026-09-14",
       "addedAt": "2026-09-14T13:13:46.252Z"
+    },
+    {
+      "id": "mu19lyi2ym4y7a4prj",
+      "name": "Austin Benjamin",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=61580354948362",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-14",
+      "nextFollowUp": "2026-09-19",
+      "notes": "",
+      "lastModified": "2026-09-14",
+      "dateAdded": "2026-09-14",
+      "addedAt": "2026-09-14T13:14:47.402Z"
     }
   ],
-  "lastUpdated": "2026-09-14T13:13:46.252Z"
+  "lastUpdated": "2026-09-14T13:14:47.402Z"
 }
