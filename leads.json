@@ -8972,7 +8972,25 @@
       "lastModified": "2026-09-14",
       "dateAdded": "2026-09-14",
       "addedAt": "2026-09-14T12:47:22.263Z"
+    },
+    {
+      "id": "mu18ordce7s3ssxic0d",
+      "name": "Jenny Nguyen",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jnguyen.kc",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-14",
+      "nextFollowUp": "2026-09-19",
+      "notes": "",
+      "lastModified": "2026-09-14",
+      "dateAdded": "2026-09-14",
+      "addedAt": "2026-09-14T12:48:58.512Z"
     }
   ],
-  "lastUpdated": "2026-09-14T12:47:55.894Z"
+  "lastUpdated": "2026-09-14T12:48:58.512Z"
 }
