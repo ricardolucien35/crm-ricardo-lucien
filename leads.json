@@ -9296,7 +9296,25 @@
       "lastModified": "2026-09-14",
       "dateAdded": "2026-09-14",
       "addedAt": "2026-09-14T13:05:45.154Z"
+    },
+    {
+      "id": "mu19ca5s2w7ery0rkm5",
+      "name": "Hannah Bennett",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/hannah.bennett.7140",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-14",
+      "nextFollowUp": "2026-09-19",
+      "notes": "",
+      "lastModified": "2026-09-14",
+      "dateAdded": "2026-09-14",
+      "addedAt": "2026-09-14T13:07:15.952Z"
     }
   ],
-  "lastUpdated": "2026-09-14T13:05:45.154Z"
+  "lastUpdated": "2026-09-14T13:07:15.952Z"
 }
