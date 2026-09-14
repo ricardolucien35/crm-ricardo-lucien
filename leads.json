@@ -9530,7 +9530,25 @@
       "lastModified": "2026-09-14",
       "dateAdded": "2026-09-14",
       "addedAt": "2026-09-14T13:23:19.736Z"
+    },
+    {
+      "id": "mu19zq4o0axlvy44yx24",
+      "name": "Matthew Stafford",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/matthew.stafford.54943",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-14",
+      "nextFollowUp": "2026-09-19",
+      "notes": "",
+      "lastModified": "2026-09-14",
+      "dateAdded": "2026-09-14",
+      "addedAt": "2026-09-14T13:25:29.736Z"
     }
   ],
-  "lastUpdated": "2026-09-14T13:23:19.736Z"
+  "lastUpdated": "2026-09-14T13:25:29.736Z"
 }
