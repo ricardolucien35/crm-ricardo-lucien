@@ -9314,7 +9314,25 @@
       "lastModified": "2026-09-14",
       "dateAdded": "2026-09-14",
       "addedAt": "2026-09-14T13:07:15.952Z"
+    },
+    {
+      "id": "mu19fglpizv8utg21c",
+      "name": "Kaitlyn Rothwell",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/kaitlyn.rothwell",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-14",
+      "nextFollowUp": "2026-09-19",
+      "notes": "",
+      "lastModified": "2026-09-14",
+      "dateAdded": "2026-09-14",
+      "addedAt": "2026-09-14T13:09:44.269Z"
     }
   ],
-  "lastUpdated": "2026-09-14T13:07:15.952Z"
+  "lastUpdated": "2026-09-14T13:09:44.269Z"
 }
