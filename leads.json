@@ -8954,7 +8954,25 @@
       "lastModified": "2026-09-14",
       "dateAdded": "2026-09-14",
       "addedAt": "2026-09-14T12:46:41.095Z"
+    },
+    {
+      "id": "mu18mp3r38177po4fgn",
+      "name": "Jake Beckner",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jake.beckner.1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-14",
+      "nextFollowUp": "2026-09-19",
+      "notes": "",
+      "lastModified": "2026-09-14",
+      "dateAdded": "2026-09-14",
+      "addedAt": "2026-09-14T12:47:22.263Z"
     }
   ],
-  "lastUpdated": "2026-09-14T12:46:41.095Z"
+  "lastUpdated": "2026-09-14T12:47:22.263Z"
 }
