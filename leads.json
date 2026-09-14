@@ -8918,7 +8918,25 @@
       "lastModified": "2026-09-14",
       "dateAdded": "2026-09-14",
       "addedAt": "2026-09-14T12:43:48.445Z"
+    },
+    {
+      "id": "mu18kxty2i8xxkmdv78",
+      "name": "Clare Rivers",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/clare.rivers1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-14",
+      "nextFollowUp": "2026-09-19",
+      "notes": "",
+      "lastModified": "2026-09-14",
+      "dateAdded": "2026-09-14",
+      "addedAt": "2026-09-14T12:46:00.262Z"
     }
   ],
-  "lastUpdated": "2026-09-14T12:43:48.445Z"
+  "lastUpdated": "2026-09-14T12:46:00.262Z"
 }
