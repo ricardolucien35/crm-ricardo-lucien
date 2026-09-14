@@ -9260,7 +9260,25 @@
       "lastModified": "2026-09-14",
       "dateAdded": "2026-09-14",
       "addedAt": "2026-09-14T13:03:56.687Z"
+    },
+    {
+      "id": "mu1999fgceo48pvt3hj",
+      "name": "Dakota Marriott",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100089573797423",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-14",
+      "nextFollowUp": "2026-09-19",
+      "notes": "",
+      "lastModified": "2026-09-14",
+      "dateAdded": "2026-09-14",
+      "addedAt": "2026-09-14T13:04:55.036Z"
     }
   ],
-  "lastUpdated": "2026-09-14T13:03:56.687Z"
+  "lastUpdated": "2026-09-14T13:04:55.036Z"
 }
