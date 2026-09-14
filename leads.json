@@ -9494,7 +9494,25 @@
       "lastModified": "2026-09-14",
       "dateAdded": "2026-09-14",
       "addedAt": "2026-09-14T13:21:28.770Z"
+    },
+    {
+      "id": "mu19vn37px0l82u4b48",
+      "name": "Selena Urquizo",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100093373013018",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-14",
+      "nextFollowUp": "2026-09-19",
+      "notes": "",
+      "lastModified": "2026-09-14",
+      "dateAdded": "2026-09-14",
+      "addedAt": "2026-09-14T13:22:19.171Z"
     }
   ],
-  "lastUpdated": "2026-09-14T13:21:28.770Z"
+  "lastUpdated": "2026-09-14T13:22:19.171Z"
 }
