@@ -9566,7 +9566,25 @@
       "lastModified": "2026-09-14",
       "dateAdded": "2026-09-14",
       "addedAt": "2026-09-14T13:27:00.739Z"
+    },
+    {
+      "id": "mu1ix4si6zmfvsh52yd",
+      "name": "Elis Umana",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/elis.umana",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-14",
+      "nextFollowUp": "2026-09-19",
+      "notes": "",
+      "lastModified": "2026-09-14",
+      "dateAdded": "2026-09-14",
+      "addedAt": "2026-09-14T17:35:25.314Z"
     }
   ],
-  "lastUpdated": "2026-09-14T13:27:00.739Z"
+  "lastUpdated": "2026-09-14T17:35:25.314Z"
 }
