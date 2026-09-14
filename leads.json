@@ -9350,7 +9350,25 @@
       "lastModified": "2026-09-14",
       "dateAdded": "2026-09-14",
       "addedAt": "2026-09-14T13:12:34.387Z"
+    },
+    {
+      "id": "mu19knbgpzhve2sl3n",
+      "name": "Cale Johnson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/cale.johnson.318135",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-14",
+      "nextFollowUp": "2026-09-19",
+      "notes": "",
+      "lastModified": "2026-09-14",
+      "dateAdded": "2026-09-14",
+      "addedAt": "2026-09-14T13:13:46.252Z"
     }
   ],
-  "lastUpdated": "2026-09-14T13:12:34.387Z"
+  "lastUpdated": "2026-09-14T13:13:46.252Z"
 }
