@@ -9332,7 +9332,25 @@
       "lastModified": "2026-09-14",
       "dateAdded": "2026-09-14",
       "addedAt": "2026-09-14T13:09:44.269Z"
+    },
+    {
+      "id": "mu19j3v644123u0pqzm",
+      "name": "Cristal Benitez",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/cristal.benitez.9212",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-14",
+      "nextFollowUp": "2026-09-19",
+      "notes": "",
+      "lastModified": "2026-09-14",
+      "dateAdded": "2026-09-14",
+      "addedAt": "2026-09-14T13:12:34.387Z"
     }
   ],
-  "lastUpdated": "2026-09-14T13:09:44.269Z"
+  "lastUpdated": "2026-09-14T13:12:34.387Z"
 }
