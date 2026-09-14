@@ -9278,7 +9278,25 @@
       "lastModified": "2026-09-14",
       "dateAdded": "2026-09-14",
       "addedAt": "2026-09-14T13:04:55.036Z"
+    },
+    {
+      "id": "mu19ac3m0tj7vay0fpa",
+      "name": "Keringten Reed",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/alex.reed.779906",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-14",
+      "nextFollowUp": "2026-09-19",
+      "notes": "",
+      "lastModified": "2026-09-14",
+      "dateAdded": "2026-09-14",
+      "addedAt": "2026-09-14T13:05:45.154Z"
     }
   ],
-  "lastUpdated": "2026-09-14T13:04:55.036Z"
+  "lastUpdated": "2026-09-14T13:05:45.154Z"
 }
