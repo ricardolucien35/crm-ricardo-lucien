@@ -9638,7 +9638,25 @@
       "lastModified": "2026-09-16",
       "dateAdded": "2026-09-16",
       "addedAt": "2026-09-16T14:58:26.654Z"
+    },
+    {
+      "id": "mu48cjy9rr5wal9dpq",
+      "name": "Morgan Trieb",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/morgan.trieb.2025",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-16",
+      "nextFollowUp": "2026-09-21",
+      "notes": "",
+      "lastModified": "2026-09-16",
+      "dateAdded": "2026-09-16",
+      "addedAt": "2026-09-16T15:02:47.553Z"
     }
   ],
-  "lastUpdated": "2026-09-16T14:58:26.654Z"
+  "lastUpdated": "2026-09-16T15:02:47.553Z"
 }
