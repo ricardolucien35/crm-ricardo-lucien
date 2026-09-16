@@ -9620,7 +9620,25 @@
       "lastModified": "2026-09-16",
       "dateAdded": "2026-09-16",
       "addedAt": "2026-09-16T14:57:37.904Z"
+    },
+    {
+      "id": "mu486yn1i9c51yaksg",
+      "name": "Shannon Russell",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100077782689992",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-16",
+      "nextFollowUp": "2026-09-21",
+      "notes": "",
+      "lastModified": "2026-09-16",
+      "dateAdded": "2026-09-16",
+      "addedAt": "2026-09-16T14:58:26.654Z"
     }
   ],
-  "lastUpdated": "2026-09-16T14:57:37.904Z"
+  "lastUpdated": "2026-09-16T14:58:26.654Z"
 }
