@@ -9692,7 +9692,25 @@
       "lastModified": "2026-09-16",
       "dateAdded": "2026-09-16",
       "addedAt": "2026-09-16T15:04:19.905Z"
+    },
+    {
+      "id": "mu48fp68lrt733z1289",
+      "name": "Gabby Sifuentes",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/gabby.sifuentes.927",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-16",
+      "nextFollowUp": "2026-09-21",
+      "notes": "",
+      "lastModified": "2026-09-16",
+      "dateAdded": "2026-09-16",
+      "addedAt": "2026-09-16T15:05:14.288Z"
     }
   ],
-  "lastUpdated": "2026-09-16T15:04:19.905Z"
+  "lastUpdated": "2026-09-16T15:05:14.288Z"
 }
