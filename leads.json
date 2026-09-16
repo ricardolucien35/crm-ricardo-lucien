@@ -9836,7 +9836,25 @@
       "lastModified": "2026-09-16",
       "dateAdded": "2026-09-16",
       "addedAt": "2026-09-16T15:22:50.505Z"
+    },
+    {
+      "id": "mu49537uelai5be6nvt",
+      "name": "Melissa Gonzalez",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/melissa.mg22",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-16",
+      "nextFollowUp": "2026-09-21",
+      "notes": "",
+      "lastModified": "2026-09-16",
+      "dateAdded": "2026-09-16",
+      "addedAt": "2026-09-16T15:24:58.890Z"
     }
   ],
-  "lastUpdated": "2026-09-16T15:22:50.505Z"
+  "lastUpdated": "2026-09-16T15:24:58.890Z"
 }
