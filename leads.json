@@ -9602,7 +9602,25 @@
       "lastModified": "2026-09-14",
       "dateAdded": "2026-09-14",
       "addedAt": "2026-09-14T17:41:09.451Z"
+    },
+    {
+      "id": "mu485x0wdjqh0iz5pe8",
+      "name": "Heather Furman",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/heather.r.tripp",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-16",
+      "nextFollowUp": "2026-09-21",
+      "notes": "",
+      "lastModified": "2026-09-16",
+      "dateAdded": "2026-09-16",
+      "addedAt": "2026-09-16T14:57:37.904Z"
     }
   ],
-  "lastUpdated": "2026-09-16T02:30:09.181Z"
+  "lastUpdated": "2026-09-16T14:57:37.904Z"
 }
