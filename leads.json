@@ -9728,7 +9728,25 @@
       "lastModified": "2026-09-16",
       "dateAdded": "2026-09-16",
       "addedAt": "2026-09-16T15:06:31.306Z"
+    },
+    {
+      "id": "mu48i8vod80jtja9ovf",
+      "name": "Ethan Burns",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/ethan.burns.7946#",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-16",
+      "nextFollowUp": "2026-09-21",
+      "notes": "",
+      "lastModified": "2026-09-16",
+      "dateAdded": "2026-09-16",
+      "addedAt": "2026-09-16T15:07:13.140Z"
     }
   ],
-  "lastUpdated": "2026-09-16T15:06:31.306Z"
+  "lastUpdated": "2026-09-16T15:07:13.141Z"
 }
