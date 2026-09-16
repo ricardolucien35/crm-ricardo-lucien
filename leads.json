@@ -9944,7 +9944,25 @@
       "lastModified": "2026-09-16",
       "dateAdded": "2026-09-16",
       "addedAt": "2026-09-16T17:34:59.819Z"
+    },
+    {
+      "id": "mu4dtmnz657960ztkup",
+      "name": "Anthony Sobolevsky",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/anthony.sobolevsky",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-16",
+      "nextFollowUp": "2026-09-21",
+      "notes": "",
+      "lastModified": "2026-09-16",
+      "dateAdded": "2026-09-16",
+      "addedAt": "2026-09-16T17:36:02.303Z"
     }
   ],
-  "lastUpdated": "2026-09-16T17:34:59.819Z"
+  "lastUpdated": "2026-09-16T17:36:02.303Z"
 }
