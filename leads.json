@@ -9908,7 +9908,25 @@
       "lastModified": "2026-09-16",
       "dateAdded": "2026-09-16",
       "addedAt": "2026-09-16T15:33:42.353Z"
+    },
+    {
+      "id": "mu4cm90a7zsulmpvf0c",
+      "name": "Charlie Kuzma",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=61561223125131",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-16",
+      "nextFollowUp": "2026-09-18",
+      "notes": "",
+      "lastModified": "2026-09-16",
+      "dateAdded": "2026-09-16",
+      "addedAt": "2026-09-16T17:02:18.395Z"
     }
   ],
-  "lastUpdated": "2026-09-16T15:33:42.353Z"
+  "lastUpdated": "2026-09-16T17:02:18.395Z"
 }
