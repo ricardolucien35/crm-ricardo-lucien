@@ -9926,7 +9926,25 @@
       "lastModified": "2026-09-16",
       "dateAdded": "2026-09-16",
       "addedAt": "2026-09-16T17:02:18.395Z"
+    },
+    {
+      "id": "mu4dsagb2q6dmgqlpxp",
+      "name": "Sam Burkholder",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/samueljamesb1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-16",
+      "nextFollowUp": "2026-09-21",
+      "notes": "",
+      "lastModified": "2026-09-16",
+      "dateAdded": "2026-09-16",
+      "addedAt": "2026-09-16T17:34:59.819Z"
     }
   ],
-  "lastUpdated": "2026-09-16T17:02:18.395Z"
+  "lastUpdated": "2026-09-16T17:34:59.819Z"
 }
