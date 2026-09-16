@@ -9656,7 +9656,25 @@
       "lastModified": "2026-09-16",
       "dateAdded": "2026-09-16",
       "addedAt": "2026-09-16T15:02:47.553Z"
+    },
+    {
+      "id": "mu48deljqadp8ki27ym",
+      "name": "Nikki Alabaugh",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/nikki.wilson.3152",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-16",
+      "nextFollowUp": "2026-09-21",
+      "notes": "",
+      "lastModified": "2026-09-16",
+      "dateAdded": "2026-09-16",
+      "addedAt": "2026-09-16T15:03:27.271Z"
     }
   ],
-  "lastUpdated": "2026-09-16T15:02:47.553Z"
+  "lastUpdated": "2026-09-16T15:03:27.271Z"
 }
