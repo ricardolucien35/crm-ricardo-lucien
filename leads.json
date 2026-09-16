@@ -9818,7 +9818,25 @@
       "lastModified": "2026-09-16",
       "dateAdded": "2026-09-16",
       "addedAt": "2026-09-16T15:21:54.188Z"
+    },
+    {
+      "id": "mu492c5ls374fav5z9i",
+      "name": "Lauryn Boynton",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/lauryn.milner",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-16",
+      "nextFollowUp": "2026-09-21",
+      "notes": "",
+      "lastModified": "2026-09-16",
+      "dateAdded": "2026-09-16",
+      "addedAt": "2026-09-16T15:22:50.505Z"
     }
   ],
-  "lastUpdated": "2026-09-16T15:21:54.188Z"
+  "lastUpdated": "2026-09-16T15:22:50.505Z"
 }
