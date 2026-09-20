@@ -257,6 +257,7 @@
         <button class="nav-button" data-view="actions">Actions</button>
         <button class="nav-button" data-view="nurture">Nurture</button>
         <button class="nav-button" data-view="hot">Hot Leads</button>
+        <button class="nav-button" data-view="prospect-pool">Prospect Pool</button>
         <button class="nav-button" data-view="customers-ibos">Customers / IBOs</button>
         <button class="nav-button" data-view="training">Training</button>
         <button class="nav-button" data-view="message-scripts">Message Scripts</button>
@@ -332,6 +333,7 @@
             <button id="sort-toggle-btn" class="button button-secondary" onclick="toggleSortMode()" style="display: none;">📅 Sort: Newest</button>
             <button id="export-csv-btn" class="button button-secondary" onclick="exportToCSV()">📥 Export CSV</button>
             <button id="import-csv-btn" class="button button-secondary" onclick="openImportModal()">📤 Import CSV</button>
+            <button id="import-prospects-btn" class="button button-secondary hidden" onclick="openProspectImportModal()">📤 Upload Prospects</button>
             <button id="add-lead-btn" class="button button-primary" onclick="openAddModal()">+ Add Lead</button>
           </div>
         </div>
@@ -714,10 +716,13 @@
     // State
     let leads = [];
     let sha = '';
+    let prospects = [];
+    let prospectsSha = '';
     let currentView = 'pipeline';
     let followUpSubTab = 'prospects'; // 'prospects' or 'customers-ibos'
     let sortMode = 'newest'; // 'newest' or 'followup'
     let editingId = null;
+    let editingProspectId = null;
     let overlayPointerStart = null;
     let lastTextFieldInteractionAt = 0;
 
@@ -755,6 +760,7 @@
     let snippetsSha = '';
     let GITHUB_TOKEN = localStorage.getItem('github_token') || '';
     const LEADS_FILE = 'leads.json';
+    const PROSPECTS_FILE = 'prospects.json';
     const SNIPPETS_FILE = 'note-snippets.json';
     const SCRIPTS_FILE = 'scripts.json';
     let scriptsSha = '';
@@ -794,6 +800,7 @@
         GITHUB_TOKEN = savedToken;
         showMainApp();
         loadLeads();
+        loadProspects();
         loadNoteSnippets();
         initializeScriptStorage();
       } else {
@@ -883,7 +890,7 @@
         } else if (response.ok) {
           saveInProgress = false;
           const data = await response.json();
-          const content = JSON.parse(atob(data.content));
+          const content = JSON.parse(decodeBase64(data.content));
           leads = content.leads || [];
           sha = data.sha;
           console.log('Leads loaded:', leads.length);
@@ -901,6 +908,40 @@
       }
     }
 
+
+    async function loadProspects() {
+      try {
+        const response = await fetch(
+          `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${PROSPECTS_FILE}`,
+          {
+            headers: {
+              'Authorization': `token ${GITHUB_TOKEN}`,
+              'Accept': 'application/vnd.github.v3+json'
+            }
+          }
+        );
+
+        if (response.status === 404) {
+          prospects = [];
+          prospectsSha = '';
+        } else if (response.ok) {
+          const data = await response.json();
+          const content = JSON.parse(decodeBase64(data.content));
+          prospects = content.prospects || [];
+          prospectsSha = data.sha;
+        } else {
+          console.error('Prospects GitHub API error:', response.status, await response.text());
+          prospects = [];
+          prospectsSha = '';
+        }
+        renderView();
+      } catch (error) {
+        console.error('Error loading prospects:', error);
+        prospects = [];
+        prospectsSha = '';
+        renderView();
+      }
+    }
     async function initializeRepo() {
       try {
         const response = await fetch(
@@ -949,7 +990,7 @@
         } else if (response.ok) {
           saveInProgress = false;
           const data = await response.json();
-          const content = JSON.parse(atob(data.content));
+          const content = JSON.parse(decodeBase64(data.content));
           noteSnippets = content.snippets || [];
           snippetsSha = data.sha;
         }
@@ -962,7 +1003,7 @@
 
     async function saveNoteSnippetsToGitHub() {
       try {
-        const content = btoa(JSON.stringify({ snippets: noteSnippets, lastUpdated: new Date().toISOString() }, null, 2));
+        const content = encodeBase64(JSON.stringify({ snippets: noteSnippets, lastUpdated: new Date().toISOString() }, null, 2));
         const response = await fetch(
           `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${SNIPPETS_FILE}`,
           {
@@ -1071,6 +1112,8 @@
     // Rate limiting protection
     let lastSaveTime = 0;
     let saveInProgress = false;
+    let prospectsLastSaveTime = 0;
+    let prospectsSaveInProgress = false;
     async function saveLeadsToGitHub() {
       // Prevent concurrent saves
       if (saveInProgress) {
@@ -1088,7 +1131,7 @@
       saveInProgress = true;
       lastSaveTime = now;
       try {
-        const content = btoa(JSON.stringify({ leads, lastUpdated: new Date().toISOString() }, null, 2));
+        const content = encodeBase64(JSON.stringify({ leads, lastUpdated: new Date().toISOString() }, null, 2));
         const response = await fetch(
           `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${LEADS_FILE}`,
           {
@@ -1123,6 +1166,54 @@
     }
 
 
+    async function saveProspectsToGitHub() {
+      if (prospectsSaveInProgress) {
+        console.log('Prospect save already in progress, skipping...');
+        return false;
+      }
+
+      const now = Date.now();
+      if (now - prospectsLastSaveTime < 2000) {
+        await new Promise(resolve => setTimeout(resolve, 2000 - (now - prospectsLastSaveTime)));
+      }
+
+      prospectsSaveInProgress = true;
+      prospectsLastSaveTime = Date.now();
+      try {
+        const content = encodeBase64(JSON.stringify({ prospects, lastUpdated: new Date().toISOString() }, null, 2));
+        const response = await fetch(
+          `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${PROSPECTS_FILE}`,
+          {
+            method: 'PUT',
+            headers: {
+              'Authorization': `token ${GITHUB_TOKEN}`,
+              'Accept': 'application/vnd.github.v3+json',
+              'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({
+              message: 'Update prospect pool',
+              content,
+              sha: prospectsSha || undefined
+            })
+          }
+        );
+
+        if (response.ok) {
+          prospectsSaveInProgress = false;
+          const data = await response.json();
+          prospectsSha = data.content.sha;
+          return true;
+        }
+        console.error('Save prospects failed:', await response.text());
+        prospectsSaveInProgress = false;
+        return false;
+      } catch (error) {
+        console.error('Error saving prospects:', error);
+        prospectsSaveInProgress = false;
+        return false;
+      }
+    }
+
     function isFollowUpDue(nextFollowUp) {
       if (!nextFollowUp) return false;
       const today = getTodayPacific();
@@ -1149,12 +1240,35 @@
       return dateString;
     }
 
+    function isClosed(lead) {
+      return lead.status === 'Customer' || lead.status === 'IBO';
+    }
+
+    function isNotInterested(lead) {
+      return lead.status === 'Not Interested';
+    }
+
+    function isActionableFollowUp(lead) {
+      return !isNotInterested(lead);
+    }
+
+    function normalizeSocialUrl(url) {
+      if (!url) return '';
+      try {
+        const normalized = new URL(url.trim());
+        normalized.hash = '';
+        normalized.search = '';
+        normalized.hostname = normalized.hostname.toLowerCase().replace(/^www\./, '');
+        return `${normalized.hostname}${normalized.pathname}`.replace(/\/+$/, '').toLowerCase();
+      } catch (error) {
+        return url.trim().toLowerCase().replace(/^https?:\/\//, '').replace(/^www\./, '').replace(/\/+$/, '');
+      }
+    }
+
     function getFilteredLeads() {
       // Customers, IBOs, and Not Interested should only appear in their respective tabs
-      const isClosed = (l) => l.status === 'Customer' || l.status === 'IBO';
-      const isNotInterested = (l) => l.status === 'Not Interested';
-      
       switch (currentView) {
+        case 'prospect-pool': return prospects.filter(p => p.status !== 'Converted');
         case 'hot': return leads.filter(l => l.temperature === 'Hot' && !isClosed(l) && !isNotInterested(l));
         case 'followups': 
           if (followUpSubTab === 'customers-ibos') {
@@ -1275,9 +1389,11 @@
       const searchTerm = document.getElementById('lead-search')?.value?.toLowerCase().trim();
       if (searchTerm) {
         filtered = filtered.filter(l => {
-          const nameMatch = l.name.toLowerCase().includes(searchTerm);
+          const nameMatch = (l.name || '').toLowerCase().includes(searchTerm);
           const notesMatch = l.notes && l.notes.toLowerCase().includes(searchTerm);
-          return nameMatch || notesMatch;
+          const socialMatch = l.social && l.social.toLowerCase().includes(searchTerm);
+          const sourceMatch = l.source && l.source.toLowerCase().includes(searchTerm);
+          return nameMatch || notesMatch || socialMatch || sourceMatch;
         });
       }
       
@@ -1289,6 +1405,7 @@
         'customers-ibos': 'Customers / IBOs',
         nurture: 'Nurture'
       };
+      titles['prospect-pool'] = 'Prospect Pool';
       
       let titleText = titles[currentView] || currentView;
       if (currentView === 'followups') {
@@ -1300,6 +1417,9 @@
       const addBtn = document.getElementById('add-lead-btn');
       const emptyAddBtn = document.getElementById('empty-add-btn');
       const sortToggleBtn = document.getElementById('sort-toggle-btn');
+      const exportBtn = document.getElementById('export-csv-btn');
+      const importBtn = document.getElementById('import-csv-btn');
+      const importProspectsBtn = document.getElementById('import-prospects-btn');
       const followUpSubTabs = document.getElementById('followup-subtabs');
       const followUpCounts = document.getElementById('followup-counts');
       
@@ -1307,12 +1427,28 @@
         if (addBtn) addBtn.classList.remove('hidden');
         if (emptyAddBtn) emptyAddBtn.classList.remove('hidden');
         if (sortToggleBtn) sortToggleBtn.style.display = 'inline-block';
+        if (exportBtn) exportBtn.classList.remove('hidden');
+        if (importBtn) importBtn.classList.remove('hidden');
+        if (importProspectsBtn) importProspectsBtn.classList.add('hidden');
+        if (emptyAddBtn) emptyAddBtn.textContent = 'Add Your First Lead';
+        if (followUpSubTabs) followUpSubTabs.style.display = 'none';
+        if (followUpCounts) followUpCounts.style.display = 'none';
+      } else if (currentView === 'prospect-pool') {
+        if (addBtn) addBtn.classList.add('hidden');
+        if (emptyAddBtn) emptyAddBtn.classList.add('hidden');
+        if (sortToggleBtn) sortToggleBtn.style.display = 'none';
+        if (exportBtn) exportBtn.classList.add('hidden');
+        if (importBtn) importBtn.classList.add('hidden');
+        if (importProspectsBtn) importProspectsBtn.classList.remove('hidden');
         if (followUpSubTabs) followUpSubTabs.style.display = 'none';
         if (followUpCounts) followUpCounts.style.display = 'none';
       } else if (currentView === 'followups') {
         if (addBtn) addBtn.classList.add('hidden');
         if (emptyAddBtn) emptyAddBtn.classList.add('hidden');
         if (sortToggleBtn) sortToggleBtn.style.display = 'none';
+        if (exportBtn) exportBtn.classList.remove('hidden');
+        if (importBtn) importBtn.classList.remove('hidden');
+        if (importProspectsBtn) importProspectsBtn.classList.add('hidden');
         if (followUpSubTabs) {
           followUpSubTabs.style.display = 'flex';
           // Update active state
@@ -1323,8 +1459,7 @@
         if (followUpCounts) {
           followUpCounts.style.display = 'flex';
           // Update counts
-          const isClosed = (l) => l.status === 'Customer' || l.status === 'IBO';
-          const prospectCount = leads.filter(l => isFollowUpDue(l.nextFollowUp) && !isClosed(l) && l.status !== 'Not Interested').length;
+          const prospectCount = leads.filter(l => isFollowUpDue(l.nextFollowUp) && !isClosed(l) && !isNotInterested(l)).length;
           const customerCount = leads.filter(l => isFollowUpDue(l.nextFollowUp) && isClosed(l)).length;
           document.getElementById('followup-prospect-count').textContent = prospectCount;
           document.getElementById('followup-customer-count').textContent = customerCount;
@@ -1333,6 +1468,9 @@
         if (addBtn) addBtn.classList.add('hidden');
         if (emptyAddBtn) emptyAddBtn.classList.add('hidden');
         if (sortToggleBtn) sortToggleBtn.style.display = 'none';
+        if (exportBtn) exportBtn.classList.remove('hidden');
+        if (importBtn) importBtn.classList.remove('hidden');
+        if (importProspectsBtn) importProspectsBtn.classList.add('hidden');
         if (followUpSubTabs) followUpSubTabs.style.display = 'none';
         if (followUpCounts) followUpCounts.style.display = 'none';
       }
@@ -1345,6 +1483,55 @@
 
       document.getElementById('empty-state').classList.add('hidden');
       document.getElementById('leads-table').classList.remove('hidden');
+
+      const headerRow = document.querySelector('#leads-table thead tr');
+      if (currentView === 'prospect-pool') {
+        if (headerRow) {
+          headerRow.innerHTML = `
+            <th>Name</th>
+            <th>Facebook</th>
+            <th>Source</th>
+            <th>Uploaded</th>
+            <th>Status</th>
+            <th>Actions</th>
+          `;
+        }
+        document.getElementById('leads-tbody').innerHTML = filtered.map(prospect => `
+          <tr>
+            <td>
+              <div style="font-weight: 600;">${escapeHtml(prospect.name)}</div>
+            </td>
+            <td>
+              ${prospect.social ? `<a href="${prospect.social}" target="_blank">🔗 Facebook</a>` : '-'}
+            </td>
+            <td>${escapeHtml(prospect.source || 'Facebook Friends')}</td>
+            <td>${formatDate(prospect.uploadedDate)}</td>
+            <td>
+              <span class="badge" style="background: #eff6ff; color: #2563eb;">${escapeHtml(prospect.status || 'Unprocessed')}</span>
+            </td>
+            <td class="actions-cell">
+              <div class="actions-wrap">
+                <button class="action-button" onclick="openProspectScriptsModal('${prospect.id}')" style="background: #8b5cf6;">Scripts</button>
+                <button class="action-button" onclick="openProspectEditModal('${prospect.id}')">Edit</button>
+                <button class="action-button" onclick="confirmDeleteProspect('${prospect.id}')" style="background: var(--danger);">Delete</button>
+              </div>
+            </td>
+          </tr>
+        `).join('');
+        return;
+      }
+
+      if (headerRow) {
+        headerRow.innerHTML = `
+          <th>Name</th>
+          <th>Contact</th>
+          <th>Status</th>
+          <th>Temp</th>
+          <th>Last Contact</th>
+          <th>Next Follow-up</th>
+          <th>Actions</th>
+        `;
+      }
 
       document.getElementById('leads-tbody').innerHTML = filtered.map(lead => `
         <tr>
@@ -1398,6 +1585,7 @@
 
     function openAddModal() {
       editingId = null;
+      editingProspectId = null;
       document.getElementById('modal-title').textContent = 'Add New Lead';
       document.getElementById('lead-form').reset();
       document.getElementById('lead-created').value = getTodayPacific();
@@ -1412,6 +1600,7 @@
 
     function openEditModal(id) {
       editingId = id;
+      editingProspectId = null;
       const lead = leads.find(l => l.id === id);
       if (!lead) return;
 
@@ -1444,6 +1633,34 @@
       renderNoteSnippets();
       document.getElementById('modal').classList.remove('hidden');
       // Scroll modal to top
+      document.querySelector('.modal').scrollTop = 0;
+    }
+
+    function openProspectEditModal(id) {
+      editingId = null;
+      editingProspectId = id;
+      const prospect = prospects.find(p => p.id === id);
+      if (!prospect) return;
+
+      document.getElementById('modal-title').textContent = 'Convert Prospect to Lead';
+      document.getElementById('lead-form').reset();
+      document.getElementById('lead-name').value = prospect.name || '';
+      document.getElementById('lead-email').value = '';
+      document.getElementById('lead-phone').value = '';
+      document.getElementById('lead-social').value = prospect.social || '';
+      document.getElementById('lead-source').value = 'Facebook';
+      document.getElementById('lead-status').value = 'New Lead';
+      document.getElementById('lead-video-sent').checked = false;
+      document.getElementById('lead-temp').value = 'Cold';
+      document.getElementById('lead-last-action').value = 'Initial Contact';
+      document.getElementById('lead-created').value = getTodayPacific();
+      document.getElementById('lead-last-contact').value = getTodayPacific();
+      document.getElementById('lead-next-followup').value = '';
+      document.getElementById('lead-notes').value = prospect.notes || '';
+      document.getElementById('customer-since-group').style.display = 'none';
+      setupVideoSentCheckbox();
+      renderNoteSnippets();
+      document.getElementById('modal').classList.remove('hidden');
       document.querySelector('.modal').scrollTop = 0;
     }
     
@@ -1522,9 +1739,10 @@
       const now = getTodayPacific();
       const newStatus = document.getElementById('lead-status').value;
       const socialLink = document.getElementById('lead-social').value.trim();
+      const nextFollowUpValue = document.getElementById('lead-next-followup').value || null;
       
       // Check for duplicate social media link (only for new leads)
-      if (!editingId && socialLink) {
+      if ((!editingId || editingProspectId) && socialLink) {
         const normalizedSocial = socialLink.toLowerCase().replace(/\/$/, '');
         const duplicate = leads.find(lead => {
           if (!lead.social) return false;
@@ -1536,6 +1754,11 @@
           alert('⚠️ Duplicate Lead Alert\n\nThis social media link already exists for: ' + duplicate.name + '\n\nPlease check your existing leads before adding a duplicate.');
           return;
         }
+      }
+
+      if (editingProspectId && !nextFollowUpValue) {
+        alert('Set a Next Follow-Up date to move this prospect into the CRM lead list.');
+        return;
       }
       
       const videoSent = document.getElementById('lead-video-sent').checked;
@@ -1558,10 +1781,51 @@
         temperature: document.getElementById('lead-temp').value,
         lastAction: document.getElementById('lead-last-action').value,
         lastContact: document.getElementById('lead-last-contact').value || null,
-        nextFollowUp: document.getElementById('lead-next-followup').value || null,
+        nextFollowUp: nextFollowUpValue,
         notes: document.getElementById('lead-notes').value,
         lastModified: now
       };
+
+      if (editingProspectId) {
+        const prospect = prospects.find(p => p.id === editingProspectId);
+        if (!prospect) {
+          alert('Prospect not found. Refresh and try again.');
+          return;
+        }
+
+        if (newStatus === 'Customer' || newStatus === 'IBO') {
+          leadData.customerSince = now;
+        }
+
+        const newLead = {
+          ...leadData,
+          dateAdded: now,
+          addedAt: new Date().toISOString(),
+          prospectSourceId: prospect.id,
+          prospectUploadedAt: prospect.uploadedAt || null
+        };
+
+        leads.push(newLead);
+        prospects = prospects.map(p => p.id === editingProspectId ? {
+          ...p,
+          status: 'Converted',
+          convertedLeadId: newLead.id,
+          convertedAt: new Date().toISOString()
+        } : p);
+
+        const leadsSaved = await saveLeadsToGitHub();
+        const prospectsSaved = leadsSaved ? await saveProspectsToGitHub() : false;
+
+        if (leadsSaved && prospectsSaved) {
+          await syncToTeamDashboard();
+          editingProspectId = null;
+          closeModal();
+          renderView();
+        } else {
+          alert('Failed to convert prospect. Refresh before trying again.');
+        }
+        return;
+      }
 
       if (editingId) {
         const idx = leads.findIndex(l => l.id === editingId);
@@ -1620,6 +1884,20 @@
           renderView();
         } else {
           alert('Failed to delete lead');
+        }
+      }
+    }
+
+    async function confirmDeleteProspect(id) {
+      const prospect = prospects.find(p => p.id === id);
+      if (!prospect) return;
+
+      if (confirm(`Are you sure you want to delete ${prospect.name} from the Prospect Pool?`)) {
+        prospects = prospects.filter(p => p.id !== id);
+        if (await saveProspectsToGitHub()) {
+          renderView();
+        } else {
+          alert('Failed to delete prospect');
         }
       }
     }
@@ -1974,6 +2252,23 @@
       setTimeout(() => {
         document.body.removeChild(toast);
       }, 3000);
+    }
+
+    function openProspectScriptsModal(prospectId) {
+      const prospect = prospects.find(p => p.id === prospectId);
+      if (!prospect) return;
+      currentScriptLead = {
+        id: prospect.id,
+        name: prospect.name,
+        social: prospect.social || '',
+        source: prospect.source || 'Facebook Friends',
+        status: prospect.status || 'Unprocessed',
+        temperature: 'Cold',
+        notes: prospect.notes || ''
+      };
+      loadScripts();
+      renderScriptsModal();
+      document.getElementById('scripts-modal').classList.remove('hidden');
     }
 
     function closeScriptsModal() {
@@ -2536,6 +2831,198 @@
         alert(`No leads imported. ${skipped} rows were skipped (duplicates or missing names).`);
       }
     }
+
+    function openProspectImportModal() {
+      document.getElementById('prospect-import-csv-input').value = '';
+      document.getElementById('prospect-import-preview').innerHTML = '';
+      document.getElementById('prospect-import-mapping').innerHTML = '';
+      document.getElementById('prospect-import-modal').classList.remove('hidden');
+      prospectImportData = [];
+      prospectColumnMapping = {};
+    }
+
+    function closeProspectImportModal() {
+      document.getElementById('prospect-import-modal').classList.add('hidden');
+      prospectImportData = [];
+      prospectColumnMapping = {};
+    }
+
+    function handleProspectCSVFileSelect(event) {
+      const file = event.target.files[0];
+      if (!file) return;
+
+      const reader = new FileReader();
+      reader.onload = function(e) {
+        parseProspectCSV(e.target.result);
+      };
+      reader.readAsText(file);
+    }
+
+    function parseProspectCSV(text) {
+      const lines = text.split('\n').filter(line => line.trim());
+      if (lines.length < 2) {
+        alert('CSV file must have at least a header row and one prospect row');
+        return;
+      }
+
+      const headers = parseCSVLine(lines[0]);
+      prospectImportData = [];
+      for (let i = 1; i < lines.length; i++) {
+        const values = parseCSVLine(lines[i]);
+        const row = {};
+        headers.forEach((header, index) => {
+          row[header] = values[index] || '';
+        });
+        prospectImportData.push(row);
+      }
+
+      renderProspectColumnMapping(headers);
+      renderProspectPreview();
+    }
+
+    function renderProspectColumnMapping(csvHeaders) {
+      const fields = [
+        { key: 'firstName', label: 'First Name', required: true, aliases: ['firstname', 'first'] },
+        { key: 'lastName', label: 'Last Name', required: true, aliases: ['lastname', 'last'] },
+        { key: 'social', label: 'Facebook Link', required: true, aliases: ['facebook', 'facebookurl', 'facebookprofile', 'profileurl', 'link', 'url', 'social'] }
+      ];
+
+      let html = '<h4 style="margin: 0 0 16px 0;">Map CSV Columns to Prospect Fields</h4>';
+      html += '<p style="color: var(--gray-500); margin: 0 0 16px 0; font-size: 14px;">Map first name, last name, and Facebook link. Duplicates are skipped before anything is added to the pool.</p>';
+
+      fields.forEach(field => {
+        html += `
+          <div style="display: flex; align-items: center; margin-bottom: 12px; gap: 12px;">
+            <label style="width: 150px; font-weight: 500; color: var(--danger);">
+              ${field.label} *
+            </label>
+            <select id="prospect-map-${field.key}" onchange="updateProspectColumnMapping('${field.key}', this.value)" style="flex: 1; padding: 8px; border: 1px solid var(--gray-300); border-radius: 6px;">
+              <option value="">-- Select column --</option>
+              ${csvHeaders.map(header => `<option value="${escapeHtml(header)}">${escapeHtml(header)}</option>`).join('')}
+            </select>
+          </div>
+        `;
+      });
+
+      document.getElementById('prospect-import-mapping').innerHTML = html;
+
+      fields.forEach(field => {
+        const match = csvHeaders.find(header => {
+          const normalized = header.toLowerCase().replace(/[^a-z]/g, '');
+          return normalized === field.key.toLowerCase() ||
+            normalized === field.label.toLowerCase().replace(/[^a-z]/g, '') ||
+            field.aliases.includes(normalized);
+        });
+        if (match) {
+          const select = document.getElementById(`prospect-map-${field.key}`);
+          if (select) {
+            select.value = match;
+            updateProspectColumnMapping(field.key, match);
+          }
+        }
+      });
+    }
+
+    function updateProspectColumnMapping(fieldKey, csvColumn) {
+      if (csvColumn) {
+        prospectColumnMapping[fieldKey] = csvColumn;
+      } else {
+        delete prospectColumnMapping[fieldKey];
+      }
+      renderProspectPreview();
+    }
+
+    function renderProspectPreview() {
+      if (prospectImportData.length === 0) return;
+
+      const previewCount = Math.min(5, prospectImportData.length);
+      let html = `<h4 style="margin: 20px 0 16px 0;">Preview (${previewCount} of ${prospectImportData.length} prospects)</h4>`;
+      html += '<div style="overflow-x: auto;"><table class="table" style="font-size: 13px;"><thead><tr><th>Name</th><th>Facebook</th></tr></thead><tbody>';
+
+      for (let i = 0; i < previewCount; i++) {
+        const row = prospectImportData[i];
+        const firstName = prospectColumnMapping.firstName ? row[prospectColumnMapping.firstName] || '' : '';
+        const lastName = prospectColumnMapping.lastName ? row[prospectColumnMapping.lastName] || '' : '';
+        const social = prospectColumnMapping.social ? row[prospectColumnMapping.social] || '' : '';
+        html += `<tr><td>${escapeHtml(`${firstName} ${lastName}`.trim())}</td><td>${escapeHtml(social)}</td></tr>`;
+      }
+
+      html += '</tbody></table></div>';
+      if (prospectImportData.length > 5) {
+        html += `<p style="color: var(--gray-500); font-size: 13px; margin-top: 8px;">... and ${prospectImportData.length - 5} more prospects</p>`;
+      }
+
+      document.getElementById('prospect-import-preview').innerHTML = html;
+    }
+
+    async function importProspectsFromCSV() {
+      if (!prospectColumnMapping.firstName || !prospectColumnMapping.lastName || !prospectColumnMapping.social) {
+        alert('Map First Name, Last Name, and Facebook Link before importing.');
+        return;
+      }
+
+      if (prospectImportData.length === 0) {
+        alert('No prospect data to import');
+        return;
+      }
+
+      const existingUrls = new Set();
+      leads.forEach(lead => {
+        const normalized = normalizeSocialUrl(lead.social);
+        if (normalized) existingUrls.add(normalized);
+      });
+      prospects.forEach(prospect => {
+        const normalized = normalizeSocialUrl(prospect.social);
+        if (normalized) existingUrls.add(normalized);
+      });
+
+      const today = getTodayPacific();
+      let imported = 0;
+      let skipped = 0;
+      const newProspects = [];
+
+      prospectImportData.forEach(row => {
+        const firstName = (row[prospectColumnMapping.firstName] || '').trim();
+        const lastName = (row[prospectColumnMapping.lastName] || '').trim();
+        const social = (row[prospectColumnMapping.social] || '').trim();
+        const normalizedSocial = normalizeSocialUrl(social);
+
+        if (!firstName || !lastName || !normalizedSocial || existingUrls.has(normalizedSocial)) {
+          skipped++;
+          return;
+        }
+
+        existingUrls.add(normalizedSocial);
+        newProspects.push({
+          id: `prospect-${Date.now().toString(36)}-${Math.random().toString(36).substr(2, 6)}`,
+          firstName,
+          lastName,
+          name: `${firstName} ${lastName}`.trim(),
+          social,
+          source: `Facebook Friends Upload - ${today}`,
+          status: 'Unprocessed',
+          uploadedDate: today,
+          uploadedAt: new Date().toISOString(),
+          notes: ''
+        });
+        imported++;
+      });
+
+      if (imported === 0) {
+        alert(`No prospects imported. ${skipped} rows were skipped because they were duplicates or missing required fields.`);
+        return;
+      }
+
+      prospects = [...prospects, ...newProspects];
+      if (await saveProspectsToGitHub()) {
+        renderView();
+        alert(`Successfully added ${imported} prospects to the Prospect Pool.${skipped > 0 ? ` ${skipped} duplicate or incomplete rows were skipped.` : ''}`);
+        closeProspectImportModal();
+      } else {
+        prospects = prospects.filter(p => !newProspects.some(newProspect => newProspect.id === p.id));
+        alert('Failed to save prospects');
+      }
+    }
   </script>
 
   <!-- Scripts Modal -->
@@ -2573,6 +3060,29 @@
       <div class="modal-footer">
         <button onclick="closeImportModal()" class="button button-secondary">Cancel</button>
         <button onclick="importLeadsFromCSV()" class="button button-primary">Import Leads</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Prospect Pool Import Modal -->
+  <div id="prospect-import-modal" class="modal-overlay hidden" onpointerdown="trackOverlayPointerDown(event)" onclick="if(shouldCloseOverlay(event, 'prospect-import-modal')) closeProspectImportModal()">
+    <div class="modal" style="max-width: 800px; max-height: 90vh;">
+      <div class="modal-header">
+        <h3 style="margin: 0;">Upload Prospect Pool CSV</h3>
+        <button onclick="closeProspectImportModal()" class="button button-secondary" style="padding: 6px 12px;">✕</button>
+      </div>
+      <div class="modal-body" style="overflow-y: auto; max-height: 70vh;">
+        <div style="margin-bottom: 20px;">
+          <label class="form-label">Select Facebook Friends CSV</label>
+          <input type="file" id="prospect-import-csv-input" accept=".csv" onchange="handleProspectCSVFileSelect(event)" style="display: block; margin-top: 8px; padding: 8px; border: 2px dashed var(--gray-300); border-radius: 8px; width: 100%; cursor: pointer;">
+          <p style="color: var(--gray-500); font-size: 13px; margin-top: 8px;">Required columns: first name, last name, and Facebook profile link. Existing Facebook URLs are skipped automatically.</p>
+        </div>
+        <div id="prospect-import-mapping"></div>
+        <div id="prospect-import-preview"></div>
+      </div>
+      <div class="modal-footer">
+        <button onclick="closeProspectImportModal()" class="button button-secondary">Cancel</button>
+        <button onclick="importProspectsFromCSV()" class="button button-primary">Add to Prospect Pool</button>
       </div>
     </div>
   </div>
