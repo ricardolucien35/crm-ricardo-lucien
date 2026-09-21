@@ -8012,10 +8012,10 @@
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-09-16",
-      "nextFollowUp": "2026-09-18",
+      "lastContact": "2026-09-21",
+      "nextFollowUp": "2026-09-28",
       "notes": "",
-      "lastModified": "2026-09-16",
+      "lastModified": "2026-09-21",
       "dateAdded": "2026-09-07",
       "addedAt": "2026-09-07T19:51:16.204Z"
     },
@@ -9964,5 +9964,5 @@
       "addedAt": "2026-09-16T17:36:02.303Z"
     }
   ],
-  "lastUpdated": "2026-09-21T16:40:32.981Z"
+  "lastUpdated": "2026-09-21T16:42:23.567Z"
 }
