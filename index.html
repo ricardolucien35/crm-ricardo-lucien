@@ -1755,12 +1755,6 @@
           return;
         }
       }
-
-      if (editingProspectId && !nextFollowUpValue) {
-        alert('Set a Next Follow-Up date to move this prospect into the CRM lead list.');
-        return;
-      }
-      
       const videoSent = document.getElementById('lead-video-sent').checked;
       
       // If video sent checkbox is checked and status isn't already something else, set to Sent Video
