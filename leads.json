@@ -9957,13 +9957,13 @@
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-09-28",
-      "nextFollowUp": "2026-09-29",
+      "lastContact": "2026-09-29",
+      "nextFollowUp": "2026-10-06",
       "notes": "",
-      "lastModified": "2026-09-28",
+      "lastModified": "2026-09-29",
       "dateAdded": "2026-09-16",
       "addedAt": "2026-09-16T17:36:02.303Z"
     }
   ],
-  "lastUpdated": "2026-09-29T14:54:32.217Z"
+  "lastUpdated": "2026-09-29T14:56:31.529Z"
 }
