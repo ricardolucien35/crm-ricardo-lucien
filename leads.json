@@ -7559,7 +7559,7 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=61567380310972",
       "source": "Facebook",
-      "status": "Watched",
+      "status": "Customer",
       "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Initial Contact",
@@ -7568,7 +7568,8 @@
       "notes": "",
       "lastModified": "2026-09-29",
       "dateAdded": "2026-09-05",
-      "addedAt": "2026-09-06T00:09:54.322Z"
+      "addedAt": "2026-09-06T00:09:54.322Z",
+      "customerSince": "2026-09-29"
     },
     {
       "id": "mtp22phsumoha860yur",
@@ -9965,5 +9966,5 @@
       "addedAt": "2026-09-16T17:36:02.303Z"
     }
   ],
-  "lastUpdated": "2026-09-30T04:01:53.214Z"
+  "lastUpdated": "2026-09-30T04:02:36.831Z"
 }
