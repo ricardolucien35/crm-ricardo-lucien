@@ -6140,10 +6140,10 @@
       "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-09-12",
-      "nextFollowUp": "2026-09-21",
+      "lastContact": "2026-09-29",
+      "nextFollowUp": "2026-09-30",
       "notes": "",
-      "lastModified": "2026-09-12",
+      "lastModified": "2026-09-29",
       "dateAdded": "2026-07-12",
       "addedAt": "2026-07-13T02:33:57.475Z",
       "customerSince": "2026-09-09"
@@ -9966,5 +9966,5 @@
       "addedAt": "2026-09-16T17:36:02.303Z"
     }
   ],
-  "lastUpdated": "2026-09-30T04:18:23.732Z"
+  "lastUpdated": "2026-09-30T04:19:15.166Z"
 }
