@@ -10522,7 +10522,25 @@
       "lastModified": "2026-10-01",
       "dateAdded": "2026-10-01",
       "addedAt": "2026-10-01T23:06:46.093Z"
+    },
+    {
+      "id": "muq59ngnkn0al3tya4",
+      "name": "Matthew Thorman",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/matt.thorman",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-01",
+      "nextFollowUp": "2026-10-06",
+      "notes": "",
+      "lastModified": "2026-10-01",
+      "dateAdded": "2026-10-01",
+      "addedAt": "2026-10-01T23:07:29.159Z"
     }
   ],
-  "lastUpdated": "2026-10-01T23:06:46.094Z"
+  "lastUpdated": "2026-10-01T23:07:29.159Z"
 }
