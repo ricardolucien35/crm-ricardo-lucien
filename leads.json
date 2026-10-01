@@ -10216,7 +10216,25 @@
       "lastModified": "2026-10-01",
       "dateAdded": "2026-10-01",
       "addedAt": "2026-10-01T22:40:10.358Z"
+    },
+    {
+      "id": "muq4cm3d04d5x4qq7ou1",
+      "name": "Raul Perez",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/raul.baez.18",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-01",
+      "nextFollowUp": "2026-10-08",
+      "notes": "",
+      "lastModified": "2026-10-01",
+      "dateAdded": "2026-10-01",
+      "addedAt": "2026-10-01T22:41:47.737Z"
     }
   ],
-  "lastUpdated": "2026-10-01T22:40:10.358Z"
+  "lastUpdated": "2026-10-01T22:41:47.737Z"
 }
