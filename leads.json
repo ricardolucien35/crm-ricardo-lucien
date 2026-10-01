@@ -10648,7 +10648,25 @@
       "lastModified": "2026-10-01",
       "dateAdded": "2026-10-01",
       "addedAt": "2026-10-01T23:17:32.021Z"
+    },
+    {
+      "id": "muq5nxjva7mj4lkda0c",
+      "name": "Ashley George",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/ashley.nicole.336333",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-01",
+      "nextFollowUp": "2026-10-02",
+      "notes": "",
+      "lastModified": "2026-10-01",
+      "dateAdded": "2026-10-01",
+      "addedAt": "2026-10-01T23:18:35.419Z"
     }
   ],
-  "lastUpdated": "2026-10-01T23:17:32.021Z"
+  "lastUpdated": "2026-10-01T23:18:35.419Z"
 }
