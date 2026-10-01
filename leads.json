@@ -10738,7 +10738,25 @@
       "lastModified": "2026-10-01",
       "dateAdded": "2026-10-01",
       "addedAt": "2026-10-01T23:25:25.435Z"
+    },
+    {
+      "id": "muq64z2x3kiamy02hqd",
+      "name": "Heather Stockdall",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/heather.stockdall",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-01",
+      "nextFollowUp": "2026-10-06",
+      "notes": "",
+      "lastModified": "2026-10-01",
+      "dateAdded": "2026-10-01",
+      "addedAt": "2026-10-01T23:31:50.553Z"
     }
   ],
-  "lastUpdated": "2026-10-01T23:25:25.435Z"
+  "lastUpdated": "2026-10-01T23:31:50.553Z"
 }
