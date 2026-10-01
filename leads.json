@@ -10306,7 +10306,25 @@
       "lastModified": "2026-10-01",
       "dateAdded": "2026-10-01",
       "addedAt": "2026-10-01T22:45:47.190Z"
+    },
+    {
+      "id": "muq4uyi0s0uor8yrfg",
+      "name": "Luap Walsh",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100086412945074",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-01",
+      "nextFollowUp": "2026-10-08",
+      "notes": "",
+      "lastModified": "2026-10-01",
+      "dateAdded": "2026-10-01",
+      "addedAt": "2026-10-01T22:56:03.624Z"
     }
   ],
-  "lastUpdated": "2026-10-01T22:45:47.190Z"
+  "lastUpdated": "2026-10-01T22:56:03.624Z"
 }
