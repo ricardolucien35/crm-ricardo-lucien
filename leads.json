@@ -10234,7 +10234,25 @@
       "lastModified": "2026-10-01",
       "dateAdded": "2026-10-01",
       "addedAt": "2026-10-01T22:41:47.737Z"
+    },
+    {
+      "id": "muq4er3hu4cvr8g495",
+      "name": "Layne Burnett",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=61577138722780",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-01",
+      "nextFollowUp": "2026-10-08",
+      "notes": "",
+      "lastModified": "2026-10-01",
+      "dateAdded": "2026-10-01",
+      "addedAt": "2026-10-01T22:43:27.533Z"
     }
   ],
-  "lastUpdated": "2026-10-01T22:41:47.737Z"
+  "lastUpdated": "2026-10-01T22:43:27.533Z"
 }
