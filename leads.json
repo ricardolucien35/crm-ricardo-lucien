@@ -10792,7 +10792,25 @@
       "lastModified": "2026-10-01",
       "dateAdded": "2026-10-01",
       "addedAt": "2026-10-01T23:40:12.712Z"
+    },
+    {
+      "id": "muq6h00ssamflzeymhr",
+      "name": "Alexandria Limon",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/alexandria.limon.5",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-01",
+      "nextFollowUp": "2026-10-02",
+      "notes": "",
+      "lastModified": "2026-10-01",
+      "dateAdded": "2026-10-01",
+      "addedAt": "2026-10-01T23:41:11.644Z"
     }
   ],
-  "lastUpdated": "2026-10-01T23:40:12.712Z"
+  "lastUpdated": "2026-10-01T23:41:11.644Z"
 }
