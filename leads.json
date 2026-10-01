@@ -10414,7 +10414,25 @@
       "lastModified": "2026-10-01",
       "dateAdded": "2026-10-01",
       "addedAt": "2026-10-01T23:01:41.916Z"
+    },
+    {
+      "id": "muq53aj2zqhmf7y46d7",
+      "name": "George Sharp",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/george.sharp.738274",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-01",
+      "nextFollowUp": "2026-10-06",
+      "notes": "",
+      "lastModified": "2026-10-01",
+      "dateAdded": "2026-10-01",
+      "addedAt": "2026-10-01T23:02:32.462Z"
     }
   ],
-  "lastUpdated": "2026-10-01T23:01:41.916Z"
+  "lastUpdated": "2026-10-01T23:02:32.462Z"
 }
