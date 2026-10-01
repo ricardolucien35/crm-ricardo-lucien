@@ -10198,7 +10198,25 @@
       "lastModified": "2026-10-01",
       "dateAdded": "2026-10-01",
       "addedAt": "2026-10-01T22:34:46.336Z"
+    },
+    {
+      "id": "muq4aiyeu2s200bkpob",
+      "name": "Stephanie Bennett",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/stephanie.bennett.3110",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-01",
+      "nextFollowUp": "2026-10-08",
+      "notes": "",
+      "lastModified": "2026-10-01",
+      "dateAdded": "2026-10-01",
+      "addedAt": "2026-10-01T22:40:10.358Z"
     }
   ],
-  "lastUpdated": "2026-10-01T22:34:46.336Z"
+  "lastUpdated": "2026-10-01T22:40:10.358Z"
 }
