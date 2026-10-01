@@ -10666,7 +10666,25 @@
       "lastModified": "2026-10-01",
       "dateAdded": "2026-10-01",
       "addedAt": "2026-10-01T23:18:35.419Z"
+    },
+    {
+      "id": "muq5p3tpdq2clloag9n",
+      "name": "Jalyn Grace",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jalyn.gracee",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-01",
+      "nextFollowUp": "2026-10-02",
+      "notes": "",
+      "lastModified": "2026-10-01",
+      "dateAdded": "2026-10-01",
+      "addedAt": "2026-10-01T23:19:30.205Z"
     }
   ],
-  "lastUpdated": "2026-10-01T23:18:35.419Z"
+  "lastUpdated": "2026-10-01T23:19:30.205Z"
 }
