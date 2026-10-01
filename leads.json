@@ -10162,7 +10162,25 @@
       "lastModified": "2026-10-01",
       "dateAdded": "2026-10-01",
       "addedAt": "2026-10-01T22:33:04.909Z"
+    },
+    {
+      "id": "muq42fmb47bdgtx7ctd",
+      "name": "Mauro Ramirez",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=61585836548392",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-01",
+      "nextFollowUp": "2026-10-08",
+      "notes": "",
+      "lastModified": "2026-10-01",
+      "dateAdded": "2026-10-01",
+      "addedAt": "2026-10-01T22:33:52.787Z"
     }
   ],
-  "lastUpdated": "2026-10-01T22:33:04.909Z"
+  "lastUpdated": "2026-10-01T22:33:52.787Z"
 }
