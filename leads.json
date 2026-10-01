@@ -10684,7 +10684,25 @@
       "lastModified": "2026-10-01",
       "dateAdded": "2026-10-01",
       "addedAt": "2026-10-01T23:19:30.205Z"
+    },
+    {
+      "id": "muq5q4estj3l3kqciyf",
+      "name": "Kayla Sonner",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/kayla.sonner.5",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-01",
+      "nextFollowUp": "2026-10-02",
+      "notes": "",
+      "lastModified": "2026-10-01",
+      "dateAdded": "2026-10-01",
+      "addedAt": "2026-10-01T23:20:17.620Z"
     }
   ],
-  "lastUpdated": "2026-10-01T23:19:30.205Z"
+  "lastUpdated": "2026-10-01T23:20:17.620Z"
 }
