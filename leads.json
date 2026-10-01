@@ -10702,7 +10702,25 @@
       "lastModified": "2026-10-01",
       "dateAdded": "2026-10-01",
       "addedAt": "2026-10-01T23:20:17.620Z"
+    },
+    {
+      "id": "muq5rrg0duxqco6owon",
+      "name": "Naharai Bello",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/naharai.bello.37",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-01",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-01",
+      "dateAdded": "2026-10-01",
+      "addedAt": "2026-10-01T23:21:34.128Z"
     }
   ],
-  "lastUpdated": "2026-10-01T23:20:17.620Z"
+  "lastUpdated": "2026-10-01T23:21:34.128Z"
 }
