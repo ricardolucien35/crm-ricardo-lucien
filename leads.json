@@ -10108,7 +10108,25 @@
       "lastModified": "2026-10-01",
       "dateAdded": "2026-10-01",
       "addedAt": "2026-10-01T22:31:06.859Z"
+    },
+    {
+      "id": "muq3zsf5rs2h13yd25m",
+      "name": "Tiffanie Maloney",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/tiffanie.williams.79",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-01",
+      "nextFollowUp": "2026-10-08",
+      "notes": "",
+      "lastModified": "2026-10-01",
+      "dateAdded": "2026-10-01",
+      "addedAt": "2026-10-01T22:31:49.409Z"
     }
   ],
-  "lastUpdated": "2026-10-01T22:31:06.859Z"
+  "lastUpdated": "2026-10-01T22:31:49.409Z"
 }
