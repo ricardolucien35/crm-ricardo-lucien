@@ -10342,7 +10342,25 @@
       "lastModified": "2026-10-01",
       "dateAdded": "2026-10-01",
       "addedAt": "2026-10-01T22:57:05.889Z"
+    },
+    {
+      "id": "muq4xrebprhf4vu5zrq",
+      "name": "Whitney West",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/whitney.westendorff",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-01",
+      "nextFollowUp": "2026-10-08",
+      "notes": "",
+      "lastModified": "2026-10-01",
+      "dateAdded": "2026-10-01",
+      "addedAt": "2026-10-01T22:58:14.387Z"
     }
   ],
-  "lastUpdated": "2026-10-01T22:57:05.889Z"
+  "lastUpdated": "2026-10-01T22:58:14.387Z"
 }
