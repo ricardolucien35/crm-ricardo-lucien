@@ -10018,7 +10018,25 @@
       "lastModified": "2026-10-01",
       "dateAdded": "2026-10-01",
       "addedAt": "2026-10-01T22:17:30.401Z"
+    },
+    {
+      "id": "muq3jso2307aziquewi",
+      "name": "Torissa Dustou",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/queen2179425",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-01",
+      "nextFollowUp": "2026-10-08",
+      "notes": "",
+      "lastModified": "2026-10-01",
+      "dateAdded": "2026-10-01",
+      "addedAt": "2026-10-01T22:19:23.234Z"
     }
   ],
-  "lastUpdated": "2026-10-01T22:17:30.401Z"
+  "lastUpdated": "2026-10-01T22:19:23.234Z"
 }
