@@ -10360,7 +10360,25 @@
       "lastModified": "2026-10-01",
       "dateAdded": "2026-10-01",
       "addedAt": "2026-10-01T22:58:14.387Z"
+    },
+    {
+      "id": "muq4z2efpngoy8fb1c",
+      "name": "Jadin Jones",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100007021518443",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-01",
+      "nextFollowUp": "2026-10-08",
+      "notes": "",
+      "lastModified": "2026-10-01",
+      "dateAdded": "2026-10-01",
+      "addedAt": "2026-10-01T22:59:15.303Z"
     }
   ],
-  "lastUpdated": "2026-10-01T22:58:14.387Z"
+  "lastUpdated": "2026-10-01T22:59:15.303Z"
 }
