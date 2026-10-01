@@ -10504,7 +10504,25 @@
       "lastModified": "2026-10-01",
       "dateAdded": "2026-10-01",
       "addedAt": "2026-10-01T23:06:03.058Z"
+    },
+    {
+      "id": "muq58q8dij1nz4iq9ip",
+      "name": "Eric Dahl",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/ED021887",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-01",
+      "nextFollowUp": "2026-10-06",
+      "notes": "",
+      "lastModified": "2026-10-01",
+      "dateAdded": "2026-10-01",
+      "addedAt": "2026-10-01T23:06:46.093Z"
     }
   ],
-  "lastUpdated": "2026-10-01T23:06:03.058Z"
+  "lastUpdated": "2026-10-01T23:06:46.094Z"
 }
