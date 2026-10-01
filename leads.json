@@ -9982,7 +9982,25 @@
       "lastModified": "2026-10-01",
       "dateAdded": "2026-10-01",
       "addedAt": "2026-10-01T22:10:30.115Z"
+    },
+    {
+      "id": "muq3eancvnb3kklqqe",
+      "name": "Jocelynn Reid",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/JOCELYNN87",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-01",
+      "nextFollowUp": "2026-10-08",
+      "notes": "",
+      "lastModified": "2026-10-01",
+      "dateAdded": "2026-10-01",
+      "addedAt": "2026-10-01T22:15:06.600Z"
     }
   ],
-  "lastUpdated": "2026-10-01T22:10:30.115Z"
+  "lastUpdated": "2026-10-01T22:15:06.600Z"
 }
