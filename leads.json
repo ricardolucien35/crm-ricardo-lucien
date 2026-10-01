@@ -10864,7 +10864,25 @@
       "lastModified": "2026-10-01",
       "dateAdded": "2026-10-01",
       "addedAt": "2026-10-01T23:43:09.299Z"
+    },
+    {
+      "id": "muq6kilfkcxyjgk6xnc",
+      "name": "Zach Horn",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/zach.horn.18#",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-01",
+      "nextFollowUp": "2026-10-03",
+      "notes": "",
+      "lastModified": "2026-10-01",
+      "dateAdded": "2026-10-01",
+      "addedAt": "2026-10-01T23:43:55.683Z"
     }
   ],
-  "lastUpdated": "2026-10-01T23:43:09.299Z"
+  "lastUpdated": "2026-10-01T23:43:55.683Z"
 }
