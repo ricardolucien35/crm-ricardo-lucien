@@ -10432,7 +10432,25 @@
       "lastModified": "2026-10-01",
       "dateAdded": "2026-10-01",
       "addedAt": "2026-10-01T23:02:32.462Z"
+    },
+    {
+      "id": "muq54fd09acccgvji46",
+      "name": "Liliana Ampanar",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/lilytalamantes26",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-01",
+      "nextFollowUp": "2026-10-06",
+      "notes": "",
+      "lastModified": "2026-10-01",
+      "dateAdded": "2026-10-01",
+      "addedAt": "2026-10-01T23:03:25.380Z"
     }
   ],
-  "lastUpdated": "2026-10-01T23:02:32.462Z"
+  "lastUpdated": "2026-10-01T23:03:25.380Z"
 }
