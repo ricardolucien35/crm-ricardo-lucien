@@ -10810,7 +10810,25 @@
       "lastModified": "2026-10-01",
       "dateAdded": "2026-10-01",
       "addedAt": "2026-10-01T23:41:11.644Z"
+    },
+    {
+      "id": "muq6hwe601ssiv0czkae",
+      "name": "Sarah Johnson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/sarahnjohnson28",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-01",
+      "nextFollowUp": "2026-10-03",
+      "notes": "",
+      "lastModified": "2026-10-01",
+      "dateAdded": "2026-10-01",
+      "addedAt": "2026-10-01T23:41:53.598Z"
     }
   ],
-  "lastUpdated": "2026-10-01T23:41:11.644Z"
+  "lastUpdated": "2026-10-01T23:41:53.598Z"
 }
