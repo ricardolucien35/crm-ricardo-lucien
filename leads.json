@@ -11098,7 +11098,25 @@
       "lastModified": "2026-10-02",
       "dateAdded": "2026-10-02",
       "addedAt": "2026-10-03T01:37:39.229Z"
+    },
+    {
+      "id": "murq3rk5mxbm1urrv0f",
+      "name": "Jake Setley",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jake.setley.9",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-02",
+      "nextFollowUp": "2026-10-03",
+      "notes": "",
+      "lastModified": "2026-10-02",
+      "dateAdded": "2026-10-02",
+      "addedAt": "2026-10-03T01:38:32.645Z"
     }
   ],
-  "lastUpdated": "2026-10-03T01:37:39.229Z"
+  "lastUpdated": "2026-10-03T01:38:32.645Z"
 }
