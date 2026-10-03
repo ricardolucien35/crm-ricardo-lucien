@@ -520,9 +520,9 @@
       "temperature": "Hot",
       "lastAction": "Follow-up 4",
       "lastContact": "2026-08-25",
-      "nextFollowUp": "2026-10-01",
+      "nextFollowUp": "2026-11-26",
       "notes": "",
-      "lastModified": "2026-08-26",
+      "lastModified": "2026-10-03",
       "dateAdded": "2026-05-18",
       "videoSent": true
     },
@@ -5672,9 +5672,9 @@
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-18",
-      "nextFollowUp": "2026-10-01",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-08-25",
+      "lastModified": "2026-10-03",
       "dateAdded": "2026-06-28",
       "addedAt": "2026-06-29T02:46:06.782Z"
     },
@@ -11226,5 +11226,5 @@
       "addedAt": "2026-10-03T01:43:15.314Z"
     }
   ],
-  "lastUpdated": "2026-10-03T21:45:09.408Z"
+  "lastUpdated": "2026-10-03T21:47:52.846Z"
 }
