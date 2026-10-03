@@ -11206,7 +11206,25 @@
       "lastModified": "2026-10-02",
       "dateAdded": "2026-10-02",
       "addedAt": "2026-10-03T01:42:29.164Z"
+    },
+    {
+      "id": "murq9to2cjb9x9ahfmj",
+      "name": "Kailee Anderson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/kailee.mitchell.7",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-02",
+      "nextFollowUp": "2026-10-03",
+      "notes": "",
+      "lastModified": "2026-10-02",
+      "dateAdded": "2026-10-02",
+      "addedAt": "2026-10-03T01:43:15.314Z"
     }
   ],
-  "lastUpdated": "2026-10-03T01:42:29.164Z"
+  "lastUpdated": "2026-10-03T01:43:15.314Z"
 }
