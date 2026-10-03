@@ -11116,7 +11116,25 @@
       "lastModified": "2026-10-02",
       "dateAdded": "2026-10-02",
       "addedAt": "2026-10-03T01:38:32.645Z"
+    },
+    {
+      "id": "murq4spn04zd20bpp0ac",
+      "name": "Dalton Mall",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100006007696591",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-02",
+      "nextFollowUp": "2026-10-03",
+      "notes": "",
+      "lastModified": "2026-10-02",
+      "dateAdded": "2026-10-02",
+      "addedAt": "2026-10-03T01:39:20.795Z"
     }
   ],
-  "lastUpdated": "2026-10-03T01:38:32.645Z"
+  "lastUpdated": "2026-10-03T01:39:20.795Z"
 }
