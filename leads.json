@@ -11080,7 +11080,25 @@
       "lastModified": "2026-10-02",
       "dateAdded": "2026-10-02",
       "addedAt": "2026-10-03T01:36:24.960Z"
+    },
+    {
+      "id": "murq2mcdidt35qsf06f",
+      "name": "Maddie Schneider",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/maddie.schneider.92",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-02",
+      "nextFollowUp": "2026-10-03",
+      "notes": "",
+      "lastModified": "2026-10-02",
+      "dateAdded": "2026-10-02",
+      "addedAt": "2026-10-03T01:37:39.229Z"
     }
   ],
-  "lastUpdated": "2026-10-03T01:36:24.960Z"
+  "lastUpdated": "2026-10-03T01:37:39.229Z"
 }
