@@ -10972,7 +10972,25 @@
       "lastModified": "2026-10-02",
       "dateAdded": "2026-10-02",
       "addedAt": "2026-10-03T01:30:11.141Z"
+    },
+    {
+      "id": "murpucduxry4oz70ak",
+      "name": "Victoria Moravek",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/victoria.moravek",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-02",
+      "nextFollowUp": "2026-10-03",
+      "notes": "",
+      "lastModified": "2026-10-02",
+      "dateAdded": "2026-10-02",
+      "addedAt": "2026-10-03T01:31:13.074Z"
     }
   ],
-  "lastUpdated": "2026-10-03T01:30:11.141Z"
+  "lastUpdated": "2026-10-03T01:31:13.074Z"
 }
