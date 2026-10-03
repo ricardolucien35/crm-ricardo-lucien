@@ -11152,7 +11152,25 @@
       "lastModified": "2026-10-02",
       "dateAdded": "2026-10-02",
       "addedAt": "2026-10-03T01:39:55.062Z"
+    },
+    {
+      "id": "murq6ls9117wckcc9eef",
+      "name": "Harrison Eastburn",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/harrison.eastburn",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-02",
+      "nextFollowUp": "2026-10-03",
+      "notes": "",
+      "lastModified": "2026-10-02",
+      "dateAdded": "2026-10-02",
+      "addedAt": "2026-10-03T01:40:45.129Z"
     }
   ],
-  "lastUpdated": "2026-10-03T01:39:55.062Z"
+  "lastUpdated": "2026-10-03T01:40:45.129Z"
 }
