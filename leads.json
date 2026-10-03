@@ -11026,7 +11026,25 @@
       "lastModified": "2026-10-02",
       "dateAdded": "2026-10-02",
       "addedAt": "2026-10-03T01:33:43.326Z"
+    },
+    {
+      "id": "murpypr67ah6ymecnzw",
+      "name": "Bianca Cook",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/bcook1103",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-02",
+      "nextFollowUp": "2026-10-03",
+      "notes": "",
+      "lastModified": "2026-10-02",
+      "dateAdded": "2026-10-02",
+      "addedAt": "2026-10-03T01:34:37.026Z"
     }
   ],
-  "lastUpdated": "2026-10-03T01:33:43.326Z"
+  "lastUpdated": "2026-10-03T01:34:37.026Z"
 }
