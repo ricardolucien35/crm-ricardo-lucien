@@ -11188,7 +11188,25 @@
       "lastModified": "2026-10-02",
       "dateAdded": "2026-10-02",
       "addedAt": "2026-10-03T01:41:35.296Z"
+    },
+    {
+      "id": "murq8u24avsokcg10qp",
+      "name": "Jade Collins",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jade.jaime.3",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-02",
+      "nextFollowUp": "2026-10-03",
+      "notes": "",
+      "lastModified": "2026-10-02",
+      "dateAdded": "2026-10-02",
+      "addedAt": "2026-10-03T01:42:29.164Z"
     }
   ],
-  "lastUpdated": "2026-10-03T01:41:35.296Z"
+  "lastUpdated": "2026-10-03T01:42:29.164Z"
 }
