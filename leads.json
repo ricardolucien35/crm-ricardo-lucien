@@ -10936,7 +10936,25 @@
       "lastModified": "2026-10-02",
       "dateAdded": "2026-10-02",
       "addedAt": "2026-10-03T01:27:29.707Z"
+    },
+    {
+      "id": "murpqqa24djwfgu64ou",
+      "name": "Mallory Levens",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/mallory.levens",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-02",
+      "nextFollowUp": "2026-10-03",
+      "notes": "",
+      "lastModified": "2026-10-02",
+      "dateAdded": "2026-10-02",
+      "addedAt": "2026-10-03T01:28:24.458Z"
     }
   ],
-  "lastUpdated": "2026-10-03T01:27:29.707Z"
+  "lastUpdated": "2026-10-03T01:28:24.458Z"
 }
