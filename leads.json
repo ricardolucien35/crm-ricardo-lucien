@@ -11728,7 +11728,25 @@
       "lastModified": "2026-10-04",
       "dateAdded": "2026-10-04",
       "addedAt": "2026-10-04T17:08:19.321Z"
+    },
+    {
+      "id": "muu2sfx32riibsn4g6v",
+      "name": "Cleopatrisia",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=61583601953416",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-04",
+      "nextFollowUp": "2026-10-07",
+      "notes": "",
+      "lastModified": "2026-10-04",
+      "dateAdded": "2026-10-04",
+      "addedAt": "2026-10-04T17:09:11.703Z"
     }
   ],
-  "lastUpdated": "2026-10-04T17:08:19.321Z"
+  "lastUpdated": "2026-10-04T17:09:11.703Z"
 }
