@@ -11656,7 +11656,25 @@
       "lastModified": "2026-10-04",
       "dateAdded": "2026-10-04",
       "addedAt": "2026-10-04T16:11:42.766Z"
+    },
+    {
+      "id": "muu0ro0btapwrc1md2",
+      "name": "Cari Redenbaugh",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/cari.redenbaugh",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-04",
+      "nextFollowUp": "2026-10-11",
+      "notes": "",
+      "lastModified": "2026-10-04",
+      "dateAdded": "2026-10-04",
+      "addedAt": "2026-10-04T16:12:36.299Z"
     }
   ],
-  "lastUpdated": "2026-10-04T16:11:42.766Z"
+  "lastUpdated": "2026-10-04T16:12:36.299Z"
 }
