@@ -11818,7 +11818,25 @@
       "lastModified": "2026-10-04",
       "dateAdded": "2026-10-04",
       "addedAt": "2026-10-04T17:11:25.920Z"
+    },
+    {
+      "id": "muu2w3rhsuq2wibnbpd",
+      "name": "Libbey Renee",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/libbey.renee",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-04",
+      "nextFollowUp": "2026-10-11",
+      "notes": "",
+      "lastModified": "2026-10-04",
+      "dateAdded": "2026-10-04",
+      "addedAt": "2026-10-04T17:12:02.573Z"
     }
   ],
-  "lastUpdated": "2026-10-04T17:11:25.920Z"
+  "lastUpdated": "2026-10-04T17:12:02.573Z"
 }
