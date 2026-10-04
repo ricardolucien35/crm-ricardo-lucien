@@ -11332,7 +11332,25 @@
       "lastModified": "2026-10-04",
       "dateAdded": "2026-10-04",
       "addedAt": "2026-10-04T15:55:30.357Z"
+    },
+    {
+      "id": "muu06jvoh66be78yhx",
+      "name": "Joe Hardinger",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/joe.hardinger.7",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-04",
+      "nextFollowUp": "2026-10-11",
+      "notes": "",
+      "lastModified": "2026-10-04",
+      "dateAdded": "2026-10-04",
+      "addedAt": "2026-10-04T15:56:11.172Z"
     }
   ],
-  "lastUpdated": "2026-10-04T15:55:30.357Z"
+  "lastUpdated": "2026-10-04T15:56:11.172Z"
 }
