@@ -11584,7 +11584,25 @@
       "lastModified": "2026-10-04",
       "dateAdded": "2026-10-04",
       "addedAt": "2026-10-04T16:08:46.030Z"
+    },
+    {
+      "id": "muu0nu0pnz9bsq5vmhq",
+      "name": "Teighlior Brewer",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/teighlorbrewer",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-04",
+      "nextFollowUp": "2026-10-11",
+      "notes": "",
+      "lastModified": "2026-10-04",
+      "dateAdded": "2026-10-04",
+      "addedAt": "2026-10-04T16:09:37.465Z"
     }
   ],
-  "lastUpdated": "2026-10-04T16:08:46.030Z"
+  "lastUpdated": "2026-10-04T16:09:37.465Z"
 }
