@@ -11242,7 +11242,25 @@
       "lastModified": "2026-10-04",
       "dateAdded": "2026-10-04",
       "addedAt": "2026-10-04T15:49:19.988Z"
+    },
+    {
+      "id": "muu02zqolxbhrjbblz",
+      "name": "Samantha Van",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/samantha.vanvalkenburg.2025",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-04",
+      "nextFollowUp": "2026-10-11",
+      "notes": "",
+      "lastModified": "2026-10-04",
+      "dateAdded": "2026-10-04",
+      "addedAt": "2026-10-04T15:53:25.104Z"
     }
   ],
-  "lastUpdated": "2026-10-04T15:49:19.988Z"
+  "lastUpdated": "2026-10-04T15:53:25.104Z"
 }
