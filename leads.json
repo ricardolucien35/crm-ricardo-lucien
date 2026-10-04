@@ -11674,7 +11674,25 @@
       "lastModified": "2026-10-04",
       "dateAdded": "2026-10-04",
       "addedAt": "2026-10-04T16:12:36.299Z"
+    },
+    {
+      "id": "muu0sh0b4h8yic6pl1e",
+      "name": "Chris Menzies",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/chris.menzies.399",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-04",
+      "nextFollowUp": "2026-10-11",
+      "notes": "",
+      "lastModified": "2026-10-04",
+      "dateAdded": "2026-10-04",
+      "addedAt": "2026-10-04T16:13:13.883Z"
     }
   ],
-  "lastUpdated": "2026-10-04T16:12:36.299Z"
+  "lastUpdated": "2026-10-04T16:13:13.883Z"
 }
