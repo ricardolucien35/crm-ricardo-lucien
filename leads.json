@@ -11548,7 +11548,25 @@
       "lastModified": "2026-10-04",
       "dateAdded": "2026-10-04",
       "addedAt": "2026-10-04T16:07:01.364Z"
+    },
+    {
+      "id": "muu0lrtd3uhij0i0uin",
+      "name": "Damian Lakehouse",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/iamlakehouse",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-04",
+      "nextFollowUp": "2026-10-11",
+      "notes": "",
+      "lastModified": "2026-10-04",
+      "dateAdded": "2026-10-04",
+      "addedAt": "2026-10-04T16:08:01.297Z"
     }
   ],
-  "lastUpdated": "2026-10-04T16:07:01.364Z"
+  "lastUpdated": "2026-10-04T16:08:01.297Z"
 }
