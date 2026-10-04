@@ -11692,7 +11692,25 @@
       "lastModified": "2026-10-04",
       "dateAdded": "2026-10-04",
       "addedAt": "2026-10-04T16:13:13.883Z"
+    },
+    {
+      "id": "muu2qn3qkzf8s850dw",
+      "name": "Michael Mitchell",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/noexcusesjustresults",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-04",
+      "nextFollowUp": "2026-10-07",
+      "notes": "",
+      "lastModified": "2026-10-04",
+      "dateAdded": "2026-10-04",
+      "addedAt": "2026-10-04T17:07:47.702Z"
     }
   ],
-  "lastUpdated": "2026-10-04T16:13:13.883Z"
+  "lastUpdated": "2026-10-04T17:07:47.702Z"
 }
