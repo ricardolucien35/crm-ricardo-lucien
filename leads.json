@@ -11260,7 +11260,25 @@
       "lastModified": "2026-10-04",
       "dateAdded": "2026-10-04",
       "addedAt": "2026-10-04T15:53:25.104Z"
+    },
+    {
+      "id": "muu03oxnhtw745hnvm",
+      "name": "Tyler Huber",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/tyler.hubert.399",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-04",
+      "nextFollowUp": "2026-10-11",
+      "notes": "",
+      "lastModified": "2026-10-04",
+      "dateAdded": "2026-10-04",
+      "addedAt": "2026-10-04T15:53:57.755Z"
     }
   ],
-  "lastUpdated": "2026-10-04T15:53:25.104Z"
+  "lastUpdated": "2026-10-04T15:53:57.755Z"
 }
