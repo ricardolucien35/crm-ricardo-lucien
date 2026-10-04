@@ -11386,7 +11386,25 @@
       "lastModified": "2026-10-04",
       "dateAdded": "2026-10-04",
       "addedAt": "2026-10-04T15:58:35.295Z"
+    },
+    {
+      "id": "muu0b43ef0gy8h9rf3w",
+      "name": "Brett Pruett",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/brett.pruett.77",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-04",
+      "nextFollowUp": "2026-10-11",
+      "notes": "",
+      "lastModified": "2026-10-04",
+      "dateAdded": "2026-10-04",
+      "addedAt": "2026-10-04T15:59:43.994Z"
     }
   ],
-  "lastUpdated": "2026-10-04T15:58:35.295Z"
+  "lastUpdated": "2026-10-04T15:59:43.994Z"
 }
