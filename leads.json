@@ -11476,7 +11476,25 @@
       "lastModified": "2026-10-04",
       "dateAdded": "2026-10-04",
       "addedAt": "2026-10-04T16:02:38.679Z"
+    },
+    {
+      "id": "muu0fuon2pmyx9y7szp",
+      "name": "Maddy Colombo",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/maddy.colombo.3",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-04",
+      "nextFollowUp": "2026-10-11",
+      "notes": "",
+      "lastModified": "2026-10-04",
+      "dateAdded": "2026-10-04",
+      "addedAt": "2026-10-04T16:03:25.079Z"
     }
   ],
-  "lastUpdated": "2026-10-04T16:02:38.679Z"
+  "lastUpdated": "2026-10-04T16:03:25.079Z"
 }
