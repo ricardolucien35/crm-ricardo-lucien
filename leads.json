@@ -11710,7 +11710,25 @@
       "lastModified": "2026-10-04",
       "dateAdded": "2026-10-04",
       "addedAt": "2026-10-04T17:07:47.702Z"
+    },
+    {
+      "id": "muu2rbi1h50hxk8ou4h",
+      "name": "Curtis Moke",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/MokeShowMortgages",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-04",
+      "nextFollowUp": "2026-10-11",
+      "notes": "",
+      "lastModified": "2026-10-04",
+      "dateAdded": "2026-10-04",
+      "addedAt": "2026-10-04T17:08:19.321Z"
     }
   ],
-  "lastUpdated": "2026-10-04T17:07:47.702Z"
+  "lastUpdated": "2026-10-04T17:08:19.321Z"
 }
