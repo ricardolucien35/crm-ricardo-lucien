@@ -11620,7 +11620,25 @@
       "lastModified": "2026-10-04",
       "dateAdded": "2026-10-04",
       "addedAt": "2026-10-04T16:10:20.482Z"
+    },
+    {
+      "id": "muu0pod5esxx50l15kt",
+      "name": "Taylor Peck",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/taylor.becker.148",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-04",
+      "nextFollowUp": "2026-10-11",
+      "notes": "",
+      "lastModified": "2026-10-04",
+      "dateAdded": "2026-10-04",
+      "addedAt": "2026-10-04T16:11:03.449Z"
     }
   ],
-  "lastUpdated": "2026-10-04T16:10:20.482Z"
+  "lastUpdated": "2026-10-04T16:11:03.449Z"
 }
