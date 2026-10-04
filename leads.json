@@ -11746,7 +11746,25 @@
       "lastModified": "2026-10-04",
       "dateAdded": "2026-10-04",
       "addedAt": "2026-10-04T17:09:11.703Z"
+    },
+    {
+      "id": "muu2t9w980zfyizqyh",
+      "name": "Chase Tyron",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=61591284195133",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-04",
+      "nextFollowUp": "2026-10-11",
+      "notes": "",
+      "lastModified": "2026-10-04",
+      "dateAdded": "2026-10-04",
+      "addedAt": "2026-10-04T17:09:50.553Z"
     }
   ],
-  "lastUpdated": "2026-10-04T17:09:11.703Z"
+  "lastUpdated": "2026-10-04T17:09:50.553Z"
 }
