@@ -11566,7 +11566,25 @@
       "lastModified": "2026-10-04",
       "dateAdded": "2026-10-04",
       "addedAt": "2026-10-04T16:08:01.297Z"
+    },
+    {
+      "id": "muu0mqbxansf5sc63e",
+      "name": "Chris Shatrov",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/chris.shatrov",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-04",
+      "nextFollowUp": "2026-10-11",
+      "notes": "",
+      "lastModified": "2026-10-04",
+      "dateAdded": "2026-10-04",
+      "addedAt": "2026-10-04T16:08:46.030Z"
     }
   ],
-  "lastUpdated": "2026-10-04T16:08:01.297Z"
+  "lastUpdated": "2026-10-04T16:08:46.030Z"
 }
