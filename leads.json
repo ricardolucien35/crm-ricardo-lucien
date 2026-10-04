@@ -11422,7 +11422,25 @@
       "lastModified": "2026-10-04",
       "dateAdded": "2026-10-04",
       "addedAt": "2026-10-04T16:00:23.829Z"
+    },
+    {
+      "id": "muu0cz09co33gncmvv5",
+      "name": "Ahmad Daifallah",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/ahmad.daifallah.2025",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-04",
+      "nextFollowUp": "2026-10-11",
+      "notes": "",
+      "lastModified": "2026-10-04",
+      "dateAdded": "2026-10-04",
+      "addedAt": "2026-10-04T16:01:10.713Z"
     }
   ],
-  "lastUpdated": "2026-10-04T16:00:23.829Z"
+  "lastUpdated": "2026-10-04T16:01:10.713Z"
 }
