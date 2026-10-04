@@ -11224,7 +11224,25 @@
       "lastModified": "2026-10-02",
       "dateAdded": "2026-10-02",
       "addedAt": "2026-10-03T01:43:15.314Z"
+    },
+    {
+      "id": "mutzxqlwyidg8btrroj",
+      "name": "Miguel Chavez",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/miguel.chavez.pantoja#",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-04",
+      "nextFollowUp": "2026-10-11",
+      "notes": "",
+      "lastModified": "2026-10-04",
+      "dateAdded": "2026-10-04",
+      "addedAt": "2026-10-04T15:49:19.988Z"
     }
   ],
-  "lastUpdated": "2026-10-04T13:59:17.121Z"
+  "lastUpdated": "2026-10-04T15:49:19.988Z"
 }
