@@ -11296,7 +11296,25 @@
       "lastModified": "2026-10-04",
       "dateAdded": "2026-10-04",
       "addedAt": "2026-10-04T15:54:28.222Z"
+    },
+    {
+      "id": "muu04yt1cosk1tdi3ni",
+      "name": "Roman Juarez",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/roman.juarez.7906932",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-04",
+      "nextFollowUp": "2026-10-11",
+      "notes": "",
+      "lastModified": "2026-10-04",
+      "dateAdded": "2026-10-04",
+      "addedAt": "2026-10-04T15:54:57.205Z"
     }
   ],
-  "lastUpdated": "2026-10-04T15:54:28.222Z"
+  "lastUpdated": "2026-10-04T15:54:57.205Z"
 }
