@@ -11512,7 +11512,25 @@
       "lastModified": "2026-10-04",
       "dateAdded": "2026-10-04",
       "addedAt": "2026-10-04T16:04:24.398Z"
+    },
+    {
+      "id": "muu0iehr4f7cctxl7ao",
+      "name": "Jacob Mojahir",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jacob.mohajir.56",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-04",
+      "nextFollowUp": "2026-10-11",
+      "notes": "",
+      "lastModified": "2026-10-04",
+      "dateAdded": "2026-10-04",
+      "addedAt": "2026-10-04T16:05:24.063Z"
     }
   ],
-  "lastUpdated": "2026-10-04T16:04:24.398Z"
+  "lastUpdated": "2026-10-04T16:05:24.063Z"
 }
