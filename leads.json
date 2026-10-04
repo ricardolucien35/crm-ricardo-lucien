@@ -11458,7 +11458,25 @@
       "lastModified": "2026-10-04",
       "dateAdded": "2026-10-04",
       "addedAt": "2026-10-04T16:02:06.163Z"
+    },
+    {
+      "id": "muu0euvr5cu4jb3i1mw",
+      "name": "Frankie H",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/frankie.h.37",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-04",
+      "nextFollowUp": "2026-10-11",
+      "notes": "",
+      "lastModified": "2026-10-04",
+      "dateAdded": "2026-10-04",
+      "addedAt": "2026-10-04T16:02:38.679Z"
     }
   ],
-  "lastUpdated": "2026-10-04T16:02:06.163Z"
+  "lastUpdated": "2026-10-04T16:02:38.679Z"
 }
