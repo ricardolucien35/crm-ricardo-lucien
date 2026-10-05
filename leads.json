@@ -11962,7 +11962,25 @@
       "lastModified": "2026-10-05",
       "dateAdded": "2026-10-05",
       "addedAt": "2026-10-05T13:04:21.440Z"
+    },
+    {
+      "id": "muv9ifapak48kah6xni",
+      "name": "Tyler Zentz",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100089108370382",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-05",
+      "nextFollowUp": "2026-10-12",
+      "notes": "",
+      "lastModified": "2026-10-05",
+      "dateAdded": "2026-10-05",
+      "addedAt": "2026-10-05T13:05:07.825Z"
     }
   ],
-  "lastUpdated": "2026-10-05T13:04:21.440Z"
+  "lastUpdated": "2026-10-05T13:05:07.825Z"
 }
