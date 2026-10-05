@@ -12106,7 +12106,25 @@
       "lastModified": "2026-10-05",
       "dateAdded": "2026-10-05",
       "addedAt": "2026-10-05T13:11:13.445Z"
+    },
+    {
+      "id": "muv9qz57zfcsbqwg9c",
+      "name": "Eric Zapata",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/eric.boleware",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-05",
+      "nextFollowUp": "2026-10-12",
+      "notes": "",
+      "lastModified": "2026-10-05",
+      "dateAdded": "2026-10-05",
+      "addedAt": "2026-10-05T13:11:46.795Z"
     }
   ],
-  "lastUpdated": "2026-10-05T13:11:13.445Z"
+  "lastUpdated": "2026-10-05T13:11:46.795Z"
 }
