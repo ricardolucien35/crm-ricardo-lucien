@@ -12214,7 +12214,25 @@
       "lastModified": "2026-10-05",
       "dateAdded": "2026-10-05",
       "addedAt": "2026-10-05T13:16:04.180Z"
+    },
+    {
+      "id": "muv9xh4u4yte4rzpzf7",
+      "name": "Dax Prutter",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/daxtenp",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-05",
+      "nextFollowUp": "2026-10-12",
+      "notes": "",
+      "lastModified": "2026-10-05",
+      "dateAdded": "2026-10-05",
+      "addedAt": "2026-10-05T13:16:50.046Z"
     }
   ],
-  "lastUpdated": "2026-10-05T13:16:04.180Z"
+  "lastUpdated": "2026-10-05T13:16:50.046Z"
 }
