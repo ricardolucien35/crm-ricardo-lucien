@@ -12142,7 +12142,25 @@
       "lastModified": "2026-10-05",
       "dateAdded": "2026-10-05",
       "addedAt": "2026-10-05T13:12:19.628Z"
+    },
+    {
+      "id": "muv9szyy121e8vdejq1p",
+      "name": "Kaylynn Sumler",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/kaylynn.sumler.9",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-05",
+      "nextFollowUp": "2026-10-12",
+      "notes": "",
+      "lastModified": "2026-10-05",
+      "dateAdded": "2026-10-05",
+      "addedAt": "2026-10-05T13:13:21.178Z"
     }
   ],
-  "lastUpdated": "2026-10-05T13:12:19.628Z"
+  "lastUpdated": "2026-10-05T13:13:21.178Z"
 }
