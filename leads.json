@@ -961,9 +961,9 @@
       "temperature": "Hot",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-03",
-      "nextFollowUp": "2026-10-05",
+      "nextFollowUp": "2026-11-26",
       "notes": "",
-      "lastModified": "2026-10-03",
+      "lastModified": "2026-10-05",
       "dateAdded": "2026-05-20",
       "videoSent": false
     },
@@ -12270,5 +12270,5 @@
       "addedAt": "2026-10-05T13:18:24.530Z"
     }
   ],
-  "lastUpdated": "2026-10-05T19:29:02.416Z"
+  "lastUpdated": "2026-10-05T19:29:16.798Z"
 }
