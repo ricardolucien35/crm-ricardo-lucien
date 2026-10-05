@@ -11998,7 +11998,25 @@
       "lastModified": "2026-10-05",
       "dateAdded": "2026-10-05",
       "addedAt": "2026-10-05T13:06:05.260Z"
+    },
+    {
+      "id": "muv9kt6ufyvh8mbisdf",
+      "name": "Charlie Horning",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100087294681552",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-05",
+      "nextFollowUp": "2026-10-12",
+      "notes": "",
+      "lastModified": "2026-10-05",
+      "dateAdded": "2026-10-05",
+      "addedAt": "2026-10-05T13:06:59.142Z"
     }
   ],
-  "lastUpdated": "2026-10-05T13:06:05.260Z"
+  "lastUpdated": "2026-10-05T13:06:59.142Z"
 }
