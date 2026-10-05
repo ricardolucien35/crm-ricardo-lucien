@@ -12070,7 +12070,25 @@
       "lastModified": "2026-10-05",
       "dateAdded": "2026-10-05",
       "addedAt": "2026-10-05T13:09:25.161Z"
+    },
+    {
+      "id": "muv9oue8k0ugx6pm9k",
+      "name": "Carlos Maderos",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/carlos.maderos",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-05",
+      "nextFollowUp": "2026-10-12",
+      "notes": "",
+      "lastModified": "2026-10-05",
+      "dateAdded": "2026-10-05",
+      "addedAt": "2026-10-05T13:10:07.328Z"
     }
   ],
-  "lastUpdated": "2026-10-05T13:09:25.161Z"
+  "lastUpdated": "2026-10-05T13:10:07.328Z"
 }
