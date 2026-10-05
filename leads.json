@@ -12160,7 +12160,25 @@
       "lastModified": "2026-10-05",
       "dateAdded": "2026-10-05",
       "addedAt": "2026-10-05T13:13:21.178Z"
+    },
+    {
+      "id": "muv9u5hwdbqxt2lrsdb",
+      "name": "Helen Wright",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=61576010998038",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-05",
+      "nextFollowUp": "2026-10-12",
+      "notes": "",
+      "lastModified": "2026-10-05",
+      "dateAdded": "2026-10-05",
+      "addedAt": "2026-10-05T13:14:14.996Z"
     }
   ],
-  "lastUpdated": "2026-10-05T13:13:21.178Z"
+  "lastUpdated": "2026-10-05T13:14:14.996Z"
 }
