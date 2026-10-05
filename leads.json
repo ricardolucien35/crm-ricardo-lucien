@@ -12178,7 +12178,25 @@
       "lastModified": "2026-10-05",
       "dateAdded": "2026-10-05",
       "addedAt": "2026-10-05T13:14:14.996Z"
+    },
+    {
+      "id": "muv9vfwambxb9p988dp",
+      "name": "Sakaio Baldovines",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/kaydem.baldovines",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-05",
+      "nextFollowUp": "2026-10-12",
+      "notes": "",
+      "lastModified": "2026-10-05",
+      "dateAdded": "2026-10-05",
+      "addedAt": "2026-10-05T13:15:15.130Z"
     }
   ],
-  "lastUpdated": "2026-10-05T13:14:14.996Z"
+  "lastUpdated": "2026-10-05T13:15:15.130Z"
 }
