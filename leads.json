@@ -12250,7 +12250,25 @@
       "lastModified": "2026-10-05",
       "dateAdded": "2026-10-05",
       "addedAt": "2026-10-05T13:17:35.214Z"
+    },
+    {
+      "id": "muv9zi1e3fi2bv8mqiy",
+      "name": "Jamia James",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100000404621475",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-05",
+      "nextFollowUp": "2026-10-12",
+      "notes": "",
+      "lastModified": "2026-10-05",
+      "dateAdded": "2026-10-05",
+      "addedAt": "2026-10-05T13:18:24.530Z"
     }
   ],
-  "lastUpdated": "2026-10-05T13:17:35.214Z"
+  "lastUpdated": "2026-10-05T13:18:24.530Z"
 }
