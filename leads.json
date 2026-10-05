@@ -11926,7 +11926,25 @@
       "lastModified": "2026-10-05",
       "dateAdded": "2026-10-05",
       "addedAt": "2026-10-05T13:02:47.656Z"
+    },
+    {
+      "id": "muv9gkdvxv0qdmfvj1o",
+      "name": "Karley Hanners",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/karley.hanners",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-05",
+      "nextFollowUp": "2026-10-12",
+      "notes": "",
+      "lastModified": "2026-10-05",
+      "dateAdded": "2026-10-05",
+      "addedAt": "2026-10-05T13:03:41.107Z"
     }
   ],
-  "lastUpdated": "2026-10-05T13:02:47.656Z"
+  "lastUpdated": "2026-10-05T13:03:41.107Z"
 }
