@@ -12466,7 +12466,25 @@
       "lastModified": "2026-10-06",
       "dateAdded": "2026-10-06",
       "addedAt": "2026-10-06T15:40:45.375Z"
+    },
+    {
+      "id": "muwulwplwdp8pym88tm",
+      "name": "Heather Hobbs",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/heather.insideout",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-06",
+      "nextFollowUp": "2026-10-13",
+      "notes": "",
+      "lastModified": "2026-10-06",
+      "dateAdded": "2026-10-06",
+      "addedAt": "2026-10-06T15:43:28.473Z"
     }
   ],
-  "lastUpdated": "2026-10-06T15:40:45.375Z"
+  "lastUpdated": "2026-10-06T15:43:28.473Z"
 }
