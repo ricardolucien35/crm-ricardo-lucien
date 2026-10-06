@@ -12520,7 +12520,25 @@
       "lastModified": "2026-10-06",
       "dateAdded": "2026-10-06",
       "addedAt": "2026-10-06T15:45:49.007Z"
+    },
+    {
+      "id": "muwuq40dvbs6zdo7s7r",
+      "name": "Lilly Aiken",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/lilly.aiken.1238",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-06",
+      "nextFollowUp": "2026-10-13",
+      "notes": "",
+      "lastModified": "2026-10-06",
+      "dateAdded": "2026-10-06",
+      "addedAt": "2026-10-06T15:46:44.557Z"
     }
   ],
-  "lastUpdated": "2026-10-06T15:45:49.007Z"
+  "lastUpdated": "2026-10-06T15:46:44.557Z"
 }
