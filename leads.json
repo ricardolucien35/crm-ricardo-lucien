@@ -12358,7 +12358,25 @@
       "lastModified": "2026-10-06",
       "dateAdded": "2026-10-06",
       "addedAt": "2026-10-06T15:33:33.837Z"
+    },
+    {
+      "id": "muwuay1977rv60xjfh4",
+      "name": "Sarah Weaver",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100093044840912",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-06",
+      "nextFollowUp": "2026-10-13",
+      "notes": "",
+      "lastModified": "2026-10-06",
+      "dateAdded": "2026-10-06",
+      "addedAt": "2026-10-06T15:34:56.973Z"
     }
   ],
-  "lastUpdated": "2026-10-06T15:33:33.837Z"
+  "lastUpdated": "2026-10-06T15:34:56.973Z"
 }
