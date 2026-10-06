@@ -12322,7 +12322,25 @@
       "lastModified": "2026-10-06",
       "dateAdded": "2026-10-06",
       "addedAt": "2026-10-06T15:32:05.254Z"
+    },
+    {
+      "id": "muwu7ye8iek7mdk0o",
+      "name": "Jenny Orrick",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jenny.orrick",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-06",
+      "nextFollowUp": "2026-10-13",
+      "notes": "",
+      "lastModified": "2026-10-06",
+      "dateAdded": "2026-10-06",
+      "addedAt": "2026-10-06T15:32:37.472Z"
     }
   ],
-  "lastUpdated": "2026-10-06T15:32:05.254Z"
+  "lastUpdated": "2026-10-06T15:32:37.472Z"
 }
