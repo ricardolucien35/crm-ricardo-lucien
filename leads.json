@@ -12844,7 +12844,25 @@
       "lastModified": "2026-10-06",
       "dateAdded": "2026-10-06",
       "addedAt": "2026-10-06T16:11:11.568Z"
+    },
+    {
+      "id": "muwvom6f0r33idegja9",
+      "name": "Aerian Reiman",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/aerian.stephens",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-06",
+      "nextFollowUp": "2026-10-13",
+      "notes": "",
+      "lastModified": "2026-10-06",
+      "dateAdded": "2026-10-06",
+      "addedAt": "2026-10-06T16:13:34.407Z"
     }
   ],
-  "lastUpdated": "2026-10-06T16:11:11.568Z"
+  "lastUpdated": "2026-10-06T16:13:34.407Z"
 }
