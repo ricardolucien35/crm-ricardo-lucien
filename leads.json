@@ -12718,7 +12718,25 @@
       "lastModified": "2026-10-06",
       "dateAdded": "2026-10-06",
       "addedAt": "2026-10-06T16:00:20.040Z"
+    },
+    {
+      "id": "muwv9tl7i62oliy4xs",
+      "name": "Avery Forton",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/avery.forton",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-06",
+      "nextFollowUp": "2026-10-13",
+      "notes": "",
+      "lastModified": "2026-10-06",
+      "dateAdded": "2026-10-06",
+      "addedAt": "2026-10-06T16:02:04.171Z"
     }
   ],
-  "lastUpdated": "2026-10-06T16:00:20.040Z"
+  "lastUpdated": "2026-10-06T16:02:04.171Z"
 }
