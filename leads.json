@@ -12484,7 +12484,25 @@
       "lastModified": "2026-10-06",
       "dateAdded": "2026-10-06",
       "addedAt": "2026-10-06T15:43:28.473Z"
+    },
+    {
+      "id": "muwunkrnbmce2yptpy8",
+      "name": "Tyler Chavez",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=61551891278307",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-06",
+      "nextFollowUp": "2026-10-13",
+      "notes": "",
+      "lastModified": "2026-10-06",
+      "dateAdded": "2026-10-06",
+      "addedAt": "2026-10-06T15:44:46.307Z"
     }
   ],
-  "lastUpdated": "2026-10-06T15:43:28.473Z"
+  "lastUpdated": "2026-10-06T15:44:46.307Z"
 }
