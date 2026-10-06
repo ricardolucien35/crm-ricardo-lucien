@@ -12286,7 +12286,25 @@
       "lastModified": "2026-10-06",
       "dateAdded": "2026-10-06",
       "addedAt": "2026-10-06T15:26:44.425Z"
+    },
+    {
+      "id": "muwu5knnx3mmw1kz2zs",
+      "name": "AJ White",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/aj.white30",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-06",
+      "nextFollowUp": "2026-10-13",
+      "notes": "",
+      "lastModified": "2026-10-06",
+      "dateAdded": "2026-10-06",
+      "addedAt": "2026-10-06T15:30:46.355Z"
     }
   ],
-  "lastUpdated": "2026-10-06T15:26:44.425Z"
+  "lastUpdated": "2026-10-06T15:30:46.355Z"
 }
