@@ -12592,7 +12592,25 @@
       "lastModified": "2026-10-06",
       "dateAdded": "2026-10-06",
       "addedAt": "2026-10-06T15:49:31.374Z"
+    },
+    {
+      "id": "muwuuqbxdcp4jeql3yh",
+      "name": "Brittany Maccormack",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=61594281286731",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-06",
+      "nextFollowUp": "2026-10-13",
+      "notes": "",
+      "lastModified": "2026-10-06",
+      "dateAdded": "2026-10-06",
+      "addedAt": "2026-10-06T15:50:20.109Z"
     }
   ],
-  "lastUpdated": "2026-10-06T15:49:31.374Z"
+  "lastUpdated": "2026-10-06T15:50:20.109Z"
 }
