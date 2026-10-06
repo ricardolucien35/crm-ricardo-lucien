@@ -12628,7 +12628,25 @@
       "lastModified": "2026-10-06",
       "dateAdded": "2026-10-06",
       "addedAt": "2026-10-06T15:52:08.109Z"
+    },
+    {
+      "id": "muwv3cclphl0ce7bp9a",
+      "name": "Madison Ximinies",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/madison.belanger",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-06",
+      "nextFollowUp": "2026-10-13",
+      "notes": "",
+      "lastModified": "2026-10-06",
+      "dateAdded": "2026-10-06",
+      "addedAt": "2026-10-06T15:57:01.893Z"
     }
   ],
-  "lastUpdated": "2026-10-06T15:52:08.109Z"
+  "lastUpdated": "2026-10-06T15:57:01.893Z"
 }
