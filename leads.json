@@ -12646,7 +12646,25 @@
       "lastModified": "2026-10-06",
       "dateAdded": "2026-10-06",
       "addedAt": "2026-10-06T15:57:01.893Z"
+    },
+    {
+      "id": "muwv48ziwkn105lgvv",
+      "name": "Michael Mcgee",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/michael.mcgee.39545464",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-06",
+      "nextFollowUp": "2026-10-13",
+      "notes": "",
+      "lastModified": "2026-10-06",
+      "dateAdded": "2026-10-06",
+      "addedAt": "2026-10-06T15:57:44.191Z"
     }
   ],
-  "lastUpdated": "2026-10-06T15:57:01.893Z"
+  "lastUpdated": "2026-10-06T15:57:44.191Z"
 }
