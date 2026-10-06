@@ -12502,7 +12502,25 @@
       "lastModified": "2026-10-06",
       "dateAdded": "2026-10-06",
       "addedAt": "2026-10-06T15:44:46.307Z"
+    },
+    {
+      "id": "muwuox5b36rk4d11a6b",
+      "name": "Tara Nadine",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/daysintaradise",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-06",
+      "nextFollowUp": "2026-10-13",
+      "notes": "",
+      "lastModified": "2026-10-06",
+      "dateAdded": "2026-10-06",
+      "addedAt": "2026-10-06T15:45:49.007Z"
     }
   ],
-  "lastUpdated": "2026-10-06T15:44:46.307Z"
+  "lastUpdated": "2026-10-06T15:45:49.007Z"
 }
