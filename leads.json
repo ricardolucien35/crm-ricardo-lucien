@@ -12412,7 +12412,25 @@
       "lastModified": "2026-10-06",
       "dateAdded": "2026-10-06",
       "addedAt": "2026-10-06T15:37:12.039Z"
+    },
+    {
+      "id": "muwues0esawdsdq17e",
+      "name": "Amy Corn",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/amy.j.corn",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-06",
+      "nextFollowUp": "2026-10-13",
+      "notes": "",
+      "lastModified": "2026-10-06",
+      "dateAdded": "2026-10-06",
+      "addedAt": "2026-10-06T15:37:55.790Z"
     }
   ],
-  "lastUpdated": "2026-10-06T15:37:12.039Z"
+  "lastUpdated": "2026-10-06T15:37:55.790Z"
 }
