@@ -12448,7 +12448,25 @@
       "lastModified": "2026-10-06",
       "dateAdded": "2026-10-06",
       "addedAt": "2026-10-06T15:38:51.057Z"
+    },
+    {
+      "id": "muwuiev3qa0j8xojfvo",
+      "name": "Mirela Delic",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/SlatkaMima",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-06",
+      "nextFollowUp": "2026-10-13",
+      "notes": "",
+      "lastModified": "2026-10-06",
+      "dateAdded": "2026-10-06",
+      "addedAt": "2026-10-06T15:40:45.375Z"
     }
   ],
-  "lastUpdated": "2026-10-06T15:38:51.057Z"
+  "lastUpdated": "2026-10-06T15:40:45.375Z"
 }
