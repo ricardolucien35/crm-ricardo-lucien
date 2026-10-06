@@ -12376,7 +12376,25 @@
       "lastModified": "2026-10-06",
       "dateAdded": "2026-10-06",
       "addedAt": "2026-10-06T15:34:56.973Z"
+    },
+    {
+      "id": "muwucr9eva10i75pu5",
+      "name": "Alexis Cosper",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/alexis.cosper.7",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-06",
+      "nextFollowUp": "2026-10-13",
+      "notes": "",
+      "lastModified": "2026-10-06",
+      "dateAdded": "2026-10-06",
+      "addedAt": "2026-10-06T15:36:21.506Z"
     }
   ],
-  "lastUpdated": "2026-10-06T15:34:56.973Z"
+  "lastUpdated": "2026-10-06T15:36:21.506Z"
 }
