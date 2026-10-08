@@ -12952,7 +12952,25 @@
       "lastModified": "2026-10-08",
       "dateAdded": "2026-10-08",
       "addedAt": "2026-10-08T13:24:09.994Z"
+    },
+    {
+      "id": "muzkjf39mwdqgk0m7sd",
+      "name": "Roberte Steele",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/robertina42",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-08",
+      "nextFollowUp": "2026-10-15",
+      "notes": "",
+      "lastModified": "2026-10-08",
+      "dateAdded": "2026-10-08",
+      "addedAt": "2026-10-08T13:24:54.694Z"
     }
   ],
-  "lastUpdated": "2026-10-08T13:24:09.994Z"
+  "lastUpdated": "2026-10-08T13:24:54.694Z"
 }
