@@ -12898,7 +12898,25 @@
       "lastModified": "2026-10-06",
       "dateAdded": "2026-10-06",
       "addedAt": "2026-10-06T17:29:58.911Z"
+    },
+    {
+      "id": "muzkgio27w31od2e9lv",
+      "name": "Sarah Vetter",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/sarah.vetter.982",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-08",
+      "nextFollowUp": "2026-10-15",
+      "notes": "",
+      "lastModified": "2026-10-08",
+      "dateAdded": "2026-10-08",
+      "addedAt": "2026-10-08T13:22:39.362Z"
     }
   ],
-  "lastUpdated": "2026-10-08T03:13:57.869Z"
+  "lastUpdated": "2026-10-08T13:22:39.363Z"
 }
