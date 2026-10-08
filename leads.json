@@ -13168,7 +13168,25 @@
       "lastModified": "2026-10-08",
       "dateAdded": "2026-10-08",
       "addedAt": "2026-10-08T13:45:30.092Z"
+    },
+    {
+      "id": "muzlet6ipeqw1s669es",
+      "name": "Taylor Kalush",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/taylorkalushfb",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-08",
+      "nextFollowUp": "2026-10-15",
+      "notes": "",
+      "lastModified": "2026-10-08",
+      "dateAdded": "2026-10-08",
+      "addedAt": "2026-10-08T13:49:19.290Z"
     }
   ],
-  "lastUpdated": "2026-10-08T13:45:30.092Z"
+  "lastUpdated": "2026-10-08T13:49:19.290Z"
 }
