@@ -12970,7 +12970,25 @@
       "lastModified": "2026-10-08",
       "dateAdded": "2026-10-08",
       "addedAt": "2026-10-08T13:24:54.694Z"
+    },
+    {
+      "id": "muzkk6ut1kgrhnzp6gv",
+      "name": "Carter Privat",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/cooper.john.838176",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-08",
+      "nextFollowUp": "2026-10-15",
+      "notes": "",
+      "lastModified": "2026-10-08",
+      "dateAdded": "2026-10-08",
+      "addedAt": "2026-10-08T13:25:30.677Z"
     }
   ],
-  "lastUpdated": "2026-10-08T13:24:54.694Z"
+  "lastUpdated": "2026-10-08T13:25:30.677Z"
 }
