@@ -13078,7 +13078,25 @@
       "lastModified": "2026-10-08",
       "dateAdded": "2026-10-08",
       "addedAt": "2026-10-08T13:29:00.344Z"
+    },
+    {
+      "id": "muzkz8yh6w0m1hbgmcq",
+      "name": "Nadia Alexis",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/nadia.wrightmorrison",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-08",
+      "nextFollowUp": "2026-10-15",
+      "notes": "",
+      "lastModified": "2026-10-08",
+      "dateAdded": "2026-10-08",
+      "addedAt": "2026-10-08T13:37:13.241Z"
     }
   ],
-  "lastUpdated": "2026-10-08T13:29:00.344Z"
+  "lastUpdated": "2026-10-08T13:37:13.242Z"
 }
