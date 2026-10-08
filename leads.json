@@ -12934,7 +12934,25 @@
       "lastModified": "2026-10-08",
       "dateAdded": "2026-10-08",
       "addedAt": "2026-10-08T13:23:27.010Z"
+    },
+    {
+      "id": "muzkiglmmxvtgadxhf",
+      "name": "Taryn Brianne",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/taryn.brianne",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-08",
+      "nextFollowUp": "2026-10-15",
+      "notes": "",
+      "lastModified": "2026-10-08",
+      "dateAdded": "2026-10-08",
+      "addedAt": "2026-10-08T13:24:09.994Z"
     }
   ],
-  "lastUpdated": "2026-10-08T13:23:27.010Z"
+  "lastUpdated": "2026-10-08T13:24:09.994Z"
 }
