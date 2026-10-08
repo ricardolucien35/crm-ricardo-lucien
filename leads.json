@@ -13006,7 +13006,25 @@
       "lastModified": "2026-10-08",
       "dateAdded": "2026-10-08",
       "addedAt": "2026-10-08T13:26:11.612Z"
+    },
+    {
+      "id": "muzklypwamsaqawb9he",
+      "name": "Cory Draper",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=61586458483217",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-08",
+      "nextFollowUp": "2026-10-15",
+      "notes": "",
+      "lastModified": "2026-10-08",
+      "dateAdded": "2026-10-08",
+      "addedAt": "2026-10-08T13:26:53.444Z"
     }
   ],
-  "lastUpdated": "2026-10-08T13:26:11.612Z"
+  "lastUpdated": "2026-10-08T13:26:53.444Z"
 }
