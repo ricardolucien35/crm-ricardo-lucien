@@ -13312,7 +13312,25 @@
       "lastModified": "2026-10-08",
       "dateAdded": "2026-10-08",
       "addedAt": "2026-10-08T14:17:17.042Z"
+    },
+    {
+      "id": "muzmhm5dbic6fqnmoq",
+      "name": "Samantha",
+      "email": "",
+      "phone": "",
+      "social": "https://www.instagram.com/samlammers_?stkn=NzZxcHF4ZWpxcDg5",
+      "source": "Instagram",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-08",
+      "nextFollowUp": "2026-10-15",
+      "notes": "",
+      "lastModified": "2026-10-08",
+      "dateAdded": "2026-10-08",
+      "addedAt": "2026-10-08T14:19:29.761Z"
     }
   ],
-  "lastUpdated": "2026-10-08T14:17:17.043Z"
+  "lastUpdated": "2026-10-08T14:19:29.761Z"
 }
