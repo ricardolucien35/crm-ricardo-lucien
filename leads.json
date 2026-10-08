@@ -13132,7 +13132,25 @@
       "lastModified": "2026-10-08",
       "dateAdded": "2026-10-08",
       "addedAt": "2026-10-08T13:39:09.641Z"
+    },
+    {
+      "id": "muzl8rl687vu8l0ju7f",
+      "name": "Kenny Fellhauer",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/kenny.fellhauer",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-08",
+      "nextFollowUp": "2026-10-15",
+      "notes": "",
+      "lastModified": "2026-10-08",
+      "dateAdded": "2026-10-08",
+      "addedAt": "2026-10-08T13:44:37.290Z"
     }
   ],
-  "lastUpdated": "2026-10-08T13:39:09.642Z"
+  "lastUpdated": "2026-10-08T13:44:37.290Z"
 }
