@@ -13114,7 +13114,25 @@
       "lastModified": "2026-10-08",
       "dateAdded": "2026-10-08",
       "addedAt": "2026-10-08T13:38:08.760Z"
+    },
+    {
+      "id": "muzl1qrtm0z4fhow9d",
+      "name": "Taylor Catlett",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/taylor.catlett.54",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-08",
+      "nextFollowUp": "2026-10-15",
+      "notes": "",
+      "lastModified": "2026-10-08",
+      "dateAdded": "2026-10-08",
+      "addedAt": "2026-10-08T13:39:09.641Z"
     }
   ],
-  "lastUpdated": "2026-10-08T13:38:08.760Z"
+  "lastUpdated": "2026-10-08T13:39:09.642Z"
 }
