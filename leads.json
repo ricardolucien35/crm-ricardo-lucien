@@ -13456,7 +13456,25 @@
       "lastModified": "2026-10-10",
       "dateAdded": "2026-10-10",
       "addedAt": "2026-10-10T12:56:06.119Z"
+    },
+    {
+      "id": "mv2eerx3c71w3zmwjkq",
+      "name": "Brynn Demaree",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/brynn.demaree.2025",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-10",
+      "nextFollowUp": "2026-10-17",
+      "notes": "",
+      "lastModified": "2026-10-10",
+      "dateAdded": "2026-10-10",
+      "addedAt": "2026-10-10T12:56:38.871Z"
     }
   ],
-  "lastUpdated": "2026-10-10T12:56:06.119Z"
+  "lastUpdated": "2026-10-10T12:56:38.871Z"
 }
