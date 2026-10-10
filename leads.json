@@ -13618,7 +13618,25 @@
       "lastModified": "2026-10-10",
       "dateAdded": "2026-10-10",
       "addedAt": "2026-10-10T13:04:41.352Z"
+    },
+    {
+      "id": "mv2er88ds59tksbr7o",
+      "name": "Kelsey Cain",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/kelsey.taylor.7161",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-10",
+      "nextFollowUp": "2026-10-17",
+      "notes": "",
+      "lastModified": "2026-10-10",
+      "dateAdded": "2026-10-10",
+      "addedAt": "2026-10-10T13:06:19.885Z"
     }
   ],
-  "lastUpdated": "2026-10-10T13:04:41.352Z"
+  "lastUpdated": "2026-10-10T13:06:19.885Z"
 }
