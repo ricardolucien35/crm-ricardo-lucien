@@ -13438,7 +13438,25 @@
       "lastModified": "2026-10-10",
       "dateAdded": "2026-10-10",
       "addedAt": "2026-10-10T12:55:28.566Z"
+    },
+    {
+      "id": "mv2ee2nbiouaxzjpxft",
+      "name": "Amelia Harshfield",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/amelia.harshfield",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-10",
+      "nextFollowUp": "2026-10-17",
+      "notes": "",
+      "lastModified": "2026-10-10",
+      "dateAdded": "2026-10-10",
+      "addedAt": "2026-10-10T12:56:06.119Z"
     }
   ],
-  "lastUpdated": "2026-10-10T12:55:28.566Z"
+  "lastUpdated": "2026-10-10T12:56:06.119Z"
 }
