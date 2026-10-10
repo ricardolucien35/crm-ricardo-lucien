@@ -13762,7 +13762,25 @@
       "lastModified": "2026-10-10",
       "dateAdded": "2026-10-10",
       "addedAt": "2026-10-10T13:10:45.704Z"
+    },
+    {
+      "id": "mv2exv3iepf6krnyz",
+      "name": "Alexandria Saxen",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/alex.saxen",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-10",
+      "nextFollowUp": "2026-10-17",
+      "notes": "",
+      "lastModified": "2026-10-10",
+      "dateAdded": "2026-10-10",
+      "addedAt": "2026-10-10T13:11:29.454Z"
     }
   ],
-  "lastUpdated": "2026-10-10T13:10:45.704Z"
+  "lastUpdated": "2026-10-10T13:11:29.454Z"
 }
