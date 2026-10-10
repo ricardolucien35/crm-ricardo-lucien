@@ -13546,7 +13546,25 @@
       "lastModified": "2026-10-10",
       "dateAdded": "2026-10-10",
       "addedAt": "2026-10-10T12:59:42.920Z"
+    },
+    {
+      "id": "mv2ejjtinhz3fm9fss",
+      "name": "Julian Eslinger",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/julian.eslinger",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-10",
+      "nextFollowUp": "2026-10-17",
+      "notes": "",
+      "lastModified": "2026-10-10",
+      "dateAdded": "2026-10-10",
+      "addedAt": "2026-10-10T13:00:21.654Z"
     }
   ],
-  "lastUpdated": "2026-10-10T12:59:42.920Z"
+  "lastUpdated": "2026-10-10T13:00:21.654Z"
 }
