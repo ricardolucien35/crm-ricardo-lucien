@@ -13798,7 +13798,25 @@
       "lastModified": "2026-10-10",
       "dateAdded": "2026-10-10",
       "addedAt": "2026-10-10T13:12:14.987Z"
+    },
+    {
+      "id": "mv2ezwch3v48b4oaznx",
+      "name": "Ivonne Briones",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/ivonnexbriones",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-10",
+      "nextFollowUp": "2026-10-17",
+      "notes": "",
+      "lastModified": "2026-10-10",
+      "dateAdded": "2026-10-10",
+      "addedAt": "2026-10-10T13:13:04.386Z"
     }
   ],
-  "lastUpdated": "2026-10-10T13:12:14.987Z"
+  "lastUpdated": "2026-10-10T13:13:04.386Z"
 }
