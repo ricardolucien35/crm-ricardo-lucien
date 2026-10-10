@@ -13852,7 +13852,25 @@
       "lastModified": "2026-10-10",
       "dateAdded": "2026-10-10",
       "addedAt": "2026-10-10T13:14:28.819Z"
+    },
+    {
+      "id": "mv2f2fyoor7f1b8u51",
+      "name": "Jess Brown",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jes.brown24",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-10",
+      "nextFollowUp": "2026-10-17",
+      "notes": "",
+      "lastModified": "2026-10-10",
+      "dateAdded": "2026-10-10",
+      "addedAt": "2026-10-10T13:15:03.120Z"
     }
   ],
-  "lastUpdated": "2026-10-10T13:14:28.819Z"
+  "lastUpdated": "2026-10-10T13:15:03.120Z"
 }
