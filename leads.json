@@ -13636,7 +13636,25 @@
       "lastModified": "2026-10-10",
       "dateAdded": "2026-10-10",
       "addedAt": "2026-10-10T13:06:19.885Z"
+    },
+    {
+      "id": "mv2erxp3fd467jqj5l4",
+      "name": "Nate Jerguson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=61572125443096",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-10",
+      "nextFollowUp": "2026-10-17",
+      "notes": "",
+      "lastModified": "2026-10-10",
+      "dateAdded": "2026-10-10",
+      "addedAt": "2026-10-10T13:06:52.887Z"
     }
   ],
-  "lastUpdated": "2026-10-10T13:06:19.885Z"
+  "lastUpdated": "2026-10-10T13:06:52.887Z"
 }
