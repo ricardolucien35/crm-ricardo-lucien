@@ -13816,7 +13816,25 @@
       "lastModified": "2026-10-10",
       "dateAdded": "2026-10-10",
       "addedAt": "2026-10-10T13:13:04.386Z"
+    },
+    {
+      "id": "mv2f0w0x8e5xyfn74n",
+      "name": "Kori Kindred",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=61588741588721",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-10",
+      "nextFollowUp": "2026-10-17",
+      "notes": "",
+      "lastModified": "2026-10-10",
+      "dateAdded": "2026-10-10",
+      "addedAt": "2026-10-10T13:13:50.625Z"
     }
   ],
-  "lastUpdated": "2026-10-10T13:13:04.386Z"
+  "lastUpdated": "2026-10-10T13:13:50.625Z"
 }
