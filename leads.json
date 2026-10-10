@@ -13474,7 +13474,25 @@
       "lastModified": "2026-10-10",
       "dateAdded": "2026-10-10",
       "addedAt": "2026-10-10T12:56:38.871Z"
+    },
+    {
+      "id": "mv2efdhxzatb6eer8d",
+      "name": "Amanda Spring",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-10",
+      "nextFollowUp": "2026-10-17",
+      "notes": "",
+      "lastModified": "2026-10-10",
+      "dateAdded": "2026-10-10",
+      "addedAt": "2026-10-10T12:57:06.837Z"
     }
   ],
-  "lastUpdated": "2026-10-10T12:56:38.871Z"
+  "lastUpdated": "2026-10-10T12:57:06.837Z"
 }
