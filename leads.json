@@ -13924,7 +13924,25 @@
       "lastModified": "2026-10-10",
       "dateAdded": "2026-10-10",
       "addedAt": "2026-10-10T13:17:26.569Z"
+    },
+    {
+      "id": "mv2f6c96biddkgnnepe",
+      "name": "Breanna Stafford",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=61551345993125",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-10",
+      "nextFollowUp": "2026-10-17",
+      "notes": "",
+      "lastModified": "2026-10-10",
+      "dateAdded": "2026-10-10",
+      "addedAt": "2026-10-10T13:18:04.938Z"
     }
   ],
-  "lastUpdated": "2026-10-10T13:17:26.569Z"
+  "lastUpdated": "2026-10-10T13:18:04.938Z"
 }
