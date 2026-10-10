@@ -13834,7 +13834,25 @@
       "lastModified": "2026-10-10",
       "dateAdded": "2026-10-10",
       "addedAt": "2026-10-10T13:13:50.625Z"
+    },
+    {
+      "id": "mv2f1phvawqvttwi9vw",
+      "name": "Kristina Chase",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/kristina.chase.77",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-10",
+      "nextFollowUp": "2026-10-17",
+      "notes": "",
+      "lastModified": "2026-10-10",
+      "dateAdded": "2026-10-10",
+      "addedAt": "2026-10-10T13:14:28.819Z"
     }
   ],
-  "lastUpdated": "2026-10-10T13:13:50.625Z"
+  "lastUpdated": "2026-10-10T13:14:28.819Z"
 }
