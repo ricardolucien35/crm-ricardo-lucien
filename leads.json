@@ -13384,7 +13384,25 @@
       "lastModified": "2026-10-08",
       "dateAdded": "2026-10-08",
       "addedAt": "2026-10-08T14:25:41.125Z"
+    },
+    {
+      "id": "mv2eblkryt0w50asn8",
+      "name": "Elle Kimball",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/elle.kimball.1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-10",
+      "nextFollowUp": "2026-10-17",
+      "notes": "",
+      "lastModified": "2026-10-10",
+      "dateAdded": "2026-10-10",
+      "addedAt": "2026-10-10T12:54:10.683Z"
     }
   ],
-  "lastUpdated": "2026-10-10T00:26:32.539Z"
+  "lastUpdated": "2026-10-10T12:54:10.683Z"
 }
