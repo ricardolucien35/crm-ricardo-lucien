@@ -13420,7 +13420,25 @@
       "lastModified": "2026-10-10",
       "dateAdded": "2026-10-10",
       "addedAt": "2026-10-10T12:54:55.648Z"
+    },
+    {
+      "id": "mv2ed9o6czcg3gtvtd4",
+      "name": "Kristin Turner",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/KristinKCRE",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-10",
+      "nextFollowUp": "2026-10-17",
+      "notes": "",
+      "lastModified": "2026-10-10",
+      "dateAdded": "2026-10-10",
+      "addedAt": "2026-10-10T12:55:28.566Z"
     }
   ],
-  "lastUpdated": "2026-10-10T12:54:55.648Z"
+  "lastUpdated": "2026-10-10T12:55:28.566Z"
 }
