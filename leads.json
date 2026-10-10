@@ -13726,7 +13726,25 @@
       "lastModified": "2026-10-10",
       "dateAdded": "2026-10-10",
       "addedAt": "2026-10-10T13:09:32.870Z"
+    },
+    {
+      "id": "mv2ew3vkrpy8w8036e",
+      "name": "Jordan Oddo",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jordan.oddo2",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-10",
+      "nextFollowUp": "2026-10-17",
+      "notes": "",
+      "lastModified": "2026-10-10",
+      "dateAdded": "2026-10-10",
+      "addedAt": "2026-10-10T13:10:07.520Z"
     }
   ],
-  "lastUpdated": "2026-10-10T13:09:32.870Z"
+  "lastUpdated": "2026-10-10T13:10:07.520Z"
 }
