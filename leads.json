@@ -13690,7 +13690,25 @@
       "lastModified": "2026-10-10",
       "dateAdded": "2026-10-10",
       "addedAt": "2026-10-10T13:08:14.320Z"
+    },
+    {
+      "id": "mv2eugc2lqt70ynaio",
+      "name": "Samir Dzilic",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/samir.dzilic",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-10",
+      "nextFollowUp": "2026-10-17",
+      "notes": "",
+      "lastModified": "2026-10-10",
+      "dateAdded": "2026-10-10",
+      "addedAt": "2026-10-10T13:08:50.354Z"
     }
   ],
-  "lastUpdated": "2026-10-10T13:08:14.320Z"
+  "lastUpdated": "2026-10-10T13:08:50.354Z"
 }
