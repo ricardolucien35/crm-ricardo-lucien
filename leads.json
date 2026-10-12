@@ -14410,7 +14410,25 @@
       "lastModified": "2026-10-12",
       "dateAdded": "2026-10-12",
       "addedAt": "2026-10-12T16:38:35.113Z"
+    },
+    {
+      "id": "mv5h8rvcf0kjl8upom6",
+      "name": "Carlos Rodriguez",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=61585023525084",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-12",
+      "nextFollowUp": "2026-10-19",
+      "notes": "",
+      "lastModified": "2026-10-12",
+      "dateAdded": "2026-10-12",
+      "addedAt": "2026-10-12T16:39:16.248Z"
     }
   ],
-  "lastUpdated": "2026-10-12T16:38:35.113Z"
+  "lastUpdated": "2026-10-12T16:39:16.248Z"
 }
