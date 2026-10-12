@@ -14554,7 +14554,25 @@
       "lastModified": "2026-10-12",
       "dateAdded": "2026-10-12",
       "addedAt": "2026-10-12T16:43:58.366Z"
+    },
+    {
+      "id": "mv5hfxdrenkil86sj2h",
+      "name": "Maeanna",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/maeannamccowan",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-12",
+      "nextFollowUp": "2026-10-19",
+      "notes": "",
+      "lastModified": "2026-10-12",
+      "dateAdded": "2026-10-12",
+      "addedAt": "2026-10-12T16:44:49.983Z"
     }
   ],
-  "lastUpdated": "2026-10-12T16:43:58.366Z"
+  "lastUpdated": "2026-10-12T16:44:49.983Z"
 }
