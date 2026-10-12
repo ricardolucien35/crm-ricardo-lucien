@@ -14122,7 +14122,25 @@
       "lastModified": "2026-10-12",
       "dateAdded": "2026-10-12",
       "addedAt": "2026-10-12T16:10:19.530Z"
+    },
+    {
+      "id": "mv5gauljwp8ora45x68",
+      "name": "Enrique Agnew",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/search/top?q=enrique%20agnew",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-12",
+      "nextFollowUp": "2026-10-19",
+      "notes": "",
+      "lastModified": "2026-10-12",
+      "dateAdded": "2026-10-12",
+      "addedAt": "2026-10-12T16:12:53.479Z"
     }
   ],
-  "lastUpdated": "2026-10-12T16:10:19.530Z"
+  "lastUpdated": "2026-10-12T16:12:53.479Z"
 }
