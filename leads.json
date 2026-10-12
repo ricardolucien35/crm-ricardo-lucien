@@ -14140,7 +14140,25 @@
       "lastModified": "2026-10-12",
       "dateAdded": "2026-10-12",
       "addedAt": "2026-10-12T16:12:53.479Z"
+    },
+    {
+      "id": "mv5gd3y9pncghafvz3",
+      "name": "Marla Rice",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/Marla.RiceRealEstateGroup",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-12",
+      "nextFollowUp": "2026-10-19",
+      "notes": "",
+      "lastModified": "2026-10-12",
+      "dateAdded": "2026-10-12",
+      "addedAt": "2026-10-12T16:14:38.913Z"
     }
   ],
-  "lastUpdated": "2026-10-12T16:12:53.479Z"
+  "lastUpdated": "2026-10-12T16:14:38.913Z"
 }
