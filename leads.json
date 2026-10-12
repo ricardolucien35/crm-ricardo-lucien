@@ -14158,7 +14158,25 @@
       "lastModified": "2026-10-12",
       "dateAdded": "2026-10-12",
       "addedAt": "2026-10-12T16:14:38.913Z"
+    },
+    {
+      "id": "mv5geup1k27oo8b4549",
+      "name": "Kristina Nicole",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/kristinanicoleofficial",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-12",
+      "nextFollowUp": "2026-10-19",
+      "notes": "",
+      "lastModified": "2026-10-12",
+      "dateAdded": "2026-10-12",
+      "addedAt": "2026-10-12T16:16:00.230Z"
     }
   ],
-  "lastUpdated": "2026-10-12T16:14:38.913Z"
+  "lastUpdated": "2026-10-12T16:16:00.230Z"
 }
