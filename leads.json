@@ -14230,7 +14230,25 @@
       "lastModified": "2026-10-12",
       "dateAdded": "2026-10-12",
       "addedAt": "2026-10-12T16:20:05.480Z"
+    },
+    {
+      "id": "mv5glpswwd1la4r2808",
+      "name": "Sarah Renee",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/sarah.renee.345864",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-12",
+      "nextFollowUp": "2026-10-19",
+      "notes": "",
+      "lastModified": "2026-10-12",
+      "dateAdded": "2026-10-12",
+      "addedAt": "2026-10-12T16:21:20.480Z"
     }
   ],
-  "lastUpdated": "2026-10-12T16:20:05.480Z"
+  "lastUpdated": "2026-10-12T16:21:20.480Z"
 }
