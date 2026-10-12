@@ -14374,7 +14374,25 @@
       "lastModified": "2026-10-12",
       "dateAdded": "2026-10-12",
       "addedAt": "2026-10-12T16:36:27.898Z"
+    },
+    {
+      "id": "mv5h7091uuds4xqwidg",
+      "name": "Amanda Jones",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/krekelberg1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-12",
+      "nextFollowUp": "2026-10-19",
+      "notes": "",
+      "lastModified": "2026-10-12",
+      "dateAdded": "2026-10-12",
+      "addedAt": "2026-10-12T16:37:53.797Z"
     }
   ],
-  "lastUpdated": "2026-10-12T16:36:27.898Z"
+  "lastUpdated": "2026-10-12T16:37:53.797Z"
 }
