@@ -14698,7 +14698,25 @@
       "lastModified": "2026-10-12",
       "dateAdded": "2026-10-12",
       "addedAt": "2026-10-12T16:52:20.238Z"
+    },
+    {
+      "id": "mv5hqvggwcxydqvknr",
+      "name": "Joao Kawasaki",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/joaogustavo.ckawasaki",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-12",
+      "nextFollowUp": "2026-10-19",
+      "notes": "",
+      "lastModified": "2026-10-12",
+      "dateAdded": "2026-10-12",
+      "addedAt": "2026-10-12T16:53:20.704Z"
     }
   ],
-  "lastUpdated": "2026-10-12T16:52:20.238Z"
+  "lastUpdated": "2026-10-12T16:53:20.704Z"
 }
