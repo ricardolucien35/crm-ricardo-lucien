@@ -14176,7 +14176,25 @@
       "lastModified": "2026-10-12",
       "dateAdded": "2026-10-12",
       "addedAt": "2026-10-12T16:16:00.230Z"
+    },
+    {
+      "id": "mv5gh2p3u678angzwg",
+      "name": "Charlena Amanda",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/charlena.kc",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-12",
+      "nextFollowUp": "2026-10-19",
+      "notes": "",
+      "lastModified": "2026-10-12",
+      "dateAdded": "2026-10-12",
+      "addedAt": "2026-10-12T16:17:43.911Z"
     }
   ],
-  "lastUpdated": "2026-10-12T16:16:00.230Z"
+  "lastUpdated": "2026-10-12T16:17:43.911Z"
 }
