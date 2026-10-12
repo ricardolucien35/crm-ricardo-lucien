@@ -14392,7 +14392,25 @@
       "lastModified": "2026-10-12",
       "dateAdded": "2026-10-12",
       "addedAt": "2026-10-12T16:37:53.797Z"
+    },
+    {
+      "id": "mv5h7w4py416wescy9",
+      "name": "Jenny Whitledge",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jenny.whitledge.5",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-12",
+      "nextFollowUp": "2026-10-19",
+      "notes": "",
+      "lastModified": "2026-10-12",
+      "dateAdded": "2026-10-12",
+      "addedAt": "2026-10-12T16:38:35.113Z"
     }
   ],
-  "lastUpdated": "2026-10-12T16:37:53.797Z"
+  "lastUpdated": "2026-10-12T16:38:35.113Z"
 }
