@@ -14284,7 +14284,25 @@
       "lastModified": "2026-10-12",
       "dateAdded": "2026-10-12",
       "addedAt": "2026-10-12T16:22:50.446Z"
+    },
+    {
+      "id": "mv5gojhz2cz7mro7ydx",
+      "name": "Tyler Mccurley",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=61580005866064",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-12",
+      "nextFollowUp": "2026-10-19",
+      "notes": "",
+      "lastModified": "2026-10-12",
+      "dateAdded": "2026-10-12",
+      "addedAt": "2026-10-12T16:23:32.280Z"
     }
   ],
-  "lastUpdated": "2026-10-12T16:22:50.446Z"
+  "lastUpdated": "2026-10-12T16:23:32.280Z"
 }
