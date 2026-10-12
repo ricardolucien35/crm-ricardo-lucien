@@ -14428,7 +14428,25 @@
       "lastModified": "2026-10-12",
       "dateAdded": "2026-10-12",
       "addedAt": "2026-10-12T16:39:16.248Z"
+    },
+    {
+      "id": "mv5h9pr87t6cos4r7a9",
+      "name": "Aaron Harris",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=61568804646754",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-12",
+      "nextFollowUp": "2026-10-19",
+      "notes": "",
+      "lastModified": "2026-10-12",
+      "dateAdded": "2026-10-12",
+      "addedAt": "2026-10-12T16:40:00.164Z"
     }
   ],
-  "lastUpdated": "2026-10-12T16:39:16.248Z"
+  "lastUpdated": "2026-10-12T16:40:00.164Z"
 }
