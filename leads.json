@@ -14248,7 +14248,25 @@
       "lastModified": "2026-10-12",
       "dateAdded": "2026-10-12",
       "addedAt": "2026-10-12T16:21:20.480Z"
+    },
+    {
+      "id": "mv5gmpaneiq2tfh23ua",
+      "name": "Abriel Hanna",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/abriel.hanna.2025",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-12",
+      "nextFollowUp": "2026-10-19",
+      "notes": "",
+      "lastModified": "2026-10-12",
+      "dateAdded": "2026-10-12",
+      "addedAt": "2026-10-12T16:22:06.479Z"
     }
   ],
-  "lastUpdated": "2026-10-12T16:21:20.480Z"
+  "lastUpdated": "2026-10-12T16:22:06.479Z"
 }
