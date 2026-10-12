@@ -13978,7 +13978,25 @@
       "lastModified": "2026-10-12",
       "dateAdded": "2026-10-12",
       "addedAt": "2026-10-12T16:01:03.511Z"
+    },
+    {
+      "id": "mv5fwhk1v6sb3os1kz",
+      "name": "Lexi Davidson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/lexi.meyer.73",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-12",
+      "nextFollowUp": "2026-10-19",
+      "notes": "",
+      "lastModified": "2026-10-12",
+      "dateAdded": "2026-10-12",
+      "addedAt": "2026-10-12T16:01:43.393Z"
     }
   ],
-  "lastUpdated": "2026-10-12T16:01:03.512Z"
+  "lastUpdated": "2026-10-12T16:01:43.393Z"
 }
