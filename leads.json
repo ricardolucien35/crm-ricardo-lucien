@@ -14212,7 +14212,25 @@
       "lastModified": "2026-10-12",
       "dateAdded": "2026-10-12",
       "addedAt": "2026-10-12T16:18:18.029Z"
+    },
+    {
+      "id": "mv5gk3xklsyo7va4o4h",
+      "name": "Georgie Minkus",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/georgiana.minkus",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-12",
+      "nextFollowUp": "2026-10-19",
+      "notes": "",
+      "lastModified": "2026-10-12",
+      "dateAdded": "2026-10-12",
+      "addedAt": "2026-10-12T16:20:05.480Z"
     }
   ],
-  "lastUpdated": "2026-10-12T16:18:18.029Z"
+  "lastUpdated": "2026-10-12T16:20:05.480Z"
 }
