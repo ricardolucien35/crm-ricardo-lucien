@@ -14320,7 +14320,25 @@
       "lastModified": "2026-10-12",
       "dateAdded": "2026-10-12",
       "addedAt": "2026-10-12T16:24:20.564Z"
+    },
+    {
+      "id": "mv5gqv003b0bgqab1zs",
+      "name": "Nidale Delibero",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/nidale.delibero",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-12",
+      "nextFollowUp": "2026-10-19",
+      "notes": "",
+      "lastModified": "2026-10-12",
+      "dateAdded": "2026-10-12",
+      "addedAt": "2026-10-12T16:25:20.496Z"
     }
   ],
-  "lastUpdated": "2026-10-12T16:24:20.564Z"
+  "lastUpdated": "2026-10-12T16:25:20.496Z"
 }
