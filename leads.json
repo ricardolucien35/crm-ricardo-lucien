@@ -14266,7 +14266,25 @@
       "lastModified": "2026-10-12",
       "dateAdded": "2026-10-12",
       "addedAt": "2026-10-12T16:22:06.479Z"
+    },
+    {
+      "id": "mv5gnn7y1w2bg4lgh2o",
+      "name": "Josh Poindexter",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/joshua.poindexter",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-12",
+      "nextFollowUp": "2026-10-19",
+      "notes": "",
+      "lastModified": "2026-10-12",
+      "dateAdded": "2026-10-12",
+      "addedAt": "2026-10-12T16:22:50.446Z"
     }
   ],
-  "lastUpdated": "2026-10-12T16:22:06.479Z"
+  "lastUpdated": "2026-10-12T16:22:50.446Z"
 }
