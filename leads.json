@@ -13960,7 +13960,25 @@
       "lastModified": "2026-10-10",
       "dateAdded": "2026-10-10",
       "addedAt": "2026-10-10T15:04:01.518Z"
+    },
+    {
+      "id": "mv5fvms7sdzd6859q6d",
+      "name": "Shelda Jewell",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/shelda.jewell#",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-12",
+      "nextFollowUp": "2026-10-19",
+      "notes": "",
+      "lastModified": "2026-10-12",
+      "dateAdded": "2026-10-12",
+      "addedAt": "2026-10-12T16:01:03.511Z"
     }
   ],
-  "lastUpdated": "2026-10-12T02:57:02.413Z"
+  "lastUpdated": "2026-10-12T16:01:03.512Z"
 }
