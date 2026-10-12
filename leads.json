@@ -14194,7 +14194,25 @@
       "lastModified": "2026-10-12",
       "dateAdded": "2026-10-12",
       "addedAt": "2026-10-12T16:17:43.911Z"
+    },
+    {
+      "id": "mv5ght0t8lb2ek6olvg",
+      "name": "Michael Dempsey",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/michaeldempsey23",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-12",
+      "nextFollowUp": "2026-10-19",
+      "notes": "",
+      "lastModified": "2026-10-12",
+      "dateAdded": "2026-10-12",
+      "addedAt": "2026-10-12T16:18:18.029Z"
     }
   ],
-  "lastUpdated": "2026-10-12T16:17:43.911Z"
+  "lastUpdated": "2026-10-12T16:18:18.029Z"
 }
