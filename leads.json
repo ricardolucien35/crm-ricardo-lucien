@@ -14590,7 +14590,25 @@
       "lastModified": "2026-10-12",
       "dateAdded": "2026-10-12",
       "addedAt": "2026-10-12T16:45:40.390Z"
+    },
+    {
+      "id": "mv5hivc8fqylibnhcfh",
+      "name": "Alissa Hadjian",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100064477546075",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-12",
+      "nextFollowUp": "2026-10-19",
+      "notes": "",
+      "lastModified": "2026-10-12",
+      "dateAdded": "2026-10-12",
+      "addedAt": "2026-10-12T16:47:07.304Z"
     }
   ],
-  "lastUpdated": "2026-10-12T16:45:40.390Z"
+  "lastUpdated": "2026-10-12T16:47:07.304Z"
 }
