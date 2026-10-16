@@ -15706,7 +15706,25 @@
       "lastModified": "2026-10-16",
       "dateAdded": "2026-10-16",
       "addedAt": "2026-10-16T21:38:10.777Z"
+    },
+    {
+      "id": "mvbhpstq0htwrjvxm6z8",
+      "name": "Haylee Fisher",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/haylee.fisher.529207#",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-16",
+      "nextFollowUp": "2026-10-21",
+      "notes": "",
+      "lastModified": "2026-10-16",
+      "dateAdded": "2026-10-16",
+      "addedAt": "2026-10-16T21:39:07.694Z"
     }
   ],
-  "lastUpdated": "2026-10-16T21:38:10.777Z"
+  "lastUpdated": "2026-10-16T21:39:07.694Z"
 }
