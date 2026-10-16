@@ -15904,7 +15904,25 @@
       "lastModified": "2026-10-16",
       "dateAdded": "2026-10-16",
       "addedAt": "2026-10-16T21:50:37.391Z"
+    },
+    {
+      "id": "mvbi636xsx54m5vazpm",
+      "name": "Valeria Navarrete",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/valeria.navarrete.9849912",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-16",
+      "nextFollowUp": "2026-10-20",
+      "notes": "",
+      "lastModified": "2026-10-16",
+      "dateAdded": "2026-10-16",
+      "addedAt": "2026-10-16T21:51:47.625Z"
     }
   ],
-  "lastUpdated": "2026-10-16T21:50:37.391Z"
+  "lastUpdated": "2026-10-16T21:51:47.625Z"
 }
