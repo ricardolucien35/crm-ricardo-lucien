@@ -15526,7 +15526,25 @@
       "lastModified": "2026-10-16",
       "dateAdded": "2026-10-16",
       "addedAt": "2026-10-16T21:23:50.399Z"
+    },
+    {
+      "id": "mvbh74i6wmasmawi9u",
+      "name": "Dylan Frederick",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/dylan.frederick.1998",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-16",
+      "nextFollowUp": "2026-10-20",
+      "notes": "",
+      "lastModified": "2026-10-16",
+      "dateAdded": "2026-10-16",
+      "addedAt": "2026-10-16T21:24:36.366Z"
     }
   ],
-  "lastUpdated": "2026-10-16T21:23:50.399Z"
+  "lastUpdated": "2026-10-16T21:24:36.366Z"
 }
