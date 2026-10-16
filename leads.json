@@ -16012,7 +16012,25 @@
       "lastModified": "2026-10-16",
       "dateAdded": "2026-10-16",
       "addedAt": "2026-10-16T22:12:47.461Z"
+    },
+    {
+      "id": "mvbiy7jwjbltrx6ib",
+      "name": "Alexandra Johnson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/alexandra.johnson.501",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-16",
+      "nextFollowUp": "2026-10-23",
+      "notes": "",
+      "lastModified": "2026-10-16",
+      "dateAdded": "2026-10-16",
+      "addedAt": "2026-10-16T22:13:39.644Z"
     }
   ],
-  "lastUpdated": "2026-10-16T22:12:47.461Z"
+  "lastUpdated": "2026-10-16T22:13:39.644Z"
 }
