@@ -15166,7 +15166,25 @@
       "lastModified": "2026-10-16",
       "dateAdded": "2026-10-16",
       "addedAt": "2026-10-16T21:01:33.048Z"
+    },
+    {
+      "id": "mvbgf0kex0s9krlnvp",
+      "name": "Brian Sproat",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/BrianSproatBeaconRealty",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-16",
+      "nextFollowUp": "2026-10-23",
+      "notes": "",
+      "lastModified": "2026-10-16",
+      "dateAdded": "2026-10-16",
+      "addedAt": "2026-10-16T21:02:44.894Z"
     }
   ],
-  "lastUpdated": "2026-10-16T21:01:33.048Z"
+  "lastUpdated": "2026-10-16T21:02:44.894Z"
 }
