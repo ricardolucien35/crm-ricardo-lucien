@@ -15346,7 +15346,25 @@
       "lastModified": "2026-10-16",
       "dateAdded": "2026-10-16",
       "addedAt": "2026-10-16T21:13:00.518Z"
+    },
+    {
+      "id": "mvbgtlsxqnsgu2xtsd",
+      "name": "Jessi Oxley",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jessi.oxley",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-16",
+      "nextFollowUp": "2026-10-20",
+      "notes": "",
+      "lastModified": "2026-10-16",
+      "dateAdded": "2026-10-16",
+      "addedAt": "2026-10-16T21:14:05.601Z"
     }
   ],
-  "lastUpdated": "2026-10-16T21:13:00.518Z"
+  "lastUpdated": "2026-10-16T21:14:05.601Z"
 }
