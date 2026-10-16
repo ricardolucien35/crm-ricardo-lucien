@@ -15220,7 +15220,25 @@
       "lastModified": "2026-10-16",
       "dateAdded": "2026-10-16",
       "addedAt": "2026-10-16T21:07:05.102Z"
+    },
+    {
+      "id": "mvbglua03n4sf6bkc4a",
+      "name": "Claudia Paola",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/claudia.paola.26",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-16",
+      "nextFollowUp": "2026-10-23",
+      "notes": "",
+      "lastModified": "2026-10-16",
+      "dateAdded": "2026-10-16",
+      "addedAt": "2026-10-16T21:08:03.336Z"
     }
   ],
-  "lastUpdated": "2026-10-16T21:07:05.102Z"
+  "lastUpdated": "2026-10-16T21:08:03.336Z"
 }
