@@ -15112,7 +15112,25 @@
       "lastModified": "2026-10-16",
       "dateAdded": "2026-10-16",
       "addedAt": "2026-10-16T20:59:27.529Z"
+    },
+    {
+      "id": "mvbgbl86jyu5uh1xiq",
+      "name": "Jacob Howe",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jacob.howe.92505",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-16",
+      "nextFollowUp": "2026-10-23",
+      "notes": "",
+      "lastModified": "2026-10-16",
+      "dateAdded": "2026-10-16",
+      "addedAt": "2026-10-16T21:00:05.046Z"
     }
   ],
-  "lastUpdated": "2026-10-16T20:59:27.529Z"
+  "lastUpdated": "2026-10-16T21:00:05.046Z"
 }
