@@ -16030,7 +16030,25 @@
       "lastModified": "2026-10-16",
       "dateAdded": "2026-10-16",
       "addedAt": "2026-10-16T22:13:39.644Z"
+    },
+    {
+      "id": "mvbiz6inb1bz7x23als",
+      "name": "Leap Counseling",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=61589706365581",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-16",
+      "nextFollowUp": "2026-10-23",
+      "notes": "",
+      "lastModified": "2026-10-16",
+      "dateAdded": "2026-10-16",
+      "addedAt": "2026-10-16T22:14:24.959Z"
     }
   ],
-  "lastUpdated": "2026-10-16T22:13:39.644Z"
+  "lastUpdated": "2026-10-16T22:14:24.959Z"
 }
