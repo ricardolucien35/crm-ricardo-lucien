@@ -15994,7 +15994,25 @@
       "lastModified": "2026-10-16",
       "dateAdded": "2026-10-16",
       "addedAt": "2026-10-16T22:12:02.427Z"
+    },
+    {
+      "id": "mvbix3adxg1d8iwhfan",
+      "name": "Luke Prichard",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/luke.prichard.790",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-16",
+      "nextFollowUp": "2026-10-23",
+      "notes": "",
+      "lastModified": "2026-10-16",
+      "dateAdded": "2026-10-16",
+      "addedAt": "2026-10-16T22:12:47.461Z"
     }
   ],
-  "lastUpdated": "2026-10-16T22:12:02.427Z"
+  "lastUpdated": "2026-10-16T22:12:47.461Z"
 }
