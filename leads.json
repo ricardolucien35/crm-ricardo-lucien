@@ -15868,7 +15868,25 @@
       "lastModified": "2026-10-16",
       "dateAdded": "2026-10-16",
       "addedAt": "2026-10-16T21:49:03.573Z"
+    },
+    {
+      "id": "mvbi3h4sheo3k69z3fq",
+      "name": "Ashley Thomasson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/ashley.thomasson1992",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-16",
+      "nextFollowUp": "2026-10-20",
+      "notes": "",
+      "lastModified": "2026-10-16",
+      "dateAdded": "2026-10-16",
+      "addedAt": "2026-10-16T21:49:45.724Z"
     }
   ],
-  "lastUpdated": "2026-10-16T21:49:03.573Z"
+  "lastUpdated": "2026-10-16T21:49:45.724Z"
 }
