@@ -16174,7 +16174,25 @@
       "lastModified": "2026-10-16",
       "dateAdded": "2026-10-16",
       "addedAt": "2026-10-16T22:20:04.057Z"
+    },
+    {
+      "id": "mvbj7ho0u44yzmmave",
+      "name": "Alison Priddy",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/alison.priddy",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-16",
+      "nextFollowUp": "2026-10-21",
+      "notes": "",
+      "lastModified": "2026-10-16",
+      "dateAdded": "2026-10-16",
+      "addedAt": "2026-10-16T22:20:52.656Z"
     }
   ],
-  "lastUpdated": "2026-10-16T22:20:04.057Z"
+  "lastUpdated": "2026-10-16T22:20:52.656Z"
 }
