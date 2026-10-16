@@ -15580,7 +15580,25 @@
       "lastModified": "2026-10-16",
       "dateAdded": "2026-10-16",
       "addedAt": "2026-10-16T21:26:23.116Z"
+    },
+    {
+      "id": "mvbhb4gjq0eu9nkei9h",
+      "name": "Isabella Palkowitsh",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/isabella.palkowitsh",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-16",
+      "nextFollowUp": "2026-10-20",
+      "notes": "",
+      "lastModified": "2026-10-16",
+      "dateAdded": "2026-10-16",
+      "addedAt": "2026-10-16T21:27:42.931Z"
     }
   ],
-  "lastUpdated": "2026-10-16T21:26:23.116Z"
+  "lastUpdated": "2026-10-16T21:27:42.931Z"
 }
