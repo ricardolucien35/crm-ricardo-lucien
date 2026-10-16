@@ -16192,7 +16192,25 @@
       "lastModified": "2026-10-16",
       "dateAdded": "2026-10-16",
       "addedAt": "2026-10-16T22:20:52.656Z"
+    },
+    {
+      "id": "mvbj8l8zxucm7jdwkia",
+      "name": "Lexi Hill",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/lexi.hill.814865",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-16",
+      "nextFollowUp": "2026-10-21",
+      "notes": "",
+      "lastModified": "2026-10-16",
+      "dateAdded": "2026-10-16",
+      "addedAt": "2026-10-16T22:21:43.955Z"
     }
   ],
-  "lastUpdated": "2026-10-16T22:20:52.656Z"
+  "lastUpdated": "2026-10-16T22:21:43.955Z"
 }
