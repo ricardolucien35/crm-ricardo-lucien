@@ -16120,7 +16120,25 @@
       "lastModified": "2026-10-16",
       "dateAdded": "2026-10-16",
       "addedAt": "2026-10-16T22:17:46.008Z"
+    },
+    {
+      "id": "mvbj4jbtae3zay71sea",
+      "name": "Blake Howe",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/blake.howe.5",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-16",
+      "nextFollowUp": "2026-10-21",
+      "notes": "",
+      "lastModified": "2026-10-16",
+      "dateAdded": "2026-10-16",
+      "addedAt": "2026-10-16T22:18:34.841Z"
     }
   ],
-  "lastUpdated": "2026-10-16T22:17:46.008Z"
+  "lastUpdated": "2026-10-16T22:18:34.841Z"
 }
