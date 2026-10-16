@@ -15850,7 +15850,25 @@
       "lastModified": "2026-10-16",
       "dateAdded": "2026-10-16",
       "addedAt": "2026-10-16T21:48:14.458Z"
+    },
+    {
+      "id": "mvbi2klxadr9r75l7ru",
+      "name": "Christian Stewart",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/sean.stewart.581730",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-16",
+      "nextFollowUp": "2026-10-20",
+      "notes": "",
+      "lastModified": "2026-10-16",
+      "dateAdded": "2026-10-16",
+      "addedAt": "2026-10-16T21:49:03.573Z"
     }
   ],
-  "lastUpdated": "2026-10-16T21:48:14.458Z"
+  "lastUpdated": "2026-10-16T21:49:03.573Z"
 }
