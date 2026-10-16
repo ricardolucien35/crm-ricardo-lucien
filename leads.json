@@ -15454,7 +15454,25 @@
       "lastModified": "2026-10-16",
       "dateAdded": "2026-10-16",
       "addedAt": "2026-10-16T21:19:01.497Z"
+    },
+    {
+      "id": "mvbh290zzfpft5ybk9",
+      "name": "Hanna Franklin",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/hanna.franklin.9",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-16",
+      "nextFollowUp": "2026-10-20",
+      "notes": "",
+      "lastModified": "2026-10-16",
+      "dateAdded": "2026-10-16",
+      "addedAt": "2026-10-16T21:20:48.947Z"
     }
   ],
-  "lastUpdated": "2026-10-16T21:19:01.497Z"
+  "lastUpdated": "2026-10-16T21:20:48.947Z"
 }
