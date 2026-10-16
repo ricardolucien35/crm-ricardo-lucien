@@ -15328,7 +15328,25 @@
       "lastModified": "2026-10-16",
       "dateAdded": "2026-10-16",
       "addedAt": "2026-10-16T21:12:10.136Z"
+    },
+    {
+      "id": "mvbgs7l23yttgbzzwwl",
+      "name": "Brad Carlson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/brad.carlson.39982",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-16",
+      "nextFollowUp": "2026-10-23",
+      "notes": "",
+      "lastModified": "2026-10-16",
+      "dateAdded": "2026-10-16",
+      "addedAt": "2026-10-16T21:13:00.518Z"
     }
   ],
-  "lastUpdated": "2026-10-16T21:12:10.136Z"
+  "lastUpdated": "2026-10-16T21:13:00.518Z"
 }
