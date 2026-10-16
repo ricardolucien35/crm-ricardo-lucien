@@ -14968,7 +14968,25 @@
       "lastModified": "2026-10-16",
       "dateAdded": "2026-10-16",
       "addedAt": "2026-10-16T20:47:38.547Z"
+    },
+    {
+      "id": "mvbfxq98r7annhwzno",
+      "name": "Alexandra Werth",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100001118908124",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-16",
+      "nextFollowUp": "2026-10-23",
+      "notes": "",
+      "lastModified": "2026-10-16",
+      "dateAdded": "2026-10-16",
+      "addedAt": "2026-10-16T20:49:18.380Z"
     }
   ],
-  "lastUpdated": "2026-10-16T20:47:38.547Z"
+  "lastUpdated": "2026-10-16T20:49:18.380Z"
 }
