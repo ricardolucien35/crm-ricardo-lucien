@@ -15490,7 +15490,25 @@
       "lastModified": "2026-10-16",
       "dateAdded": "2026-10-16",
       "addedAt": "2026-10-16T21:21:32.031Z"
+    },
+    {
+      "id": "mvbh49ggbmshjp0ze0k",
+      "name": "Elisabel Gildo",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/elisabel.gildo",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-16",
+      "nextFollowUp": "2026-10-20",
+      "notes": "",
+      "lastModified": "2026-10-16",
+      "dateAdded": "2026-10-16",
+      "addedAt": "2026-10-16T21:22:22.816Z"
     }
   ],
-  "lastUpdated": "2026-10-16T21:21:32.031Z"
+  "lastUpdated": "2026-10-16T21:22:22.816Z"
 }
