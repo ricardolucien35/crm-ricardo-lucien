@@ -15922,7 +15922,25 @@
       "lastModified": "2026-10-16",
       "dateAdded": "2026-10-16",
       "addedAt": "2026-10-16T21:51:47.625Z"
+    },
+    {
+      "id": "mvbi73sytxsw40ntjon",
+      "name": "Isaiah Mcfall",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=61595002047218",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-16",
+      "nextFollowUp": "2026-10-20",
+      "notes": "",
+      "lastModified": "2026-10-16",
+      "dateAdded": "2026-10-16",
+      "addedAt": "2026-10-16T21:52:35.075Z"
     }
   ],
-  "lastUpdated": "2026-10-16T21:51:47.625Z"
+  "lastUpdated": "2026-10-16T21:52:35.075Z"
 }
