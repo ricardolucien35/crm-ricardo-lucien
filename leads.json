@@ -15742,7 +15742,25 @@
       "lastModified": "2026-10-16",
       "dateAdded": "2026-10-16",
       "addedAt": "2026-10-16T21:40:42.808Z"
+    },
+    {
+      "id": "mvbhutafocjfi71u8ym",
+      "name": "Afakasi Flight",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/AfakasiFlight30",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-16",
+      "nextFollowUp": "2026-10-21",
+      "notes": "",
+      "lastModified": "2026-10-16",
+      "dateAdded": "2026-10-16",
+      "addedAt": "2026-10-16T21:43:01.575Z"
     }
   ],
-  "lastUpdated": "2026-10-16T21:40:42.808Z"
+  "lastUpdated": "2026-10-16T21:43:01.575Z"
 }
