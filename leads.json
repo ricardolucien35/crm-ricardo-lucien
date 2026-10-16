@@ -15670,7 +15670,25 @@
       "lastModified": "2026-10-16",
       "dateAdded": "2026-10-16",
       "addedAt": "2026-10-16T21:35:37.250Z"
+    },
+    {
+      "id": "mvbhmlodevsrvufq3ik",
+      "name": "Zimmer Bellemere",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/zimmer.bellemere",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-16",
+      "nextFollowUp": "2026-10-20",
+      "notes": "",
+      "lastModified": "2026-10-16",
+      "dateAdded": "2026-10-16",
+      "addedAt": "2026-10-16T21:36:38.461Z"
     }
   ],
-  "lastUpdated": "2026-10-16T21:35:37.250Z"
+  "lastUpdated": "2026-10-16T21:36:38.461Z"
 }
