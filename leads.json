@@ -15058,7 +15058,25 @@
       "lastModified": "2026-10-16",
       "dateAdded": "2026-10-16",
       "addedAt": "2026-10-16T20:57:24.396Z"
+    },
+    {
+      "id": "mvbg8zxfmka8oerx41",
+      "name": "Zach Miller",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/ZACHMILLERH",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-16",
+      "nextFollowUp": "2026-10-23",
+      "notes": "",
+      "lastModified": "2026-10-16",
+      "dateAdded": "2026-10-16",
+      "addedAt": "2026-10-16T20:58:04.131Z"
     }
   ],
-  "lastUpdated": "2026-10-16T20:57:24.396Z"
+  "lastUpdated": "2026-10-16T20:58:04.131Z"
 }
