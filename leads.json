@@ -15310,7 +15310,25 @@
       "lastModified": "2026-10-16",
       "dateAdded": "2026-10-16",
       "addedAt": "2026-10-16T21:11:28.801Z"
+    },
+    {
+      "id": "mvbgr4pker2vqnbmv8k",
+      "name": "Alyssa Kerr",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/alyssa.kerr.75",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-16",
+      "nextFollowUp": "2026-10-23",
+      "notes": "",
+      "lastModified": "2026-10-16",
+      "dateAdded": "2026-10-16",
+      "addedAt": "2026-10-16T21:12:10.136Z"
     }
   ],
-  "lastUpdated": "2026-10-16T21:11:28.801Z"
+  "lastUpdated": "2026-10-16T21:12:10.136Z"
 }
