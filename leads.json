@@ -16156,7 +16156,25 @@
       "lastModified": "2026-10-16",
       "dateAdded": "2026-10-16",
       "addedAt": "2026-10-16T22:19:16.140Z"
+    },
+    {
+      "id": "mvbj6g611a1u8qq4gdw",
+      "name": "Nick Accurso",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/nick.accurso.37",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-16",
+      "nextFollowUp": "2026-10-21",
+      "notes": "",
+      "lastModified": "2026-10-16",
+      "dateAdded": "2026-10-16",
+      "addedAt": "2026-10-16T22:20:04.057Z"
     }
   ],
-  "lastUpdated": "2026-10-16T22:19:16.140Z"
+  "lastUpdated": "2026-10-16T22:20:04.057Z"
 }
