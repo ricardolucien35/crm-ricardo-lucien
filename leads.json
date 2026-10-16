@@ -15976,7 +15976,25 @@
       "lastModified": "2026-10-16",
       "dateAdded": "2026-10-16",
       "addedAt": "2026-10-16T22:11:19.577Z"
+    },
+    {
+      "id": "mvbiw4jej1szaff6jiq",
+      "name": "Juan Vargas",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/juan.vargas.706444",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-16",
+      "nextFollowUp": "2026-10-23",
+      "notes": "",
+      "lastModified": "2026-10-16",
+      "dateAdded": "2026-10-16",
+      "addedAt": "2026-10-16T22:12:02.427Z"
     }
   ],
-  "lastUpdated": "2026-10-16T22:11:19.577Z"
+  "lastUpdated": "2026-10-16T22:12:02.427Z"
 }
