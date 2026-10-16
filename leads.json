@@ -14986,7 +14986,25 @@
       "lastModified": "2026-10-16",
       "dateAdded": "2026-10-16",
       "addedAt": "2026-10-16T20:49:18.380Z"
+    },
+    {
+      "id": "mvbg4xmq1we9kv0qtjb",
+      "name": "Lili Rosenbaum",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/lily.rosenbaum.1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-16",
+      "nextFollowUp": "2026-10-23",
+      "notes": "",
+      "lastModified": "2026-10-16",
+      "dateAdded": "2026-10-16",
+      "addedAt": "2026-10-16T20:54:54.530Z"
     }
   ],
-  "lastUpdated": "2026-10-16T20:49:18.380Z"
+  "lastUpdated": "2026-10-16T20:54:54.530Z"
 }
