@@ -15760,7 +15760,25 @@
       "lastModified": "2026-10-16",
       "dateAdded": "2026-10-16",
       "addedAt": "2026-10-16T21:43:01.575Z"
+    },
+    {
+      "id": "mvbhwitpz8cot6ut4rc",
+      "name": "Triston Mathers",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/triston.mathers",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-16",
+      "nextFollowUp": "2026-10-21",
+      "notes": "",
+      "lastModified": "2026-10-16",
+      "dateAdded": "2026-10-16",
+      "addedAt": "2026-10-16T21:44:21.325Z"
     }
   ],
-  "lastUpdated": "2026-10-16T21:43:01.575Z"
+  "lastUpdated": "2026-10-16T21:44:21.325Z"
 }
