@@ -15688,7 +15688,25 @@
       "lastModified": "2026-10-16",
       "dateAdded": "2026-10-16",
       "addedAt": "2026-10-16T21:36:38.461Z"
+    },
+    {
+      "id": "mvbhokwpvzxzmg1dnb",
+      "name": "Joanna Rae",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/joanna.rae.12",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-16",
+      "nextFollowUp": "2026-10-21",
+      "notes": "",
+      "lastModified": "2026-10-16",
+      "dateAdded": "2026-10-16",
+      "addedAt": "2026-10-16T21:38:10.777Z"
     }
   ],
-  "lastUpdated": "2026-10-16T21:36:38.461Z"
+  "lastUpdated": "2026-10-16T21:38:10.777Z"
 }
