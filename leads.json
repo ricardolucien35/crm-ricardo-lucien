@@ -15652,7 +15652,25 @@
       "lastModified": "2026-10-16",
       "dateAdded": "2026-10-16",
       "addedAt": "2026-10-16T21:34:54.500Z"
+    },
+    {
+      "id": "mvbhlag2b3dqwxef3vr",
+      "name": "Jadyn Chrisman",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jadyn.chrisman.9",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-16",
+      "nextFollowUp": "2026-10-20",
+      "notes": "",
+      "lastModified": "2026-10-16",
+      "dateAdded": "2026-10-16",
+      "addedAt": "2026-10-16T21:35:37.250Z"
     }
   ],
-  "lastUpdated": "2026-10-16T21:34:54.500Z"
+  "lastUpdated": "2026-10-16T21:35:37.250Z"
 }
