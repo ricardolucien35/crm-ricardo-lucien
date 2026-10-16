@@ -14824,7 +14824,25 @@
       "lastModified": "2026-10-16",
       "dateAdded": "2026-10-16",
       "addedAt": "2026-10-16T20:39:49.156Z"
+    },
+    {
+      "id": "mvbfmslqdprksp4mv5",
+      "name": "Alexandria Cabral",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/alexandria.cabral.270780",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-16",
+      "nextFollowUp": "2026-10-23",
+      "notes": "",
+      "lastModified": "2026-10-16",
+      "dateAdded": "2026-10-16",
+      "addedAt": "2026-10-16T20:40:48.206Z"
     }
   ],
-  "lastUpdated": "2026-10-16T20:39:49.156Z"
+  "lastUpdated": "2026-10-16T20:40:48.206Z"
 }
