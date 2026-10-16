@@ -15400,7 +15400,25 @@
       "lastModified": "2026-10-16",
       "dateAdded": "2026-10-16",
       "addedAt": "2026-10-16T21:16:34.317Z"
+    },
+    {
+      "id": "mvbgy43wz1f6or8bsbk",
+      "name": "Mackenzie Lyerla",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/mackenzie.lyerla",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-16",
+      "nextFollowUp": "2026-10-19",
+      "notes": "",
+      "lastModified": "2026-10-16",
+      "dateAdded": "2026-10-16",
+      "addedAt": "2026-10-16T21:17:35.948Z"
     }
   ],
-  "lastUpdated": "2026-10-16T21:16:34.317Z"
+  "lastUpdated": "2026-10-16T21:17:35.948Z"
 }
