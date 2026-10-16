@@ -15814,7 +15814,25 @@
       "lastModified": "2026-10-16",
       "dateAdded": "2026-10-16",
       "addedAt": "2026-10-16T21:46:39.558Z"
+    },
+    {
+      "id": "mvbi0f386gvv61yyc7g",
+      "name": "Alicia Getty",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/alicia.getty.797715",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-16",
+      "nextFollowUp": "2026-10-23",
+      "notes": "",
+      "lastModified": "2026-10-16",
+      "dateAdded": "2026-10-16",
+      "addedAt": "2026-10-16T21:47:23.108Z"
     }
   ],
-  "lastUpdated": "2026-10-16T21:46:39.559Z"
+  "lastUpdated": "2026-10-16T21:47:23.108Z"
 }
