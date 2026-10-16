@@ -16066,7 +16066,25 @@
       "lastModified": "2026-10-16",
       "dateAdded": "2026-10-16",
       "addedAt": "2026-10-16T22:15:05.009Z"
+    },
+    {
+      "id": "mvbj0yzha2h4or2hbz9",
+      "name": "Hadley Nguyen",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/hadley.nguyen.75",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-16",
+      "nextFollowUp": "2026-10-21",
+      "notes": "",
+      "lastModified": "2026-10-16",
+      "dateAdded": "2026-10-16",
+      "addedAt": "2026-10-16T22:15:48.509Z"
     }
   ],
-  "lastUpdated": "2026-10-16T22:15:05.009Z"
+  "lastUpdated": "2026-10-16T22:15:48.509Z"
 }
