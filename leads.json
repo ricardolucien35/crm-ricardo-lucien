@@ -15598,7 +15598,25 @@
       "lastModified": "2026-10-16",
       "dateAdded": "2026-10-16",
       "addedAt": "2026-10-16T21:27:42.931Z"
+    },
+    {
+      "id": "mvbhiqpreosy2qjmjjn",
+      "name": "Aubrey Kelly",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/aubree.kelly",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-16",
+      "nextFollowUp": "2026-10-20",
+      "notes": "",
+      "lastModified": "2026-10-16",
+      "dateAdded": "2026-10-16",
+      "addedAt": "2026-10-16T21:33:38.367Z"
     }
   ],
-  "lastUpdated": "2026-10-16T21:27:42.931Z"
+  "lastUpdated": "2026-10-16T21:33:38.367Z"
 }
