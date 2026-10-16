@@ -15094,7 +15094,25 @@
       "lastModified": "2026-10-16",
       "dateAdded": "2026-10-16",
       "addedAt": "2026-10-16T20:58:48.896Z"
+    },
+    {
+      "id": "mvbgasa1j37c1j3onmf",
+      "name": "Zach Mall",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/zach.mall.52",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-16",
+      "nextFollowUp": "2026-10-23",
+      "notes": "",
+      "lastModified": "2026-10-16",
+      "dateAdded": "2026-10-16",
+      "addedAt": "2026-10-16T20:59:27.529Z"
     }
   ],
-  "lastUpdated": "2026-10-16T20:58:48.896Z"
+  "lastUpdated": "2026-10-16T20:59:27.529Z"
 }
