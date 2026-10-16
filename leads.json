@@ -15130,7 +15130,25 @@
       "lastModified": "2026-10-16",
       "dateAdded": "2026-10-16",
       "addedAt": "2026-10-16T21:00:05.046Z"
+    },
+    {
+      "id": "mvbgcefxgnu4rco25bc",
+      "name": "Tatiana Briceno",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/tati.briceno.1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-16",
+      "nextFollowUp": "2026-10-23",
+      "notes": "",
+      "lastModified": "2026-10-16",
+      "dateAdded": "2026-10-16",
+      "addedAt": "2026-10-16T21:00:42.910Z"
     }
   ],
-  "lastUpdated": "2026-10-16T21:00:05.046Z"
+  "lastUpdated": "2026-10-16T21:00:42.910Z"
 }
