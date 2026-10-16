@@ -15616,7 +15616,25 @@
       "lastModified": "2026-10-16",
       "dateAdded": "2026-10-16",
       "addedAt": "2026-10-16T21:33:38.367Z"
+    },
+    {
+      "id": "mvbhjk2qdhft4rp5kdu",
+      "name": "Josh Odell",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/josh.odell.54772",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-16",
+      "nextFollowUp": "2026-10-20",
+      "notes": "",
+      "lastModified": "2026-10-16",
+      "dateAdded": "2026-10-16",
+      "addedAt": "2026-10-16T21:34:16.418Z"
     }
   ],
-  "lastUpdated": "2026-10-16T21:33:38.367Z"
+  "lastUpdated": "2026-10-16T21:34:16.418Z"
 }
