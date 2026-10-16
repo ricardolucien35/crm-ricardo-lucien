@@ -14806,7 +14806,25 @@
       "lastModified": "2026-10-16",
       "dateAdded": "2026-10-16",
       "addedAt": "2026-10-16T20:39:01.723Z"
+    },
+    {
+      "id": "mvbflj1g2udaaxl9rn1",
+      "name": "Katie Uhlich",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/katie.uhlich",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-16",
+      "nextFollowUp": "2026-10-23",
+      "notes": "",
+      "lastModified": "2026-10-16",
+      "dateAdded": "2026-10-16",
+      "addedAt": "2026-10-16T20:39:49.156Z"
     }
   ],
-  "lastUpdated": "2026-10-16T20:39:01.723Z"
+  "lastUpdated": "2026-10-16T20:39:49.156Z"
 }
