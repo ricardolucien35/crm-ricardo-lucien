@@ -14770,7 +14770,25 @@
       "lastModified": "2026-10-12",
       "dateAdded": "2026-10-12",
       "addedAt": "2026-10-12T20:08:43.963Z"
+    },
+    {
+      "id": "mvbfjuv8egrwdeb6ut",
+      "name": "Carly Raybuck",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/carly.clayton.10",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-16",
+      "nextFollowUp": "2026-10-23",
+      "notes": "",
+      "lastModified": "2026-10-16",
+      "dateAdded": "2026-10-16",
+      "addedAt": "2026-10-16T20:38:31.172Z"
     }
   ],
-  "lastUpdated": "2026-10-16T19:15:39.814Z"
+  "lastUpdated": "2026-10-16T20:38:31.172Z"
 }
