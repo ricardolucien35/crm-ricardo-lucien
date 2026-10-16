@@ -15040,7 +15040,25 @@
       "lastModified": "2026-10-16",
       "dateAdded": "2026-10-16",
       "addedAt": "2026-10-16T20:56:44.215Z"
+    },
+    {
+      "id": "mvbg859ofv721wea4d",
+      "name": "Paige Whitson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/paige.whitson.14",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-16",
+      "nextFollowUp": "2026-10-23",
+      "notes": "",
+      "lastModified": "2026-10-16",
+      "dateAdded": "2026-10-16",
+      "addedAt": "2026-10-16T20:57:24.396Z"
     }
   ],
-  "lastUpdated": "2026-10-16T20:56:44.215Z"
+  "lastUpdated": "2026-10-16T20:57:24.396Z"
 }
