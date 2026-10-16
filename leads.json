@@ -15544,7 +15544,25 @@
       "lastModified": "2026-10-16",
       "dateAdded": "2026-10-16",
       "addedAt": "2026-10-16T21:24:36.366Z"
+    },
+    {
+      "id": "mvbh88436bwwxp406s9",
+      "name": "Jessy Dawn",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/Jessy.dawn4600",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-16",
+      "nextFollowUp": "2026-10-20",
+      "notes": "",
+      "lastModified": "2026-10-16",
+      "dateAdded": "2026-10-16",
+      "addedAt": "2026-10-16T21:25:27.699Z"
     }
   ],
-  "lastUpdated": "2026-10-16T21:24:36.366Z"
+  "lastUpdated": "2026-10-16T21:25:27.699Z"
 }
