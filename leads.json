@@ -15472,7 +15472,25 @@
       "lastModified": "2026-10-16",
       "dateAdded": "2026-10-16",
       "addedAt": "2026-10-16T21:20:48.947Z"
+    },
+    {
+      "id": "mvbh369roueeoi1ilk",
+      "name": "Kerrigan Smith",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/kerrigan.smith.599621",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-16",
+      "nextFollowUp": "2026-10-20",
+      "notes": "",
+      "lastModified": "2026-10-16",
+      "dateAdded": "2026-10-16",
+      "addedAt": "2026-10-16T21:21:32.031Z"
     }
   ],
-  "lastUpdated": "2026-10-16T21:20:48.947Z"
+  "lastUpdated": "2026-10-16T21:21:32.031Z"
 }
