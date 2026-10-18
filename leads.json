@@ -16210,7 +16210,25 @@
       "lastModified": "2026-10-16",
       "dateAdded": "2026-10-16",
       "addedAt": "2026-10-16T22:21:43.955Z"
+    },
+    {
+      "id": "mvdblz0dzu45xjegmv",
+      "name": "Olia Kuznetsova",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/olga.kznet",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-17",
+      "nextFollowUp": "2026-10-24",
+      "notes": "",
+      "lastModified": "2026-10-17",
+      "dateAdded": "2026-10-17",
+      "addedAt": "2026-10-18T04:23:43.741Z"
     }
   ],
-  "lastUpdated": "2026-10-18T02:58:02.075Z"
+  "lastUpdated": "2026-10-18T04:23:43.741Z"
 }
