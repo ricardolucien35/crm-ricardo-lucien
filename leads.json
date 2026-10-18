@@ -16336,7 +16336,25 @@
       "lastModified": "2026-10-17",
       "dateAdded": "2026-10-17",
       "addedAt": "2026-10-18T04:30:19.673Z"
+    },
+    {
+      "id": "mvdbvbl00pitqlimafe",
+      "name": "Kathy Dellan",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/kathy.cogollos",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-17",
+      "nextFollowUp": "2026-10-24",
+      "notes": "",
+      "lastModified": "2026-10-17",
+      "dateAdded": "2026-10-17",
+      "addedAt": "2026-10-18T04:30:59.940Z"
     }
   ],
-  "lastUpdated": "2026-10-18T04:30:19.673Z"
+  "lastUpdated": "2026-10-18T04:30:59.940Z"
 }
