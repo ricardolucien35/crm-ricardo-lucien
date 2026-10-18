@@ -16300,7 +16300,25 @@
       "lastModified": "2026-10-17",
       "dateAdded": "2026-10-17",
       "addedAt": "2026-10-18T04:27:35.857Z"
+    },
+    {
+      "id": "mvdbswzfht85anhztsg",
+      "name": "Christian Williams",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/christian.williams.56",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-17",
+      "nextFollowUp": "2026-10-24",
+      "notes": "",
+      "lastModified": "2026-10-17",
+      "dateAdded": "2026-10-17",
+      "addedAt": "2026-10-18T04:29:07.707Z"
     }
   ],
-  "lastUpdated": "2026-10-18T04:27:35.857Z"
+  "lastUpdated": "2026-10-18T04:29:07.707Z"
 }
