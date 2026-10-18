@@ -16228,7 +16228,25 @@
       "lastModified": "2026-10-17",
       "dateAdded": "2026-10-17",
       "addedAt": "2026-10-18T04:23:43.741Z"
+    },
+    {
+      "id": "mvdbnljbj6a8pwsppwf",
+      "name": "Kellon Lees",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/kellon.lees",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-17",
+      "nextFollowUp": "2026-10-24",
+      "notes": "",
+      "lastModified": "2026-10-17",
+      "dateAdded": "2026-10-17",
+      "addedAt": "2026-10-18T04:24:59.591Z"
     }
   ],
-  "lastUpdated": "2026-10-18T04:23:43.741Z"
+  "lastUpdated": "2026-10-18T04:24:59.591Z"
 }
