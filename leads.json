@@ -16246,7 +16246,25 @@
       "lastModified": "2026-10-17",
       "dateAdded": "2026-10-17",
       "addedAt": "2026-10-18T04:24:59.591Z"
+    },
+    {
+      "id": "mvdboe5syaktdg2j36",
+      "name": "Rob Jessa",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/robert.jessa",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-17",
+      "nextFollowUp": "2026-10-24",
+      "notes": "",
+      "lastModified": "2026-10-17",
+      "dateAdded": "2026-10-17",
+      "addedAt": "2026-10-18T04:25:36.688Z"
     }
   ],
-  "lastUpdated": "2026-10-18T04:24:59.591Z"
+  "lastUpdated": "2026-10-18T04:25:36.688Z"
 }
