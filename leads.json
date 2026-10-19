@@ -16642,7 +16642,25 @@
       "lastModified": "2026-10-19",
       "dateAdded": "2026-10-19",
       "addedAt": "2026-10-19T17:32:52.741Z"
+    },
+    {
+      "id": "mvfja6ijfxpqkwwk0d4",
+      "name": "Dylan Crandall",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/dylan.crandall.58",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-19",
+      "nextFollowUp": "2026-10-26",
+      "notes": "",
+      "lastModified": "2026-10-19",
+      "dateAdded": "2026-10-19",
+      "addedAt": "2026-10-19T17:34:02.875Z"
     }
   ],
-  "lastUpdated": "2026-10-19T17:32:52.741Z"
+  "lastUpdated": "2026-10-19T17:34:02.875Z"
 }
