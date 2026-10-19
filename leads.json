@@ -16696,7 +16696,25 @@
       "lastModified": "2026-10-19",
       "dateAdded": "2026-10-19",
       "addedAt": "2026-10-19T17:40:06.577Z"
+    },
+    {
+      "id": "mvfjimedapqdsfyrq5",
+      "name": "Nick Faust",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/nick.faust.1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-19",
+      "nextFollowUp": "2026-10-26",
+      "notes": "",
+      "lastModified": "2026-10-19",
+      "dateAdded": "2026-10-19",
+      "addedAt": "2026-10-19T17:40:36.709Z"
     }
   ],
-  "lastUpdated": "2026-10-19T17:40:06.577Z"
+  "lastUpdated": "2026-10-19T17:40:36.709Z"
 }
