@@ -16624,7 +16624,25 @@
       "lastModified": "2026-10-19",
       "dateAdded": "2026-10-19",
       "addedAt": "2026-10-19T17:31:34.457Z"
+    },
+    {
+      "id": "mvfj8oed7fddsml6jnj",
+      "name": "Preston Giltner",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100085832861081",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-19",
+      "nextFollowUp": "2026-10-26",
+      "notes": "",
+      "lastModified": "2026-10-19",
+      "dateAdded": "2026-10-19",
+      "addedAt": "2026-10-19T17:32:52.741Z"
     }
   ],
-  "lastUpdated": "2026-10-19T17:31:34.457Z"
+  "lastUpdated": "2026-10-19T17:32:52.741Z"
 }
