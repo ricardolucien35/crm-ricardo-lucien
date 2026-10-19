@@ -16786,7 +16786,25 @@
       "lastModified": "2026-10-19",
       "dateAdded": "2026-10-19",
       "addedAt": "2026-10-19T17:42:48.958Z"
+    },
+    {
+      "id": "mvfjm250x73zy4ta13p",
+      "name": "Meriden Levens",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/meriden.levens",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-19",
+      "nextFollowUp": "2026-10-26",
+      "notes": "",
+      "lastModified": "2026-10-19",
+      "dateAdded": "2026-10-19",
+      "addedAt": "2026-10-19T17:43:17.076Z"
     }
   ],
-  "lastUpdated": "2026-10-19T17:42:48.958Z"
+  "lastUpdated": "2026-10-19T17:43:17.077Z"
 }
