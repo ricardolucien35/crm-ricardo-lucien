@@ -16516,7 +16516,25 @@
       "lastModified": "2026-10-19",
       "dateAdded": "2026-10-19",
       "addedAt": "2026-10-19T17:24:34.539Z"
+    },
+    {
+      "id": "mvfiyromhnlu436wjcg",
+      "name": "Heidy Restrepo",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100090233161303",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-19",
+      "nextFollowUp": "2026-10-26",
+      "notes": "",
+      "lastModified": "2026-10-19",
+      "dateAdded": "2026-10-19",
+      "addedAt": "2026-10-19T17:25:10.438Z"
     }
   ],
-  "lastUpdated": "2026-10-19T17:24:34.539Z"
+  "lastUpdated": "2026-10-19T17:25:10.438Z"
 }
