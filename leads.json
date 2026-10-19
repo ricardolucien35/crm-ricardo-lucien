@@ -16768,7 +16768,25 @@
       "lastModified": "2026-10-19",
       "dateAdded": "2026-10-19",
       "addedAt": "2026-10-19T17:42:07.958Z"
+    },
+    {
+      "id": "mvfjlgfyrjuoyy1trtb",
+      "name": "Chris Lecornu",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/clecornu",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-19",
+      "nextFollowUp": "2026-10-26",
+      "notes": "",
+      "lastModified": "2026-10-19",
+      "dateAdded": "2026-10-19",
+      "addedAt": "2026-10-19T17:42:48.958Z"
     }
   ],
-  "lastUpdated": "2026-10-19T17:42:07.958Z"
+  "lastUpdated": "2026-10-19T17:42:48.958Z"
 }
