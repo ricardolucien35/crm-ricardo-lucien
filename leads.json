@@ -16660,7 +16660,25 @@
       "lastModified": "2026-10-19",
       "dateAdded": "2026-10-19",
       "addedAt": "2026-10-19T17:34:02.875Z"
+    },
+    {
+      "id": "mvfjbrjbef21u42zsjc",
+      "name": "Amanda Middaugh",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/msamandamg",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-19",
+      "nextFollowUp": "2026-10-26",
+      "notes": "",
+      "lastModified": "2026-10-19",
+      "dateAdded": "2026-10-19",
+      "addedAt": "2026-10-19T17:35:16.775Z"
     }
   ],
-  "lastUpdated": "2026-10-19T17:34:02.875Z"
+  "lastUpdated": "2026-10-19T17:35:16.775Z"
 }
