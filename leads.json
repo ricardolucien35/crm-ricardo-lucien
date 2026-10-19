@@ -16732,7 +16732,25 @@
       "lastModified": "2026-10-19",
       "dateAdded": "2026-10-19",
       "addedAt": "2026-10-19T17:41:07.276Z"
+    },
+    {
+      "id": "mvfjjws89ww3pobp57r",
+      "name": "Blake Hern",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/blake.hern.2025",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-19",
+      "nextFollowUp": "2026-10-26",
+      "notes": "",
+      "lastModified": "2026-10-19",
+      "dateAdded": "2026-10-19",
+      "addedAt": "2026-10-19T17:41:36.824Z"
     }
   ],
-  "lastUpdated": "2026-10-19T17:41:07.276Z"
+  "lastUpdated": "2026-10-19T17:41:36.824Z"
 }
