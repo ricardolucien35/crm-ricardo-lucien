@@ -16750,7 +16750,25 @@
       "lastModified": "2026-10-19",
       "dateAdded": "2026-10-19",
       "addedAt": "2026-10-19T17:41:36.824Z"
+    },
+    {
+      "id": "mvfjkkt28saipjm3nni",
+      "name": "Gavin Covault",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/gavin.covault",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-19",
+      "nextFollowUp": "2026-10-26",
+      "notes": "",
+      "lastModified": "2026-10-19",
+      "dateAdded": "2026-10-19",
+      "addedAt": "2026-10-19T17:42:07.958Z"
     }
   ],
-  "lastUpdated": "2026-10-19T17:41:36.824Z"
+  "lastUpdated": "2026-10-19T17:42:07.958Z"
 }
