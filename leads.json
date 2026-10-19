@@ -16570,7 +16570,25 @@
       "lastModified": "2026-10-19",
       "dateAdded": "2026-10-19",
       "addedAt": "2026-10-19T17:27:05.156Z"
+    },
+    {
+      "id": "mvfj2ga8k6bd9hb49ds",
+      "name": "Devoin Frost",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100070677537156",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-19",
+      "nextFollowUp": "2026-10-26",
+      "notes": "",
+      "lastModified": "2026-10-19",
+      "dateAdded": "2026-10-19",
+      "addedAt": "2026-10-19T17:28:02.288Z"
     }
   ],
-  "lastUpdated": "2026-10-19T17:27:05.156Z"
+  "lastUpdated": "2026-10-19T17:28:02.288Z"
 }
