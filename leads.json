@@ -16408,7 +16408,25 @@
       "lastModified": "2026-10-19",
       "dateAdded": "2026-10-19",
       "addedAt": "2026-10-19T17:20:16.038Z"
+    },
+    {
+      "id": "mvfittr1b9sll6xsoxv",
+      "name": "Sam Harris",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/sam.harris.iii.2025",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-19",
+      "nextFollowUp": "2026-10-26",
+      "notes": "",
+      "lastModified": "2026-10-19",
+      "dateAdded": "2026-10-19",
+      "addedAt": "2026-10-19T17:21:19.837Z"
     }
   ],
-  "lastUpdated": "2026-10-19T17:20:16.038Z"
+  "lastUpdated": "2026-10-19T17:21:19.837Z"
 }
