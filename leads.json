@@ -16498,7 +16498,25 @@
       "lastModified": "2026-10-19",
       "dateAdded": "2026-10-19",
       "addedAt": "2026-10-19T17:23:27.839Z"
+    },
+    {
+      "id": "mvfixzzf4u23uv3ss73",
+      "name": "Anthony Ball",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/anthony.a.ball",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-19",
+      "nextFollowUp": "2026-10-26",
+      "notes": "",
+      "lastModified": "2026-10-19",
+      "dateAdded": "2026-10-19",
+      "addedAt": "2026-10-19T17:24:34.539Z"
     }
   ],
-  "lastUpdated": "2026-10-19T17:23:27.839Z"
+  "lastUpdated": "2026-10-19T17:24:34.539Z"
 }
