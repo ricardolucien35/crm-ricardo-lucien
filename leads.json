@@ -16606,7 +16606,25 @@
       "lastModified": "2026-10-19",
       "dateAdded": "2026-10-19",
       "addedAt": "2026-10-19T17:30:13.971Z"
+    },
+    {
+      "id": "mvfj6zzthfadgvm3umr",
+      "name": "Christian Holderby",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/christian.holderby",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-19",
+      "nextFollowUp": "2026-10-26",
+      "notes": "",
+      "lastModified": "2026-10-19",
+      "dateAdded": "2026-10-19",
+      "addedAt": "2026-10-19T17:31:34.457Z"
     }
   ],
-  "lastUpdated": "2026-10-19T17:30:13.971Z"
+  "lastUpdated": "2026-10-19T17:31:34.457Z"
 }
