@@ -16714,7 +16714,25 @@
       "lastModified": "2026-10-19",
       "dateAdded": "2026-10-19",
       "addedAt": "2026-10-19T17:40:36.709Z"
+    },
+    {
+      "id": "mvfjj9zgm359utk4zp8",
+      "name": "Thomas Beem",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/thomas.beem.2025",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-19",
+      "nextFollowUp": "2026-10-26",
+      "notes": "",
+      "lastModified": "2026-10-19",
+      "dateAdded": "2026-10-19",
+      "addedAt": "2026-10-19T17:41:07.276Z"
     }
   ],
-  "lastUpdated": "2026-10-19T17:40:36.709Z"
+  "lastUpdated": "2026-10-19T17:41:07.276Z"
 }
