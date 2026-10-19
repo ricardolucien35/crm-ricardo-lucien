@@ -16588,7 +16588,25 @@
       "lastModified": "2026-10-19",
       "dateAdded": "2026-10-19",
       "addedAt": "2026-10-19T17:28:02.288Z"
+    },
+    {
+      "id": "mvfj59w3dwhmr2dpiff",
+      "name": "Keith Starling",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/UniqueIndustries",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-19",
+      "nextFollowUp": "2026-10-26",
+      "notes": "",
+      "lastModified": "2026-10-19",
+      "dateAdded": "2026-10-19",
+      "addedAt": "2026-10-19T17:30:13.971Z"
     }
   ],
-  "lastUpdated": "2026-10-19T17:29:52.854Z"
+  "lastUpdated": "2026-10-19T17:30:13.971Z"
 }
