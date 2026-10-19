@@ -16354,7 +16354,25 @@
       "lastModified": "2026-10-17",
       "dateAdded": "2026-10-17",
       "addedAt": "2026-10-18T04:30:59.940Z"
+    },
+    {
+      "id": "mvfiqpbvydrfkzgzy6d",
+      "name": "Kevin Stokes",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/kenny.stokes.14#",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-19",
+      "nextFollowUp": "2026-10-26",
+      "notes": "",
+      "lastModified": "2026-10-19",
+      "dateAdded": "2026-10-19",
+      "addedAt": "2026-10-19T17:18:54.139Z"
     }
   ],
-  "lastUpdated": "2026-10-18T04:30:59.940Z"
+  "lastUpdated": "2026-10-19T17:18:54.139Z"
 }
