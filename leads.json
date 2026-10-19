@@ -16552,7 +16552,25 @@
       "lastModified": "2026-10-19",
       "dateAdded": "2026-10-19",
       "addedAt": "2026-10-19T17:26:26.040Z"
+    },
+    {
+      "id": "mvfj1877nyejdw9qrn",
+      "name": "Austin Syberg",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/asyberg",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-19",
+      "nextFollowUp": "2026-10-26",
+      "notes": "",
+      "lastModified": "2026-10-19",
+      "dateAdded": "2026-10-19",
+      "addedAt": "2026-10-19T17:27:05.156Z"
     }
   ],
-  "lastUpdated": "2026-10-19T17:26:26.040Z"
+  "lastUpdated": "2026-10-19T17:27:05.156Z"
 }
