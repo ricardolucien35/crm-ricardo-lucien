@@ -13480,16 +13480,16 @@
       "name": "Amanda Spring",
       "email": "",
       "phone": "",
-      "social": "",
+      "social": "https://www.facebook.com/share/1E1KdVM8os/?mibextid=wwXIfr",
       "source": "Facebook",
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-10-10",
-      "nextFollowUp": "2026-10-17",
+      "lastContact": "2026-10-20",
+      "nextFollowUp": "2026-10-22",
       "notes": "",
-      "lastModified": "2026-10-10",
+      "lastModified": "2026-10-20",
       "dateAdded": "2026-10-10",
       "addedAt": "2026-10-10T12:57:06.837Z"
     },
@@ -16824,5 +16824,5 @@
       "addedAt": "2026-10-19T17:43:52.618Z"
     }
   ],
-  "lastUpdated": "2026-10-21T03:02:49.298Z"
+  "lastUpdated": "2026-10-21T03:06:02.637Z"
 }
