@@ -9922,10 +9922,10 @@
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-09-21",
-      "nextFollowUp": "2026-10-21",
+      "lastContact": "2026-10-22",
+      "nextFollowUp": "2026-10-29",
       "notes": "",
-      "lastModified": "2026-09-21",
+      "lastModified": "2026-10-22",
       "dateAdded": "2026-09-16",
       "addedAt": "2026-09-16T17:02:18.395Z"
     },
@@ -16824,5 +16824,5 @@
       "addedAt": "2026-10-19T17:43:52.618Z"
     }
   ],
-  "lastUpdated": "2026-10-21T21:20:00.537Z"
+  "lastUpdated": "2026-10-22T19:40:43.574Z"
 }
