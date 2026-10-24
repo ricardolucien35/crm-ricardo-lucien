@@ -17578,7 +17578,25 @@
       "lastModified": "2026-10-24",
       "dateAdded": "2026-10-24",
       "addedAt": "2026-10-24T19:49:02.230Z"
+    },
+    {
+      "id": "mvmtc1a4diwb8q5xjof",
+      "name": "Crystal Torres",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/TheREALTORes",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-24",
+      "nextFollowUp": "2026-10-31",
+      "notes": "",
+      "lastModified": "2026-10-24",
+      "dateAdded": "2026-10-24",
+      "addedAt": "2026-10-24T19:49:48.796Z"
     }
   ],
-  "lastUpdated": "2026-10-24T19:49:02.230Z"
+  "lastUpdated": "2026-10-24T19:49:48.796Z"
 }
