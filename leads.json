@@ -17164,7 +17164,25 @@
       "lastModified": "2026-10-24",
       "dateAdded": "2026-10-24",
       "addedAt": "2026-10-24T19:31:37.067Z"
+    },
+    {
+      "id": "mvmspjgj69r7dk4fshu",
+      "name": "Iosua Ui",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=61583247778101",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-24",
+      "nextFollowUp": "2026-10-31",
+      "notes": "",
+      "lastModified": "2026-10-24",
+      "dateAdded": "2026-10-24",
+      "addedAt": "2026-10-24T19:32:19.267Z"
     }
   ],
-  "lastUpdated": "2026-10-24T19:31:37.067Z"
+  "lastUpdated": "2026-10-24T19:32:19.267Z"
 }
