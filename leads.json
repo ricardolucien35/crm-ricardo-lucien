@@ -17110,7 +17110,25 @@
       "lastModified": "2026-10-24",
       "dateAdded": "2026-10-24",
       "addedAt": "2026-10-24T19:28:06.586Z"
+    },
+    {
+      "id": "mvmsl4g2tkp18llk92",
+      "name": "Stormie Dawn",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/StormieDawn85",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-24",
+      "nextFollowUp": "2026-10-31",
+      "notes": "",
+      "lastModified": "2026-10-24",
+      "dateAdded": "2026-10-24",
+      "addedAt": "2026-10-24T19:28:53.186Z"
     }
   ],
-  "lastUpdated": "2026-10-24T19:28:06.586Z"
+  "lastUpdated": "2026-10-24T19:28:53.186Z"
 }
