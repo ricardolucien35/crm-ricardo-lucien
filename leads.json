@@ -16966,7 +16966,25 @@
       "lastModified": "2026-10-24",
       "dateAdded": "2026-10-24",
       "addedAt": "2026-10-24T19:14:36.287Z"
+    },
+    {
+      "id": "mvmsdzlbr3hlzr4tco8",
+      "name": "Makenna Haynes",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/makenna.haynes.16",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-24",
+      "nextFollowUp": "2026-10-31",
+      "notes": "",
+      "lastModified": "2026-10-24",
+      "dateAdded": "2026-10-24",
+      "addedAt": "2026-10-24T19:23:20.303Z"
     }
   ],
-  "lastUpdated": "2026-10-24T19:14:36.287Z"
+  "lastUpdated": "2026-10-24T19:23:20.303Z"
 }
