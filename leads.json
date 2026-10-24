@@ -16912,7 +16912,25 @@
       "lastModified": "2026-10-24",
       "dateAdded": "2026-10-24",
       "addedAt": "2026-10-24T19:12:32.482Z"
+    },
+    {
+      "id": "mvms19bwk5jb8psnmcp",
+      "name": "Dakota Phillips",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/dakota.phillips.712",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-24",
+      "nextFollowUp": "2026-10-31",
+      "notes": "",
+      "lastModified": "2026-10-24",
+      "dateAdded": "2026-10-24",
+      "addedAt": "2026-10-24T19:13:26.396Z"
     }
   ],
-  "lastUpdated": "2026-10-24T19:12:32.482Z"
+  "lastUpdated": "2026-10-24T19:13:26.396Z"
 }
