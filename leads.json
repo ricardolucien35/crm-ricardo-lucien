@@ -16930,7 +16930,25 @@
       "lastModified": "2026-10-24",
       "dateAdded": "2026-10-24",
       "addedAt": "2026-10-24T19:13:26.396Z"
+    },
+    {
+      "id": "mvms1zhwrdo7che2be8",
+      "name": "Anthony Gutierrez",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=61554882465160",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-24",
+      "nextFollowUp": "2026-10-31",
+      "notes": "",
+      "lastModified": "2026-10-24",
+      "dateAdded": "2026-10-24",
+      "addedAt": "2026-10-24T19:14:00.308Z"
     }
   ],
-  "lastUpdated": "2026-10-24T19:13:26.396Z"
+  "lastUpdated": "2026-10-24T19:14:00.308Z"
 }
