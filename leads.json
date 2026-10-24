@@ -17434,7 +17434,25 @@
       "lastModified": "2026-10-24",
       "dateAdded": "2026-10-24",
       "addedAt": "2026-10-24T19:42:40.088Z"
+    },
+    {
+      "id": "mvmt3mk7k1x5zffshk",
+      "name": "Gaby Villegas",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/gaby.villegas.161",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-24",
+      "nextFollowUp": "2026-10-31",
+      "notes": "",
+      "lastModified": "2026-10-24",
+      "dateAdded": "2026-10-24",
+      "addedAt": "2026-10-24T19:43:16.471Z"
     }
   ],
-  "lastUpdated": "2026-10-24T19:42:40.088Z"
+  "lastUpdated": "2026-10-24T19:43:16.471Z"
 }
