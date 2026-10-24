@@ -17056,7 +17056,25 @@
       "lastModified": "2026-10-24",
       "dateAdded": "2026-10-24",
       "addedAt": "2026-10-24T19:25:59.085Z"
+    },
+    {
+      "id": "mvmsi3dnqzuh640bet",
+      "name": "Manny Lorenzo",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/mannylorenzo619",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-24",
+      "nextFollowUp": "2026-10-31",
+      "notes": "",
+      "lastModified": "2026-10-24",
+      "dateAdded": "2026-10-24",
+      "addedAt": "2026-10-24T19:26:31.835Z"
     }
   ],
-  "lastUpdated": "2026-10-24T19:25:59.085Z"
+  "lastUpdated": "2026-10-24T19:26:31.835Z"
 }
