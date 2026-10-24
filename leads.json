@@ -17128,7 +17128,25 @@
       "lastModified": "2026-10-24",
       "dateAdded": "2026-10-24",
       "addedAt": "2026-10-24T19:28:53.186Z"
+    },
+    {
+      "id": "mvmsnda7br6qbuz378f",
+      "name": "Jason Sneller",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/Jsnuggs21",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-24",
+      "nextFollowUp": "2026-10-31",
+      "notes": "",
+      "lastModified": "2026-10-24",
+      "dateAdded": "2026-10-24",
+      "addedAt": "2026-10-24T19:30:37.951Z"
     }
   ],
-  "lastUpdated": "2026-10-24T19:28:53.186Z"
+  "lastUpdated": "2026-10-24T19:30:37.951Z"
 }
