@@ -16822,7 +16822,25 @@
       "lastModified": "2026-10-19",
       "dateAdded": "2026-10-19",
       "addedAt": "2026-10-19T17:43:52.618Z"
+    },
+    {
+      "id": "mvmrvomzgkz2u801vee",
+      "name": "Tim Gibson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/tim.gibson.298108#",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-24",
+      "nextFollowUp": "2026-10-31",
+      "notes": "",
+      "lastModified": "2026-10-24",
+      "dateAdded": "2026-10-24",
+      "addedAt": "2026-10-24T19:09:06.299Z"
     }
   ],
-  "lastUpdated": "2026-10-22T21:14:04.106Z"
+  "lastUpdated": "2026-10-24T19:09:06.299Z"
 }
