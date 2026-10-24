@@ -17326,7 +17326,25 @@
       "lastModified": "2026-10-24",
       "dateAdded": "2026-10-24",
       "addedAt": "2026-10-24T19:38:19.611Z"
+    },
+    {
+      "id": "mvmsye4kn1kdlbmnb3c",
+      "name": "Victoria Darnell",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/Victoriadarnellie",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-24",
+      "nextFollowUp": "2026-10-31",
+      "notes": "",
+      "lastModified": "2026-10-24",
+      "dateAdded": "2026-10-24",
+      "addedAt": "2026-10-24T19:39:12.260Z"
     }
   ],
-  "lastUpdated": "2026-10-24T19:38:19.611Z"
+  "lastUpdated": "2026-10-24T19:39:12.260Z"
 }
