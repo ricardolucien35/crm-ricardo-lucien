@@ -17506,7 +17506,25 @@
       "lastModified": "2026-10-24",
       "dateAdded": "2026-10-24",
       "addedAt": "2026-10-24T19:45:51.235Z"
+    },
+    {
+      "id": "mvmt7tnwlkqayqpxop",
+      "name": "Kenrick Thompson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/kenrick.thompson.453475",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-24",
+      "nextFollowUp": "2026-10-31",
+      "notes": "",
+      "lastModified": "2026-10-24",
+      "dateAdded": "2026-10-24",
+      "addedAt": "2026-10-24T19:46:32.300Z"
     }
   ],
-  "lastUpdated": "2026-10-24T19:45:51.235Z"
+  "lastUpdated": "2026-10-24T19:46:32.300Z"
 }
