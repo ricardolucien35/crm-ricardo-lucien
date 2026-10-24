@@ -16984,7 +16984,25 @@
       "lastModified": "2026-10-24",
       "dateAdded": "2026-10-24",
       "addedAt": "2026-10-24T19:23:20.303Z"
+    },
+    {
+      "id": "mvmseq68b5mxoz3td47",
+      "name": "James Ward",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/JamesWardKC",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-24",
+      "nextFollowUp": "2026-10-31",
+      "notes": "",
+      "lastModified": "2026-10-24",
+      "dateAdded": "2026-10-24",
+      "addedAt": "2026-10-24T19:23:54.752Z"
     }
   ],
-  "lastUpdated": "2026-10-24T19:23:20.303Z"
+  "lastUpdated": "2026-10-24T19:23:54.752Z"
 }
