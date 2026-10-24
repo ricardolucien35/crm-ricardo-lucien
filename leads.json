@@ -17344,7 +17344,25 @@
       "lastModified": "2026-10-24",
       "dateAdded": "2026-10-24",
       "addedAt": "2026-10-24T19:39:12.260Z"
+    },
+    {
+      "id": "mvmsz2or0gtb58khfsrb",
+      "name": "Alfredo Mondragon",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/alfredo.mondragon.613156",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-24",
+      "nextFollowUp": "2026-10-31",
+      "notes": "",
+      "lastModified": "2026-10-24",
+      "dateAdded": "2026-10-24",
+      "addedAt": "2026-10-24T19:39:44.091Z"
     }
   ],
-  "lastUpdated": "2026-10-24T19:39:12.260Z"
+  "lastUpdated": "2026-10-24T19:39:44.091Z"
 }
