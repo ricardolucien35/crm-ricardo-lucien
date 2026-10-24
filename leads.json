@@ -17560,7 +17560,25 @@
       "lastModified": "2026-10-24",
       "dateAdded": "2026-10-24",
       "addedAt": "2026-10-24T19:48:13.582Z"
+    },
+    {
+      "id": "mvmtb1cm8c2b748bla4",
+      "name": "Cienna Meinert",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/cienna.meinert.5",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-24",
+      "nextFollowUp": "2026-10-31",
+      "notes": "",
+      "lastModified": "2026-10-24",
+      "dateAdded": "2026-10-24",
+      "addedAt": "2026-10-24T19:49:02.230Z"
     }
   ],
-  "lastUpdated": "2026-10-24T19:48:13.582Z"
+  "lastUpdated": "2026-10-24T19:49:02.230Z"
 }
