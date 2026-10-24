@@ -17398,7 +17398,25 @@
       "lastModified": "2026-10-24",
       "dateAdded": "2026-10-24",
       "addedAt": "2026-10-24T19:41:12.990Z"
+    },
+    {
+      "id": "mvmt233hmgrmo6ngmk",
+      "name": "Fannie Cruz",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/fannie.cruz.342732",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-24",
+      "nextFollowUp": "2026-10-31",
+      "notes": "",
+      "lastModified": "2026-10-24",
+      "dateAdded": "2026-10-24",
+      "addedAt": "2026-10-24T19:42:04.589Z"
     }
   ],
-  "lastUpdated": "2026-10-24T19:41:12.990Z"
+  "lastUpdated": "2026-10-24T19:42:04.589Z"
 }
