@@ -16948,7 +16948,25 @@
       "lastModified": "2026-10-24",
       "dateAdded": "2026-10-24",
       "addedAt": "2026-10-24T19:14:00.308Z"
+    },
+    {
+      "id": "mvms2r9bp1rfkvvrvt",
+      "name": "Connor Reeves",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/connor.p.reeves",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-24",
+      "nextFollowUp": "2026-10-31",
+      "notes": "",
+      "lastModified": "2026-10-24",
+      "dateAdded": "2026-10-24",
+      "addedAt": "2026-10-24T19:14:36.287Z"
     }
   ],
-  "lastUpdated": "2026-10-24T19:14:00.308Z"
+  "lastUpdated": "2026-10-24T19:14:36.287Z"
 }
