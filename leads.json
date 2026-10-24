@@ -16840,7 +16840,25 @@
       "lastModified": "2026-10-24",
       "dateAdded": "2026-10-24",
       "addedAt": "2026-10-24T19:09:06.299Z"
+    },
+    {
+      "id": "mvmrwzt3s1smmoxz7en",
+      "name": "Josselyn Gudiel",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/josselyn.gudiel",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-24",
+      "nextFollowUp": "2026-10-31",
+      "notes": "",
+      "lastModified": "2026-10-24",
+      "dateAdded": "2026-10-24",
+      "addedAt": "2026-10-24T19:10:07.431Z"
     }
   ],
-  "lastUpdated": "2026-10-24T19:09:06.299Z"
+  "lastUpdated": "2026-10-24T19:10:07.431Z"
 }
