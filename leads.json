@@ -17488,7 +17488,25 @@
       "lastModified": "2026-10-24",
       "dateAdded": "2026-10-24",
       "addedAt": "2026-10-24T19:44:49.987Z"
+    },
+    {
+      "id": "mvmt6xz7s3ovjlfv1xo",
+      "name": "Lauren Neyman",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/lendingwlauren",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-24",
+      "nextFollowUp": "2026-10-31",
+      "notes": "",
+      "lastModified": "2026-10-24",
+      "dateAdded": "2026-10-24",
+      "addedAt": "2026-10-24T19:45:51.235Z"
     }
   ],
-  "lastUpdated": "2026-10-24T19:44:49.987Z"
+  "lastUpdated": "2026-10-24T19:45:51.235Z"
 }
