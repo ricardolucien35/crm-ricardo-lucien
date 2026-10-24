@@ -17146,7 +17146,25 @@
       "lastModified": "2026-10-24",
       "dateAdded": "2026-10-24",
       "addedAt": "2026-10-24T19:30:37.951Z"
+    },
+    {
+      "id": "mvmsomwbsdmxa3lvgrn",
+      "name": "Josh Krestine",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/josh.krestine",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-24",
+      "nextFollowUp": "2026-10-31",
+      "notes": "",
+      "lastModified": "2026-10-24",
+      "dateAdded": "2026-10-24",
+      "addedAt": "2026-10-24T19:31:37.067Z"
     }
   ],
-  "lastUpdated": "2026-10-24T19:30:37.951Z"
+  "lastUpdated": "2026-10-24T19:31:37.067Z"
 }
