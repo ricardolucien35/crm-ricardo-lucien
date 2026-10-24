@@ -17470,7 +17470,25 @@
       "lastModified": "2026-10-24",
       "dateAdded": "2026-10-24",
       "addedAt": "2026-10-24T19:44:14.686Z"
+    },
+    {
+      "id": "mvmt5mpvvnw9h8sbvrj",
+      "name": "Gannon Diekmann",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/gannon.diekmann.2025",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-24",
+      "nextFollowUp": "2026-10-31",
+      "notes": "",
+      "lastModified": "2026-10-24",
+      "dateAdded": "2026-10-24",
+      "addedAt": "2026-10-24T19:44:49.987Z"
     }
   ],
-  "lastUpdated": "2026-10-24T19:44:14.686Z"
+  "lastUpdated": "2026-10-24T19:44:49.987Z"
 }
