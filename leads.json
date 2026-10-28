@@ -18046,7 +18046,25 @@
       "lastModified": "2026-10-28",
       "dateAdded": "2026-10-28",
       "addedAt": "2026-10-28T15:57:19.417Z"
+    },
+    {
+      "id": "mvsaus6l5fd3dg995z",
+      "name": "Joshua Fyffe",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/joshua.fyffe.7",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-28",
+      "nextFollowUp": "2026-11-04",
+      "notes": "",
+      "lastModified": "2026-10-28",
+      "dateAdded": "2026-10-28",
+      "addedAt": "2026-10-28T15:59:07.821Z"
     }
   ],
-  "lastUpdated": "2026-10-28T15:57:19.417Z"
+  "lastUpdated": "2026-10-28T15:59:07.821Z"
 }
