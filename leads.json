@@ -17632,7 +17632,25 @@
       "lastModified": "2026-10-28",
       "dateAdded": "2026-10-28",
       "addedAt": "2026-10-28T13:19:56.028Z"
+    },
+    {
+      "id": "mvs5j4z8y86r922j50s",
+      "name": "Cassie Oslin",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/cassiemccauleyoslin",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-28",
+      "nextFollowUp": "2026-11-04",
+      "notes": "",
+      "lastModified": "2026-10-28",
+      "dateAdded": "2026-10-28",
+      "addedAt": "2026-10-28T13:30:06.452Z"
     }
   ],
-  "lastUpdated": "2026-10-28T13:20:24.659Z"
+  "lastUpdated": "2026-10-28T13:30:06.452Z"
 }
