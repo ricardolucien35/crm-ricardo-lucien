@@ -17974,7 +17974,25 @@
       "lastModified": "2026-10-28",
       "dateAdded": "2026-10-28",
       "addedAt": "2026-10-28T15:53:29.596Z"
+    },
+    {
+      "id": "mvsape8i4tcwbezcdu4",
+      "name": "Christina Wakes",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/Christinawakes",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-28",
+      "nextFollowUp": "2026-11-04",
+      "notes": "",
+      "lastModified": "2026-10-28",
+      "dateAdded": "2026-10-28",
+      "addedAt": "2026-10-28T15:54:56.466Z"
     }
   ],
-  "lastUpdated": "2026-10-28T15:53:29.596Z"
+  "lastUpdated": "2026-10-28T15:54:56.466Z"
 }
