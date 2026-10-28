@@ -18244,7 +18244,25 @@
       "lastModified": "2026-10-28",
       "dateAdded": "2026-10-28",
       "addedAt": "2026-10-28T16:34:29.566Z"
+    },
+    {
+      "id": "mvsc5h3w35cgxvm4k77",
+      "name": "Beau Lucas",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/beau.lucas.362493",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-28",
+      "nextFollowUp": "2026-10-28",
+      "notes": "",
+      "lastModified": "2026-10-28",
+      "dateAdded": "2026-10-28",
+      "addedAt": "2026-10-28T16:35:26.300Z"
     }
   ],
-  "lastUpdated": "2026-10-28T16:34:29.566Z"
+  "lastUpdated": "2026-10-28T16:35:26.300Z"
 }
