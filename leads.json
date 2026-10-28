@@ -18424,7 +18424,25 @@
       "lastModified": "2026-10-28",
       "dateAdded": "2026-10-28",
       "addedAt": "2026-10-28T17:05:32.235Z"
+    },
+    {
+      "id": "mvsd8w55i006n8aa8id",
+      "name": "Natalee Welch",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/natalee.welch",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-28",
+      "nextFollowUp": "2026-11-04",
+      "notes": "",
+      "lastModified": "2026-10-28",
+      "dateAdded": "2026-10-28",
+      "addedAt": "2026-10-28T17:06:05.369Z"
     }
   ],
-  "lastUpdated": "2026-10-28T17:05:32.235Z"
+  "lastUpdated": "2026-10-28T17:06:05.369Z"
 }
