@@ -17722,7 +17722,25 @@
       "lastModified": "2026-10-28",
       "dateAdded": "2026-10-28",
       "addedAt": "2026-10-28T15:37:14.745Z"
+    },
+    {
+      "id": "mvsa3ijizhmlkbohqj9",
+      "name": "Logan Burchet",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/logan.burchett.676533",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-28",
+      "nextFollowUp": "2026-11-04",
+      "notes": "",
+      "lastModified": "2026-10-28",
+      "dateAdded": "2026-10-28",
+      "addedAt": "2026-10-28T15:37:55.614Z"
     }
   ],
-  "lastUpdated": "2026-10-28T15:37:14.745Z"
+  "lastUpdated": "2026-10-28T15:37:55.614Z"
 }
