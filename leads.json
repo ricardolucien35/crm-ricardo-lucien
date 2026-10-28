@@ -18226,7 +18226,25 @@
       "lastModified": "2026-10-28",
       "dateAdded": "2026-10-28",
       "addedAt": "2026-10-28T16:29:21.606Z"
+    },
+    {
+      "id": "mvsc49byi5lxl74va7k",
+      "name": "Christain Rist",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/Ristrealestatellc",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-28",
+      "nextFollowUp": "2026-10-28",
+      "notes": "",
+      "lastModified": "2026-10-28",
+      "dateAdded": "2026-10-28",
+      "addedAt": "2026-10-28T16:34:29.566Z"
     }
   ],
-  "lastUpdated": "2026-10-28T16:32:51.994Z"
+  "lastUpdated": "2026-10-28T16:34:29.566Z"
 }
