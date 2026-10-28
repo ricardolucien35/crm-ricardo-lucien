@@ -17812,7 +17812,25 @@
       "lastModified": "2026-10-28",
       "dateAdded": "2026-10-28",
       "addedAt": "2026-10-28T15:42:16.200Z"
+    },
+    {
+      "id": "mvsae83qct6ke7fy5ss",
+      "name": "Taylor Lackey",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/taylorrrlakeyyy",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-28",
+      "nextFollowUp": "2026-11-04",
+      "notes": "",
+      "lastModified": "2026-10-28",
+      "dateAdded": "2026-10-28",
+      "addedAt": "2026-10-28T15:46:15.302Z"
     }
   ],
-  "lastUpdated": "2026-10-28T15:42:16.200Z"
+  "lastUpdated": "2026-10-28T15:46:15.302Z"
 }
