@@ -18316,7 +18316,25 @@
       "lastModified": "2026-10-28",
       "dateAdded": "2026-10-28",
       "addedAt": "2026-10-28T16:39:12.356Z"
+    },
+    {
+      "id": "mvscl308h6vj1islyqw",
+      "name": "Micheal Wilfong",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=61578944174725",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-28",
+      "nextFollowUp": "2026-10-28",
+      "notes": "",
+      "lastModified": "2026-10-28",
+      "dateAdded": "2026-10-28",
+      "addedAt": "2026-10-28T16:47:34.520Z"
     }
   ],
-  "lastUpdated": "2026-10-28T16:40:35.675Z"
+  "lastUpdated": "2026-10-28T16:47:34.520Z"
 }
