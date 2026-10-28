@@ -18072,8 +18072,8 @@
       "phone": "8166954414",
       "social": "",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Watched",
+      "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-28",
@@ -18084,5 +18084,5 @@
       "addedAt": "2026-10-28T16:05:36.579Z"
     }
   ],
-  "lastUpdated": "2026-10-28T16:05:36.579Z"
+  "lastUpdated": "2026-10-28T16:05:52.345Z"
 }
