@@ -17704,7 +17704,25 @@
       "lastModified": "2026-10-28",
       "dateAdded": "2026-10-28",
       "addedAt": "2026-10-28T15:36:08.061Z"
+    },
+    {
+      "id": "mvsa2n09rust92d38ll",
+      "name": "Deire Rosario",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/deire.bencomo",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-28",
+      "nextFollowUp": "2026-11-04",
+      "notes": "",
+      "lastModified": "2026-10-28",
+      "dateAdded": "2026-10-28",
+      "addedAt": "2026-10-28T15:37:14.745Z"
     }
   ],
-  "lastUpdated": "2026-10-28T15:36:08.061Z"
+  "lastUpdated": "2026-10-28T15:37:14.745Z"
 }
