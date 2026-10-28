@@ -17758,7 +17758,25 @@
       "lastModified": "2026-10-28",
       "dateAdded": "2026-10-28",
       "addedAt": "2026-10-28T15:38:39.697Z"
+    },
+    {
+      "id": "mvsa5j96to98h1p59m",
+      "name": "Katelynn Webber",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/katelynn.webber.5",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-28",
+      "nextFollowUp": "2026-11-04",
+      "notes": "",
+      "lastModified": "2026-10-28",
+      "dateAdded": "2026-10-28",
+      "addedAt": "2026-10-28T15:39:29.850Z"
     }
   ],
-  "lastUpdated": "2026-10-28T15:38:39.697Z"
+  "lastUpdated": "2026-10-28T15:39:29.850Z"
 }
