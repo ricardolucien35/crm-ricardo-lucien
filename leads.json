@@ -18262,7 +18262,25 @@
       "lastModified": "2026-10-28",
       "dateAdded": "2026-10-28",
       "addedAt": "2026-10-28T16:35:26.300Z"
+    },
+    {
+      "id": "mvsc6lgpklvssvy7s5h",
+      "name": "Michael Kyser",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/michael.kyser.382143",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-28",
+      "nextFollowUp": "2026-10-28",
+      "notes": "",
+      "lastModified": "2026-10-28",
+      "dateAdded": "2026-10-28",
+      "addedAt": "2026-10-28T16:36:18.601Z"
     }
   ],
-  "lastUpdated": "2026-10-28T16:35:26.300Z"
+  "lastUpdated": "2026-10-28T16:36:18.601Z"
 }
