@@ -17902,7 +17902,25 @@
       "lastModified": "2026-10-28",
       "dateAdded": "2026-10-28",
       "addedAt": "2026-10-28T15:49:26.622Z"
+    },
+    {
+      "id": "mvsajxist0ob4rlsy6d",
+      "name": "Maria Scaletty",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/marianicolescaletty",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-28",
+      "nextFollowUp": "2026-11-04",
+      "notes": "",
+      "lastModified": "2026-10-28",
+      "dateAdded": "2026-10-28",
+      "addedAt": "2026-10-28T15:50:41.524Z"
     }
   ],
-  "lastUpdated": "2026-10-28T15:49:26.622Z"
+  "lastUpdated": "2026-10-28T15:50:41.524Z"
 }
