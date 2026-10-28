@@ -18190,7 +18190,25 @@
       "lastModified": "2026-10-28",
       "dateAdded": "2026-10-28",
       "addedAt": "2026-10-28T16:24:37.299Z"
+    },
+    {
+      "id": "mvsbsonzn7mo4m56gi9",
+      "name": "Colt Schreier",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/colt.schreier.1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-28",
+      "nextFollowUp": "2026-10-28",
+      "notes": "",
+      "lastModified": "2026-10-28",
+      "dateAdded": "2026-10-28",
+      "addedAt": "2026-10-28T16:25:29.567Z"
     }
   ],
-  "lastUpdated": "2026-10-28T16:24:37.299Z"
+  "lastUpdated": "2026-10-28T16:25:29.567Z"
 }
