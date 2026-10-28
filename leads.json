@@ -17740,7 +17740,25 @@
       "lastModified": "2026-10-28",
       "dateAdded": "2026-10-28",
       "addedAt": "2026-10-28T15:37:55.614Z"
+    },
+    {
+      "id": "mvsa4gk1yueucsah8sf",
+      "name": "Kaleb Wersland",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/kaleb.wersland",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-28",
+      "nextFollowUp": "2026-11-04",
+      "notes": "",
+      "lastModified": "2026-10-28",
+      "dateAdded": "2026-10-28",
+      "addedAt": "2026-10-28T15:38:39.697Z"
     }
   ],
-  "lastUpdated": "2026-10-28T15:37:55.614Z"
+  "lastUpdated": "2026-10-28T15:38:39.697Z"
 }
