@@ -17686,7 +17686,25 @@
       "lastModified": "2026-10-28",
       "dateAdded": "2026-10-28",
       "addedAt": "2026-10-28T13:37:46.877Z"
+    },
+    {
+      "id": "mvsa17jx6kv8uvnrbwg",
+      "name": "Franklin Gonzalez",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100081531847118",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-28",
+      "nextFollowUp": "2026-11-04",
+      "notes": "",
+      "lastModified": "2026-10-28",
+      "dateAdded": "2026-10-28",
+      "addedAt": "2026-10-28T15:36:08.061Z"
     }
   ],
-  "lastUpdated": "2026-10-28T13:37:46.877Z"
+  "lastUpdated": "2026-10-28T15:36:08.061Z"
 }
