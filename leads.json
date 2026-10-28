@@ -17650,7 +17650,25 @@
       "lastModified": "2026-10-28",
       "dateAdded": "2026-10-28",
       "addedAt": "2026-10-28T13:30:06.452Z"
+    },
+    {
+      "id": "mvs5qvsyh3fb4rw90p7",
+      "name": "Aaron Mackay",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/aaron.mackay.986",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-28",
+      "nextFollowUp": "2026-11-04",
+      "notes": "",
+      "lastModified": "2026-10-28",
+      "dateAdded": "2026-10-28",
+      "addedAt": "2026-10-28T13:36:07.810Z"
     }
   ],
-  "lastUpdated": "2026-10-28T13:30:06.452Z"
+  "lastUpdated": "2026-10-28T13:36:07.810Z"
 }
