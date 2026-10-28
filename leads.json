@@ -17938,7 +17938,25 @@
       "lastModified": "2026-10-28",
       "dateAdded": "2026-10-28",
       "addedAt": "2026-10-28T15:52:04.425Z"
+    },
+    {
+      "id": "mvsammi26v3cbkglroc",
+      "name": "Jake Chaney",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/chaney.jake",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-28",
+      "nextFollowUp": "2026-11-04",
+      "notes": "",
+      "lastModified": "2026-10-28",
+      "dateAdded": "2026-10-28",
+      "addedAt": "2026-10-28T15:52:47.210Z"
     }
   ],
-  "lastUpdated": "2026-10-28T15:52:04.425Z"
+  "lastUpdated": "2026-10-28T15:52:47.210Z"
 }
