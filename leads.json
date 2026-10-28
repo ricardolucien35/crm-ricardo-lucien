@@ -18154,7 +18154,25 @@
       "lastModified": "2026-10-28",
       "dateAdded": "2026-10-28",
       "addedAt": "2026-10-28T16:10:11.191Z"
+    },
+    {
+      "id": "mvsba9anu0dafpeh5tb",
+      "name": "Mario Lopez KC",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-28",
+      "nextFollowUp": "2026-10-29",
+      "notes": "",
+      "lastModified": "2026-10-28",
+      "dateAdded": "2026-10-28",
+      "addedAt": "2026-10-28T16:11:09.839Z"
     }
   ],
-  "lastUpdated": "2026-10-28T16:10:38.075Z"
+  "lastUpdated": "2026-10-28T16:11:09.839Z"
 }
