@@ -18694,7 +18694,25 @@
       "lastModified": "2026-11-02",
       "dateAdded": "2026-11-02",
       "addedAt": "2026-11-02T14:29:42.617Z"
+    },
+    {
+      "id": "mvzcx753dgz5ka082sj",
+      "name": "Jacob Kartzanov",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/search/top?q=jacob%20kartsanov",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-02",
+      "nextFollowUp": "2026-11-09",
+      "notes": "",
+      "lastModified": "2026-11-02",
+      "dateAdded": "2026-11-02",
+      "addedAt": "2026-11-02T14:31:22.983Z"
     }
   ],
-  "lastUpdated": "2026-11-02T14:29:42.617Z"
+  "lastUpdated": "2026-11-02T14:31:22.983Z"
 }
