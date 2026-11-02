@@ -18784,7 +18784,25 @@
       "lastModified": "2026-11-02",
       "dateAdded": "2026-11-02",
       "addedAt": "2026-11-02T14:36:45.919Z"
+    },
+    {
+      "id": "mvzjkw4098ycnf7u5qk",
+      "name": "Nicky Halt",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/nick.halterman.165",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-02",
+      "nextFollowUp": "2026-11-09",
+      "notes": "",
+      "lastModified": "2026-11-02",
+      "dateAdded": "2026-11-02",
+      "addedAt": "2026-11-02T17:37:46.128Z"
     }
   ],
-  "lastUpdated": "2026-11-02T14:36:45.919Z"
+  "lastUpdated": "2026-11-02T17:37:46.128Z"
 }
