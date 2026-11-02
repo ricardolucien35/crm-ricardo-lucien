@@ -18586,7 +18586,25 @@
       "lastModified": "2026-11-02",
       "dateAdded": "2026-11-02",
       "addedAt": "2026-11-02T14:16:53.460Z"
+    },
+    {
+      "id": "mvzcg955yge6ilbpidq",
+      "name": "Nolan Piedimonte",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/search/top?q=nolan%20piedimonte",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-02",
+      "nextFollowUp": "2026-11-09",
+      "notes": "",
+      "lastModified": "2026-11-02",
+      "dateAdded": "2026-11-02",
+      "addedAt": "2026-11-02T14:18:12.425Z"
     }
   ],
-  "lastUpdated": "2026-11-02T14:16:53.460Z"
+  "lastUpdated": "2026-11-02T14:18:12.425Z"
 }
