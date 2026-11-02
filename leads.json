@@ -18478,7 +18478,25 @@
       "lastModified": "2026-11-02",
       "dateAdded": "2026-11-02",
       "addedAt": "2026-11-02T14:02:52.765Z"
+    },
+    {
+      "id": "mvzbxvvpjk410yqmhb",
+      "name": "Wyatt Sinkler",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/wyatt.sinkler",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-02",
+      "nextFollowUp": "2026-11-09",
+      "notes": "",
+      "lastModified": "2026-11-02",
+      "dateAdded": "2026-11-02",
+      "addedAt": "2026-11-02T14:03:55.429Z"
     }
   ],
-  "lastUpdated": "2026-11-02T14:02:52.765Z"
+  "lastUpdated": "2026-11-02T14:03:55.429Z"
 }
