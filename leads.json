@@ -19072,7 +19072,25 @@
       "lastModified": "2026-11-02",
       "dateAdded": "2026-11-02",
       "addedAt": "2026-11-02T18:02:01.456Z"
+    },
+    {
+      "id": "mvzkh3rh326qhviqyp9",
+      "name": "Tanner Swisher",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/tanner.swisher",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-02",
+      "nextFollowUp": "2026-11-09",
+      "notes": "",
+      "lastModified": "2026-11-02",
+      "dateAdded": "2026-11-02",
+      "addedAt": "2026-11-02T18:02:49.037Z"
     }
   ],
-  "lastUpdated": "2026-11-02T18:02:01.456Z"
+  "lastUpdated": "2026-11-02T18:02:49.037Z"
 }
