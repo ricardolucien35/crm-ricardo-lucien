@@ -18820,7 +18820,25 @@
       "lastModified": "2026-11-02",
       "dateAdded": "2026-11-02",
       "addedAt": "2026-11-02T17:38:38.111Z"
+    },
+    {
+      "id": "mvzjqwhqnzlfczqth0r",
+      "name": "Garrett Wilson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/garrett.wilson.50",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-02",
+      "nextFollowUp": "2026-11-09",
+      "notes": "",
+      "lastModified": "2026-11-02",
+      "dateAdded": "2026-11-02",
+      "addedAt": "2026-11-02T17:42:26.558Z"
     }
   ],
-  "lastUpdated": "2026-11-02T17:38:38.111Z"
+  "lastUpdated": "2026-11-02T17:42:26.558Z"
 }
