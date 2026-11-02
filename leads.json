@@ -18838,7 +18838,25 @@
       "lastModified": "2026-11-02",
       "dateAdded": "2026-11-02",
       "addedAt": "2026-11-02T17:42:26.558Z"
+    },
+    {
+      "id": "mvzjv6lf4x5tixojmqd",
+      "name": "Michael Niemeyer",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/michael.b.niemeyer",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-02",
+      "nextFollowUp": "2026-11-09",
+      "notes": "",
+      "lastModified": "2026-11-02",
+      "dateAdded": "2026-11-02",
+      "addedAt": "2026-11-02T17:45:46.275Z"
     }
   ],
-  "lastUpdated": "2026-11-02T17:42:26.558Z"
+  "lastUpdated": "2026-11-02T17:45:46.275Z"
 }
