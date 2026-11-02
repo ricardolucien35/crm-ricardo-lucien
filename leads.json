@@ -18658,7 +18658,25 @@
       "lastModified": "2026-11-02",
       "dateAdded": "2026-11-02",
       "addedAt": "2026-11-02T14:27:00.304Z"
+    },
+    {
+      "id": "mvzcsytt97r0ar3qqma",
+      "name": "Delta Campbell",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/delta.manos",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-02",
+      "nextFollowUp": "2026-11-09",
+      "notes": "",
+      "lastModified": "2026-11-02",
+      "dateAdded": "2026-11-02",
+      "addedAt": "2026-11-02T14:28:05.585Z"
     }
   ],
-  "lastUpdated": "2026-11-02T14:27:00.304Z"
+  "lastUpdated": "2026-11-02T14:28:05.585Z"
 }
