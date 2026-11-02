@@ -18874,7 +18874,25 @@
       "lastModified": "2026-11-02",
       "dateAdded": "2026-11-02",
       "addedAt": "2026-11-02T17:48:01.441Z"
+    },
+    {
+      "id": "mvzk0bw8wuuk464mv",
+      "name": "Carson Williams",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/carson.williams.28509",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-02",
+      "nextFollowUp": "2026-11-09",
+      "notes": "",
+      "lastModified": "2026-11-02",
+      "dateAdded": "2026-11-02",
+      "addedAt": "2026-11-02T17:49:46.424Z"
     }
   ],
-  "lastUpdated": "2026-11-02T17:48:01.441Z"
+  "lastUpdated": "2026-11-02T17:49:46.424Z"
 }
