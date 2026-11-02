@@ -18640,7 +18640,25 @@
       "lastModified": "2026-11-02",
       "dateAdded": "2026-11-02",
       "addedAt": "2026-11-02T14:24:21.171Z"
+    },
+    {
+      "id": "mvzcrkgg6zbymz0rtor",
+      "name": "Tay Pascalar",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/tally.pascalar",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-02",
+      "nextFollowUp": "2026-11-09",
+      "notes": "",
+      "lastModified": "2026-11-02",
+      "dateAdded": "2026-11-02",
+      "addedAt": "2026-11-02T14:27:00.304Z"
     }
   ],
-  "lastUpdated": "2026-11-02T14:24:21.171Z"
+  "lastUpdated": "2026-11-02T14:27:00.304Z"
 }
