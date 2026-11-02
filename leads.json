@@ -18982,7 +18982,25 @@
       "lastModified": "2026-11-02",
       "dateAdded": "2026-11-02",
       "addedAt": "2026-11-02T17:57:08.092Z"
+    },
+    {
+      "id": "mvzkazi22qv81icl20c",
+      "name": "Easton Knight",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/easton.knight.52",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-02",
+      "nextFollowUp": "2026-11-09",
+      "notes": "",
+      "lastModified": "2026-11-02",
+      "dateAdded": "2026-11-02",
+      "addedAt": "2026-11-02T17:58:03.578Z"
     }
   ],
-  "lastUpdated": "2026-11-02T17:57:08.092Z"
+  "lastUpdated": "2026-11-02T17:58:03.578Z"
 }
