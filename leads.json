@@ -18946,7 +18946,25 @@
       "lastModified": "2026-11-02",
       "dateAdded": "2026-11-02",
       "addedAt": "2026-11-02T17:53:06.577Z"
+    },
+    {
+      "id": "mvzk6eyfbngk414tv1g",
+      "name": "Jason Johns",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jason.johns.507",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-02",
+      "nextFollowUp": "2026-11-09",
+      "notes": "",
+      "lastModified": "2026-11-02",
+      "dateAdded": "2026-11-02",
+      "addedAt": "2026-11-02T17:54:30.327Z"
     }
   ],
-  "lastUpdated": "2026-11-02T17:53:06.577Z"
+  "lastUpdated": "2026-11-02T17:54:30.327Z"
 }
