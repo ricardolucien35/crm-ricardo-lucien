@@ -18676,7 +18676,25 @@
       "lastModified": "2026-11-02",
       "dateAdded": "2026-11-02",
       "addedAt": "2026-11-02T14:28:05.585Z"
+    },
+    {
+      "id": "mvzcv1p59oore6orl6w",
+      "name": "Tylen Junius",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=61560847086707",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-02",
+      "nextFollowUp": "2026-11-09",
+      "notes": "",
+      "lastModified": "2026-11-02",
+      "dateAdded": "2026-11-02",
+      "addedAt": "2026-11-02T14:29:42.617Z"
     }
   ],
-  "lastUpdated": "2026-11-02T14:28:05.585Z"
+  "lastUpdated": "2026-11-02T14:29:42.617Z"
 }
