@@ -19036,7 +19036,25 @@
       "lastModified": "2026-11-02",
       "dateAdded": "2026-11-02",
       "addedAt": "2026-11-02T18:00:11.738Z"
+    },
+    {
+      "id": "mvzkf3c3sd60npus36",
+      "name": "Paige Brown",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/search/top/?q=paige%20brown",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-02",
+      "nextFollowUp": "2026-11-09",
+      "notes": "",
+      "lastModified": "2026-11-02",
+      "dateAdded": "2026-11-02",
+      "addedAt": "2026-11-02T18:01:15.171Z"
     }
   ],
-  "lastUpdated": "2026-11-02T18:00:11.738Z"
+  "lastUpdated": "2026-11-02T18:01:15.171Z"
 }
