@@ -18748,7 +18748,25 @@
       "lastModified": "2026-11-02",
       "dateAdded": "2026-11-02",
       "addedAt": "2026-11-02T14:34:10.187Z"
+    },
+    {
+      "id": "mvzd36smb59u5yghfhe",
+      "name": "Camrin Nissen",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/camrin.nissen",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-02",
+      "nextFollowUp": "2026-11-09",
+      "notes": "",
+      "lastModified": "2026-11-02",
+      "dateAdded": "2026-11-02",
+      "addedAt": "2026-11-02T14:36:02.471Z"
     }
   ],
-  "lastUpdated": "2026-11-02T14:34:10.187Z"
+  "lastUpdated": "2026-11-02T14:36:02.471Z"
 }
