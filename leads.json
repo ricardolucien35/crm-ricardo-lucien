@@ -18604,7 +18604,25 @@
       "lastModified": "2026-11-02",
       "dateAdded": "2026-11-02",
       "addedAt": "2026-11-02T14:18:12.425Z"
+    },
+    {
+      "id": "mvzcjcm05cmmt3qmh37",
+      "name": "Darion Moore",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/darion.moore.9",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-02",
+      "nextFollowUp": "2026-11-02",
+      "notes": "",
+      "lastModified": "2026-11-02",
+      "dateAdded": "2026-11-02",
+      "addedAt": "2026-11-02T14:20:36.888Z"
     }
   ],
-  "lastUpdated": "2026-11-02T14:18:12.425Z"
+  "lastUpdated": "2026-11-02T14:20:36.888Z"
 }
