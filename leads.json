@@ -18532,7 +18532,25 @@
       "lastModified": "2026-11-02",
       "dateAdded": "2026-11-02",
       "addedAt": "2026-11-02T14:12:10.132Z"
+    },
+    {
+      "id": "mvzcb0kcoe1dxbuq41h",
+      "name": "Eva Bennett",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/eva.bennett.969",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-02",
+      "nextFollowUp": "2026-11-09",
+      "notes": "",
+      "lastModified": "2026-11-02",
+      "dateAdded": "2026-11-02",
+      "addedAt": "2026-11-02T14:14:08.028Z"
     }
   ],
-  "lastUpdated": "2026-11-02T14:12:10.132Z"
+  "lastUpdated": "2026-11-02T14:14:08.028Z"
 }
