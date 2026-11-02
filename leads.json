@@ -18892,7 +18892,25 @@
       "lastModified": "2026-11-02",
       "dateAdded": "2026-11-02",
       "addedAt": "2026-11-02T17:49:46.424Z"
+    },
+    {
+      "id": "mvzk1djsgfazcrtp4nt",
+      "name": "Kevin Scott",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/kevin.s.larson",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-02",
+      "nextFollowUp": "2026-11-09",
+      "notes": "",
+      "lastModified": "2026-11-02",
+      "dateAdded": "2026-11-02",
+      "addedAt": "2026-11-02T17:50:35.224Z"
     }
   ],
-  "lastUpdated": "2026-11-02T17:49:46.424Z"
+  "lastUpdated": "2026-11-02T17:50:35.224Z"
 }
