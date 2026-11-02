@@ -19054,7 +19054,25 @@
       "lastModified": "2026-11-02",
       "dateAdded": "2026-11-02",
       "addedAt": "2026-11-02T18:01:15.171Z"
+    },
+    {
+      "id": "mvzkg31swe2vgn1vske",
+      "name": "Cory Post",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/cory.post.7",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-02",
+      "nextFollowUp": "2026-11-09",
+      "notes": "",
+      "lastModified": "2026-11-02",
+      "dateAdded": "2026-11-02",
+      "addedAt": "2026-11-02T18:02:01.456Z"
     }
   ],
-  "lastUpdated": "2026-11-02T18:01:15.171Z"
+  "lastUpdated": "2026-11-02T18:02:01.456Z"
 }
