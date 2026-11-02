@@ -18442,7 +18442,25 @@
       "lastModified": "2026-10-28",
       "dateAdded": "2026-10-28",
       "addedAt": "2026-10-28T17:06:05.369Z"
+    },
+    {
+      "id": "mvzbu4dlvseo1bf1xus",
+      "name": "Isabel Schelhammer",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100072816206789#",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-02",
+      "nextFollowUp": "2026-11-09",
+      "notes": "",
+      "lastModified": "2026-11-02",
+      "dateAdded": "2026-11-02",
+      "addedAt": "2026-11-02T14:00:59.817Z"
     }
   ],
-  "lastUpdated": "2026-11-01T23:22:05.107Z"
+  "lastUpdated": "2026-11-02T14:00:59.818Z"
 }
