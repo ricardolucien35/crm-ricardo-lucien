@@ -18568,7 +18568,25 @@
       "lastModified": "2026-11-02",
       "dateAdded": "2026-11-02",
       "addedAt": "2026-11-02T14:15:25.942Z"
+    },
+    {
+      "id": "mvzcek7ob6hw1gu1h9r",
+      "name": "Luke Avenue",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/lukeavedrape",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-02",
+      "nextFollowUp": "2026-11-09",
+      "notes": "",
+      "lastModified": "2026-11-02",
+      "dateAdded": "2026-11-02",
+      "addedAt": "2026-11-02T14:16:53.460Z"
     }
   ],
-  "lastUpdated": "2026-11-02T14:15:25.942Z"
+  "lastUpdated": "2026-11-02T14:16:53.460Z"
 }
