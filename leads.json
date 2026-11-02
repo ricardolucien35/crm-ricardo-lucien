@@ -18730,7 +18730,25 @@
       "lastModified": "2026-11-02",
       "dateAdded": "2026-11-02",
       "addedAt": "2026-11-02T14:32:57.165Z"
+    },
+    {
+      "id": "mvzd0s5mwahhlzxr3h",
+      "name": "Rania Taylem",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/tayiem",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-02",
+      "nextFollowUp": "2026-11-09",
+      "notes": "",
+      "lastModified": "2026-11-02",
+      "dateAdded": "2026-11-02",
+      "addedAt": "2026-11-02T14:34:10.187Z"
     }
   ],
-  "lastUpdated": "2026-11-02T14:32:57.165Z"
+  "lastUpdated": "2026-11-02T14:34:10.187Z"
 }
