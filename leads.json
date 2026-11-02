@@ -18856,7 +18856,25 @@
       "lastModified": "2026-11-02",
       "dateAdded": "2026-11-02",
       "addedAt": "2026-11-02T17:45:46.275Z"
+    },
+    {
+      "id": "mvzjy2w1mqm1zn3s44m",
+      "name": "Daniela Castro",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/DanielaCastro00",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-02",
+      "nextFollowUp": "2026-11-09",
+      "notes": "",
+      "lastModified": "2026-11-02",
+      "dateAdded": "2026-11-02",
+      "addedAt": "2026-11-02T17:48:01.441Z"
     }
   ],
-  "lastUpdated": "2026-11-02T17:45:46.275Z"
+  "lastUpdated": "2026-11-02T17:48:01.441Z"
 }
