@@ -18712,7 +18712,25 @@
       "lastModified": "2026-11-02",
       "dateAdded": "2026-11-02",
       "addedAt": "2026-11-02T14:31:22.983Z"
+    },
+    {
+      "id": "mvzcz7t9kh9uahh3i6d",
+      "name": "Mackaylee Tarpenning",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/mackaylee.tarpenning",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-02",
+      "nextFollowUp": "2026-11-09",
+      "notes": "",
+      "lastModified": "2026-11-02",
+      "dateAdded": "2026-11-02",
+      "addedAt": "2026-11-02T14:32:57.165Z"
     }
   ],
-  "lastUpdated": "2026-11-02T14:31:22.983Z"
+  "lastUpdated": "2026-11-02T14:32:57.165Z"
 }
