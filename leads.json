@@ -19018,7 +19018,25 @@
       "lastModified": "2026-11-02",
       "dateAdded": "2026-11-02",
       "addedAt": "2026-11-02T17:58:56.870Z"
+    },
+    {
+      "id": "mvzkdqe2kfurut5y74h",
+      "name": "Isaiah Turner",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/isaiah.turner.134455",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-02",
+      "nextFollowUp": "2026-11-09",
+      "notes": "",
+      "lastModified": "2026-11-02",
+      "dateAdded": "2026-11-02",
+      "addedAt": "2026-11-02T18:00:11.738Z"
     }
   ],
-  "lastUpdated": "2026-11-02T17:58:56.870Z"
+  "lastUpdated": "2026-11-02T18:00:11.738Z"
 }
