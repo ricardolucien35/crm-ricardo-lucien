@@ -19090,7 +19090,25 @@
       "lastModified": "2026-11-02",
       "dateAdded": "2026-11-02",
       "addedAt": "2026-11-02T18:02:49.037Z"
+    },
+    {
+      "id": "mw1cf9sc1ycikmnweog",
+      "name": "Kimberly Chavez",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=61583674959806",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-03",
+      "nextFollowUp": "2026-11-10",
+      "notes": "",
+      "lastModified": "2026-11-03",
+      "dateAdded": "2026-11-03",
+      "addedAt": "2026-11-03T23:52:58.956Z"
     }
   ],
-  "lastUpdated": "2026-11-03T16:24:49.784Z"
+  "lastUpdated": "2026-11-03T23:52:58.956Z"
 }
