@@ -19216,7 +19216,25 @@
       "lastModified": "2026-11-03",
       "dateAdded": "2026-11-03",
       "addedAt": "2026-11-03T23:58:10.469Z"
+    },
+    {
+      "id": "mw1cnmn98298m986cr",
+      "name": "Casey Acers",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/caseyacers",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-03",
+      "nextFollowUp": "2026-11-10",
+      "notes": "",
+      "lastModified": "2026-11-03",
+      "dateAdded": "2026-11-03",
+      "addedAt": "2026-11-03T23:59:28.870Z"
     }
   ],
-  "lastUpdated": "2026-11-03T23:58:10.469Z"
+  "lastUpdated": "2026-11-03T23:59:28.870Z"
 }
