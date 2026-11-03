@@ -19162,7 +19162,25 @@
       "lastModified": "2026-11-03",
       "dateAdded": "2026-11-03",
       "addedAt": "2026-11-03T23:56:25.038Z"
+    },
+    {
+      "id": "mw1ckm74x27f80bli2",
+      "name": "Max Hernandez",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/max.hernandez.399488",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-03",
+      "nextFollowUp": "2026-11-10",
+      "notes": "",
+      "lastModified": "2026-11-03",
+      "dateAdded": "2026-11-03",
+      "addedAt": "2026-11-03T23:57:08.320Z"
     }
   ],
-  "lastUpdated": "2026-11-03T23:56:25.038Z"
+  "lastUpdated": "2026-11-03T23:57:08.320Z"
 }
