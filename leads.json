@@ -19108,7 +19108,25 @@
       "lastModified": "2026-11-03",
       "dateAdded": "2026-11-03",
       "addedAt": "2026-11-03T23:52:58.956Z"
+    },
+    {
+      "id": "mw1ch7ane3ycua30uv4",
+      "name": "Ben Johnston",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/ben.johnston.519840",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-03",
+      "nextFollowUp": "2026-11-10",
+      "notes": "",
+      "lastModified": "2026-11-03",
+      "dateAdded": "2026-11-03",
+      "addedAt": "2026-11-03T23:54:29.039Z"
     }
   ],
-  "lastUpdated": "2026-11-03T23:52:58.956Z"
+  "lastUpdated": "2026-11-03T23:54:29.039Z"
 }
