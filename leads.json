@@ -19270,7 +19270,25 @@
       "lastModified": "2026-11-03",
       "dateAdded": "2026-11-03",
       "addedAt": "2026-11-04T00:01:11.169Z"
+    },
+    {
+      "id": "mw1cqp6fcbxp5m46vmw",
+      "name": "Fia Lana",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=61596169824074",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-03",
+      "nextFollowUp": "2026-11-10",
+      "notes": "",
+      "lastModified": "2026-11-03",
+      "dateAdded": "2026-11-03",
+      "addedAt": "2026-11-04T00:01:52.119Z"
     }
   ],
-  "lastUpdated": "2026-11-04T00:01:11.169Z"
+  "lastUpdated": "2026-11-04T00:01:52.119Z"
 }
