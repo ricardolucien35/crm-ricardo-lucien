@@ -19450,7 +19450,25 @@
       "lastModified": "2026-11-04",
       "dateAdded": "2026-11-04",
       "addedAt": "2026-11-04T23:30:22.543Z"
+    },
+    {
+      "id": "mw2r2q2txpugmvcodjr",
+      "name": "Carson Chick",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/carson.chick.2025",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-04",
+      "nextFollowUp": "2026-11-11",
+      "notes": "",
+      "lastModified": "2026-11-04",
+      "dateAdded": "2026-11-04",
+      "addedAt": "2026-11-04T23:30:53.957Z"
     }
   ],
-  "lastUpdated": "2026-11-04T23:30:22.543Z"
+  "lastUpdated": "2026-11-04T23:30:53.957Z"
 }
