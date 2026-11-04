@@ -19252,7 +19252,25 @@
       "lastModified": "2026-11-03",
       "dateAdded": "2026-11-03",
       "addedAt": "2026-11-04T00:00:05.350Z"
+    },
+    {
+      "id": "mw1cptkxy0zse0769",
+      "name": "Joe Zaroor",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/joe.zaroor",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-03",
+      "nextFollowUp": "2026-11-10",
+      "notes": "",
+      "lastModified": "2026-11-03",
+      "dateAdded": "2026-11-03",
+      "addedAt": "2026-11-04T00:01:11.169Z"
     }
   ],
-  "lastUpdated": "2026-11-04T00:00:05.350Z"
+  "lastUpdated": "2026-11-04T00:01:11.169Z"
 }
