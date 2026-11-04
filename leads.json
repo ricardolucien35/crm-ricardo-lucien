@@ -19360,7 +19360,25 @@
       "lastModified": "2026-11-03",
       "dateAdded": "2026-11-03",
       "addedAt": "2026-11-04T00:06:40.596Z"
+    },
+    {
+      "id": "mw1cxl6hehdwdmwgc9",
+      "name": "Chris Roberts",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=61584208167636",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-03",
+      "nextFollowUp": "2026-11-10",
+      "notes": "",
+      "lastModified": "2026-11-03",
+      "dateAdded": "2026-11-03",
+      "addedAt": "2026-11-04T00:07:13.529Z"
     }
   ],
-  "lastUpdated": "2026-11-04T00:06:40.596Z"
+  "lastUpdated": "2026-11-04T00:07:13.529Z"
 }
