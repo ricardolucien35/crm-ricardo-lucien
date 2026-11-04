@@ -18144,14 +18144,14 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Watched",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-10-28",
-      "nextFollowUp": "2026-10-28",
+      "lastContact": "2026-11-04",
+      "nextFollowUp": "2026-11-05",
       "notes": "",
-      "lastModified": "2026-10-28",
+      "lastModified": "2026-11-04",
       "dateAdded": "2026-10-28",
       "addedAt": "2026-10-28T16:10:11.191Z"
     },
@@ -19812,5 +19812,5 @@
       "addedAt": "2026-11-04T23:54:27.378Z"
     }
   ],
-  "lastUpdated": "2026-11-04T23:54:27.378Z"
+  "lastUpdated": "2026-11-04T23:56:40.509Z"
 }
