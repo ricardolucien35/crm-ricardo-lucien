@@ -19432,7 +19432,25 @@
       "lastModified": "2026-11-03",
       "dateAdded": "2026-11-03",
       "addedAt": "2026-11-04T00:09:02.312Z"
+    },
+    {
+      "id": "mw2r21u7k953oqoh1g",
+      "name": "Bryce Kelly",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/bryce.kelly.1614",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-04",
+      "nextFollowUp": "2026-11-11",
+      "notes": "",
+      "lastModified": "2026-11-04",
+      "dateAdded": "2026-11-04",
+      "addedAt": "2026-11-04T23:30:22.543Z"
     }
   ],
-  "lastUpdated": "2026-11-04T04:42:30.664Z"
+  "lastUpdated": "2026-11-04T23:30:22.543Z"
 }
