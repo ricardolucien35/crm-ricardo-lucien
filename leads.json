@@ -19468,7 +19468,25 @@
       "lastModified": "2026-11-04",
       "dateAdded": "2026-11-04",
       "addedAt": "2026-11-04T23:30:53.957Z"
+    },
+    {
+      "id": "mw2r3oeyz6w53dxt12b",
+      "name": "Ayanna Alvarez",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/ayanna.alvarez.23",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-04",
+      "nextFollowUp": "2026-11-11",
+      "notes": "",
+      "lastModified": "2026-11-04",
+      "dateAdded": "2026-11-04",
+      "addedAt": "2026-11-04T23:31:38.458Z"
     }
   ],
-  "lastUpdated": "2026-11-04T23:30:53.957Z"
+  "lastUpdated": "2026-11-04T23:31:38.458Z"
 }
