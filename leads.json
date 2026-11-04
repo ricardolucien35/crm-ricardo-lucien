@@ -19594,7 +19594,25 @@
       "lastModified": "2026-11-04",
       "dateAdded": "2026-11-04",
       "addedAt": "2026-11-04T23:36:48.570Z"
+    },
+    {
+      "id": "mw2rbs0y1vheqxz370fj",
+      "name": "Charlie Townsend",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/charlie.townsend.979291",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-04",
+      "nextFollowUp": "2026-11-11",
+      "notes": "",
+      "lastModified": "2026-11-04",
+      "dateAdded": "2026-11-04",
+      "addedAt": "2026-11-04T23:37:56.386Z"
     }
   ],
-  "lastUpdated": "2026-11-04T23:36:48.570Z"
+  "lastUpdated": "2026-11-04T23:37:56.386Z"
 }
