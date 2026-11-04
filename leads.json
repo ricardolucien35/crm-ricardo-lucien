@@ -19504,7 +19504,25 @@
       "lastModified": "2026-11-04",
       "dateAdded": "2026-11-04",
       "addedAt": "2026-11-04T23:32:54.406Z"
+    },
+    {
+      "id": "mw2r705hngzwbo6alop",
+      "name": "Devon Barry",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/devon.barry.77",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-04",
+      "nextFollowUp": "2026-11-11",
+      "notes": "",
+      "lastModified": "2026-11-04",
+      "dateAdded": "2026-11-04",
+      "addedAt": "2026-11-04T23:34:13.637Z"
     }
   ],
-  "lastUpdated": "2026-11-04T23:32:54.406Z"
+  "lastUpdated": "2026-11-04T23:34:13.637Z"
 }
