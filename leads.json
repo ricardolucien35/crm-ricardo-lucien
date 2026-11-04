@@ -19306,7 +19306,25 @@
       "lastModified": "2026-11-03",
       "dateAdded": "2026-11-03",
       "addedAt": "2026-11-04T00:02:37.916Z"
+    },
+    {
+      "id": "mw1csery8l47sc3s2zk",
+      "name": "Victor Escobedo",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/victor.escobedo.319",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-03",
+      "nextFollowUp": "2026-11-10",
+      "notes": "",
+      "lastModified": "2026-11-03",
+      "dateAdded": "2026-11-03",
+      "addedAt": "2026-11-04T00:03:11.950Z"
     }
   ],
-  "lastUpdated": "2026-11-04T00:02:37.916Z"
+  "lastUpdated": "2026-11-04T00:03:11.950Z"
 }
