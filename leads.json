@@ -19234,7 +19234,25 @@
       "lastModified": "2026-11-03",
       "dateAdded": "2026-11-03",
       "addedAt": "2026-11-03T23:59:28.870Z"
+    },
+    {
+      "id": "mw1coesmvno7fl9xddn",
+      "name": "Dawson Wagner",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/dawson.wagner.52",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-03",
+      "nextFollowUp": "2026-11-10",
+      "notes": "",
+      "lastModified": "2026-11-03",
+      "dateAdded": "2026-11-03",
+      "addedAt": "2026-11-04T00:00:05.350Z"
     }
   ],
-  "lastUpdated": "2026-11-03T23:59:28.870Z"
+  "lastUpdated": "2026-11-04T00:00:05.350Z"
 }
