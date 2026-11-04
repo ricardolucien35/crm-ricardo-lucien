@@ -19486,7 +19486,25 @@
       "lastModified": "2026-11-04",
       "dateAdded": "2026-11-04",
       "addedAt": "2026-11-04T23:31:38.458Z"
+    },
+    {
+      "id": "mw2r5b0mfj77xdcfw47",
+      "name": "Michelle Frazier",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/michelle.frazier.80418",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-04",
+      "nextFollowUp": "2026-11-11",
+      "notes": "",
+      "lastModified": "2026-11-04",
+      "dateAdded": "2026-11-04",
+      "addedAt": "2026-11-04T23:32:54.406Z"
     }
   ],
-  "lastUpdated": "2026-11-04T23:31:38.458Z"
+  "lastUpdated": "2026-11-04T23:32:54.406Z"
 }
