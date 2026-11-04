@@ -19630,7 +19630,25 @@
       "lastModified": "2026-11-04",
       "dateAdded": "2026-11-04",
       "addedAt": "2026-11-04T23:38:36.517Z"
+    },
+    {
+      "id": "mw2rdehlpv5e02jrhf",
+      "name": "Adam Pribyl",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/adam.pribyl.5",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-04",
+      "nextFollowUp": "2026-11-11",
+      "notes": "",
+      "lastModified": "2026-11-04",
+      "dateAdded": "2026-11-04",
+      "addedAt": "2026-11-04T23:39:12.153Z"
     }
   ],
-  "lastUpdated": "2026-11-04T23:38:36.517Z"
+  "lastUpdated": "2026-11-04T23:39:12.153Z"
 }
