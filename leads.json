@@ -19648,7 +19648,25 @@
       "lastModified": "2026-11-04",
       "dateAdded": "2026-11-04",
       "addedAt": "2026-11-04T23:39:12.153Z"
+    },
+    {
+      "id": "mw2re2z0ljzqjaw0aa",
+      "name": "Ben Perez",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/bwperez08",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-04",
+      "nextFollowUp": "2026-11-11",
+      "notes": "",
+      "lastModified": "2026-11-04",
+      "dateAdded": "2026-11-04",
+      "addedAt": "2026-11-04T23:39:43.884Z"
     }
   ],
-  "lastUpdated": "2026-11-04T23:39:12.153Z"
+  "lastUpdated": "2026-11-04T23:39:43.884Z"
 }
