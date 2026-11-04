@@ -19414,7 +19414,25 @@
       "lastModified": "2026-11-03",
       "dateAdded": "2026-11-03",
       "addedAt": "2026-11-04T00:08:28.795Z"
+    },
+    {
+      "id": "mw1czx480k5kfnuwcgd",
+      "name": "Kaelib Rose",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/kaelib.rose.12",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-03",
+      "nextFollowUp": "2026-11-10",
+      "notes": "",
+      "lastModified": "2026-11-03",
+      "dateAdded": "2026-11-03",
+      "addedAt": "2026-11-04T00:09:02.312Z"
     }
   ],
-  "lastUpdated": "2026-11-04T00:08:28.795Z"
+  "lastUpdated": "2026-11-04T00:09:02.312Z"
 }
