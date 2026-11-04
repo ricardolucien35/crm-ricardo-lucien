@@ -19342,7 +19342,25 @@
       "lastModified": "2026-11-03",
       "dateAdded": "2026-11-03",
       "addedAt": "2026-11-04T00:06:03.762Z"
+    },
+    {
+      "id": "mw1cwvro1gvxhdeer63",
+      "name": "Foster Huggins",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/foster.huggins.2025",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-03",
+      "nextFollowUp": "2026-11-10",
+      "notes": "",
+      "lastModified": "2026-11-03",
+      "dateAdded": "2026-11-03",
+      "addedAt": "2026-11-04T00:06:40.596Z"
     }
   ],
-  "lastUpdated": "2026-11-04T00:06:03.763Z"
+  "lastUpdated": "2026-11-04T00:06:40.596Z"
 }
