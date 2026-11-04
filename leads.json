@@ -19792,7 +19792,25 @@
       "lastModified": "2026-11-04",
       "dateAdded": "2026-11-04",
       "addedAt": "2026-11-04T23:53:48.095Z"
+    },
+    {
+      "id": "mw2rx0oic3m05waj0bj",
+      "name": "Brady Scheer",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/brady.scheer.7",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-04",
+      "nextFollowUp": "2026-11-11",
+      "notes": "",
+      "lastModified": "2026-11-04",
+      "dateAdded": "2026-11-04",
+      "addedAt": "2026-11-04T23:54:27.378Z"
     }
   ],
-  "lastUpdated": "2026-11-04T23:53:48.095Z"
+  "lastUpdated": "2026-11-04T23:54:27.378Z"
 }
