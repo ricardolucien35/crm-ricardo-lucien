@@ -19522,7 +19522,25 @@
       "lastModified": "2026-11-04",
       "dateAdded": "2026-11-04",
       "addedAt": "2026-11-04T23:34:13.637Z"
+    },
+    {
+      "id": "mw2r7uokw7hiezl0dj",
+      "name": "Cody Miller",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/cody.miller.5205",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-04",
+      "nextFollowUp": "2026-11-11",
+      "notes": "",
+      "lastModified": "2026-11-04",
+      "dateAdded": "2026-11-04",
+      "addedAt": "2026-11-04T23:34:53.204Z"
     }
   ],
-  "lastUpdated": "2026-11-04T23:34:13.637Z"
+  "lastUpdated": "2026-11-04T23:34:53.204Z"
 }
