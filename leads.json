@@ -19576,7 +19576,25 @@
       "lastModified": "2026-11-04",
       "dateAdded": "2026-11-04",
       "addedAt": "2026-11-04T23:36:16.020Z"
+    },
+    {
+      "id": "mw2rabp6zqm6gre52fe",
+      "name": "Sebastian Suarez",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/sebastian.suarez.879917",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-04",
+      "nextFollowUp": "2026-11-11",
+      "notes": "",
+      "lastModified": "2026-11-04",
+      "dateAdded": "2026-11-04",
+      "addedAt": "2026-11-04T23:36:48.570Z"
     }
   ],
-  "lastUpdated": "2026-11-04T23:36:16.020Z"
+  "lastUpdated": "2026-11-04T23:36:48.570Z"
 }
