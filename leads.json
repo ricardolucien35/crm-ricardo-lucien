@@ -19882,7 +19882,25 @@
       "lastModified": "2026-11-05",
       "dateAdded": "2026-11-05",
       "addedAt": "2026-11-05T13:27:57.594Z"
+    },
+    {
+      "id": "mw3kzytsi1jbva2xxr",
+      "name": "Justin Hanlon",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/justin.hanlon.31",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-05",
+      "nextFollowUp": "2026-11-12",
+      "notes": "",
+      "lastModified": "2026-11-05",
+      "dateAdded": "2026-11-05",
+      "addedAt": "2026-11-05T13:28:33.808Z"
     }
   ],
-  "lastUpdated": "2026-11-05T13:27:57.594Z"
+  "lastUpdated": "2026-11-05T13:28:33.808Z"
 }
