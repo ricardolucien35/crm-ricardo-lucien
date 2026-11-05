@@ -19936,7 +19936,25 @@
       "lastModified": "2026-11-05",
       "dateAdded": "2026-11-05",
       "addedAt": "2026-11-05T13:31:03.841Z"
+    },
+    {
+      "id": "mw3l3uern89li18hq9j",
+      "name": "Owen Martin",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100083409231341",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-05",
+      "nextFollowUp": "2026-11-12",
+      "notes": "",
+      "lastModified": "2026-11-05",
+      "dateAdded": "2026-11-05",
+      "addedAt": "2026-11-05T13:31:34.707Z"
     }
   ],
-  "lastUpdated": "2026-11-05T13:31:03.841Z"
+  "lastUpdated": "2026-11-05T13:31:34.707Z"
 }
