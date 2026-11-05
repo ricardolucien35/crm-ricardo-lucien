@@ -19990,7 +19990,25 @@
       "lastModified": "2026-11-05",
       "dateAdded": "2026-11-05",
       "addedAt": "2026-11-05T13:32:38.700Z"
+    },
+    {
+      "id": "mw3l68kxe7ud3sk5fgd",
+      "name": "Nate Mccloud",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/nate.jordan.5201254",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-05",
+      "nextFollowUp": "2026-11-12",
+      "notes": "",
+      "lastModified": "2026-11-05",
+      "dateAdded": "2026-11-05",
+      "addedAt": "2026-11-05T13:33:26.385Z"
     }
   ],
-  "lastUpdated": "2026-11-05T13:32:38.700Z"
+  "lastUpdated": "2026-11-05T13:33:26.385Z"
 }
