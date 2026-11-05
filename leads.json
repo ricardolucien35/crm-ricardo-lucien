@@ -20026,7 +20026,25 @@
       "lastModified": "2026-11-05",
       "dateAdded": "2026-11-05",
       "addedAt": "2026-11-05T13:34:02.636Z"
+    },
+    {
+      "id": "mw3l7qevx23w20itfim",
+      "name": "Carly Roberts",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/carly.roberts.5055",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-05",
+      "nextFollowUp": "2026-11-12",
+      "notes": "",
+      "lastModified": "2026-11-05",
+      "dateAdded": "2026-11-05",
+      "addedAt": "2026-11-05T13:34:36.151Z"
     }
   ],
-  "lastUpdated": "2026-11-05T13:34:02.636Z"
+  "lastUpdated": "2026-11-05T13:34:36.151Z"
 }
