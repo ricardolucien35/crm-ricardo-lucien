@@ -19810,7 +19810,25 @@
       "lastModified": "2026-11-04",
       "dateAdded": "2026-11-04",
       "addedAt": "2026-11-04T23:54:27.378Z"
+    },
+    {
+      "id": "mw3knqz9mriw8i0p9h9",
+      "name": "Micah Lacerte",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/micahlacerte1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-05",
+      "nextFollowUp": "2026-11-12",
+      "notes": "",
+      "lastModified": "2026-11-05",
+      "dateAdded": "2026-11-05",
+      "addedAt": "2026-11-05T13:19:03.765Z"
     }
   ],
-  "lastUpdated": "2026-11-05T03:09:54.519Z"
+  "lastUpdated": "2026-11-05T13:19:03.765Z"
 }
