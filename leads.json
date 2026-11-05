@@ -20080,7 +20080,25 @@
       "lastModified": "2026-11-05",
       "dateAdded": "2026-11-05",
       "addedAt": "2026-11-05T13:35:55.634Z"
+    },
+    {
+      "id": "mw3lbapfujxxugctiw",
+      "name": "Brandon Kuhlman",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/brandon.kuhlman.52",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-05",
+      "nextFollowUp": "2026-11-12",
+      "notes": "",
+      "lastModified": "2026-11-05",
+      "dateAdded": "2026-11-05",
+      "addedAt": "2026-11-05T13:37:22.419Z"
     }
   ],
-  "lastUpdated": "2026-11-05T13:35:55.634Z"
+  "lastUpdated": "2026-11-05T13:37:22.419Z"
 }
