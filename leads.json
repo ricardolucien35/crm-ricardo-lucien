@@ -9292,10 +9292,10 @@
       "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-11-03",
-      "nextFollowUp": "2026-11-04",
+      "lastContact": "2026-11-05",
+      "nextFollowUp": "2026-11-06",
       "notes": "",
-      "lastModified": "2026-11-03",
+      "lastModified": "2026-11-05",
       "dateAdded": "2026-09-14",
       "addedAt": "2026-09-14T13:05:45.154Z"
     },
@@ -20172,5 +20172,5 @@
       "addedAt": "2026-11-05T13:43:05.918Z"
     }
   ],
-  "lastUpdated": "2026-11-05T23:37:41.472Z"
+  "lastUpdated": "2026-11-05T23:37:52.211Z"
 }
