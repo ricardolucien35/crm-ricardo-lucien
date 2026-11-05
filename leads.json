@@ -19918,7 +19918,25 @@
       "lastModified": "2026-11-05",
       "dateAdded": "2026-11-05",
       "addedAt": "2026-11-05T13:30:26.541Z"
+    },
+    {
+      "id": "mw3l36ld7l6d15cr6fj",
+      "name": "Vincent Bonadonna",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100009629172460",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-05",
+      "nextFollowUp": "2026-11-12",
+      "notes": "",
+      "lastModified": "2026-11-05",
+      "dateAdded": "2026-11-05",
+      "addedAt": "2026-11-05T13:31:03.841Z"
     }
   ],
-  "lastUpdated": "2026-11-05T13:30:26.541Z"
+  "lastUpdated": "2026-11-05T13:31:03.841Z"
 }
