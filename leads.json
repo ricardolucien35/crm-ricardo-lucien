@@ -18144,16 +18144,17 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "Watched",
+      "status": "Customer",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-11-04",
-      "nextFollowUp": "2026-11-05",
+      "lastContact": "2026-11-05",
+      "nextFollowUp": "2026-11-06",
       "notes": "",
-      "lastModified": "2026-11-04",
+      "lastModified": "2026-11-05",
       "dateAdded": "2026-10-28",
-      "addedAt": "2026-10-28T16:10:11.191Z"
+      "addedAt": "2026-10-28T16:10:11.191Z",
+      "customerSince": "2026-11-05"
     },
     {
       "id": "mvsba9anu0dafpeh5tb",
@@ -20172,5 +20173,5 @@
       "addedAt": "2026-11-05T13:43:05.918Z"
     }
   ],
-  "lastUpdated": "2026-11-05T23:38:23.658Z"
+  "lastUpdated": "2026-11-05T23:38:46.398Z"
 }
