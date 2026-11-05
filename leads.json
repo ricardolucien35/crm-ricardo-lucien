@@ -20116,7 +20116,25 @@
       "lastModified": "2026-11-05",
       "dateAdded": "2026-11-05",
       "addedAt": "2026-11-05T13:39:28.950Z"
+    },
+    {
+      "id": "mw3lf8igcfzxzhvrt5s",
+      "name": "Nate Shook",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/natshook",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-05",
+      "nextFollowUp": "2026-11-12",
+      "notes": "",
+      "lastModified": "2026-11-05",
+      "dateAdded": "2026-11-05",
+      "addedAt": "2026-11-05T13:40:26.200Z"
     }
   ],
-  "lastUpdated": "2026-11-05T13:39:28.951Z"
+  "lastUpdated": "2026-11-05T13:40:26.200Z"
 }
