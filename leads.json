@@ -19828,7 +19828,25 @@
       "lastModified": "2026-11-05",
       "dateAdded": "2026-11-05",
       "addedAt": "2026-11-05T13:19:03.765Z"
+    },
+    {
+      "id": "mw3kv9xrujgsnv929",
+      "name": "Luis Alvarez",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/luis.alvarez.1694",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-05",
+      "nextFollowUp": "2026-11-12",
+      "notes": "",
+      "lastModified": "2026-11-05",
+      "dateAdded": "2026-11-05",
+      "addedAt": "2026-11-05T13:24:54.927Z"
     }
   ],
-  "lastUpdated": "2026-11-05T13:19:03.765Z"
+  "lastUpdated": "2026-11-05T13:24:54.927Z"
 }
