@@ -20495,7 +20495,25 @@
       "lastModified": "2026-11-06",
       "dateAdded": "2026-11-06",
       "addedAt": "2026-11-06T14:03:59.224Z"
+    },
+    {
+      "id": "mw51q3t7vtczf41koi9",
+      "name": "Amanda Miesner",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/amanda.miesner626",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-06",
+      "nextFollowUp": "2026-11-13",
+      "notes": "",
+      "lastModified": "2026-11-06",
+      "dateAdded": "2026-11-06",
+      "addedAt": "2026-11-06T14:04:33.355Z"
     }
   ],
-  "lastUpdated": "2026-11-06T14:03:59.224Z"
+  "lastUpdated": "2026-11-06T14:04:33.355Z"
 }
