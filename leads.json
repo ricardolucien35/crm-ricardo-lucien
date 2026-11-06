@@ -20369,7 +20369,25 @@
       "lastModified": "2026-11-06",
       "dateAdded": "2026-11-06",
       "addedAt": "2026-11-06T13:58:01.879Z"
+    },
+    {
+      "id": "mw51ii8clmofa5vsvi",
+      "name": "Amelia Lee",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100070707874630",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-06",
+      "nextFollowUp": "2026-11-13",
+      "notes": "",
+      "lastModified": "2026-11-06",
+      "dateAdded": "2026-11-06",
+      "addedAt": "2026-11-06T13:58:38.796Z"
     }
   ],
-  "lastUpdated": "2026-11-06T13:58:01.879Z"
+  "lastUpdated": "2026-11-06T13:58:38.796Z"
 }
