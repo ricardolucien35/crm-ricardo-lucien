@@ -20333,7 +20333,25 @@
       "lastModified": "2026-11-06",
       "dateAdded": "2026-11-06",
       "addedAt": "2026-11-06T13:56:14.529Z"
+    },
+    {
+      "id": "mw51g5zgsr2zown29pp",
+      "name": "Daniela Trincado",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/daniela.trincado.2025",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-06",
+      "nextFollowUp": "2026-11-13",
+      "notes": "",
+      "lastModified": "2026-11-06",
+      "dateAdded": "2026-11-06",
+      "addedAt": "2026-11-06T13:56:49.612Z"
     }
   ],
-  "lastUpdated": "2026-11-06T13:56:14.529Z"
+  "lastUpdated": "2026-11-06T13:56:49.612Z"
 }
