@@ -20405,7 +20405,25 @@
       "lastModified": "2026-11-06",
       "dateAdded": "2026-11-06",
       "addedAt": "2026-11-06T13:59:15.096Z"
+    },
+    {
+      "id": "mw51k4z6cg767gs3dvr",
+      "name": "Kyle Kline",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/kyle.kline.370",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-06",
+      "nextFollowUp": "2026-11-13",
+      "notes": "",
+      "lastModified": "2026-11-06",
+      "dateAdded": "2026-11-06",
+      "addedAt": "2026-11-06T13:59:54.931Z"
     }
   ],
-  "lastUpdated": "2026-11-06T13:59:15.096Z"
+  "lastUpdated": "2026-11-06T13:59:54.931Z"
 }
