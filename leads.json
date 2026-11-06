@@ -20261,7 +20261,25 @@
       "lastModified": "2026-11-06",
       "dateAdded": "2026-11-06",
       "addedAt": "2026-11-06T13:52:35.394Z"
+    },
+    {
+      "id": "mw51cdf7bqjroxlogrp",
+      "name": "Jessica Lynn",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100016160953056",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-06",
+      "nextFollowUp": "2026-11-13",
+      "notes": "",
+      "lastModified": "2026-11-06",
+      "dateAdded": "2026-11-06",
+      "addedAt": "2026-11-06T13:53:52.627Z"
     }
   ],
-  "lastUpdated": "2026-11-06T13:52:35.394Z"
+  "lastUpdated": "2026-11-06T13:53:52.627Z"
 }
