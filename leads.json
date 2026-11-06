@@ -20297,7 +20297,25 @@
       "lastModified": "2026-11-06",
       "dateAdded": "2026-11-06",
       "addedAt": "2026-11-06T13:54:26.377Z"
+    },
+    {
+      "id": "mw51dxdkj3r1zz9iga",
+      "name": "Charlie Hernandez",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/charlie.hernandez.881476",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-06",
+      "nextFollowUp": "2026-11-13",
+      "notes": "",
+      "lastModified": "2026-11-06",
+      "dateAdded": "2026-11-06",
+      "addedAt": "2026-11-06T13:55:05.144Z"
     }
   ],
-  "lastUpdated": "2026-11-06T13:54:26.377Z"
+  "lastUpdated": "2026-11-06T13:55:05.144Z"
 }
