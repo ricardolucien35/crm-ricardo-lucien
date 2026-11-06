@@ -20171,7 +20171,25 @@
       "lastModified": "2026-11-05",
       "dateAdded": "2026-11-05",
       "addedAt": "2026-11-05T13:43:05.918Z"
+    },
+    {
+      "id": "mw50zi1bw57at1bv6rg",
+      "name": "TJ Pennington",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/tyler.j.pennington",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-06",
+      "nextFollowUp": "2026-11-13",
+      "notes": "",
+      "lastModified": "2026-11-06",
+      "dateAdded": "2026-11-06",
+      "addedAt": "2026-11-06T13:43:52.079Z"
     }
   ],
-  "lastUpdated": "2026-11-06T02:22:05.245Z"
+  "lastUpdated": "2026-11-06T13:43:52.079Z"
 }
