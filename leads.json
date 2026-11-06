@@ -20243,7 +20243,25 @@
       "lastModified": "2026-11-06",
       "dateAdded": "2026-11-06",
       "addedAt": "2026-11-06T13:48:49.941Z"
+    },
+    {
+      "id": "mw51aptud4bkgbcr1fi",
+      "name": "David Arbanas",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/david.arbanas.tillema",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-06",
+      "nextFollowUp": "2026-11-13",
+      "notes": "",
+      "lastModified": "2026-11-06",
+      "dateAdded": "2026-11-06",
+      "addedAt": "2026-11-06T13:52:35.394Z"
     }
   ],
-  "lastUpdated": "2026-11-06T13:48:49.941Z"
+  "lastUpdated": "2026-11-06T13:52:35.394Z"
 }
