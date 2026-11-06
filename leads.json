@@ -20441,7 +20441,25 @@
       "lastModified": "2026-11-06",
       "dateAdded": "2026-11-06",
       "addedAt": "2026-11-06T14:00:34.662Z"
+    },
+    {
+      "id": "mw51lysmfyek1c4cra",
+      "name": "Mandy Kay",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/mandy.k.culbertson",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-06",
+      "nextFollowUp": "2026-11-13",
+      "notes": "",
+      "lastModified": "2026-11-06",
+      "dateAdded": "2026-11-06",
+      "addedAt": "2026-11-06T14:01:20.230Z"
     }
   ],
-  "lastUpdated": "2026-11-06T14:00:34.662Z"
+  "lastUpdated": "2026-11-06T14:01:20.230Z"
 }
