@@ -20423,7 +20423,25 @@
       "lastModified": "2026-11-06",
       "dateAdded": "2026-11-06",
       "addedAt": "2026-11-06T13:59:54.931Z"
+    },
+    {
+      "id": "mw51kzmuur9jnzxl2ig",
+      "name": "Emily Paussa",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=61586925407489",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-06",
+      "nextFollowUp": "2026-11-13",
+      "notes": "",
+      "lastModified": "2026-11-06",
+      "dateAdded": "2026-11-06",
+      "addedAt": "2026-11-06T14:00:34.662Z"
     }
   ],
-  "lastUpdated": "2026-11-06T13:59:54.931Z"
+  "lastUpdated": "2026-11-06T14:00:34.662Z"
 }
