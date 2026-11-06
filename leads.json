@@ -20225,7 +20225,25 @@
       "lastModified": "2026-11-06",
       "dateAdded": "2026-11-06",
       "addedAt": "2026-11-06T13:48:12.125Z"
+    },
+    {
+      "id": "mw515vv9k3fz6a56ta",
+      "name": "Sydney Becker",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/sydney.becker.3572",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-06",
+      "nextFollowUp": "2026-11-13",
+      "notes": "",
+      "lastModified": "2026-11-06",
+      "dateAdded": "2026-11-06",
+      "addedAt": "2026-11-06T13:48:49.941Z"
     }
   ],
-  "lastUpdated": "2026-11-06T13:48:12.125Z"
+  "lastUpdated": "2026-11-06T13:48:49.941Z"
 }
