@@ -20513,7 +20513,25 @@
       "lastModified": "2026-11-06",
       "dateAdded": "2026-11-06",
       "addedAt": "2026-11-06T14:04:33.355Z"
+    },
+    {
+      "id": "mw51qz0cneei3mbnif",
+      "name": "Elizabeth Burton",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/elizabeth.burton.796569",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-06",
+      "nextFollowUp": "2026-11-13",
+      "notes": "",
+      "lastModified": "2026-11-06",
+      "dateAdded": "2026-11-06",
+      "addedAt": "2026-11-06T14:05:13.788Z"
     }
   ],
-  "lastUpdated": "2026-11-06T14:04:33.355Z"
+  "lastUpdated": "2026-11-06T14:05:13.788Z"
 }
