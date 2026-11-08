@@ -20801,7 +20801,25 @@
       "lastModified": "2026-11-08",
       "dateAdded": "2026-11-08",
       "addedAt": "2026-11-08T21:22:15.704Z"
+    },
+    {
+      "id": "mw8c9cxtgq74z5eh258",
+      "name": "Cassie Raines",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/cassie.raines.580030",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-08",
+      "nextFollowUp": "2026-11-15",
+      "notes": "",
+      "lastModified": "2026-11-08",
+      "dateAdded": "2026-11-08",
+      "addedAt": "2026-11-08T21:22:46.337Z"
     }
   ],
-  "lastUpdated": "2026-11-08T21:22:15.704Z"
+  "lastUpdated": "2026-11-08T21:22:46.337Z"
 }
