@@ -20837,7 +20837,25 @@
       "lastModified": "2026-11-08",
       "dateAdded": "2026-11-08",
       "addedAt": "2026-11-08T21:23:17.268Z"
+    },
+    {
+      "id": "mw8casv6ut1fw62401i",
+      "name": "Hunter Remigio",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/hunter.remigio",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-08",
+      "nextFollowUp": "2026-11-15",
+      "notes": "",
+      "lastModified": "2026-11-08",
+      "dateAdded": "2026-11-08",
+      "addedAt": "2026-11-08T21:23:53.634Z"
     }
   ],
-  "lastUpdated": "2026-11-08T21:23:17.268Z"
+  "lastUpdated": "2026-11-08T21:23:53.634Z"
 }
