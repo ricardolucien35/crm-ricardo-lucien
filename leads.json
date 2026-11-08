@@ -20819,7 +20819,25 @@
       "lastModified": "2026-11-08",
       "dateAdded": "2026-11-08",
       "addedAt": "2026-11-08T21:22:46.337Z"
+    },
+    {
+      "id": "mw8ca0t0ou64d2g8yj",
+      "name": "Cortez Davis",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/cortez.davis.549",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-08",
+      "nextFollowUp": "2026-11-15",
+      "notes": "",
+      "lastModified": "2026-11-08",
+      "dateAdded": "2026-11-08",
+      "addedAt": "2026-11-08T21:23:17.268Z"
     }
   ],
-  "lastUpdated": "2026-11-08T21:22:46.337Z"
+  "lastUpdated": "2026-11-08T21:23:17.268Z"
 }
