@@ -20873,7 +20873,25 @@
       "lastModified": "2026-11-08",
       "dateAdded": "2026-11-08",
       "addedAt": "2026-11-08T21:24:23.834Z"
+    },
+    {
+      "id": "mw8cc4g5b9fnh2w6on4",
+      "name": "Brian Pantoja",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/brian.pantoja.7",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-08",
+      "nextFollowUp": "2026-11-15",
+      "notes": "",
+      "lastModified": "2026-11-08",
+      "dateAdded": "2026-11-08",
+      "addedAt": "2026-11-08T21:24:55.301Z"
     }
   ],
-  "lastUpdated": "2026-11-08T21:24:23.834Z"
+  "lastUpdated": "2026-11-08T21:24:55.301Z"
 }
