@@ -21125,7 +21125,25 @@
       "lastModified": "2026-11-09",
       "dateAdded": "2026-11-09",
       "addedAt": "2026-11-09T19:17:17.456Z"
+    },
+    {
+      "id": "mw9n91066ti1f44tbc",
+      "name": "Caden Kaberline",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/caden.kaberline",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-09",
+      "nextFollowUp": "2026-11-16",
+      "notes": "",
+      "lastModified": "2026-11-09",
+      "dateAdded": "2026-11-09",
+      "addedAt": "2026-11-09T19:18:12.822Z"
     }
   ],
-  "lastUpdated": "2026-11-09T19:17:17.456Z"
+  "lastUpdated": "2026-11-09T19:18:12.822Z"
 }
