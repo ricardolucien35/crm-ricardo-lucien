@@ -21089,7 +21089,25 @@
       "lastModified": "2026-11-09",
       "dateAdded": "2026-11-09",
       "addedAt": "2026-11-09T19:14:43.672Z"
+    },
+    {
+      "id": "mw9n6uutbxihfk7rb0k",
+      "name": "Kayla Mason",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/kayla.mason.3950",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-09",
+      "nextFollowUp": "2026-11-16",
+      "notes": "",
+      "lastModified": "2026-11-09",
+      "dateAdded": "2026-11-09",
+      "addedAt": "2026-11-09T19:16:31.541Z"
     }
   ],
-  "lastUpdated": "2026-11-09T19:14:43.672Z"
+  "lastUpdated": "2026-11-09T19:16:31.541Z"
 }
