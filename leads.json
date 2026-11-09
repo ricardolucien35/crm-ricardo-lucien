@@ -20945,7 +20945,25 @@
       "lastModified": "2026-11-09",
       "dateAdded": "2026-11-09",
       "addedAt": "2026-11-09T19:03:08.503Z"
+    },
+    {
+      "id": "mw9mqk415h8d6ivb6xl",
+      "name": "Chase Kroenlein",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/chase.kroenlein",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-09",
+      "nextFollowUp": "2026-11-16",
+      "notes": "",
+      "lastModified": "2026-11-09",
+      "dateAdded": "2026-11-09",
+      "addedAt": "2026-11-09T19:03:51.122Z"
     }
   ],
-  "lastUpdated": "2026-11-09T19:03:08.503Z"
+  "lastUpdated": "2026-11-09T19:03:51.122Z"
 }
