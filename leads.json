@@ -20981,7 +20981,25 @@
       "lastModified": "2026-11-09",
       "dateAdded": "2026-11-09",
       "addedAt": "2026-11-09T19:04:36.971Z"
+    },
+    {
+      "id": "mw9mskqe3q81oiqtpwk",
+      "name": "Aly Christena",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/aly.christensen",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-09",
+      "nextFollowUp": "2026-11-16",
+      "notes": "",
+      "lastModified": "2026-11-09",
+      "dateAdded": "2026-11-09",
+      "addedAt": "2026-11-09T19:05:25.238Z"
     }
   ],
-  "lastUpdated": "2026-11-09T19:04:36.972Z"
+  "lastUpdated": "2026-11-09T19:05:25.238Z"
 }
