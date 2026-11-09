@@ -20927,7 +20927,25 @@
       "lastModified": "2026-11-09",
       "dateAdded": "2026-11-09",
       "addedAt": "2026-11-09T19:02:09.040Z"
+    },
+    {
+      "id": "mw9mpn873iek2ki0o3o",
+      "name": "Samuel Lane",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/samuel.lane.391922",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-09",
+      "nextFollowUp": "2026-11-16",
+      "notes": "",
+      "lastModified": "2026-11-09",
+      "dateAdded": "2026-11-09",
+      "addedAt": "2026-11-09T19:03:08.503Z"
     }
   ],
-  "lastUpdated": "2026-11-09T19:02:09.040Z"
+  "lastUpdated": "2026-11-09T19:03:08.503Z"
 }
