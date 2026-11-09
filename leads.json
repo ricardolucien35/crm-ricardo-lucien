@@ -21233,7 +21233,25 @@
       "lastModified": "2026-11-09",
       "dateAdded": "2026-11-09",
       "addedAt": "2026-11-09T19:23:19.788Z"
+    },
+    {
+      "id": "mw9ngfo6lbiomxzb56h",
+      "name": "Ayden Jensen",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/JensenCoalition",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-09",
+      "nextFollowUp": "2026-11-16",
+      "notes": "",
+      "lastModified": "2026-11-09",
+      "dateAdded": "2026-11-09",
+      "addedAt": "2026-11-09T19:23:58.422Z"
     }
   ],
-  "lastUpdated": "2026-11-09T19:23:19.788Z"
+  "lastUpdated": "2026-11-09T19:23:58.422Z"
 }
