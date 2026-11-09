@@ -21017,7 +21017,25 @@
       "lastModified": "2026-11-09",
       "dateAdded": "2026-11-09",
       "addedAt": "2026-11-09T19:06:39.097Z"
+    },
+    {
+      "id": "mw9mvae8agstohbqcuv",
+      "name": "Danny Faught",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/danny.faught.9",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-09",
+      "nextFollowUp": "2026-11-16",
+      "notes": "",
+      "lastModified": "2026-11-09",
+      "dateAdded": "2026-11-09",
+      "addedAt": "2026-11-09T19:07:31.808Z"
     }
   ],
-  "lastUpdated": "2026-11-09T19:06:39.097Z"
+  "lastUpdated": "2026-11-09T19:07:31.808Z"
 }
