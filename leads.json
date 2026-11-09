@@ -21251,7 +21251,25 @@
       "lastModified": "2026-11-09",
       "dateAdded": "2026-11-09",
       "addedAt": "2026-11-09T19:23:58.422Z"
+    },
+    {
+      "id": "mw9nini4gg6v32b0fsg",
+      "name": "Alexis Faith",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/alexis.faith.579441",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-09",
+      "nextFollowUp": "2026-11-16",
+      "notes": "",
+      "lastModified": "2026-11-09",
+      "dateAdded": "2026-11-09",
+      "addedAt": "2026-11-09T19:25:41.884Z"
     }
   ],
-  "lastUpdated": "2026-11-09T19:23:58.422Z"
+  "lastUpdated": "2026-11-09T19:25:41.884Z"
 }
