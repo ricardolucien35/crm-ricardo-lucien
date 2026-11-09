@@ -20999,7 +20999,25 @@
       "lastModified": "2026-11-09",
       "dateAdded": "2026-11-09",
       "addedAt": "2026-11-09T19:05:25.238Z"
+    },
+    {
+      "id": "mw9mu5q1za92xl0b6ej",
+      "name": "Curt Huston",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/curt.huston",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-09",
+      "nextFollowUp": "2026-11-16",
+      "notes": "",
+      "lastModified": "2026-11-09",
+      "dateAdded": "2026-11-09",
+      "addedAt": "2026-11-09T19:06:39.097Z"
     }
   ],
-  "lastUpdated": "2026-11-09T19:05:25.238Z"
+  "lastUpdated": "2026-11-09T19:06:39.097Z"
 }
