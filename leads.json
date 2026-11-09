@@ -21161,7 +21161,25 @@
       "lastModified": "2026-11-09",
       "dateAdded": "2026-11-09",
       "addedAt": "2026-11-09T19:19:44.274Z"
+    },
+    {
+      "id": "mw9ncnmhhdx3tqsxltd",
+      "name": "Corbin Smith",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100071857744554",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-09",
+      "nextFollowUp": "2026-11-16",
+      "notes": "",
+      "lastModified": "2026-11-09",
+      "dateAdded": "2026-11-09",
+      "addedAt": "2026-11-09T19:21:02.105Z"
     }
   ],
-  "lastUpdated": "2026-11-09T19:19:44.274Z"
+  "lastUpdated": "2026-11-09T19:21:02.105Z"
 }
