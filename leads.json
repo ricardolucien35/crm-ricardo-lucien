@@ -21413,7 +21413,25 @@
       "lastModified": "2026-11-12",
       "dateAdded": "2026-11-12",
       "addedAt": "2026-11-12T16:19:47.943Z"
+    },
+    {
+      "id": "mwdr7v07ps2hhfv499e",
+      "name": "Pierre Jacobs",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/PierreAndre87",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-12",
+      "nextFollowUp": "2026-11-19",
+      "notes": "",
+      "lastModified": "2026-11-12",
+      "dateAdded": "2026-11-12",
+      "addedAt": "2026-11-12T16:20:21.559Z"
     }
   ],
-  "lastUpdated": "2026-11-12T16:19:47.943Z"
+  "lastUpdated": "2026-11-12T16:20:21.559Z"
 }
