@@ -21575,7 +21575,25 @@
       "lastModified": "2026-11-12",
       "dateAdded": "2026-11-12",
       "addedAt": "2026-11-12T16:27:36.988Z"
+    },
+    {
+      "id": "mwdrilz1mmo1ea8azyf",
+      "name": "Alexis King",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/alexis.king.3348",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-12",
+      "nextFollowUp": "2026-11-19",
+      "notes": "",
+      "lastModified": "2026-11-12",
+      "dateAdded": "2026-11-12",
+      "addedAt": "2026-11-12T16:28:43.069Z"
     }
   ],
-  "lastUpdated": "2026-11-12T16:27:36.988Z"
+  "lastUpdated": "2026-11-12T16:28:43.069Z"
 }
