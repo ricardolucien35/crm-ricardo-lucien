@@ -21503,7 +21503,25 @@
       "lastModified": "2026-11-12",
       "dateAdded": "2026-11-12",
       "addedAt": "2026-11-12T16:23:34.259Z"
+    },
+    {
+      "id": "mwdrd05fmoa60m102j",
+      "name": "Jenna Bahm",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jenna.bahm.33",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-12",
+      "nextFollowUp": "2026-11-19",
+      "notes": "",
+      "lastModified": "2026-11-12",
+      "dateAdded": "2026-11-12",
+      "addedAt": "2026-11-12T16:24:21.507Z"
     }
   ],
-  "lastUpdated": "2026-11-12T16:23:34.259Z"
+  "lastUpdated": "2026-11-12T16:24:21.507Z"
 }
