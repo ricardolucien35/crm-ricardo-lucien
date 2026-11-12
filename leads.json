@@ -21287,7 +21287,25 @@
       "lastModified": "2026-11-12",
       "dateAdded": "2026-11-12",
       "addedAt": "2026-11-12T16:08:20.117Z"
+    },
+    {
+      "id": "mwdqub2lgm26mno0v4c",
+      "name": "Ryan Traistaru",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/ryan.traistaru",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-12",
+      "nextFollowUp": "2026-11-19",
+      "notes": "",
+      "lastModified": "2026-11-12",
+      "dateAdded": "2026-11-12",
+      "addedAt": "2026-11-12T16:09:49.197Z"
     }
   ],
-  "lastUpdated": "2026-11-12T16:08:20.118Z"
+  "lastUpdated": "2026-11-12T16:09:49.197Z"
 }
