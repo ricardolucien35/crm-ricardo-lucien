@@ -21305,7 +21305,25 @@
       "lastModified": "2026-11-12",
       "dateAdded": "2026-11-12",
       "addedAt": "2026-11-12T16:09:49.197Z"
+    },
+    {
+      "id": "mwdqy8qhtso06ebcgxe",
+      "name": "Caden Bolz",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/caden.bolz",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-12",
+      "nextFollowUp": "2026-11-19",
+      "notes": "",
+      "lastModified": "2026-11-12",
+      "dateAdded": "2026-11-12",
+      "addedAt": "2026-11-12T16:12:52.793Z"
     }
   ],
-  "lastUpdated": "2026-11-12T16:09:49.197Z"
+  "lastUpdated": "2026-11-12T16:12:52.793Z"
 }
