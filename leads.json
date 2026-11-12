@@ -21629,7 +21629,25 @@
       "lastModified": "2026-11-12",
       "dateAdded": "2026-11-12",
       "addedAt": "2026-11-12T16:30:27.952Z"
+    },
+    {
+      "id": "mwdrlpvnl2h1val04v9",
+      "name": "Nicco Calandrino",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/nicco.calandrino",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-12",
+      "nextFollowUp": "2026-11-19",
+      "notes": "",
+      "lastModified": "2026-11-12",
+      "dateAdded": "2026-11-12",
+      "addedAt": "2026-11-12T16:31:08.099Z"
     }
   ],
-  "lastUpdated": "2026-11-12T16:30:27.952Z"
+  "lastUpdated": "2026-11-12T16:31:08.099Z"
 }
