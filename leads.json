@@ -21611,7 +21611,25 @@
       "lastModified": "2026-11-12",
       "dateAdded": "2026-11-12",
       "addedAt": "2026-11-12T16:29:35.282Z"
+    },
+    {
+      "id": "mwdrkuwgsztv73oprd",
+      "name": "Cameron Westcoat",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/cameron.wescoat.5",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-12",
+      "nextFollowUp": "2026-11-19",
+      "notes": "",
+      "lastModified": "2026-11-12",
+      "dateAdded": "2026-11-12",
+      "addedAt": "2026-11-12T16:30:27.952Z"
     }
   ],
-  "lastUpdated": "2026-11-12T16:29:35.282Z"
+  "lastUpdated": "2026-11-12T16:30:27.952Z"
 }
