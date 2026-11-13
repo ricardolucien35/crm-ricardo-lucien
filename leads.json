@@ -21737,7 +21737,25 @@
       "lastModified": "2026-11-13",
       "dateAdded": "2026-11-13",
       "addedAt": "2026-11-13T23:48:35.365Z"
+    },
+    {
+      "id": "mwfmotpu7ewr5cq64ru",
+      "name": "Adrian Hartman",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100091537882516",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-13",
+      "nextFollowUp": "2026-11-19",
+      "notes": "",
+      "lastModified": "2026-11-13",
+      "dateAdded": "2026-11-13",
+      "addedAt": "2026-11-13T23:49:07.314Z"
     }
   ],
-  "lastUpdated": "2026-11-13T23:48:35.365Z"
+  "lastUpdated": "2026-11-13T23:49:07.314Z"
 }
