@@ -21935,7 +21935,25 @@
       "lastModified": "2026-11-13",
       "dateAdded": "2026-11-13",
       "addedAt": "2026-11-13T23:57:24.427Z"
+    },
+    {
+      "id": "mwfn1f2zftl92us9p5p",
+      "name": "Ryan Thomas",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/ryan.thomas.617246",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-13",
+      "nextFollowUp": "2026-11-19",
+      "notes": "",
+      "lastModified": "2026-11-13",
+      "dateAdded": "2026-11-13",
+      "addedAt": "2026-11-13T23:58:54.875Z"
     }
   ],
-  "lastUpdated": "2026-11-13T23:57:24.428Z"
+  "lastUpdated": "2026-11-13T23:58:54.875Z"
 }
