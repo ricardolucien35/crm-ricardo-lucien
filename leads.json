@@ -21755,7 +21755,25 @@
       "lastModified": "2026-11-13",
       "dateAdded": "2026-11-13",
       "addedAt": "2026-11-13T23:49:07.314Z"
+    },
+    {
+      "id": "mwfmppf2qem0dfrffz",
+      "name": "William Kleckner",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/william.kleckner.5",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-13",
+      "nextFollowUp": "2026-11-19",
+      "notes": "",
+      "lastModified": "2026-11-13",
+      "dateAdded": "2026-11-13",
+      "addedAt": "2026-11-13T23:49:48.398Z"
     }
   ],
-  "lastUpdated": "2026-11-13T23:49:07.314Z"
+  "lastUpdated": "2026-11-13T23:49:48.398Z"
 }
