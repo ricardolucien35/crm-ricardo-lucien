@@ -21683,7 +21683,25 @@
       "lastModified": "2026-11-13",
       "dateAdded": "2026-11-13",
       "addedAt": "2026-11-13T23:46:35.581Z"
+    },
+    {
+      "id": "mwfmmhjrmvxy65wtzur",
+      "name": "Vinnie Barbosa",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/v.barbosa1125",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-13",
+      "nextFollowUp": "2026-11-19",
+      "notes": "",
+      "lastModified": "2026-11-13",
+      "dateAdded": "2026-11-13",
+      "addedAt": "2026-11-13T23:47:18.231Z"
     }
   ],
-  "lastUpdated": "2026-11-13T23:46:35.582Z"
+  "lastUpdated": "2026-11-13T23:47:18.231Z"
 }
