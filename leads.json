@@ -21917,7 +21917,25 @@
       "lastModified": "2026-11-13",
       "dateAdded": "2026-11-13",
       "addedAt": "2026-11-13T23:55:13.569Z"
+    },
+    {
+      "id": "mwfmzhajl3n9ihm58g",
+      "name": "Hayden Garvey",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/big.garv",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-13",
+      "nextFollowUp": "2026-11-19",
+      "notes": "",
+      "lastModified": "2026-11-13",
+      "dateAdded": "2026-11-13",
+      "addedAt": "2026-11-13T23:57:24.427Z"
     }
   ],
-  "lastUpdated": "2026-11-13T23:55:13.569Z"
+  "lastUpdated": "2026-11-13T23:57:24.428Z"
 }
