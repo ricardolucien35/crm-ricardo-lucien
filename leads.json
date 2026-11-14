@@ -22133,7 +22133,25 @@
       "lastModified": "2026-11-13",
       "dateAdded": "2026-11-13",
       "addedAt": "2026-11-14T00:08:33.505Z"
+    },
+    {
+      "id": "mwfnex0yx96585cseaj",
+      "name": "Isabella Russell",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/isabella.russell.7796",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-13",
+      "nextFollowUp": "2026-11-19",
+      "notes": "",
+      "lastModified": "2026-11-13",
+      "dateAdded": "2026-11-13",
+      "addedAt": "2026-11-14T00:09:24.659Z"
     }
   ],
-  "lastUpdated": "2026-11-14T00:08:33.505Z"
+  "lastUpdated": "2026-11-14T00:09:24.659Z"
 }
