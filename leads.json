@@ -22187,7 +22187,25 @@
       "lastModified": "2026-11-13",
       "dateAdded": "2026-11-13",
       "addedAt": "2026-11-14T00:11:01.412Z"
+    },
+    {
+      "id": "mwfnhq08gx23xbgo26q",
+      "name": "Zane Hall",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/zane14hall",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-13",
+      "nextFollowUp": "2026-11-19",
+      "notes": "",
+      "lastModified": "2026-11-13",
+      "dateAdded": "2026-11-13",
+      "addedAt": "2026-11-14T00:11:35.528Z"
     }
   ],
-  "lastUpdated": "2026-11-14T00:11:01.412Z"
+  "lastUpdated": "2026-11-14T00:11:35.528Z"
 }
