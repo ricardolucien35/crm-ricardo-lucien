@@ -22025,7 +22025,25 @@
       "lastModified": "2026-11-13",
       "dateAdded": "2026-11-13",
       "addedAt": "2026-11-14T00:01:43.042Z"
+    },
+    {
+      "id": "mwfn5togq5dcrvbeaul",
+      "name": "Julian Vazquez",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/julian.vazquez.859586",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-13",
+      "nextFollowUp": "2026-11-19",
+      "notes": "",
+      "lastModified": "2026-11-13",
+      "dateAdded": "2026-11-13",
+      "addedAt": "2026-11-14T00:02:20.416Z"
     }
   ],
-  "lastUpdated": "2026-11-14T00:01:43.042Z"
+  "lastUpdated": "2026-11-14T00:02:20.416Z"
 }
