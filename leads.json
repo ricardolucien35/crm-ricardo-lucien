@@ -22043,7 +22043,25 @@
       "lastModified": "2026-11-13",
       "dateAdded": "2026-11-13",
       "addedAt": "2026-11-14T00:02:20.416Z"
+    },
+    {
+      "id": "mwfn6u4g7z22cgzu79i",
+      "name": "Josh Price",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jpreezykc",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-13",
+      "nextFollowUp": "2026-11-19",
+      "notes": "",
+      "lastModified": "2026-11-13",
+      "dateAdded": "2026-11-13",
+      "addedAt": "2026-11-14T00:03:07.648Z"
     }
   ],
-  "lastUpdated": "2026-11-14T00:02:20.416Z"
+  "lastUpdated": "2026-11-14T00:03:07.648Z"
 }
