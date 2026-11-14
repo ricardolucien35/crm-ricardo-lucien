@@ -21971,7 +21971,25 @@
       "lastModified": "2026-11-13",
       "dateAdded": "2026-11-13",
       "addedAt": "2026-11-13T23:59:48.558Z"
+    },
+    {
+      "id": "mwfn37xo7qv4giniv1b",
+      "name": "Deshon Aumua",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/deshon.aumua",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-13",
+      "nextFollowUp": "2026-11-19",
+      "notes": "",
+      "lastModified": "2026-11-13",
+      "dateAdded": "2026-11-13",
+      "addedAt": "2026-11-14T00:00:18.924Z"
     }
   ],
-  "lastUpdated": "2026-11-13T23:59:48.559Z"
+  "lastUpdated": "2026-11-14T00:00:18.924Z"
 }
