@@ -22115,7 +22115,25 @@
       "lastModified": "2026-11-13",
       "dateAdded": "2026-11-13",
       "addedAt": "2026-11-14T00:07:50.055Z"
+    },
+    {
+      "id": "mwfndtk1jnb9iakw5ig",
+      "name": "Zach Felz",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/zachary.felz",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-13",
+      "nextFollowUp": "2026-11-19",
+      "notes": "",
+      "lastModified": "2026-11-13",
+      "dateAdded": "2026-11-13",
+      "addedAt": "2026-11-14T00:08:33.505Z"
     }
   ],
-  "lastUpdated": "2026-11-14T00:07:50.055Z"
+  "lastUpdated": "2026-11-14T00:08:33.505Z"
 }
