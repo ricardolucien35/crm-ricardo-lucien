@@ -22169,7 +22169,25 @@
       "lastModified": "2026-11-13",
       "dateAdded": "2026-11-13",
       "addedAt": "2026-11-14T00:10:16.142Z"
+    },
+    {
+      "id": "mwfngzok462i21f6el7",
+      "name": "Adam Burton",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/adam.burton.794",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-13",
+      "nextFollowUp": "2026-11-19",
+      "notes": "",
+      "lastModified": "2026-11-13",
+      "dateAdded": "2026-11-13",
+      "addedAt": "2026-11-14T00:11:01.412Z"
     }
   ],
-  "lastUpdated": "2026-11-14T00:10:16.142Z"
+  "lastUpdated": "2026-11-14T00:11:01.412Z"
 }
