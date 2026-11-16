@@ -22511,7 +22511,25 @@
       "lastModified": "2026-11-16",
       "dateAdded": "2026-11-16",
       "addedAt": "2026-11-16T22:13:41.869Z"
+    },
+    {
+      "id": "mwjtq79ri34ljfy7cv",
+      "name": "Riley Shirk",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/riley.shirk.3",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-16",
+      "nextFollowUp": "2026-11-23",
+      "notes": "",
+      "lastModified": "2026-11-16",
+      "dateAdded": "2026-11-16",
+      "addedAt": "2026-11-16T22:17:13.551Z"
     }
   ],
-  "lastUpdated": "2026-11-16T22:13:41.870Z"
+  "lastUpdated": "2026-11-16T22:17:13.551Z"
 }
