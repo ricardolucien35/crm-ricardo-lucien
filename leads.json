@@ -22493,7 +22493,25 @@
       "lastModified": "2026-11-16",
       "dateAdded": "2026-11-16",
       "addedAt": "2026-11-16T18:58:06.443Z"
+    },
+    {
+      "id": "mwjtlnxp8whh5mi2sj",
+      "name": "Austin Flanagan",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/austin.flanagan.777",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-16",
+      "nextFollowUp": "2026-11-23",
+      "notes": "",
+      "lastModified": "2026-11-16",
+      "dateAdded": "2026-11-16",
+      "addedAt": "2026-11-16T22:13:41.869Z"
     }
   ],
-  "lastUpdated": "2026-11-16T18:58:06.443Z"
+  "lastUpdated": "2026-11-16T22:13:41.870Z"
 }
