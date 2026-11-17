@@ -22619,7 +22619,25 @@
       "lastModified": "2026-11-16",
       "dateAdded": "2026-11-16",
       "addedAt": "2026-11-17T00:10:18.497Z"
+    },
+    {
+      "id": "mwjxv924wvmvtd3mmpm",
+      "name": "Lucas Whalen",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/lucas.whalen.16",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-16",
+      "nextFollowUp": "2026-11-23",
+      "notes": "",
+      "lastModified": "2026-11-16",
+      "dateAdded": "2026-11-16",
+      "addedAt": "2026-11-17T00:13:07.612Z"
     }
   ],
-  "lastUpdated": "2026-11-17T00:10:18.497Z"
+  "lastUpdated": "2026-11-17T00:13:07.612Z"
 }
