@@ -22835,7 +22835,25 @@
       "lastModified": "2026-11-16",
       "dateAdded": "2026-11-16",
       "addedAt": "2026-11-17T00:28:32.443Z"
+    },
+    {
+      "id": "mwjyfv7mhpdvmqkmokw",
+      "name": "Sophia Hurley",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/sophia.hurley.1253",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-16",
+      "nextFollowUp": "2026-11-23",
+      "notes": "",
+      "lastModified": "2026-11-16",
+      "dateAdded": "2026-11-16",
+      "addedAt": "2026-11-17T00:29:09.442Z"
     }
   ],
-  "lastUpdated": "2026-11-17T00:28:32.443Z"
+  "lastUpdated": "2026-11-17T00:29:09.442Z"
 }
