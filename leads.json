@@ -22961,7 +22961,25 @@
       "lastModified": "2026-11-16",
       "dateAdded": "2026-11-16",
       "addedAt": "2026-11-17T00:34:03.137Z"
+    },
+    {
+      "id": "mwjymzknedx7l3tplho",
+      "name": "Alec Burton",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/alec.burton.9",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-16",
+      "nextFollowUp": "2026-11-23",
+      "notes": "",
+      "lastModified": "2026-11-16",
+      "dateAdded": "2026-11-16",
+      "addedAt": "2026-11-17T00:34:41.687Z"
     }
   ],
-  "lastUpdated": "2026-11-17T00:34:03.137Z"
+  "lastUpdated": "2026-11-17T00:34:41.687Z"
 }
