@@ -22745,7 +22745,25 @@
       "lastModified": "2026-11-16",
       "dateAdded": "2026-11-16",
       "addedAt": "2026-11-17T00:21:03.660Z"
+    },
+    {
+      "id": "mwjy6f1uv1kk87m1e18",
+      "name": "Chloe Harrel",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/chloe.harrel",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-16",
+      "nextFollowUp": "2026-11-23",
+      "notes": "",
+      "lastModified": "2026-11-16",
+      "dateAdded": "2026-11-16",
+      "addedAt": "2026-11-17T00:21:48.594Z"
     }
   ],
-  "lastUpdated": "2026-11-17T00:21:03.660Z"
+  "lastUpdated": "2026-11-17T00:21:48.594Z"
 }
