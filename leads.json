@@ -22781,7 +22781,25 @@
       "lastModified": "2026-11-16",
       "dateAdded": "2026-11-16",
       "addedAt": "2026-11-17T00:22:34.094Z"
+    },
+    {
+      "id": "mwjybxs0of1ca6lrqm",
+      "name": "Jaylen Mccoy",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jaylen.m.mccoy",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-16",
+      "nextFollowUp": "2026-11-23",
+      "notes": "",
+      "lastModified": "2026-11-16",
+      "dateAdded": "2026-11-16",
+      "addedAt": "2026-11-17T00:26:06.144Z"
     }
   ],
-  "lastUpdated": "2026-11-17T00:22:34.094Z"
+  "lastUpdated": "2026-11-17T00:26:06.144Z"
 }
