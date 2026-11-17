@@ -22889,7 +22889,25 @@
       "lastModified": "2026-11-16",
       "dateAdded": "2026-11-16",
       "addedAt": "2026-11-17T00:30:37.667Z"
+    },
+    {
+      "id": "mwjyiuzmsv2vx47va6",
+      "name": "Ashton Verhulst",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/ashton.verhulst",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-16",
+      "nextFollowUp": "2026-11-23",
+      "notes": "",
+      "lastModified": "2026-11-16",
+      "dateAdded": "2026-11-16",
+      "addedAt": "2026-11-17T00:31:29.122Z"
     }
   ],
-  "lastUpdated": "2026-11-17T00:30:37.667Z"
+  "lastUpdated": "2026-11-17T00:31:29.122Z"
 }
