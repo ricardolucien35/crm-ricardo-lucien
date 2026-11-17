@@ -23015,7 +23015,25 @@
       "lastModified": "2026-11-16",
       "dateAdded": "2026-11-16",
       "addedAt": "2026-11-17T00:36:42.538Z"
+    },
+    {
+      "id": "mwjyq9b4iey6teg64q",
+      "name": "Amos Burdine",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/amos.burdine.1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-16",
+      "nextFollowUp": "2026-11-23",
+      "notes": "",
+      "lastModified": "2026-11-16",
+      "dateAdded": "2026-11-16",
+      "addedAt": "2026-11-17T00:37:14.272Z"
     }
   ],
-  "lastUpdated": "2026-11-17T00:36:42.538Z"
+  "lastUpdated": "2026-11-17T00:37:14.272Z"
 }
