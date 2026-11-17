@@ -22943,7 +22943,25 @@
       "lastModified": "2026-11-16",
       "dateAdded": "2026-11-16",
       "addedAt": "2026-11-17T00:32:55.553Z"
+    },
+    {
+      "id": "mwjym5tt7svsy1r3yfw",
+      "name": "Nick Leslie",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/nick.leslie.980",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-16",
+      "nextFollowUp": "2026-11-23",
+      "notes": "",
+      "lastModified": "2026-11-16",
+      "dateAdded": "2026-11-16",
+      "addedAt": "2026-11-17T00:34:03.137Z"
     }
   ],
-  "lastUpdated": "2026-11-17T00:32:55.553Z"
+  "lastUpdated": "2026-11-17T00:34:03.137Z"
 }
