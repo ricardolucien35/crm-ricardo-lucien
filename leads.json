@@ -21660,9 +21660,9 @@
       "temperature": "Hot",
       "lastAction": "Initial Contact",
       "lastContact": "2026-11-13",
-      "nextFollowUp": "2026-11-16",
+      "nextFollowUp": "2026-11-22",
       "notes": "",
-      "lastModified": "2026-11-13",
+      "lastModified": "2026-11-17",
       "dateAdded": "2026-11-12",
       "addedAt": "2026-11-13T01:06:11.039Z"
     },
@@ -23125,5 +23125,5 @@
       "addedAt": "2026-11-17T00:41:34.105Z"
     }
   ],
-  "lastUpdated": "2026-11-17T17:19:26.113Z"
+  "lastUpdated": "2026-11-17T17:20:39.094Z"
 }
