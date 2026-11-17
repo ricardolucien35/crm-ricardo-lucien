@@ -22997,7 +22997,25 @@
       "lastModified": "2026-11-16",
       "dateAdded": "2026-11-16",
       "addedAt": "2026-11-17T00:36:08.653Z"
+    },
+    {
+      "id": "mwjypktmh51rd5ar4q8",
+      "name": "Natasha Wiggins",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=61579314299041",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-16",
+      "nextFollowUp": "2026-11-23",
+      "notes": "",
+      "lastModified": "2026-11-16",
+      "dateAdded": "2026-11-16",
+      "addedAt": "2026-11-17T00:36:42.538Z"
     }
   ],
-  "lastUpdated": "2026-11-17T00:36:08.653Z"
+  "lastUpdated": "2026-11-17T00:36:42.538Z"
 }
