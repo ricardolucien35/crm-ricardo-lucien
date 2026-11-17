@@ -22853,7 +22853,25 @@
       "lastModified": "2026-11-16",
       "dateAdded": "2026-11-16",
       "addedAt": "2026-11-17T00:29:09.442Z"
+    },
+    {
+      "id": "mwjygonc0kbfwco0ze3f",
+      "name": "Joseph Sabina",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/joseph.t.sabina",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-16",
+      "nextFollowUp": "2026-11-23",
+      "notes": "",
+      "lastModified": "2026-11-16",
+      "dateAdded": "2026-11-16",
+      "addedAt": "2026-11-17T00:29:47.592Z"
     }
   ],
-  "lastUpdated": "2026-11-17T00:29:09.442Z"
+  "lastUpdated": "2026-11-17T00:29:47.592Z"
 }
