@@ -22583,7 +22583,25 @@
       "lastModified": "2026-11-16",
       "dateAdded": "2026-11-16",
       "addedAt": "2026-11-17T00:07:14.533Z"
+    },
+    {
+      "id": "mwjxqaid0skinxapw3ya",
+      "name": "Ace Cofield",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=61564759983775",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-16",
+      "nextFollowUp": "2026-11-23",
+      "notes": "",
+      "lastModified": "2026-11-16",
+      "dateAdded": "2026-11-16",
+      "addedAt": "2026-11-17T00:09:16.213Z"
     }
   ],
-  "lastUpdated": "2026-11-17T00:07:14.533Z"
+  "lastUpdated": "2026-11-17T00:09:16.213Z"
 }
