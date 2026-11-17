@@ -22925,7 +22925,25 @@
       "lastModified": "2026-11-16",
       "dateAdded": "2026-11-16",
       "addedAt": "2026-11-17T00:32:17.337Z"
+    },
+    {
+      "id": "mwjykpohk5kic1cvsx",
+      "name": "Kyle Robertson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/kyle.robertson.12935",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-16",
+      "nextFollowUp": "2026-11-23",
+      "notes": "",
+      "lastModified": "2026-11-16",
+      "dateAdded": "2026-11-16",
+      "addedAt": "2026-11-17T00:32:55.553Z"
     }
   ],
-  "lastUpdated": "2026-11-17T00:32:17.337Z"
+  "lastUpdated": "2026-11-17T00:32:55.553Z"
 }
