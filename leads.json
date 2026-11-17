@@ -22907,7 +22907,25 @@
       "lastModified": "2026-11-16",
       "dateAdded": "2026-11-16",
       "addedAt": "2026-11-17T00:31:29.122Z"
+    },
+    {
+      "id": "mwjyjw6x9tw8vvjhd4v",
+      "name": "David Gilbirds",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/dgilbirds",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-16",
+      "nextFollowUp": "2026-11-23",
+      "notes": "",
+      "lastModified": "2026-11-16",
+      "dateAdded": "2026-11-16",
+      "addedAt": "2026-11-17T00:32:17.337Z"
     }
   ],
-  "lastUpdated": "2026-11-17T00:31:29.122Z"
+  "lastUpdated": "2026-11-17T00:32:17.337Z"
 }
