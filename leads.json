@@ -22817,7 +22817,25 @@
       "lastModified": "2026-11-16",
       "dateAdded": "2026-11-16",
       "addedAt": "2026-11-17T00:26:51.693Z"
+    },
+    {
+      "id": "mwjyf2nvbac2slapd4r",
+      "name": "Stephanie Smith",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/stephanie.smith.956422",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-16",
+      "nextFollowUp": "2026-11-23",
+      "notes": "",
+      "lastModified": "2026-11-16",
+      "dateAdded": "2026-11-16",
+      "addedAt": "2026-11-17T00:28:32.443Z"
     }
   ],
-  "lastUpdated": "2026-11-17T00:26:51.693Z"
+  "lastUpdated": "2026-11-17T00:28:32.443Z"
 }
