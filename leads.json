@@ -23087,7 +23087,25 @@
       "lastModified": "2026-11-16",
       "dateAdded": "2026-11-16",
       "addedAt": "2026-11-17T00:40:13.639Z"
+    },
+    {
+      "id": "mwjyv3gk3de76g3ks58",
+      "name": "Isabel Chairez",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/isabel.chairez.833810",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-16",
+      "nextFollowUp": "2026-11-23",
+      "notes": "",
+      "lastModified": "2026-11-16",
+      "dateAdded": "2026-11-16",
+      "addedAt": "2026-11-17T00:40:59.972Z"
     }
   ],
-  "lastUpdated": "2026-11-17T00:40:13.639Z"
+  "lastUpdated": "2026-11-17T00:40:59.972Z"
 }
