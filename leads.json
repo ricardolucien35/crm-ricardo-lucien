@@ -22565,7 +22565,25 @@
       "lastModified": "2026-11-16",
       "dateAdded": "2026-11-16",
       "addedAt": "2026-11-16T22:18:18.651Z"
+    },
+    {
+      "id": "mwjxnomd6gwpwj1qb7d",
+      "name": "Jordin Johnson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jordin.johnson.376",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-16",
+      "nextFollowUp": "2026-11-23",
+      "notes": "",
+      "lastModified": "2026-11-16",
+      "dateAdded": "2026-11-16",
+      "addedAt": "2026-11-17T00:07:14.533Z"
     }
   ],
-  "lastUpdated": "2026-11-16T22:18:18.651Z"
+  "lastUpdated": "2026-11-17T00:07:14.533Z"
 }
