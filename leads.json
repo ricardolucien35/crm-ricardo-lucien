@@ -22637,7 +22637,25 @@
       "lastModified": "2026-11-16",
       "dateAdded": "2026-11-16",
       "addedAt": "2026-11-17T00:13:07.612Z"
+    },
+    {
+      "id": "mwjxwdnaks5t0cy7qk",
+      "name": "Taryn Acosta",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/dr.tarynacosta",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-16",
+      "nextFollowUp": "2026-11-23",
+      "notes": "",
+      "lastModified": "2026-11-16",
+      "dateAdded": "2026-11-16",
+      "addedAt": "2026-11-17T00:14:00.214Z"
     }
   ],
-  "lastUpdated": "2026-11-17T00:13:07.612Z"
+  "lastUpdated": "2026-11-17T00:14:00.214Z"
 }
