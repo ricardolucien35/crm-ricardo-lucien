@@ -23051,7 +23051,25 @@
       "lastModified": "2026-11-16",
       "dateAdded": "2026-11-16",
       "addedAt": "2026-11-17T00:37:46.405Z"
+    },
+    {
+      "id": "mwjytduir48b0mfchf",
+      "name": "Jolee Spinks",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/joleeannaspinks",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-16",
+      "nextFollowUp": "2026-11-23",
+      "notes": "",
+      "lastModified": "2026-11-16",
+      "dateAdded": "2026-11-16",
+      "addedAt": "2026-11-17T00:39:40.122Z"
     }
   ],
-  "lastUpdated": "2026-11-17T00:37:46.405Z"
+  "lastUpdated": "2026-11-17T00:39:40.122Z"
 }
