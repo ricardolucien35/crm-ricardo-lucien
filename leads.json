@@ -22763,7 +22763,25 @@
       "lastModified": "2026-11-16",
       "dateAdded": "2026-11-16",
       "addedAt": "2026-11-17T00:21:48.594Z"
+    },
+    {
+      "id": "mwjy7e5q75jhzv91912",
+      "name": "Joe Fraley",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/FRALEY22",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-16",
+      "nextFollowUp": "2026-11-23",
+      "notes": "",
+      "lastModified": "2026-11-16",
+      "dateAdded": "2026-11-16",
+      "addedAt": "2026-11-17T00:22:34.094Z"
     }
   ],
-  "lastUpdated": "2026-11-17T00:21:48.594Z"
+  "lastUpdated": "2026-11-17T00:22:34.094Z"
 }
