@@ -22691,7 +22691,25 @@
       "lastModified": "2026-11-16",
       "dateAdded": "2026-11-16",
       "addedAt": "2026-11-17T00:16:13.712Z"
+    },
+    {
+      "id": "mwjy03k3tc1d9x28irq",
+      "name": "Lexi Ray",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/lexi.ray.9809",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-16",
+      "nextFollowUp": "2026-11-23",
+      "notes": "",
+      "lastModified": "2026-11-16",
+      "dateAdded": "2026-11-16",
+      "addedAt": "2026-11-17T00:16:53.763Z"
     }
   ],
-  "lastUpdated": "2026-11-17T00:16:13.712Z"
+  "lastUpdated": "2026-11-17T00:16:53.763Z"
 }
