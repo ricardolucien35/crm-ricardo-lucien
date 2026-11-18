@@ -23573,7 +23573,25 @@
       "lastModified": "2026-11-18",
       "dateAdded": "2026-11-18",
       "addedAt": "2026-11-18T21:43:15.481Z"
+    },
+    {
+      "id": "mwmnf0adzelrr8fxxn",
+      "name": "Cyn Rodriguez",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/cynthia.j.huezo",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-18",
+      "nextFollowUp": "2026-11-25",
+      "notes": "",
+      "lastModified": "2026-11-18",
+      "dateAdded": "2026-11-18",
+      "addedAt": "2026-11-18T21:43:52.117Z"
     }
   ],
-  "lastUpdated": "2026-11-18T21:43:15.481Z"
+  "lastUpdated": "2026-11-18T21:43:52.117Z"
 }
