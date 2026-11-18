@@ -23519,7 +23519,25 @@
       "lastModified": "2026-11-18",
       "dateAdded": "2026-11-18",
       "addedAt": "2026-11-18T21:41:22.352Z"
+    },
+    {
+      "id": "mwmncq5vyrt3iqf10s",
+      "name": "Sabrina Ortega",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/sabrina.ortega.754",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-18",
+      "nextFollowUp": "2026-11-25",
+      "notes": "",
+      "lastModified": "2026-11-18",
+      "dateAdded": "2026-11-18",
+      "addedAt": "2026-11-18T21:42:05.684Z"
     }
   ],
-  "lastUpdated": "2026-11-18T21:41:22.352Z"
+  "lastUpdated": "2026-11-18T21:42:05.684Z"
 }
