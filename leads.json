@@ -23627,7 +23627,25 @@
       "lastModified": "2026-11-18",
       "dateAdded": "2026-11-18",
       "addedAt": "2026-11-18T21:45:28.834Z"
+    },
+    {
+      "id": "mwmnhwgt3begvgi1kyg",
+      "name": "Treyce Stephenson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/treycestephenson",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-18",
+      "nextFollowUp": "2026-11-25",
+      "notes": "",
+      "lastModified": "2026-11-18",
+      "dateAdded": "2026-11-18",
+      "addedAt": "2026-11-18T21:46:07.133Z"
     }
   ],
-  "lastUpdated": "2026-11-18T21:45:28.834Z"
+  "lastUpdated": "2026-11-18T21:46:07.133Z"
 }
