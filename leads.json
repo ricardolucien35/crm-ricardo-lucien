@@ -23177,7 +23177,25 @@
       "lastModified": "2026-11-18",
       "dateAdded": "2026-11-18",
       "addedAt": "2026-11-18T14:20:06.046Z"
+    },
+    {
+      "id": "mwm7lspxsvm0ukb17uj",
+      "name": "Chad Baker",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/cgb3417",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-18",
+      "nextFollowUp": "2026-11-25",
+      "notes": "",
+      "lastModified": "2026-11-18",
+      "dateAdded": "2026-11-18",
+      "addedAt": "2026-11-18T14:21:15.045Z"
     }
   ],
-  "lastUpdated": "2026-11-18T14:20:06.046Z"
+  "lastUpdated": "2026-11-18T14:21:15.045Z"
 }
