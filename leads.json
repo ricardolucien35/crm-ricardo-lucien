@@ -23303,7 +23303,25 @@
       "lastModified": "2026-11-18",
       "dateAdded": "2026-11-18",
       "addedAt": "2026-11-18T14:29:29.610Z"
+    },
+    {
+      "id": "mwm7y9q82dnrkecwfsv",
+      "name": "Lynell Graham",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100076068282994",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-18",
+      "nextFollowUp": "2026-11-25",
+      "notes": "",
+      "lastModified": "2026-11-18",
+      "dateAdded": "2026-11-18",
+      "addedAt": "2026-11-18T14:30:56.960Z"
     }
   ],
-  "lastUpdated": "2026-11-18T14:29:29.610Z"
+  "lastUpdated": "2026-11-18T14:30:56.960Z"
 }
