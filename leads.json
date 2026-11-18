@@ -23213,7 +23213,25 @@
       "lastModified": "2026-11-18",
       "dateAdded": "2026-11-18",
       "addedAt": "2026-11-18T14:22:15.147Z"
+    },
+    {
+      "id": "mwm7px27z1io95fd059",
+      "name": "Derek Grubb",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/derek.grubb.75",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-18",
+      "nextFollowUp": "2026-11-25",
+      "notes": "",
+      "lastModified": "2026-11-18",
+      "dateAdded": "2026-11-18",
+      "addedAt": "2026-11-18T14:24:27.296Z"
     }
   ],
-  "lastUpdated": "2026-11-18T14:22:15.147Z"
+  "lastUpdated": "2026-11-18T14:24:27.296Z"
 }
