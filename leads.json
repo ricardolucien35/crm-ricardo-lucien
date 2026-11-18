@@ -23735,7 +23735,25 @@
       "lastModified": "2026-11-18",
       "dateAdded": "2026-11-18",
       "addedAt": "2026-11-18T21:54:20.885Z"
+    },
+    {
+      "id": "mwmntckhrq42plw9kx",
+      "name": "George Everhart",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/george.everhart.3",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-18",
+      "nextFollowUp": "2026-11-25",
+      "notes": "",
+      "lastModified": "2026-11-18",
+      "dateAdded": "2026-11-18",
+      "addedAt": "2026-11-18T21:55:01.217Z"
     }
   ],
-  "lastUpdated": "2026-11-18T21:54:20.885Z"
+  "lastUpdated": "2026-11-18T21:55:01.217Z"
 }
