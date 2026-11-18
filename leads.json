@@ -23699,7 +23699,25 @@
       "lastModified": "2026-11-18",
       "dateAdded": "2026-11-18",
       "addedAt": "2026-11-18T21:49:46.201Z"
+    },
+    {
+      "id": "mwmnr3wb101jtauren3",
+      "name": "Darius Elmore",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/darius.elmore",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-18",
+      "nextFollowUp": "2026-11-25",
+      "notes": "",
+      "lastModified": "2026-11-18",
+      "dateAdded": "2026-11-18",
+      "addedAt": "2026-11-18T21:53:16.667Z"
     }
   ],
-  "lastUpdated": "2026-11-18T21:49:46.201Z"
+  "lastUpdated": "2026-11-18T21:53:16.668Z"
 }
