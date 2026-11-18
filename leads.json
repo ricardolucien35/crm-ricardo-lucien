@@ -23591,7 +23591,25 @@
       "lastModified": "2026-11-18",
       "dateAdded": "2026-11-18",
       "addedAt": "2026-11-18T21:43:52.117Z"
+    },
+    {
+      "id": "mwmnfpk28pm9lvc96dt",
+      "name": "Jacob Gilmore",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jacob.gilmore.73#",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-18",
+      "nextFollowUp": "2026-11-25",
+      "notes": "",
+      "lastModified": "2026-11-18",
+      "dateAdded": "2026-11-18",
+      "addedAt": "2026-11-18T21:44:24.866Z"
     }
   ],
-  "lastUpdated": "2026-11-18T21:43:52.117Z"
+  "lastUpdated": "2026-11-18T21:44:24.866Z"
 }
