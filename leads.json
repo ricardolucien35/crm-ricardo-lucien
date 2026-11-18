@@ -23231,7 +23231,25 @@
       "lastModified": "2026-11-18",
       "dateAdded": "2026-11-18",
       "addedAt": "2026-11-18T14:24:27.296Z"
+    },
+    {
+      "id": "mwm7qqgi1tlhdgtua85",
+      "name": "Leslie Pyle",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/leslienicolepyle",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-18",
+      "nextFollowUp": "2026-11-25",
+      "notes": "",
+      "lastModified": "2026-11-18",
+      "dateAdded": "2026-11-18",
+      "addedAt": "2026-11-18T14:25:05.394Z"
     }
   ],
-  "lastUpdated": "2026-11-18T14:24:27.296Z"
+  "lastUpdated": "2026-11-18T14:25:05.394Z"
 }
