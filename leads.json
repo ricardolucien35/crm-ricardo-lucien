@@ -23681,7 +23681,25 @@
       "lastModified": "2026-11-18",
       "dateAdded": "2026-11-18",
       "addedAt": "2026-11-18T21:48:25.233Z"
+    },
+    {
+      "id": "mwmnmli15ipdrkqbwx",
+      "name": "Luke Morris",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/luke.morris.1654",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-18",
+      "nextFollowUp": "2026-11-25",
+      "notes": "",
+      "lastModified": "2026-11-18",
+      "dateAdded": "2026-11-18",
+      "addedAt": "2026-11-18T21:49:46.201Z"
     }
   ],
-  "lastUpdated": "2026-11-18T21:48:25.233Z"
+  "lastUpdated": "2026-11-18T21:49:46.201Z"
 }
