@@ -23339,7 +23339,25 @@
       "lastModified": "2026-11-18",
       "dateAdded": "2026-11-18",
       "addedAt": "2026-11-18T14:33:31.195Z"
+    },
+    {
+      "id": "mwm83rb8s5wqrs2ftt",
+      "name": "Nick Stamati",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/nick.stamati.1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-18",
+      "nextFollowUp": "2026-11-25",
+      "notes": "",
+      "lastModified": "2026-11-18",
+      "dateAdded": "2026-11-18",
+      "addedAt": "2026-11-18T14:35:13.028Z"
     }
   ],
-  "lastUpdated": "2026-11-18T14:33:31.195Z"
+  "lastUpdated": "2026-11-18T14:35:13.028Z"
 }
