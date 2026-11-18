@@ -23267,7 +23267,25 @@
       "lastModified": "2026-11-18",
       "dateAdded": "2026-11-18",
       "addedAt": "2026-11-18T14:25:44.362Z"
+    },
+    {
+      "id": "mwm7sq2tf9nmzu4kpxk",
+      "name": "Cristian Reynoza",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/cristian.reynoza",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-18",
+      "nextFollowUp": "2026-11-25",
+      "notes": "",
+      "lastModified": "2026-11-18",
+      "dateAdded": "2026-11-18",
+      "addedAt": "2026-11-18T14:26:38.213Z"
     }
   ],
-  "lastUpdated": "2026-11-18T14:25:44.362Z"
+  "lastUpdated": "2026-11-18T14:26:38.213Z"
 }
