@@ -24059,7 +24059,25 @@
       "lastModified": "2026-11-21",
       "dateAdded": "2026-11-21",
       "addedAt": "2026-11-21T16:50:07.584Z"
+    },
+    {
+      "id": "mwqn9gb6wogct4slwvi",
+      "name": "Jordan Libman",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jordanlibs",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-21",
+      "nextFollowUp": "2026-11-28",
+      "notes": "",
+      "lastModified": "2026-11-21",
+      "dateAdded": "2026-11-21",
+      "addedAt": "2026-11-21T16:50:37.650Z"
     }
   ],
-  "lastUpdated": "2026-11-21T16:50:07.584Z"
+  "lastUpdated": "2026-11-21T16:50:37.650Z"
 }
