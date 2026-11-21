@@ -23915,7 +23915,25 @@
       "lastModified": "2026-11-21",
       "dateAdded": "2026-11-21",
       "addedAt": "2026-11-21T16:36:06.337Z"
+    },
+    {
+      "id": "mwqmta7ymjlvj1qqde",
+      "name": "Brooklyn Funk",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/brooklynfunk",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-21",
+      "nextFollowUp": "2026-11-28",
+      "notes": "",
+      "lastModified": "2026-11-21",
+      "dateAdded": "2026-11-21",
+      "addedAt": "2026-11-21T16:38:03.262Z"
     }
   ],
-  "lastUpdated": "2026-11-21T16:36:06.337Z"
+  "lastUpdated": "2026-11-21T16:38:03.262Z"
 }
