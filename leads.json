@@ -24077,7 +24077,25 @@
       "lastModified": "2026-11-21",
       "dateAdded": "2026-11-21",
       "addedAt": "2026-11-21T16:50:37.650Z"
+    },
+    {
+      "id": "mwqnbgrgp75poexy92",
+      "name": "Briana Colon",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/briana.reynolds.58",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-21",
+      "nextFollowUp": "2026-11-28",
+      "notes": "",
+      "lastModified": "2026-11-21",
+      "dateAdded": "2026-11-21",
+      "addedAt": "2026-11-21T16:52:11.548Z"
     }
   ],
-  "lastUpdated": "2026-11-21T16:50:37.650Z"
+  "lastUpdated": "2026-11-21T16:52:11.548Z"
 }
