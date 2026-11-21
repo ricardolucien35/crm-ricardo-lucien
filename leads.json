@@ -23807,7 +23807,25 @@
       "lastModified": "2026-11-21",
       "dateAdded": "2026-11-21",
       "addedAt": "2026-11-21T16:17:51.117Z"
+    },
+    {
+      "id": "mwqm4typ3dbflfswy7n",
+      "name": "Cole Childress",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/cole.childress.1293",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-21",
+      "nextFollowUp": "2026-11-28",
+      "notes": "",
+      "lastModified": "2026-11-21",
+      "dateAdded": "2026-11-21",
+      "addedAt": "2026-11-21T16:19:02.449Z"
     }
   ],
-  "lastUpdated": "2026-11-21T16:17:51.117Z"
+  "lastUpdated": "2026-11-21T16:19:02.449Z"
 }
