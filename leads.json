@@ -24401,7 +24401,25 @@
       "lastModified": "2026-11-21",
       "dateAdded": "2026-11-21",
       "addedAt": "2026-11-21T22:12:29.246Z"
+    },
+    {
+      "id": "mwqyunk05xvgrnkqvh6",
+      "name": "Jason Witt",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jason.witt.359",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-21",
+      "nextFollowUp": "2026-11-28",
+      "notes": "",
+      "lastModified": "2026-11-21",
+      "dateAdded": "2026-11-21",
+      "addedAt": "2026-11-21T22:15:02.592Z"
     }
   ],
-  "lastUpdated": "2026-11-21T22:12:29.246Z"
+  "lastUpdated": "2026-11-21T22:15:02.592Z"
 }
