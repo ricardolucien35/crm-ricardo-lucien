@@ -24167,7 +24167,25 @@
       "lastModified": "2026-11-21",
       "dateAdded": "2026-11-21",
       "addedAt": "2026-11-21T16:56:06.398Z"
+    },
+    {
+      "id": "mwqnpe5agtf1dym3le",
+      "name": "Orlando Enrique",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/orlandozunico",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-21",
+      "nextFollowUp": "2026-11-28",
+      "notes": "",
+      "lastModified": "2026-11-21",
+      "dateAdded": "2026-11-21",
+      "addedAt": "2026-11-21T17:03:01.342Z"
     }
   ],
-  "lastUpdated": "2026-11-21T16:56:06.398Z"
+  "lastUpdated": "2026-11-21T17:03:01.342Z"
 }
