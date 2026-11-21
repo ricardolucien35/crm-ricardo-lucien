@@ -23789,7 +23789,25 @@
       "lastModified": "2026-11-21",
       "dateAdded": "2026-11-21",
       "addedAt": "2026-11-21T16:13:00.949Z"
+    },
+    {
+      "id": "mwqm3ax9ojjo4edf7up",
+      "name": "Adele Lee",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/adele.lee.79274",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-21",
+      "nextFollowUp": "2026-11-28",
+      "notes": "",
+      "lastModified": "2026-11-21",
+      "dateAdded": "2026-11-21",
+      "addedAt": "2026-11-21T16:17:51.117Z"
     }
   ],
-  "lastUpdated": "2026-11-21T16:13:00.950Z"
+  "lastUpdated": "2026-11-21T16:17:51.117Z"
 }
