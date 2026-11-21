@@ -23753,7 +23753,25 @@
       "lastModified": "2026-11-18",
       "dateAdded": "2026-11-18",
       "addedAt": "2026-11-18T21:55:01.217Z"
+    },
+    {
+      "id": "mwqlve4106jhev8cgwux",
+      "name": "Anthony Pier",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/anthony.pieri.123854#",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-21",
+      "nextFollowUp": "2026-11-28",
+      "notes": "",
+      "lastModified": "2026-11-21",
+      "dateAdded": "2026-11-21",
+      "addedAt": "2026-11-21T16:11:42.002Z"
     }
   ],
-  "lastUpdated": "2026-11-18T23:19:38.904Z"
+  "lastUpdated": "2026-11-21T16:11:42.002Z"
 }
