@@ -24311,7 +24311,25 @@
       "lastModified": "2026-11-21",
       "dateAdded": "2026-11-21",
       "addedAt": "2026-11-21T17:14:56.719Z"
+    },
+    {
+      "id": "mwqo65wx5slab4yedjg",
+      "name": "Edward Banks",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/edward.banks.johnson.jr.2025",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-21",
+      "nextFollowUp": "2026-11-28",
+      "notes": "",
+      "lastModified": "2026-11-21",
+      "dateAdded": "2026-11-21",
+      "addedAt": "2026-11-21T17:16:03.825Z"
     }
   ],
-  "lastUpdated": "2026-11-21T17:14:56.719Z"
+  "lastUpdated": "2026-11-21T17:16:03.825Z"
 }
