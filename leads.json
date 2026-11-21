@@ -24005,7 +24005,25 @@
       "lastModified": "2026-11-21",
       "dateAdded": "2026-11-21",
       "addedAt": "2026-11-21T16:47:22.748Z"
+    },
+    {
+      "id": "mwqn6kz87sumdwvx70c",
+      "name": "Mason Karlyle",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/masonkarlyle",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-21",
+      "nextFollowUp": "2026-11-28",
+      "notes": "",
+      "lastModified": "2026-11-21",
+      "dateAdded": "2026-11-21",
+      "addedAt": "2026-11-21T16:48:23.732Z"
     }
   ],
-  "lastUpdated": "2026-11-21T16:47:22.748Z"
+  "lastUpdated": "2026-11-21T16:48:23.732Z"
 }
