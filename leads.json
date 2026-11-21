@@ -24365,7 +24365,25 @@
       "lastModified": "2026-11-21",
       "dateAdded": "2026-11-21",
       "addedAt": "2026-11-21T17:19:27.724Z"
+    },
+    {
+      "id": "mwqyqe4046aac71nwn1",
+      "name": "Samantha Allen",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/guinevereallan",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-21",
+      "nextFollowUp": "2026-11-28",
+      "notes": "",
+      "lastModified": "2026-11-21",
+      "dateAdded": "2026-11-21",
+      "addedAt": "2026-11-21T22:11:43.728Z"
     }
   ],
-  "lastUpdated": "2026-11-21T17:19:27.724Z"
+  "lastUpdated": "2026-11-21T22:11:43.728Z"
 }
