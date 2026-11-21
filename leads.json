@@ -24041,7 +24041,25 @@
       "lastModified": "2026-11-21",
       "dateAdded": "2026-11-21",
       "addedAt": "2026-11-21T16:49:02.383Z"
+    },
+    {
+      "id": "mwqn8t407ljl8vfhx1r",
+      "name": "Natalie Hough",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/natalie.hough.73",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-21",
+      "nextFollowUp": "2026-11-28",
+      "notes": "",
+      "lastModified": "2026-11-21",
+      "dateAdded": "2026-11-21",
+      "addedAt": "2026-11-21T16:50:07.584Z"
     }
   ],
-  "lastUpdated": "2026-11-21T16:49:02.383Z"
+  "lastUpdated": "2026-11-21T16:50:07.584Z"
 }
