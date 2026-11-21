@@ -24257,7 +24257,25 @@
       "lastModified": "2026-11-21",
       "dateAdded": "2026-11-21",
       "addedAt": "2026-11-21T17:06:50.808Z"
+    },
+    {
+      "id": "mwqnv673gdgjcpzixpf",
+      "name": "Laura Benvenuto",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/laura.benvenuto.838927",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-21",
+      "nextFollowUp": "2026-11-28",
+      "notes": "",
+      "lastModified": "2026-11-21",
+      "dateAdded": "2026-11-21",
+      "addedAt": "2026-11-21T17:07:30.975Z"
     }
   ],
-  "lastUpdated": "2026-11-21T17:06:50.808Z"
+  "lastUpdated": "2026-11-21T17:07:30.975Z"
 }
