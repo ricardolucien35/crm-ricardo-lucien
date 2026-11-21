@@ -23825,7 +23825,25 @@
       "lastModified": "2026-11-21",
       "dateAdded": "2026-11-21",
       "addedAt": "2026-11-21T16:19:02.449Z"
+    },
+    {
+      "id": "mwqmbi1ug6yqz70302b",
+      "name": "Blake Bryant",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/BSB.SPE",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-21",
+      "nextFollowUp": "2026-11-28",
+      "notes": "",
+      "lastModified": "2026-11-21",
+      "dateAdded": "2026-11-21",
+      "addedAt": "2026-11-21T16:24:13.602Z"
     }
   ],
-  "lastUpdated": "2026-11-21T16:19:02.449Z"
+  "lastUpdated": "2026-11-21T16:24:13.602Z"
 }
