@@ -24131,7 +24131,25 @@
       "lastModified": "2026-11-21",
       "dateAdded": "2026-11-21",
       "addedAt": "2026-11-21T16:54:38.251Z"
+    },
+    {
+      "id": "mwqnfflnoqnvijfh9h",
+      "name": "Tyler Berry",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/tyler.berry.351",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-21",
+      "nextFollowUp": "2026-11-28",
+      "notes": "",
+      "lastModified": "2026-11-21",
+      "dateAdded": "2026-11-21",
+      "addedAt": "2026-11-21T16:55:16.667Z"
     }
   ],
-  "lastUpdated": "2026-11-21T16:54:38.251Z"
+  "lastUpdated": "2026-11-21T16:55:16.667Z"
 }
