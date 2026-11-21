@@ -24095,7 +24095,25 @@
       "lastModified": "2026-11-21",
       "dateAdded": "2026-11-21",
       "addedAt": "2026-11-21T16:52:11.548Z"
+    },
+    {
+      "id": "mwqnco2biushc9r769g",
+      "name": "LaMont Chavez",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=61585520117078",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-21",
+      "nextFollowUp": "2026-11-28",
+      "notes": "",
+      "lastModified": "2026-11-21",
+      "dateAdded": "2026-11-21",
+      "addedAt": "2026-11-21T16:53:07.667Z"
     }
   ],
-  "lastUpdated": "2026-11-21T16:52:11.548Z"
+  "lastUpdated": "2026-11-21T16:53:07.667Z"
 }
