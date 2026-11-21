@@ -18146,12 +18146,12 @@
       "source": "Facebook",
       "status": "Customer",
       "videoSent": true,
-      "temperature": "Cold",
+      "temperature": "Hot",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-11-17",
-      "nextFollowUp": "2026-11-21",
+      "lastContact": "2026-11-21",
+      "nextFollowUp": "2026-11-23",
       "notes": "",
-      "lastModified": "2026-11-17",
+      "lastModified": "2026-11-21",
       "dateAdded": "2026-10-28",
       "addedAt": "2026-10-28T16:10:11.191Z",
       "customerSince": "2026-11-05"
@@ -24439,5 +24439,5 @@
       "addedAt": "2026-11-21T22:16:39.829Z"
     }
   ],
-  "lastUpdated": "2026-11-21T22:20:15.541Z"
+  "lastUpdated": "2026-11-21T22:20:50.031Z"
 }
