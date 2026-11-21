@@ -24239,7 +24239,25 @@
       "lastModified": "2026-11-21",
       "dateAdded": "2026-11-21",
       "addedAt": "2026-11-21T17:05:33.390Z"
+    },
+    {
+      "id": "mwqnub7cj10ruhqqncg",
+      "name": "Dyelan Haller",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/dyelan.haller",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-21",
+      "nextFollowUp": "2026-11-28",
+      "notes": "",
+      "lastModified": "2026-11-21",
+      "dateAdded": "2026-11-21",
+      "addedAt": "2026-11-21T17:06:50.808Z"
     }
   ],
-  "lastUpdated": "2026-11-21T17:05:33.390Z"
+  "lastUpdated": "2026-11-21T17:06:50.808Z"
 }
