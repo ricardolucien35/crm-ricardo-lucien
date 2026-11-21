@@ -24203,7 +24203,25 @@
       "lastModified": "2026-11-21",
       "dateAdded": "2026-11-21",
       "addedAt": "2026-11-21T17:04:12.875Z"
+    },
+    {
+      "id": "mwqnrqne87jf1vnxps",
+      "name": "Jerry Qiu",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/gtqiu",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-21",
+      "nextFollowUp": "2026-11-28",
+      "notes": "",
+      "lastModified": "2026-11-21",
+      "dateAdded": "2026-11-21",
+      "addedAt": "2026-11-21T17:04:50.858Z"
     }
   ],
-  "lastUpdated": "2026-11-21T17:04:12.875Z"
+  "lastUpdated": "2026-11-21T17:04:50.858Z"
 }
