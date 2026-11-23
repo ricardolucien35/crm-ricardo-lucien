@@ -24491,7 +24491,25 @@
       "lastModified": "2026-11-23",
       "dateAdded": "2026-11-23",
       "addedAt": "2026-11-23T20:39:49.956Z"
+    },
+    {
+      "id": "mwtqcpy5y6nmrmesxpb",
+      "name": "Zach Nelson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/zach.nelson.7186",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-23",
+      "nextFollowUp": "2026-11-30",
+      "notes": "",
+      "lastModified": "2026-11-23",
+      "dateAdded": "2026-11-23",
+      "addedAt": "2026-11-23T20:40:27.485Z"
     }
   ],
-  "lastUpdated": "2026-11-23T20:39:49.956Z"
+  "lastUpdated": "2026-11-23T20:40:27.485Z"
 }
