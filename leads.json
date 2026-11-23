@@ -24617,7 +24617,25 @@
       "lastModified": "2026-11-23",
       "dateAdded": "2026-11-23",
       "addedAt": "2026-11-23T20:55:39.074Z"
+    },
+    {
+      "id": "mwtr00hxzvy9k55kjs",
+      "name": "Dalainey Talaa",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/dalainey.taala",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-23",
+      "nextFollowUp": "2026-11-30",
+      "notes": "",
+      "lastModified": "2026-11-23",
+      "dateAdded": "2026-11-23",
+      "addedAt": "2026-11-23T20:58:34.245Z"
     }
   ],
-  "lastUpdated": "2026-11-23T20:55:39.074Z"
+  "lastUpdated": "2026-11-23T20:58:34.246Z"
 }
