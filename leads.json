@@ -24761,7 +24761,25 @@
       "lastModified": "2026-11-23",
       "dateAdded": "2026-11-23",
       "addedAt": "2026-11-23T21:06:49.097Z"
+    },
+    {
+      "id": "mwtrbbbdtdek93qkaw",
+      "name": "Yerlin Bob'S",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-23",
+      "nextFollowUp": "2026-11-24",
+      "notes": "",
+      "lastModified": "2026-11-23",
+      "dateAdded": "2026-11-23",
+      "addedAt": "2026-11-23T21:07:21.481Z"
     }
   ],
-  "lastUpdated": "2026-11-23T21:06:49.097Z"
+  "lastUpdated": "2026-11-23T21:07:21.481Z"
 }
