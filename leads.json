@@ -24666,12 +24666,12 @@
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-11-23",
-      "nextFollowUp": null,
+      "nextFollowUp": "2026-11-30",
       "notes": "",
       "lastModified": "2026-11-23",
       "dateAdded": "2026-11-23",
       "addedAt": "2026-11-23T21:00:16.993Z"
     }
   ],
-  "lastUpdated": "2026-11-23T21:00:16.993Z"
+  "lastUpdated": "2026-11-23T21:00:27.843Z"
 }
