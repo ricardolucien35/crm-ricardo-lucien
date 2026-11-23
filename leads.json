@@ -24733,9 +24733,9 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
+      "status": "Watched",
+      "videoSent": true,
+      "temperature": "Hot",
       "lastAction": "Initial Contact",
       "lastContact": "2026-11-23",
       "nextFollowUp": "2026-11-28",
@@ -24853,5 +24853,5 @@
       "addedAt": "2026-11-23T21:27:21.296Z"
     }
   ],
-  "lastUpdated": "2026-11-23T21:27:21.296Z"
+  "lastUpdated": "2026-11-23T21:30:55.803Z"
 }
