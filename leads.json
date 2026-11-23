@@ -24563,7 +24563,25 @@
       "lastModified": "2026-11-23",
       "dateAdded": "2026-11-23",
       "addedAt": "2026-11-23T20:52:36.450Z"
+    },
+    {
+      "id": "mwtqungj5qtskfpgp72",
+      "name": "Brooke Leigh",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/brooke.l.kendall.5",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-23",
+      "nextFollowUp": "2026-11-30",
+      "notes": "",
+      "lastModified": "2026-11-23",
+      "dateAdded": "2026-11-23",
+      "addedAt": "2026-11-23T20:54:24.067Z"
     }
   ],
-  "lastUpdated": "2026-11-23T20:52:36.450Z"
+  "lastUpdated": "2026-11-23T20:54:24.067Z"
 }
