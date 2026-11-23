@@ -24689,7 +24689,25 @@
       "lastModified": "2026-11-23",
       "dateAdded": "2026-11-23",
       "addedAt": "2026-11-23T21:01:37.962Z"
+    },
+    {
+      "id": "mwtr58s7unx5mkdgi2i",
+      "name": "Cooper Burke",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/cooper.burke.790#",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-23",
+      "nextFollowUp": "2026-11-30",
+      "notes": "",
+      "lastModified": "2026-11-23",
+      "dateAdded": "2026-11-23",
+      "addedAt": "2026-11-23T21:02:38.263Z"
     }
   ],
-  "lastUpdated": "2026-11-23T21:01:37.962Z"
+  "lastUpdated": "2026-11-23T21:02:38.263Z"
 }
