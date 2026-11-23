@@ -24527,7 +24527,25 @@
       "lastModified": "2026-11-23",
       "dateAdded": "2026-11-23",
       "addedAt": "2026-11-23T20:41:11.952Z"
+    },
+    {
+      "id": "mwtqen4wdx1q1f8yrab",
+      "name": "Joe Occhipinto",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/joe.occhipinto.7",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-23",
+      "nextFollowUp": "2026-11-30",
+      "notes": "",
+      "lastModified": "2026-11-23",
+      "dateAdded": "2026-11-23",
+      "addedAt": "2026-11-23T20:41:57.152Z"
     }
   ],
-  "lastUpdated": "2026-11-23T20:41:11.952Z"
+  "lastUpdated": "2026-11-23T20:41:57.152Z"
 }
