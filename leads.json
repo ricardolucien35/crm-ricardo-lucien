@@ -24509,7 +24509,25 @@
       "lastModified": "2026-11-23",
       "dateAdded": "2026-11-23",
       "addedAt": "2026-11-23T20:40:27.485Z"
+    },
+    {
+      "id": "mwtqdo9cqu4fj8yl82",
+      "name": "Megan Sandner",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/MegantheMissouriRealtor",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-23",
+      "nextFollowUp": "2026-11-30",
+      "notes": "",
+      "lastModified": "2026-11-23",
+      "dateAdded": "2026-11-23",
+      "addedAt": "2026-11-23T20:41:11.952Z"
     }
   ],
-  "lastUpdated": "2026-11-23T20:40:27.485Z"
+  "lastUpdated": "2026-11-23T20:41:11.952Z"
 }
