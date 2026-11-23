@@ -24473,7 +24473,25 @@
       "lastModified": "2026-11-23",
       "dateAdded": "2026-11-23",
       "addedAt": "2026-11-23T20:39:11.503Z"
+    },
+    {
+      "id": "mwtqbwzopqttob5abad",
+      "name": "Ali Hadley",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/ali.hadley.9",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-23",
+      "nextFollowUp": "2026-11-30",
+      "notes": "",
+      "lastModified": "2026-11-23",
+      "dateAdded": "2026-11-23",
+      "addedAt": "2026-11-23T20:39:49.956Z"
     }
   ],
-  "lastUpdated": "2026-11-23T20:39:11.503Z"
+  "lastUpdated": "2026-11-23T20:39:49.956Z"
 }
