@@ -24995,7 +24995,25 @@
       "lastModified": "2026-11-24",
       "dateAdded": "2026-11-24",
       "addedAt": "2026-11-24T21:59:45.825Z"
+    },
+    {
+      "id": "mwv8oelz6jsw2ls5ww4",
+      "name": "Mckinley Jones",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/mckinley.joynes",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-24",
+      "nextFollowUp": "2026-12-01",
+      "notes": "",
+      "lastModified": "2026-11-24",
+      "dateAdded": "2026-11-24",
+      "addedAt": "2026-11-24T22:01:11.927Z"
     }
   ],
-  "lastUpdated": "2026-11-24T21:59:45.825Z"
+  "lastUpdated": "2026-11-24T22:01:11.927Z"
 }
