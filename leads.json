@@ -25013,7 +25013,25 @@
       "lastModified": "2026-11-24",
       "dateAdded": "2026-11-24",
       "addedAt": "2026-11-24T22:01:11.927Z"
+    },
+    {
+      "id": "mwv8pa5mld2759uy00h",
+      "name": "Rachel Gill",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/rachel.gill.3572846",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-24",
+      "nextFollowUp": "2026-12-01",
+      "notes": "",
+      "lastModified": "2026-11-24",
+      "dateAdded": "2026-11-24",
+      "addedAt": "2026-11-24T22:01:52.810Z"
     }
   ],
-  "lastUpdated": "2026-11-24T22:01:11.927Z"
+  "lastUpdated": "2026-11-24T22:01:52.810Z"
 }
