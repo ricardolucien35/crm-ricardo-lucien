@@ -24977,7 +24977,25 @@
       "lastModified": "2026-11-24",
       "dateAdded": "2026-11-24",
       "addedAt": "2026-11-24T21:59:05.041Z"
+    },
+    {
+      "id": "mwv8mk69xii9hqbnfuj",
+      "name": "Chris Haze",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/chris.haesemeyer",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-24",
+      "nextFollowUp": "2026-12-01",
+      "notes": "",
+      "lastModified": "2026-11-24",
+      "dateAdded": "2026-11-24",
+      "addedAt": "2026-11-24T21:59:45.825Z"
     }
   ],
-  "lastUpdated": "2026-11-24T21:59:05.041Z"
+  "lastUpdated": "2026-11-24T21:59:45.825Z"
 }
