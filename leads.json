@@ -24941,7 +24941,25 @@
       "lastModified": "2026-11-24",
       "dateAdded": "2026-11-24",
       "addedAt": "2026-11-24T21:51:16.854Z"
+    },
+    {
+      "id": "mwv8i515sfnaf1xraed",
+      "name": "Brady Wells",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=61596930147270",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-24",
+      "nextFollowUp": "2026-12-01",
+      "notes": "",
+      "lastModified": "2026-11-24",
+      "dateAdded": "2026-11-24",
+      "addedAt": "2026-11-24T21:56:19.577Z"
     }
   ],
-  "lastUpdated": "2026-11-24T21:51:16.854Z"
+  "lastUpdated": "2026-11-24T21:56:19.577Z"
 }
