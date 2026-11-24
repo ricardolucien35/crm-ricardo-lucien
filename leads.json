@@ -24869,7 +24869,25 @@
       "lastModified": "2026-11-24",
       "dateAdded": "2026-11-24",
       "addedAt": "2026-11-24T21:45:09.271Z"
+    },
+    {
+      "id": "mwv85wc6gq779ltx6ao",
+      "name": "Paige Ecton",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100009645106220",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-24",
+      "nextFollowUp": "2026-12-01",
+      "notes": "",
+      "lastModified": "2026-11-24",
+      "dateAdded": "2026-11-24",
+      "addedAt": "2026-11-24T21:46:48.438Z"
     }
   ],
-  "lastUpdated": "2026-11-24T21:45:09.271Z"
+  "lastUpdated": "2026-11-24T21:46:48.438Z"
 }
