@@ -24905,7 +24905,25 @@
       "lastModified": "2026-11-24",
       "dateAdded": "2026-11-24",
       "addedAt": "2026-11-24T21:47:49.922Z"
+    },
+    {
+      "id": "mwv8aplp5zgu4vydzcn",
+      "name": "Cooper Horn",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100074582183088",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-24",
+      "nextFollowUp": "2026-12-01",
+      "notes": "",
+      "lastModified": "2026-11-24",
+      "dateAdded": "2026-11-24",
+      "addedAt": "2026-11-24T21:50:32.989Z"
     }
   ],
-  "lastUpdated": "2026-11-24T21:47:49.922Z"
+  "lastUpdated": "2026-11-24T21:50:32.989Z"
 }
