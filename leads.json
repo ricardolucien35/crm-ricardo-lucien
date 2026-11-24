@@ -25067,7 +25067,25 @@
       "lastModified": "2026-11-24",
       "dateAdded": "2026-11-24",
       "addedAt": "2026-11-24T22:03:09.726Z"
+    },
+    {
+      "id": "mwv8rpczrcemkrtqkeb",
+      "name": "Dayan Morales",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/dayanm.morales.79",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-24",
+      "nextFollowUp": "2026-12-01",
+      "notes": "",
+      "lastModified": "2026-11-24",
+      "dateAdded": "2026-11-24",
+      "addedAt": "2026-11-24T22:03:45.827Z"
     }
   ],
-  "lastUpdated": "2026-11-24T22:03:09.726Z"
+  "lastUpdated": "2026-11-24T22:03:45.827Z"
 }
