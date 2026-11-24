@@ -24959,7 +24959,25 @@
       "lastModified": "2026-11-24",
       "dateAdded": "2026-11-24",
       "addedAt": "2026-11-24T21:56:19.577Z"
+    },
+    {
+      "id": "mwv8lopd3jss43pltb8",
+      "name": "Jamie Bindi",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jamie.biles.75",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-24",
+      "nextFollowUp": "2026-12-01",
+      "notes": "",
+      "lastModified": "2026-11-24",
+      "dateAdded": "2026-11-24",
+      "addedAt": "2026-11-24T21:59:05.041Z"
     }
   ],
-  "lastUpdated": "2026-11-24T21:56:19.577Z"
+  "lastUpdated": "2026-11-24T21:59:05.041Z"
 }
