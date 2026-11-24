@@ -25049,7 +25049,25 @@
       "lastModified": "2026-11-24",
       "dateAdded": "2026-11-24",
       "addedAt": "2026-11-24T22:02:30.842Z"
+    },
+    {
+      "id": "mwv8qxi6lsnipkeo43a",
+      "name": "Paola Coffman",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/paola.a.coffman",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-24",
+      "nextFollowUp": "2026-12-01",
+      "notes": "",
+      "lastModified": "2026-11-24",
+      "dateAdded": "2026-11-24",
+      "addedAt": "2026-11-24T22:03:09.726Z"
     }
   ],
-  "lastUpdated": "2026-11-24T22:02:30.842Z"
+  "lastUpdated": "2026-11-24T22:03:09.726Z"
 }
