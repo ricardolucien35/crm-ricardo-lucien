@@ -20490,9 +20490,9 @@
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-11-13",
-      "nextFollowUp": "2026-11-20",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-11-13",
+      "lastModified": "2026-11-24",
       "dateAdded": "2026-11-06",
       "addedAt": "2026-11-06T14:03:59.224Z"
     },
@@ -25087,5 +25087,5 @@
       "addedAt": "2026-11-24T22:03:45.827Z"
     }
   ],
-  "lastUpdated": "2026-11-24T22:03:45.827Z"
+  "lastUpdated": "2026-11-25T02:38:30.263Z"
 }
