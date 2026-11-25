@@ -21659,10 +21659,10 @@
       "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-11-13",
-      "nextFollowUp": "2026-11-22",
+      "lastContact": "2026-11-24",
+      "nextFollowUp": "2026-11-25",
       "notes": "",
-      "lastModified": "2026-11-17",
+      "lastModified": "2026-11-24",
       "dateAdded": "2026-11-12",
       "addedAt": "2026-11-13T01:06:11.039Z"
     },
@@ -25087,5 +25087,5 @@
       "addedAt": "2026-11-24T22:03:45.827Z"
     }
   ],
-  "lastUpdated": "2026-11-25T02:38:30.263Z"
+  "lastUpdated": "2026-11-25T02:38:44.053Z"
 }
