@@ -22019,10 +22019,10 @@
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-11-13",
-      "nextFollowUp": "2026-11-19",
+      "lastContact": "2026-11-25",
+      "nextFollowUp": "2026-11-29",
       "notes": "",
-      "lastModified": "2026-11-13",
+      "lastModified": "2026-11-25",
       "dateAdded": "2026-11-13",
       "addedAt": "2026-11-14T00:01:43.042Z"
     },
@@ -22037,10 +22037,10 @@
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-11-13",
-      "nextFollowUp": "2026-11-19",
+      "lastContact": "2026-11-25",
+      "nextFollowUp": "2026-12-02",
       "notes": "",
-      "lastModified": "2026-11-13",
+      "lastModified": "2026-11-25",
       "dateAdded": "2026-11-13",
       "addedAt": "2026-11-14T00:02:20.416Z"
     },
@@ -25195,5 +25195,5 @@
       "addedAt": "2026-11-25T15:42:45.084Z"
     }
   ],
-  "lastUpdated": "2026-11-25T16:11:10.686Z"
+  "lastUpdated": "2026-11-25T16:14:52.482Z"
 }
