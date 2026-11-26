@@ -1812,9 +1812,9 @@
       "temperature": "Hot",
       "lastAction": "Follow-up 4",
       "lastContact": "2026-11-05",
-      "nextFollowUp": "2026-11-26",
+      "nextFollowUp": "2026-12-24",
       "notes": "",
-      "lastModified": "2026-11-07",
+      "lastModified": "2026-11-26",
       "dateAdded": "2026-05-22",
       "videoSent": true
     },
@@ -25195,5 +25195,5 @@
       "addedAt": "2026-11-25T15:42:45.084Z"
     }
   ],
-  "lastUpdated": "2026-11-26T20:52:27.065Z"
+  "lastUpdated": "2026-11-26T20:53:47.650Z"
 }
